@@ -6,16 +6,16 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Fair Share",
+  title: "SODA for SPARC",
   tagline:
-    "Your one-stop tool for rapidly organizing and sharing COVID-19 research data",
-  url: "https://fairshareapp.io",
+    "Simplifying data curation for researchers funded by the NIH SPARC initiative",
+  url: "https://docs.sodaforsparc.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "fairdataihub", // Usually your GitHub org/user name.
-  projectName: "fairshare", // Usually your repo name.
+  projectName: "SODA-for-SPARC", // Usually your repo name.
 
   presets: [
     [
@@ -26,13 +26,13 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            "https://github.com/fairdataihub/SODA-for-COVID-19-Research/edit/docs/docs/",
+            "https://github.com/fairdataihub/SODA-for-SPARC-Docs/edit/docs/docs/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            "https://github.com/fairdataihub/SODA-for-COVID-19-Research/edit/main/website/blog/",
+            "https://github.com/fairdataihub/SODA-for-SPARC-Docs/edit/main/website/blog/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -45,7 +45,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Fair Share",
+        title: "SODA for SPARC",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
@@ -59,7 +59,7 @@ const config = {
           },
           // { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/fairdataihub/SODA-for-COVID-19-Research",
+            href: "https://github.com/fairdataihub/SODA-for-SPARC",
             label: "GitHub",
             position: "right",
           },
@@ -103,7 +103,7 @@ const config = {
               // },
               {
                 label: "GitHub",
-                href: "https://github.com/fairdataihub/SODA-for-COVID-19-Research",
+                href: "https://github.com/fairdataihub/SODA-for-SPARC",
               },
             ],
           },
