@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Organize and submit a new SPARC dataset with SODA - SODA for SPARC
+# Organize and submit a new SPARC dataset with SODA for SPARC
 
 ## Background
 
