@@ -1,0 +1,15 @@
+---
+sidebar_position: 11
+---
+
+# Upload a local dataset to Pennsieve
+
+## Background
+
+With this feature, you can upload a data from your computer on to a Pennsieve dataset (with folder structure preserved).
+
+## How to
+
+1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, use the instructions available here.
+2. Click on "Select a folder" and select the local dataset folder in the navigation window..
+3. Click on "Upload dataset". The progress bar will indicate the upload progress until it is completed

@@ -1,43 +1,67 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Building the application
 
-To build the complete application, you will need to build the python executable and the Electron portion separately.
+```shell title="For Windows"
+conda activate env-electron-python
+cd ./src
+python -m PyInstaller pysoda/api.py --distpath pysodadist
 
-:::caution
-You will not be able to do cross compatible builds for MacOS, Linux and Windows. The Python executable will be OS specific so you will need to build on each target OS separately.
+# To build only
+npm run build-win
 
-For macOS you will need an Apple Developer Certificate. You can get one of these [here](https://developer.apple.com/support/certificates/).
-:::
-
-### Create Python executable
-
-To first build the Python exectuable run:
-
-```shell
-yarn python:build
+# To build and publish
+npm run deploy-win
 ```
 
-This should create a single file named `api` or (`api.exe` on Windows) in the `pyflaskdist` directory. We use pyinstaller since we can't guarantee that a user will have python on their system. Using Pyinstaller allows us to have a portable python environment alongside our flask application. When you bundle the Electron application (in the next step), the python application will be automatically included in the Electron bundle.
+**Note**: On Windows, once the Python code is packaged, make sure the `pyzmq.libs` folder is included in `pysodadist/api` before going on with packaging the app. If not, make a copy of the `pyzmq.libs` folder from `C:\your_account\Anaconda3\envs\{environment name}\Lib\site-packages` and paste it in the `pysodadist/api` folder.
 
-### Create Electron application
+```shell title="For macOS"
+conda activate env-electron-python
+cd ./src
+python -m PyInstaller pysoda/api.py --distpath pysodadist
 
-#### Local build
+# To build only
+npm run build-mac
 
-To now build the final electron application you can use the following command:
-
-```shell
-yarn electron:build
+# To build and publish
+npm run deploy-mac
 ```
 
-This will create the installer needed to share your application. The final installer will be saved in the `dist_electron` folder.
+```shell title="For Linux"
+conda activate env-electron-python
+cd ./src
+python -m PyInstaller pysoda/api.py --distpath pysodadist
 
-#### Build and release to Github
+# To build only
+npm run build-linux
 
-You can also push your build to a draft release on GitHub. You will need to have a Github token in your environment to push items to github. Create your github token [here](https://github.com/settings/tokens). You will need the `repo` permissions on your token. Follow the [electron-builder](https://www.electron.build/configuration/publish) instructions on setting up your token.
-
-```shell
-yarn electron:build-release
+# To build and publish
+npm run deploy-linux
 ```
+
+#### Package electron app
+
+You can use the predefined build script to create a release for the app.
+
+- Windows:
+
+```bash
+npm run build-win
+```
+
+- MAC:
+
+```bash
+npm run build-mac
+```
+
+- Linux:
+
+```bash
+npm run build-linux
+```
+
+If there are any errors, please check your build settings in the package.json. For more information regarding the build process and all the possible configuration options please refer to [electron-builder](https://www.electron.build/configuration/configuration) documentation.
