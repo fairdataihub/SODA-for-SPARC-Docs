@@ -20,10 +20,11 @@ yarn start
 
 ### Compiles and minifies for production
 
-Use this step to build a local production version of the site.
+Use this step to build a local production version of the site. Use `serve` to preview the local build.
 
 ```bash
 yarn build
+yarn serve
 ```
 
 We recommend to look at the [documentation](https://docusaurus.io/docs).

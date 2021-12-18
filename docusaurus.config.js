@@ -1,6 +1,3 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
-
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
@@ -14,8 +11,8 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "fairdataihub", // Usually your GitHub org/user name.
-  projectName: "SODA-for-SPARC", // Usually your repo name.
+  organizationName: "fairdataihub",
+  projectName: "SODA-for-SPARC",
 
   presets: [
     [
@@ -24,18 +21,22 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
           editUrl:
             "https://github.com/fairdataihub/SODA-for-SPARC-Docs/edit/docs/docs/",
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
             "https://github.com/fairdataihub/SODA-for-SPARC-Docs/edit/main/website/blog/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
+        },
+        sitemap: {
+          changefreq: "weekly",
+          priority: 0.5,
         },
       }),
     ],
@@ -113,6 +114,14 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      gtag: {
+        trackingID: "G-6PG193J31V",
+        anonymizeIP: true,
+      },
+      googleAnalytics: {
+        trackingID: "G-6PG193J31V",
+        anonymizeIP: true,
       },
     }),
 };
