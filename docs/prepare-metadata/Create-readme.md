@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Create README.txt
+# create README.txt
 
 ## Background
 
