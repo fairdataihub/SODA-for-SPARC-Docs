@@ -22,7 +22,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
-            "https://github.com/fairdataihub/SODA-for-SPARC-Docs/edit/docs/docs/",
+            "https://github.com/fairdataihub/SODA-for-SPARC-Docs/edit/main/",
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },

@@ -65,15 +65,11 @@ You can use the feature Assign a license under Manage Datasets to assign the SPA
 You can use the feature Create submission.xlsx under the Prepare Metadata tab to accomplish this task. Select I want to prepare a new submission.xlsx file, then fill out the three required fields for this metadata file.
 
 1. Enter your award number. We recommend connecting your Airtable account with SODA so you can import your award number automatically and without error from the SPARC Airtable sheet (this will also come in handy later on when adding contributors to the dataset_description metadata file). To do that:
-
    - Click on Click here to import my SPARC award from Airtable
    - Click Yes on the pop-up for adding an Airtable account connection. You need to enter your Airtable API key in SODA to connect your account. To find your Airtable key, please visit your account (login if necessary) and click the Generate API Key button. If you see a Regenerate API key option you may click on the box with the dots to reveal your API key. Copy it and paste it in the dedicated field in the SODA pop-up box (click Yes if a warning prompt shows up).
    - Select your SPARC award from the dropdown and click the 'Confirm' button.
-
 2. Enter the milestone associated with your dataset and the corresponding completion date. The milestone and date should be exactly as reported in the Data Deliverables document associated with your award (see here to find out more). We recommend that you import your Data Deliverables document in SODA to automatically extract milestone information. To do so:
-
    - Click on Import milestones from my Data Deliverables Document
-
    - You can now click on the Yes, let's import it button in the first pop-up. In the second pop-up, click on the Browse here field to select the path of your Data Deliverable document. This will import all the relevant milestones and submission dates associated with that milestone.
    - You can then select the milestone(s) and completion date associated with your dataset.
 
@@ -86,24 +82,15 @@ The expected structure of this file, generated automatically by SODA, is explain
 You can find this feature under Create dataset_description.xlsx under the Prepare Metadata tab. Select I want to prepare a new dataset_description.xlsx file. The subsequent interface divides the dataset description file into six convenient sections to facilitate your task. Go through them successively and populate the various fields as indicated (Mandatory fields are indicated):
 
 1. Dataset information
-
    - Dataset name: The name of the dataset you created during step A2 should be automatically listed. If not, click on the Click here to select my dataset from Pennsieve option and select your dataset.
    - Brief description/subtitle of your dataset: This field should be populated automatically with the subtitle of your dataset. It is not required to change it.
-
 2. Study information
-
    - Keywords: Provide at least three keywords (press Enter on your keyboard after each).
-
    - Provide the number of subjects and samples in your dataset (numerical value).
-
 3. Award and contributor information
-
    - Award number: Click on the Click here to select my award number and import contributor info and select your award.
-
    - Contributor Information: Click on Add contributor. In the new pop-up box, select the contributor from the list automatically pulled from the SPARC Airtable sheet. All the information should be automatically populated if it is available in the Airtable sheet. You only need to specify if the contributor is the contact person. Click on Add contributor. Repeat to add more contributors. In the contributors' table, you can drag and drop rows to organize contributors in the order that they should appear in the dataset_description file. You can also remove/edit one with the respective delete/edit buttons.
-
 4. Protocol Information
-
    - Click on Add a protocol and enter the URL to your protocol on protocols.io.
 
 All other information is optional.
@@ -117,18 +104,12 @@ The expected structure of this file, generated automatically by SODA, is explain
 You can find this feature under Create subjects.xlsx under the Prepare Metadata tab. Click on I want to start a new subjects file, then click on Add a subject. In the new interface, enter first the unique subject ID for this subject.
 
 1.  Experimental setup: Add the pool_id and experimental_group if applicable/available.
-
 2.  Species information
-
     - Sex: Select one
     - Species: Type and select the applicable option from the suggestions in the dropdown list. SODA will automatically fill with the correct scientific name defined by NCBI Taxonomy as per the SPARC requirements. If not pre-registered in SODA, click on the Find the scientific name for xxx dropdown option to look for the standard terminology of your species from the NCBI Taxonomy.
-
       You may just type the name of the animal and click on the dropdown option to get the correct species terminology.
-
     - Strain: Similarly to the species, type and select the applicable options from the suggestions in the dropdown list. If not pre-registered in SODA, click on the Click here to check xxx dropdown option to look for the standard strain on Scicrunch as per the SPARC requirements. SODA will automatically pull out the RRID and include it in your subjects file when it is generated. You may use the predetermined options to retrieve the correct RRID for your metadata file.
-
-      If SODA does not already have the strain within the suggestion, please click on the dropdown option to allow SODA to retrieve the appropriate RRIDs.
-
+      - If SODA does not already have the strain within the suggestion, please click on the dropdown option to allow SODA to retrieve the appropriate RRIDs.
 3.  Exact age: enter a numerical value in the text field and select the unit from the dropdown list.
 
 All other information is optional.
@@ -145,9 +126,7 @@ The expected structure of this file, generated automatically by SODA, is explain
 You can find this feature under Create samples.xlsx under the Prepare Metadata tab. The interface is very similar to the subjects.xlsx file feature. Click on I want to start a new samples file, then click on Add a sample. In the new interface, enter first the subject ID for this sample is derived from, then enter the unique samples ID for this sample.
 
 1.  Experimental setup: Enter applicable/available information.
-
 2.  Specimen Information
-
     - Specimen type: Select one from the dropdown list
     - Specimen anatomical location: Type the location.
     - Species/strain/age: Follow instructions from the subjects.xlsx file feature
