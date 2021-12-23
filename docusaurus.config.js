@@ -51,6 +51,7 @@ const config = {
           alt: "My Site Logo",
           src: "img/logo.svg",
         },
+        hideOnScroll: true,
         items: [
           {
             type: "doc",
@@ -109,7 +110,18 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Fair Data Innovations Hub. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Fair Data Innovations Hub.`,
+      },
+      colorMode: {
+        respectPrefersColorScheme: false,
+      },
+      announcementBar: {
+        id: "announcement-bar",
+        content:
+          '⭐️ <strong> If you like Docusaurus, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/fairdataihub/SODA-for-SPARC">Github</a> and follow us on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/fairdataihub">Twitter</a>. </strong>',
+        backgroundColor: "#ecfdf5",
+        textColor: "#0f172a",
+        isCloseable: true,
       },
       prism: {
         theme: lightCodeTheme,
