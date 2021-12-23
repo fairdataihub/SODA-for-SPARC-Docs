@@ -79,7 +79,7 @@ All notable changes to SODA for SPARC will be documented in this file.
 
 - There is a bug with removing dataset permissions using both SODA and Pennsieve. If you want to remove your own permission from a dataset, another user with either 'Manager' or 'Owner' permissions must remove you from the dataset. This is an issue with Pennsieve's backend system and will be updated soon.
 
-## Version 4.7.1 -
+## Version 4.7.1
 
 ### Bug fixes
 
@@ -143,7 +143,7 @@ All notable changes to SODA for SPARC will be documented in this file.
 
 - There is a bug with removing dataset permissions using both SODA and Pennsieve. If you want to remove your own permission from a dataset, another user with either 'Manager' or 'Owner' permissions must remove you from the dataset. This is an issue with Pennsieve's backend system and will be updated soon.
 
-## Version 4.6.0 -
+## Version 4.6.0
 
 ### Feature additions
 

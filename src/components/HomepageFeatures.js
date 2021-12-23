@@ -8,8 +8,8 @@ const FeatureList = [
     Svg: require("../../static/img/undraw_docusaurus_mountain.svg").default,
     description: (
       <>
-        FairShare was designed from the ground up to be easily installed and
-        used to get your data made available to the world.
+        SODA for SPARC was designed from the ground up to be easily installed
+        and used to get your data made available to the world.
       </>
     ),
   },
@@ -18,8 +18,8 @@ const FeatureList = [
     Svg: require("../../static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
-        FairShare is built to be as simple as possible. We want to make it as
-        easy as possible for you to focus on what matters most.
+        SODA for SPARC is built to be as simple as possible. We want to make it
+        as easy as possible for you to focus on what matters most.
       </>
     ),
   },
@@ -28,9 +28,9 @@ const FeatureList = [
     Svg: require("../../static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
-        FairShare is built on top of the open source software that powers the
-        internet. We are proud to be a part of the open source community. Your
-        data is yours.
+        SODA for SPARC is built on top of the open source software that powers
+        the internet. We are proud to be a part of the open source community.
+        Your data is yours.
       </>
     ),
   },
