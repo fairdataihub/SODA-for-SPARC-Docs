@@ -27,6 +27,21 @@ yarn build
 yarn serve
 ```
 
+### Versioning
+
+You can use the version script to create a new documentation version based on the latest content in the `docs` directory. That specific set of documentation will then be preserved and accessible even as the documentation in the `docs` directory changes moving forward.
+
+1. First, make sure the current docs version (the `docs` directory) is ready to be frozen.
+2. Enter the current version number.
+
+```bash
+yarn run docusaurus docs:version v1.1.0  # or v1.2.0
+```
+
+This will freeze the current version of the documentation. The files under the current `docs` directory will be considered to be `@next` version.
+
+### Addition Information
+
 We recommend to look at the [documentation](https://docusaurus.io/docs).
 
 Note: You will not need to do anything to the hosted site. Continuous Delivery has been setup with Vercel. All you need to do is push your commit and wait for it to deploy.
