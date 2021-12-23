@@ -118,7 +118,7 @@ const config = {
       announcementBar: {
         id: "announcement-bar",
         content:
-          '⭐️ <strong> If you like Docusaurus, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/fairdataihub/SODA-for-SPARC">Github</a> and follow us on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/fairdataihub">Twitter</a>. </strong>',
+          '⭐️ <strong> If you like SODA for SPARC, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/fairdataihub/SODA-for-SPARC">Github</a> and follow us on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/fairdataihub">Twitter</a>. </strong>',
         backgroundColor: "#ecfdf5",
         textColor: "#0f172a",
         isCloseable: true,
