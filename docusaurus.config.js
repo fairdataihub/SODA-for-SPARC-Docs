@@ -74,7 +74,7 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Change Log",
+                label: "Changelog",
                 to: "/docs/changelog",
               },
             ],
