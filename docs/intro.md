@@ -8,7 +8,7 @@ Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get going by **creating a new site**.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
@@ -22,7 +22,7 @@ npm init docusaurus@latest my-website classic
 
 ## Start your site
 
-Run the development server:
+Execute the development server:
 
 ```shell
 cd my-website
@@ -30,6 +30,6 @@ cd my-website
 npx docusaurus start
 ```
 
-Your site starts at `http://localhost:3000`.
+Your place starts at `http://localhost:3000`.
 
 Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
