@@ -74,7 +74,7 @@ const config = {
             items: [
               {
                 label: "Change Log",
-                to: "/docs/intro",
+                to: "/docs/changelog",
               },
             ],
           },

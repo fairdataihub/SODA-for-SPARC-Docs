@@ -8,15 +8,17 @@
 /* You can override the default Infima variables here. */
 /* Pick the relevant colors here: https://docusaurus.io/docs/styling-layout#styling-your-site-with-infima */
 :root {
-  --ifm-color-primary-lightest: #e669a1;
-  --ifm-color-primary-lighter: #e1488c;
-  --ifm-color-primary-light: #df3d85;
-  --ifm-color-primary: #db2777;
-  --ifm-color-primary-dark: #c7216b;
-  --ifm-color-primary-darker: #bc1f65;
-  --ifm-color-primary-darkest: #9b1a53;
-  --ifm-link-color: #db2777;
-  --ifm-code-background: #fce7f3;
+  --ifm-color-primary-lightest: #19938e;
+  --ifm-color-primary-lighter: #16827d;
+  --ifm-color-primary-light: #157c78;
+  --ifm-color-primary: #13716d;
+  --ifm-color-primary-dark: #116662;
+  --ifm-color-primary-darker: #10605d;
+  --ifm-color-primary-darkest: #0d4f4c;
+  --ifm-link-color: #059669;
+  --ifm-menu-color: #6b7280;
+  --ifm-menu-color-background-active: #ecfdf5;
+  --ifm-code-background: #f0fdfa;
 }
 
 /* dark theme variables */
