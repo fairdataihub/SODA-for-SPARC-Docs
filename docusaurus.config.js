@@ -42,10 +42,6 @@ const config = {
           trackingID: "G-6PG193J31V",
           anonymizeIP: true,
         },
-        googleAnalytics: {
-          trackingID: "G-6PG193J31V",
-          anonymizeIP: true,
-        },
       }),
     ],
   ],
