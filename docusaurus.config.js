@@ -39,13 +39,13 @@ const config = {
           priority: 0.5,
         },
         gtag: {
-        trackingID: "G-6PG193J31V",
-        anonymizeIP: true,
-      },
-      googleAnalytics: {
-        trackingID: "G-6PG193J31V",
-        anonymizeIP: true,
-      },
+          trackingID: "G-6PG193J31V",
+          anonymizeIP: true,
+        },
+        googleAnalytics: {
+          trackingID: "G-6PG193J31V",
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
