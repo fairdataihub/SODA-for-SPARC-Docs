@@ -38,6 +38,14 @@ const config = {
           changefreq: "weekly",
           priority: 0.5,
         },
+        gtag: {
+        trackingID: "G-6PG193J31V",
+        anonymizeIP: true,
+      },
+      googleAnalytics: {
+        trackingID: "G-6PG193J31V",
+        anonymizeIP: true,
+      },
       }),
     ],
   ],
@@ -126,14 +134,6 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-      },
-      gtag: {
-        trackingID: "G-6PG193J31V",
-        anonymizeIP: true,
-      },
-      googleAnalytics: {
-        trackingID: "G-6PG193J31V",
-        anonymizeIP: true,
       },
     }),
 };
