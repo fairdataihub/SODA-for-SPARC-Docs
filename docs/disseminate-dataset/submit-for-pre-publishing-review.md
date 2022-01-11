@@ -45,12 +45,11 @@ connected your Pennsieve account with SODA yet,
     public immediately after publication. As per SPARC guidelines, you may
     select an embargo date up to one year in advance.
 
-      
 ## How to withdraw a dataset from pre-publishing review
 
 - Confirm your Pennsieve account and select a dataset that you have
   submitted for pre-publishing review. If you have not connected your
-  Pennsieve account with SODA yet, [use the instructions available here.](/sodaforsparc/docs/manage-dataset/Connect-your-Pennsieve-account-with-SODA)
+  Pennsieve account with SODA yet, [use the instructions available here.](/sodaforsparc/docs/manage-dataset/connect-your-pennsieve-account-with-soda)
 - Click on "Begin Submission". Only dataset owners can withdraw a
   dataset.
 - Click the "Withdraw" button.
