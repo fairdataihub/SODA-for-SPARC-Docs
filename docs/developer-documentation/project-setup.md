@@ -81,13 +81,17 @@ conda activate env-electron-python
 npm install
 ```
 
-**Note:** For Windows, you also need the `win-node-env` package. This should automatically have been installed as an optional dependency from the `package.json` but if it doesn't you can use the following command to add it to your project:
+:::caution
+For Windows, you also need the `win-node-env` package. This should automatically have been installed as an optional dependency from the `package.json` but if it doesn't you can use the following command to add it to your project:
+:::
 
 ```
 npm install -g win-node-env
 ```
 
-Note: if electron-rebuild . gives an error, try deleting the .electron-gyp folder from your user profile and try again.
+:::info
+If `electron-rebuild .` gives you an error, try deleting the `.electron-gyp` folder from your user profile and try again.
+:::
 
 - This should launch the application. You can now edit the code files in the 'src' folder and run `npm start` to see/test your changes
 

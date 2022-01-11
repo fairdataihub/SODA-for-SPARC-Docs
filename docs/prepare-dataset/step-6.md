@@ -10,7 +10,7 @@ If you select to generate your dataset locally, it will be generated at the desi
 
 1. Select the desired destination to generate the dataset on your computer.
 2. Enter the name of the new dataset (a folder with this name will be created at the selected destination).
-3. Click "Generate" to create your dataset.
+3. Click `Generate` to create your dataset.
 
 <div class="px-10 my-5">
     <img src="https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/generate-1.gif?raw=true">

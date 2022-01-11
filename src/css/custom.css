@@ -47,8 +47,9 @@ h6,
   @apply font-inter;
 }
 
-video {
-  @apply px-10;
+.theme-doc-markdown img,
+.theme-doc-markdown video {
+  @apply shadow-lg shadow-teal-800/50  my-5;
 }
 
 .theme-last-updated {

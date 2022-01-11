@@ -12,12 +12,12 @@ The SODA app saves all errors in several log files on your computer. In order to
 
 Send us all the files located here (you can zip that logs folder and simply email/Slack it to us
 
-1. Windows: C:\Users\<_your_username_>\AppData\Roaming\SODA\logs
-2. macOS: ~/_your_username_/Library/Logs/SODA
-3. Ubuntu: /home/_your_username_/.config/SODA/logs
+1. Windows: _C:\Users\your-username\AppData\Roaming\SODA\logs_
+2. macOS: _~/your-username/Library/Logs/SODA_
+3. Ubuntu: _/home/your-username/.config/SODA/logs_
 
 ## Common issues regarding the log files
 
 Unable to find the AppData (Windows), .config (Ubuntu), or Library (macOS) folder
 
-Solution: It is very likely that the folder is hidden on your computer. To learn about how to show hidden files and folders, please visit here.
+Solution: It is very likely that the folder is hidden on your computer. To learn about how to show hidden files and folders, [please visit here](https://fairdataihub.org/sodaforsparc/docs/common-errors/Issues-regarding-hidden-files-or-folders).

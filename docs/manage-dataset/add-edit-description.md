@@ -10,10 +10,13 @@ All SPARC datasets must have the following metadata on Pennsieve: subtitle, desc
 
 ## How to
 
-1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, use the instructions available here.
-2. Fill in or edit your descriptive text in the Study Purpose, Data Collection, and Primary Conclusion sections. You can see published datasets on sparc.science for inspiration.
-3. Click on "Add description".
-   - If editing an existing description you will be presented with an 'Edit description' button to click.
+1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda).
+2. Fill in or edit your descriptive text in the Study Purpose, Data Collection, and Primary Conclusion sections. You can see published datasets on [sparc.science](https://sparc.science/) for inspiration.
+3. Click on `Add description`.
+
+:::info
+If editing an existing description you will be presented with an `Edit description` button to click.
+:::
 
 ## Note
 

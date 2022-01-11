@@ -10,6 +10,6 @@ You can create a new dataset on Pennsieve through this feature of SODA. The name
 
 ## How to
 
-1. Select/confirm your Pennsieve account. If you have not connected your Pennsieve account with SODA yet, use the instructions available here.
+1. Select/confirm your Pennsieve account. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda).
 2. Enter the desired name for the dataset.
-3. Click "Create dataset".
+3. Click `Create dataset`.

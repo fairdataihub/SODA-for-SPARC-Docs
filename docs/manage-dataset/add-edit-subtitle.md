@@ -10,6 +10,6 @@ All SPARC datasets must have the following metadata on Pennsieve: subtitle, desc
 
 ## How to
 
-1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, use the instructions available here.
+1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda).
 2. In the textbox, add two or three sentences (limit of 256 characters) that describe the content of your dataset such that it is possible to differentiate it from other datasets.
-3. Click on "Add subtitle".
+3. Click on `Add subtitle`.

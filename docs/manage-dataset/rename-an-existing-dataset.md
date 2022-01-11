@@ -10,5 +10,5 @@ You can rename an existing dataset on Pennsieve through this feature of SODA. Th
 
 ## How to
 
-1. Select/confirm your Pennsieve account and the dataset that you wish to rename. If you have not connected your Pennsieve account with SODA yet, use the instructions available here.
-2. Enter a new name and click "Rename".
+1. Select/confirm your Pennsieve account and the dataset that you wish to rename. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda).
+2. Enter a new name and click `Rename`.
