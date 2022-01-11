@@ -49,7 +49,7 @@ h6,
 
 .theme-doc-markdown img,
 .theme-doc-markdown video {
-  @apply shadow-lg shadow-teal-800/50 px-10 my-10;
+  @apply shadow-lg shadow-teal-800/50  my-5;
 }
 
 .theme-last-updated {

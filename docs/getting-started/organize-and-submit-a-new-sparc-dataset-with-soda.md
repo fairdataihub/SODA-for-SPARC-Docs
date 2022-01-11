@@ -22,7 +22,7 @@ To create a new dataset on Pennsieve, use the Create a new dataset option under 
 
 ![](https://camo.githubusercontent.com/a92ee77f878c7668dd59628100ebdb12fbe4d3aba92479b720d121ce756438dc/68747470733a2f2f692e6962622e636f2f426756384c76762f696d6167652e706e67)
 
-You can then confirm your details in the account step. Type out the name of the dataset you want to create on Pennsieve and click on Create dataset.
+You can then confirm your details in the account step. Type out the name of the dataset you want to create on Pennsieve and click on `Create dataset`.
 
 Note: You can use the navigation buttons in the bottom right corner of the app to go through all the mandatory steps needed to curate a dataset. These buttons will follow the same steps as detailed in this guide.
 
@@ -62,7 +62,7 @@ You can use the feature `Upload a banner image` under the `Manage Datasets` tab 
 - Click on `Import image` in the new pop-up window.
 - Select the image file you want to use as a banner image.
 - Crop the file as desired. Note that all banner images must be square, have a minimum display size of _512x512_ px (_1024x1024_ px preferred), and have a maximum file size of 5 MB.
-- Click on "Save changes".
+- Click on `Save changes`.
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Add-metadata/banner-image.gif?raw=true)
 
@@ -79,57 +79,45 @@ You can use the feature `Assign a license` under `Manage Datasets` to assign the
 You can use the feature `Create submission.xlsx` under the `Prepare Metadata` tab to accomplish this task. Select `I want to prepare a new submission.xlsx` file, then fill out the three required fields for this metadata file.
 
 1. Enter your award number. We recommend connecting your Airtable account with SODA so you can import your award number automatically and without error from the SPARC Airtable sheet (this will also come in handy later on when adding contributors to the dataset_description metadata file). To do that:
-
    - Click on `Click here to import my SPARC award from Airtable`
-
-   ![](https://camo.githubusercontent.com/bfcf10546da716ccabee27be5974a562bbfc6f3d4e26b5d5558fcc3076e54573/68747470733a2f2f692e6962622e636f2f44396658344e732f696d6167652e706e67)
-
+     ![](https://camo.githubusercontent.com/bfcf10546da716ccabee27be5974a562bbfc6f3d4e26b5d5558fcc3076e54573/68747470733a2f2f692e6962622e636f2f44396658344e732f696d6167652e706e67)
    - Click `Yes` on the pop-up for adding an Airtable account connection. You need to enter your Airtable API key in SODA to connect your account. To find your Airtable key, please visit [your account](https://airtable.com/account) (login if necessary) and click the `Generate API Key` button. If you see a `Regenerate API key` option you may click on the box with the dots to reveal your API key. Copy it and paste it in the dedicated field in the SODA pop-up box (click `Yes` if a warning prompt shows up).
-
-   ![](https://camo.githubusercontent.com/7422484284e52c387a1d0103bc28b2db24e85a9b6b3e3e136b76a1ad8238a265/68747470733a2f2f692e6962622e636f2f6e6673514d46762f696d6167652e706e67)
-
+     ![](https://camo.githubusercontent.com/7422484284e52c387a1d0103bc28b2db24e85a9b6b3e3e136b76a1ad8238a265/68747470733a2f2f692e6962622e636f2f6e6673514d46762f696d6167652e706e67)
    - Select your SPARC award from the dropdown and click the `Confirm` button.
-
-   ![](https://camo.githubusercontent.com/e6c98181aa267701b1be038abe77c0ab66a318b7362939504c2a1bdc18bc595c/68747470733a2f2f692e6962622e636f2f795051584d33462f696d6167652e706e67)
-
+     ![](https://camo.githubusercontent.com/e6c98181aa267701b1be038abe77c0ab66a318b7362939504c2a1bdc18bc595c/68747470733a2f2f692e6962622e636f2f795051584d33462f696d6167652e706e67)
 2. Enter the milestone associated with your dataset and the corresponding completion date. The milestone and date should be exactly as reported in the Data Deliverables document associated with your award (see here to find out more). We recommend that you import your Data Deliverables document in SODA to automatically extract milestone information. To do so:
-
    - Click on `Import milestones from my Data Deliverables Document`
-
-   ![](https://camo.githubusercontent.com/d9de8d44d6285b61fca338d7955657f067f94985730a3da26d6c8198ced1be8c/68747470733a2f2f692e6962622e636f2f46627a465053712f696d6167652e706e67)
-
+     ![](https://camo.githubusercontent.com/d9de8d44d6285b61fca338d7955657f067f94985730a3da26d6c8198ced1be8c/68747470733a2f2f692e6962622e636f2f46627a465053712f696d6167652e706e67)
    - You can now click on the `Yes, let's import it` button in the first pop-up. In the second pop-up, click on the `Browse here` field to select the path of your Data Deliverable document. This will import all the relevant milestones and submission dates associated with that milestone.
    - You can then select the `milestone(s)` and `completion date` associated with your dataset.
+     ![](https://camo.githubusercontent.com/e6c98181aa267701b1be038abe77c0ab66a318b7362939504c2a1bdc18bc595c/68747470733a2f2f692e6962622e636f2f795051584d33462f696d6167652e706e67)
+     Click on the `Generate` button and select where you want to store the submission.xlsx file on your computer. You will be asked to include this file when organizing your dataset in the later steps.
 
-   ![](https://camo.githubusercontent.com/e6c98181aa267701b1be038abe77c0ab66a318b7362939504c2a1bdc18bc595c/68747470733a2f2f692e6962622e636f2f795051584d33462f696d6167652e706e67)
-
-Click on the `Generate` button and select where you want to store the submission.xlsx file on your computer. You will be asked to include this file when organizing your dataset in the later steps.
-
-The expected structure of this file, generated automatically by SODA, is explained in our corresponding How to page if you would like to learn about it.
+The expected structure of this file, generated automatically by SODA, is explained in our corresponding [How to](../how-to/how-to-structure-the-submission-metadata-file.md) page if you would like to learn about it.
 
 ### Prepare dataset description file
 
-You can find this feature under `Create dataset_description.xlsx` under the `Prepare Metadata` tab. Select I want to prepare a new dataset_description.xlsx file. The subsequent interface divides the dataset description file into six convenient sections to facilitate your task. Go through them successively and populate the various fields as indicated (Mandatory fields are indicated):
+You can find this feature under `Create dataset_description.xlsx` under the `Prepare Metadata` tab. Select `I want to prepare a new dataset_description.xlsx file`. The subsequent interface divides the dataset description file into six convenient sections to facilitate your task. Go through them successively and populate the various fields as indicated (Mandatory fields are indicated):
 
 1. Dataset information
-   - Dataset name: The name of the dataset you created during step A2 should be automatically listed. If not, click on the `Click here to select my dataset from Pennsieve option and select your dataset`. <br/><br/>
-     ![](https://camo.githubusercontent.com/6784c70a94fab65a56c69433be8357c4291d8394a036713495728a3a275a4528/68747470733a2f2f692e6962622e636f2f424c63444c716e2f696d6167652e706e67)<br/> <br/>
+   - Dataset name: The name of the dataset you created during step A2 should be automatically listed. If not, click on the `Click here to select my dataset from Pennsieve option and select your dataset`.
+     ![](https://camo.githubusercontent.com/6784c70a94fab65a56c69433be8357c4291d8394a036713495728a3a275a4528/68747470733a2f2f692e6962622e636f2f424c63444c716e2f696d6167652e706e67)
    - Brief description/subtitle of your dataset: This field should be populated automatically with the subtitle of your dataset. It is not required to change it.
 2. Study information
    - Keywords: Provide at least three keywords (press `Enter` on your keyboard after each).
    - Provide the number of subjects and samples in your dataset (numerical value).
 3. Award and contributor information
-   - Award number: Click on the `Click here to select my award number and import contributor info` and select your award. <br /> <br />
-     ![](https://camo.githubusercontent.com/53da9515f2d57a695b63615acd51eebb61911cb2fca153de9a0ddc054d8a5db5/68747470733a2f2f692e6962622e636f2f704c3770724c732f696d6167652e706e67) <br /> <br />
+   - Award number: Click on the `Click here to select my award number and import contributor info` and select your award.
+     ![](https://camo.githubusercontent.com/53da9515f2d57a695b63615acd51eebb61911cb2fca153de9a0ddc054d8a5db5/68747470733a2f2f692e6962622e636f2f704c3770724c732f696d6167652e706e67)
    - Contributor Information: Click on Add contributor. In the new pop-up box, select the contributor from the list automatically pulled from the SPARC Airtable sheet. All the information should be automatically populated if it is available in the Airtable sheet. You only need to specify if the contributor is the contact person. Click on `Add contributor`. Repeat to add more contributors. In the contributors' table, you can drag and drop rows to organize contributors in the order that they should appear in the dataset_description file. You can also remove/edit one with the respective delete/edit buttons.
 4. Protocol Information
    - Click on `Add a protocol` and enter the URL to your protocol on protocols.io.
 
 All other information is optional.
 
-When done, click on the Generate button to create the dataset_description.xlsx file on your computer. You will be asked to include this file when organizing your dataset in the later steps.
+When done, click on the `Generate` button to create the dataset_description.xlsx file on your computer. You will be asked to include this file when organizing your dataset in the later steps.
 
-The expected structure of this file, generated automatically by SODA, is explained in our corresponding How to page if you would like to learn about it.
+The expected structure of this file, generated automatically by SODA, is explained in our corresponding [How to](../how-to/how-to-structure-the-dataset-description-metadata-file.md) page if you would like to learn about it.
 
 ### Prepare subjects file
 
@@ -139,22 +127,22 @@ You can find this feature under `Create subjects.xlsx` under the `Prepare Metada
 2.  Species information
     - Sex: Select one
     - Species: Type and select the applicable option from the suggestions in the dropdown list. SODA will automatically fill with the correct scientific name defined by NCBI Taxonomy as per the SPARC requirements. If not pre-registered in SODA, click on the `Find the scientific name for xxx` dropdown option to look for the standard terminology of your species from the NCBI Taxonomy.
-      You may just type the name of the animal and click on the dropdown option to get the correct species terminology. <br/> <br/>
-      ![](https://camo.githubusercontent.com/8ffce22d67e90fe62f0712bb232019a9cc97c15a0e03f746ef0fbbb6694d3b45/68747470733a2f2f692e6962622e636f2f507247664774562f696d6167652e706e67)<br/><br/>
+      You may just type the name of the animal and click on the dropdown option to get the correct species terminology.  
+      ![](https://camo.githubusercontent.com/8ffce22d67e90fe62f0712bb232019a9cc97c15a0e03f746ef0fbbb6694d3b45/68747470733a2f2f692e6962622e636f2f507247664774562f696d6167652e706e67)
     - Strain: Similarly to the species, type and select the applicable options from the suggestions in the dropdown list. If not pre-registered in SODA, click on the `Click here to check xxx` dropdown option to look for the standard strain on Scicrunch as per the SPARC requirements. SODA will automatically pull out the RRID and include it in your subjects file when it is generated. You may use the predetermined options to retrieve the correct RRID for your metadata file.
-      ![](https://camo.githubusercontent.com/7ba6a7fbb04547bd53c79f6f0003562cce8d013c3922412e60fb63bb69717f39/68747470733a2f2f692e6962622e636f2f70336a436b79502f696d6167652e706e67) <br /> <br />
-    - If SODA does not already have the strain within the suggestion, please click on the dropdown option to allow SODA to retrieve the appropriate RRIDs. <br /> <br />
-      ![](https://camo.githubusercontent.com/dd44cc7d70a105a5e03639e659d79e80b886ffc80227f774384832d3f04eba14/68747470733a2f2f692e6962622e636f2f7868714e714d372f696d6167652e706e67) <br /> <br />
+      ![](https://camo.githubusercontent.com/7ba6a7fbb04547bd53c79f6f0003562cce8d013c3922412e60fb63bb69717f39/68747470733a2f2f692e6962622e636f2f70336a436b79502f696d6167652e706e67)
+    - If SODA does not already have the strain within the suggestion, please click on the dropdown option to allow SODA to retrieve the appropriate RRIDs.  
+      ![](https://camo.githubusercontent.com/dd44cc7d70a105a5e03639e659d79e80b886ffc80227f774384832d3f04eba14/68747470733a2f2f692e6962622e636f2f7868714e714d372f696d6167652e706e67)
 3.  Exact age: enter a numerical value in the text field and select the unit from the dropdown list.
 
 All other information is optional.
 
 When done, click on the `Add subject` button. The added subject will be included in a table of subjects. You can edit/delete/copy existing subjects from the table using the buttons in the last column.
-If all the subjects in your dataset have the same characteristics, you can copy information from one subject to another by clicking on the "Copy" image icon in the last column and providing the subject id for the new subject.
+If all the subjects in your dataset have the same characteristics, you can copy information from one subject to another by clicking on the `Copy` image icon in the last column and providing the subject id for the new subject.
 
 When all the subjects are added, click on the `Generate` button to create the subjects.xlsx file on your computer. You will be asked to include this file when organizing your dataset in the later steps.
 
-The expected structure of this file, generated automatically by SODA, is explained in our corresponding How to page if you would like to learn about it.
+The expected structure of this file, generated automatically by SODA, is explained in our corresponding [How to](../how-to/how-to-structure-the-subjects-metadata-file.md) page if you would like to learn about it.
 
 ### Prepare samples file
 
@@ -170,11 +158,11 @@ All other information is optional.
 
 When done, click on the `Add sample` button. The added sample will be included in a table of samples. You can edit/delete/copy existing samples from the table using the buttons in the last column.
 
-If all the samples in your dataset have the same characteristics, you can copy information from one sample to another by clicking on the "Copy" image icon in the last column and providing the subject and sample ids for the new sample.
+If all the samples in your dataset have the same characteristics, you can copy information from one sample to another by clicking on the `Copy` image icon in the last column and providing the subject and sample ids for the new sample.
 
 When all the subjects are added, click on the `Generate` button to create the samples.xlsx file on your computer. You will be asked to include this file when organizing your dataset in the later steps.
 
-The expected structure of this file, generated automatically by SODA, is explained in our corresponding How to page if you would like to learn about it.
+The expected structure of this file, generated automatically by SODA, is explained in our corresponding [How to](../how-to/how-to-structure-the-samples-metadata-file.md) page if you would like to learn about it.
 
 ## Organize dataset according to the SPARC Dataset Structure
 
@@ -203,11 +191,11 @@ Virtually structure your dataset using this interface as if you were organizing 
 These are some of the functions you can do while you are in this step:
 
 - Go inside a folder by double-clicking on it.
-- Import files/folders inside a folder using drag-and-drop or the "Import" menu located in the upper right corner.
-- Create a new folder using the "New folder" button located in the upper right corner. Note that this is only possible inside a high-level SPARC folder. To create a new high-level SPARC folder, go back to Step 2.
-- Rename files/folders using the right-click menu option "Rename".
-- Remove files/folders using the right-click menu option "Delete".
-- Move files/folders using the right-click menu option "Move".
+- Import files/folders inside a folder using drag-and-drop or the `Import` menu located in the upper right corner.
+- Create a new folder using the `New folder` button located in the upper right corner. Note that this is only possible inside a high-level SPARC folder. To create a new high-level SPARC folder, go back to Step 2.
+- Rename files/folders using the right-click menu option `Rename`.
+- Remove files/folders using the right-click menu option `Delete`.
+- Move files/folders using the right-click menu option `Move`.
 - Multiple-select files/folders by either drag-selecting items or holding Ctrl and clicking items.
 - Use the arrow located in the upper left corner to move up a folder. The current location in the dataset is indicated right next to the arrow.
 
@@ -215,7 +203,7 @@ These are some of the functions you can do while you are in this step:
 
 #### Adding file descriptions (optional)
 
-Use the "Details" option from the right-click menu to see the actual path of the file and include metadata (description, Additional Metadata) which will be included in the manifest files if you request SODA to generate them automatically for you (Step 5).
+Use the `Details` option from the right-click menu to see the actual path of the file and include metadata (description, Additional Metadata) which will be included in the manifest files if you request SODA to generate them automatically for you (Step 5).
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-step3-part2-files.gif?raw=true)
 
