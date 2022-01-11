@@ -19,4 +19,3 @@ When you create a dataset, you have 'owner' permissions on the dataset. As per S
 :::note
 You will automatically be assigned `manager` permissions to the dataset if you were the owner of the dataset.
 :::
-
