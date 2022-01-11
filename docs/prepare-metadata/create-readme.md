@@ -2,7 +2,9 @@
 sidebar_position: 6
 ---
 
-# create README.txt
+# Create README.txt
+
+import OptimizedImage from '@site/src/components/OptimizedImage';
 
 ## Background
 
@@ -16,3 +18,5 @@ Under this feature, SODA lets you rapidly prepare the README metadata file for y
 4. Review and click on `Generate` to generate your README file. You have the options to generate and save it on your computer or generate and upload it to Pennsieve. The generated file will be ready to be included in your dataset.
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Readme-Changes/readme.PNG?raw=true)
+
+<!-- <OptimizedImage src="https://ucarecdn.com/e5c4a022-9a55-49b2-8af5-d5d4d8a74057/aqualogofull.png" alt="screenshot for readme" /> -->
