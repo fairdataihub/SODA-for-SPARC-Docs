@@ -31,13 +31,8 @@ public; or to researchers who have intellectual property concerns.
 ## How to submit a dataset for pre-publishing review
 
 - Select/confirm your Pennsieve account and dataset. If you have not
-<<<<<<< HEAD
 connected your Pennsieve account with SODA yet,
 [use the instructions available here.](../manage-dataset/connect-your-pennsieve-account-with-SODA)
-=======
-  connected your Pennsieve account with SODA yet,
-  [use the instructions available here.](sodaforsparc/docs/manage-dataset/Connect-your-Pennsieve-account-with-SODA)
->>>>>>> c0ebf3b2a750aebf1adf254e25173ffdd526b96f
 - Click on "Begin Submission". Only dataset owners can begin a
   submission.
 - Complete all of the pre-publishing checklist items. Completed items
