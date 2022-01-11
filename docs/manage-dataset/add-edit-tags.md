@@ -17,3 +17,5 @@ All SPARC datasets must have the following metadata on Pennsieve: subtitle, desc
    - Delete a tag by clicking the 'x' to the right of a given tag.
 3. Click on the "Add Tags" button.
    - If you already had tags you will be presented with an 'Edit Tags' button to click on instead.
+
+   ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Manage-permissions/add-permissions.gif?raw=true)

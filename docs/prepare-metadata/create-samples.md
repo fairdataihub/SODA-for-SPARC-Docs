@@ -32,6 +32,11 @@ You will be able to add new samples or edit/delete existing samples (if any). If
 
 Clicking on "Add a sample"" will prompt you to a form where you can add a new sample by entering information about it. The form contains the below fields with mandatory fields written in bold.
 
+<video controls 
+       width="100%" 
+       src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Samples-interface.mp4" 
+/>
+
 - subject id: Lab-based schema for identifying each subject. This field should match the primary's sub-folder names. The subject_id must be unique.
 - sample id: Lab-based schema for identifying each sample. The sample id must be unique across the whole dataset.
 - Experimental Setup (Mandatory if available):

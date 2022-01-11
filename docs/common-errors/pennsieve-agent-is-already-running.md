@@ -15,3 +15,9 @@ A general solution for this issue is to end the pennsieve.exe process that is st
 1. Windows
 2. MAC
 3. Ubuntu
+
+<div class="px-10 my-5">
+    <img src="https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Common-errors/blackfynn-agent-running-error.gif?raw=true">
+    </img>
+</div>
+

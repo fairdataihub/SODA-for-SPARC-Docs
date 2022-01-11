@@ -13,6 +13,8 @@ The status of a dataset is used to allow easy communication between SPARC invest
 1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, use the instructions available here.
 2. Select the desired option from the list.
 
+![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/View-change-status/view-change-status.PNG?raw=true)
+
 ## Note
 
 Typically, SPARC investigators should only have to change dataset status to one of the following options:

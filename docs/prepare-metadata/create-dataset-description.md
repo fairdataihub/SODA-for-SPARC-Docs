@@ -21,6 +21,12 @@ Under this feature, SODA lets you quickly and accurately prepare the dataset_des
 3. Dataset type: The type of this dataset, specifically whether it is experimental or computational.
 4. Keywords: A set of 3-5 keywords (other than those used in the name and description) that will help in searching your dataset once published
 
+<video
+   controls
+   width="100%"
+   src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/DD-datasetInfo.mp4"
+/>
+
 ### Participant Info (information about the subjects or samples of your dataset)
 
 1. Number of subjects: The number of unique subjects in this dataset, should match the subjects metadata file. Must be greater or equal to 1.
@@ -42,6 +48,13 @@ Under this feature, SODA lets you quickly and accurately prepare the dataset_des
    - Provide information about any contributor to the dataset. Note that the "Contributor" list is compiled from the SPARC Airtable sheet based on the SPARC award selected. Select one Contributor to get the ORCID ID, Contributor Affiliation, and Contributor Role populated automatically (if specified in the SPARC Airtable Sheet). Select "Other contributors" in the "Contributors" dropdown list if you'd like to enter a Contributor name manually (although we suggest entering them directly in the SPARC Airtable - restart SODA to see them in the list).
    - Check "Corresponding Author" if the contributor is a contact person/corresponding author for the dataset. At least one and only one of the contributors should be the corresponding author.
    - Click "Add contributor" to add the contributor to SODA's contributor table. Each contributor added to the table will be added to the dataset description file when it is generated.
+
+<video
+   controls
+   width="100%"
+   src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/dd-awardInfo.mp4"
+/>
+   
 
 ### Related Information: protocol, paper, dataset, etc.
 

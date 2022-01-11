@@ -8,6 +8,12 @@ sidebar_position: 1
 
 All SPARC datasets must follow the top level SPARC folder structure imposed by the SPARC Dataset Structure. This top level folder structure is shown in the figure below. If your data organization doesn't follow this structure inherently, you can create it virtually with SODA then either generate it locally on your computer or directly on Pennsieve (to avoid duplicating files locally).
 
+<div class="px-10">
+    <img src="https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Prepare-dataset/Specify-files/SPARC-dataset-structure.PNG?raw=true">
+    </img>
+</div>
+
+
 ## How to
 
 1. Step 1: Getting started

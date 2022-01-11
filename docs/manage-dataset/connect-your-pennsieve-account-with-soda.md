@@ -16,6 +16,8 @@ SODA will automatically check and see if you have an associated account with Pen
 2. Click on the edit symbol next to "Current account".
 3. Fill in your Pennsieve "Email Address" and "Password" and click "Connect to Pennsieve"
 
+![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Connect-to-BF/connect-to-PS-SODA.png?raw=true)
+
 ## Note
 
 - During subsequent uses, SODA will automatically connect to the Pennsieve account you were connected to the last time.

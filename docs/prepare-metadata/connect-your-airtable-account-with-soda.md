@@ -17,3 +17,5 @@ We suggest keeping your group information up to date in the Airtable sheet, espe
 3. Under the "Create submission.xlsx" feature from the "Prepare Metadata" section, start by either Creating a submission file from scratch with SODA or Continue working on an existing submission.xlsx file. Click on "Click here to import my SPARC award from Airtable" to connect SODA with your Airtable account.
 4. Enter your Airtable API key in the dedicated SODA interface. Checkout the Airtable Help page to learn how to obtain or re-generate your API key. Note that the key will be stored locally on your computer and the SODA Team will not have access to it.
 5. Click on "Add account". Note: You will have to do this only once and the Airtable connection will be then remembered by SODA during subsequent uses.
+
+![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Prepare-metadata/Connect-to-Airtable/connect-to-airtable-new.gif?raw=true)

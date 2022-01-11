@@ -32,6 +32,12 @@ You will be able to add new subjects or edit/delete existing subjects (if any). 
 
 Clicking on "Add a subject" will prompt you to a form where you can add a new subject by entering information about it. The form contains the below fields with mandatory fields written in bold and optional fields in italic.
 
+<video controls 
+       width="100%" 
+       src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Subjects-interface.mp4" 
+/>
+
+
 - subject id: Lab-based schema for identifying each subject. This field should match the primary's sub-folder names. The subject_id must be unique.
 - Experimental Setup (Mandatory if available):
   - pool id: If data is collected on multiple subjects at the same time include the identifier of the pool where the data file will be found. If this is included it should be the name of the top level folder inside primary. E.g: pool 1.
@@ -47,9 +53,21 @@ Clicking on "Add a subject" will prompt you to a form where you can add a new su
   - Age category: The age category that the subject belongs to. An search field with suggestions based on list derived from UBERON life cycle stage is provided in the interface for your convenience.
   - Age range: This is the minimal age (youngest) and the maximum age (oldest) of the research subjects. The format for these 2 fields is numerical value + space + unit (spelled out).
   - Date of birth: The date of birth of the subject.
+
+<video controls 
+       width="100%" 
+       src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Subjects-species.mp4" 
+/>
+
 - Protocol Information (Optional):
   - Protocol title on protocols.io: This field refers to the title of the protocol within Protocols.io once the research protocol is uploaded to Protocols.io. In SODA, users can connect to their protocols.io account by clicking on "Help me with my protocol information" under the Protocol Information tab. An login interface will instruct users to sign in their account in the browser at protocols.io. An access token is required for automatic extraction of the protocol titles and links and can be easily obtained from the provided website once they are signed in. Once users successfully connect their account with with SODA, they can search in the input field for their protocol titles.
   - Protocol.io links: This refers to the Protocol.io URL for the protocol title. In SODA, when users select a protocol title in the previous field (Protocol title), the protocol location or link will be automatically filled out for this field.
+
+<video controls 
+       width="100%" 
+       src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Subjects-protocols.mp4" 
+/>
+  
 - Additional fields (Optional):
   - Handedness: This refers to the preference of the subject to use the right or left hand, whenever applicable.
   - Body mass: The body mass of the subject.

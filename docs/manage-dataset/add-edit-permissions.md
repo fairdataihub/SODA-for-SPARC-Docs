@@ -35,6 +35,8 @@ Start by selecting/confirming your Pennsieve account and dataset. If you have no
 3. Select a role from the dropdown list.
 4. Click on "Add permission for user".
 
+![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Manage-permissions/add-permissions.gif?raw=true)
+
 ## Add/edit permissions for teams
 
 1. Click on "Add/edit team permissions".

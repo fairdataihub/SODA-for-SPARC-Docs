@@ -11,6 +11,11 @@ SODA helps you prepare the submission metadata file conveniently. We explain her
 ## How to
 
 - Format: the submission file is accepted in either xlsx, csv, or json format. SODA generates it in the xlsx format based on the template provided by the Curation Team. A screenshot is provided below:
+<div class="px-10 my-5">
+    <img src="https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/How%20to/submission/submission-template.PNG?raw=true">
+    </img>
+</div>
+
 - Location in the dataset: The submission file must be included in the high-level dataset folder.
 - Content: The "Submission Item" and "Value" columns are mandatory (the "Definition" column could be kept or removed). Each of the three "Submission Item" element must be provided a "Value".
   - SPARC Award number: The number of your SPARC award.

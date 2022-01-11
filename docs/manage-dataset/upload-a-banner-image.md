@@ -16,3 +16,5 @@ All SPARC datasets must have the following metadata on Pennsieve: subtitle, desc
 4. Select the image file you want to use as a banner image.
 5. Crop the file as desired. Note that all banner images must be square, have a minimum display size of 512x512 px (1024x1024 px preferred), and have a maximum file size of 5 MB.
 6. Click on "Save changes".
+
+![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Add-metadata/banner-image.gif?raw=true)
