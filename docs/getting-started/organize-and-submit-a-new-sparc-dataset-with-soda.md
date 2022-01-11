@@ -79,32 +79,27 @@ You can use the feature Assign a license under Manage Datasets to assign the SPA
 You can use the feature Create submission.xlsx under the Prepare Metadata tab to accomplish this task. Select I want to prepare a new submission.xlsx file, then fill out the three required fields for this metadata file.
 
 1. Enter your award number. We recommend connecting your Airtable account with SODA so you can import your award number automatically and without error from the SPARC Airtable sheet (this will also come in handy later on when adding contributors to the dataset_description metadata file). To do that:
-   - Click on Click here to import my SPARC award from Airtable
 
+   - Click on Click here to import my SPARC award from Airtable
 
    ![](https://camo.githubusercontent.com/bfcf10546da716ccabee27be5974a562bbfc6f3d4e26b5d5558fcc3076e54573/68747470733a2f2f692e6962622e636f2f44396658344e732f696d6167652e706e67)
 
-
    - Click Yes on the pop-up for adding an Airtable account connection. You need to enter your Airtable API key in SODA to connect your account. To find your Airtable key, please visit your account (login if necessary) and click the Generate API Key button. If you see a Regenerate API key option you may click on the box with the dots to reveal your API key. Copy it and paste it in the dedicated field in the SODA pop-up box (click Yes if a warning prompt shows up).
 
-
    ![](https://camo.githubusercontent.com/7422484284e52c387a1d0103bc28b2db24e85a9b6b3e3e136b76a1ad8238a265/68747470733a2f2f692e6962622e636f2f6e6673514d46762f696d6167652e706e67)
-   
-   
-   - Select your SPARC award from the dropdown and click the 'Confirm' button.
-   
-   
-   ![](https://camo.githubusercontent.com/e6c98181aa267701b1be038abe77c0ab66a318b7362939504c2a1bdc18bc595c/68747470733a2f2f692e6962622e636f2f795051584d33462f696d6167652e706e67)
-2. Enter the milestone associated with your dataset and the corresponding completion date. The milestone and date should be exactly as reported in the Data Deliverables document associated with your award (see here to find out more). We recommend that you import your Data Deliverables document in SODA to automatically extract milestone information. To do so:
-   - Click on Import milestones from my Data Deliverables Document
 
+   - Select your SPARC award from the dropdown and click the 'Confirm' button.
+
+   ![](https://camo.githubusercontent.com/e6c98181aa267701b1be038abe77c0ab66a318b7362939504c2a1bdc18bc595c/68747470733a2f2f692e6962622e636f2f795051584d33462f696d6167652e706e67)
+
+2. Enter the milestone associated with your dataset and the corresponding completion date. The milestone and date should be exactly as reported in the Data Deliverables document associated with your award (see here to find out more). We recommend that you import your Data Deliverables document in SODA to automatically extract milestone information. To do so:
+
+   - Click on Import milestones from my Data Deliverables Document
 
    ![](https://camo.githubusercontent.com/d9de8d44d6285b61fca338d7955657f067f94985730a3da26d6c8198ced1be8c/68747470733a2f2f692e6962622e636f2f46627a465053712f696d6167652e706e67)
 
-
    - You can now click on the Yes, let's import it button in the first pop-up. In the second pop-up, click on the Browse here field to select the path of your Data Deliverable document. This will import all the relevant milestones and submission dates associated with that milestone.
    - You can then select the milestone(s) and completion date associated with your dataset.
-
 
    ![](https://camo.githubusercontent.com/e6c98181aa267701b1be038abe77c0ab66a318b7362939504c2a1bdc18bc595c/68747470733a2f2f692e6962622e636f2f795051584d33462f696d6167652e706e67)
 
@@ -118,14 +113,14 @@ You can find this feature under Create dataset_description.xlsx under the Prepar
 
 1. Dataset information
    - Dataset name: The name of the dataset you created during step A2 should be automatically listed. If not, click on the Click here to select my dataset from Pennsieve option and select your dataset. <br/><br/>
-   ![](https://camo.githubusercontent.com/6784c70a94fab65a56c69433be8357c4291d8394a036713495728a3a275a4528/68747470733a2f2f692e6962622e636f2f424c63444c716e2f696d6167652e706e67)<br/> <br/>
+     ![](https://camo.githubusercontent.com/6784c70a94fab65a56c69433be8357c4291d8394a036713495728a3a275a4528/68747470733a2f2f692e6962622e636f2f424c63444c716e2f696d6167652e706e67)<br/> <br/>
    - Brief description/subtitle of your dataset: This field should be populated automatically with the subtitle of your dataset. It is not required to change it.
 2. Study information
    - Keywords: Provide at least three keywords (press Enter on your keyboard after each).
    - Provide the number of subjects and samples in your dataset (numerical value).
 3. Award and contributor information
    - Award number: Click on the Click here to select my award number and import contributor info and select your award. <br /> <br />
-   ![](https://camo.githubusercontent.com/53da9515f2d57a695b63615acd51eebb61911cb2fca153de9a0ddc054d8a5db5/68747470733a2f2f692e6962622e636f2f704c3770724c732f696d6167652e706e67) <br /> <br />
+     ![](https://camo.githubusercontent.com/53da9515f2d57a695b63615acd51eebb61911cb2fca153de9a0ddc054d8a5db5/68747470733a2f2f692e6962622e636f2f704c3770724c732f696d6167652e706e67) <br /> <br />
    - Contributor Information: Click on Add contributor. In the new pop-up box, select the contributor from the list automatically pulled from the SPARC Airtable sheet. All the information should be automatically populated if it is available in the Airtable sheet. You only need to specify if the contributor is the contact person. Click on Add contributor. Repeat to add more contributors. In the contributors' table, you can drag and drop rows to organize contributors in the order that they should appear in the dataset_description file. You can also remove/edit one with the respective delete/edit buttons.
 4. Protocol Information
    - Click on Add a protocol and enter the URL to your protocol on protocols.io.
@@ -142,14 +137,14 @@ You can find this feature under Create subjects.xlsx under the Prepare Metadata 
 
 1.  Experimental setup: Add the pool_id and experimental_group if applicable/available.
 2.  Species information
-      - Sex: Select one
-      - Species: Type and select the applicable option from the suggestions in the dropdown list. SODA will automatically fill with the correct scientific name defined by NCBI Taxonomy as per the SPARC requirements. If not pre-registered in SODA, click on the Find the scientific name for xxx dropdown option to look for the standard terminology of your species from the NCBI Taxonomy.
+    - Sex: Select one
+    - Species: Type and select the applicable option from the suggestions in the dropdown list. SODA will automatically fill with the correct scientific name defined by NCBI Taxonomy as per the SPARC requirements. If not pre-registered in SODA, click on the Find the scientific name for xxx dropdown option to look for the standard terminology of your species from the NCBI Taxonomy.
       You may just type the name of the animal and click on the dropdown option to get the correct species terminology. <br/> <br/>
-   ![](https://camo.githubusercontent.com/8ffce22d67e90fe62f0712bb232019a9cc97c15a0e03f746ef0fbbb6694d3b45/68747470733a2f2f692e6962622e636f2f507247664774562f696d6167652e706e67)<br/><br/>
-      - Strain: Similarly to the species, type and select the applicable options from the suggestions in the dropdown list. If not pre-registered in SODA, click on the Click here to check xxx dropdown option to look for the standard strain on Scicrunch as per the SPARC requirements. SODA will automatically pull out the RRID and include it in your subjects file when it is generated. You may use the predetermined options to retrieve the correct RRID for your metadata file.
-   ![](https://camo.githubusercontent.com/7ba6a7fbb04547bd53c79f6f0003562cce8d013c3922412e60fb63bb69717f39/68747470733a2f2f692e6962622e636f2f70336a436b79502f696d6167652e706e67) <br /> <br />
-      - If SODA does not already have the strain within the suggestion, please click on the dropdown option to allow SODA to retrieve the appropriate RRIDs. <br /> <br />
-   ![](https://camo.githubusercontent.com/dd44cc7d70a105a5e03639e659d79e80b886ffc80227f774384832d3f04eba14/68747470733a2f2f692e6962622e636f2f7868714e714d372f696d6167652e706e67) <br /> <br />
+      ![](https://camo.githubusercontent.com/8ffce22d67e90fe62f0712bb232019a9cc97c15a0e03f746ef0fbbb6694d3b45/68747470733a2f2f692e6962622e636f2f507247664774562f696d6167652e706e67)<br/><br/>
+    - Strain: Similarly to the species, type and select the applicable options from the suggestions in the dropdown list. If not pre-registered in SODA, click on the Click here to check xxx dropdown option to look for the standard strain on Scicrunch as per the SPARC requirements. SODA will automatically pull out the RRID and include it in your subjects file when it is generated. You may use the predetermined options to retrieve the correct RRID for your metadata file.
+      ![](https://camo.githubusercontent.com/7ba6a7fbb04547bd53c79f6f0003562cce8d013c3922412e60fb63bb69717f39/68747470733a2f2f692e6962622e636f2f70336a436b79502f696d6167652e706e67) <br /> <br />
+    - If SODA does not already have the strain within the suggestion, please click on the dropdown option to allow SODA to retrieve the appropriate RRIDs. <br /> <br />
+      ![](https://camo.githubusercontent.com/dd44cc7d70a105a5e03639e659d79e80b886ffc80227f774384832d3f04eba14/68747470733a2f2f692e6962622e636f2f7868714e714d372f696d6167652e706e67) <br /> <br />
 3.  Exact age: enter a numerical value in the text field and select the unit from the dropdown list.
 
 All other information is optional.

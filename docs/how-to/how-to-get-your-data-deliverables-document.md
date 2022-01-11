@@ -17,5 +17,3 @@ To obtain the Data Deliverables document associated with your award, simply ask 
     <img src="https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/How%20to/submission/data-deliverables-doc-example.PNG?raw=true">
     </img>
 </div>
-
-

@@ -12,4 +12,3 @@ When you are ready to generate your dataset, click the Generate button.
     <img src="https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/preview-dataset.PNG?raw=true">
     </img>
 </div>
-

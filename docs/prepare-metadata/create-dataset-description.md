@@ -54,7 +54,6 @@ Under this feature, SODA lets you quickly and accurately prepare the dataset_des
    width="100%"
    src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/dd-awardInfo.mp4"
 />
-   
 
 ### Related Information: protocol, paper, dataset, etc.
 

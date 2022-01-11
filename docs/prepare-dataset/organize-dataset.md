@@ -13,7 +13,6 @@ All SPARC datasets must follow the top level SPARC folder structure imposed by t
     </img>
 </div>
 
-
 ## How to
 
 1. Step 1: Getting started

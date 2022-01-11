@@ -6,7 +6,6 @@ sidebar_position: 5
 
 Click on the applicable panel to include the high-level metadata files of your choice. Note that submission, dataset_description, and subjects files are mandatory for all datasets while the others are optional.
 
-
 <div class="px-10">
     <img src="https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-step4-metadata-files.gif?raw=true">
     </img>

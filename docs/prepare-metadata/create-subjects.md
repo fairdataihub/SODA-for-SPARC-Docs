@@ -37,7 +37,6 @@ Clicking on "Add a subject" will prompt you to a form where you can add a new su
        src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Subjects-interface.mp4" 
 />
 
-
 - subject id: Lab-based schema for identifying each subject. This field should match the primary's sub-folder names. The subject_id must be unique.
 - Experimental Setup (Mandatory if available):
   - pool id: If data is collected on multiple subjects at the same time include the identifier of the pool where the data file will be found. If this is included it should be the name of the top level folder inside primary. E.g: pool 1.
@@ -67,7 +66,7 @@ Clicking on "Add a subject" will prompt you to a form where you can add a new su
        width="100%" 
        src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Subjects-protocols.mp4" 
 />
-  
+
 - Additional fields (Optional):
   - Handedness: This refers to the preference of the subject to use the right or left hand, whenever applicable.
   - Body mass: The body mass of the subject.

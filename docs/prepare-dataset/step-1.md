@@ -15,4 +15,3 @@ Select between the following 4 options to get started with your dataset organiza
     <img src="https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/getting-started.PNG?raw=true">
     </img>
 </div>
-

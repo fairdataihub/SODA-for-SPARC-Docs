@@ -12,4 +12,3 @@ To generate and include manifest files automatically, simply toggle the option t
     <img src="https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/request-manifests.PNG?raw=true">
     </img>
 </div>
-
