@@ -38,7 +38,7 @@ public; or to researchers who have intellectual property concerns.
 
 - Select/confirm your Pennsieve account and dataset. If you have not
 connected your Pennsieve account with SODA yet,
-[use the instructions available here.](sodaforsparc/docs/manage-dataset/Connect-your-Pennsieve-account-with-SODA)
+[use the instructions available here.](../manage-dataset/connect-your-pennsieve-account-with-SODA)
 - Click on "Begin Submission". Only dataset owners can begin a
 submission.
 - Complete all of the pre-publishing checklist items. Completed items
@@ -52,12 +52,6 @@ public immediately after publication. As per SPARC guidelines, you may
 select an embargo date up to one year in advance.
 
 
-<video
-controls
-width="100%"
-src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/prepublishing-publishing.mp4"
-/>
-
       
 ## How to withdraw a dataset from pre-publishing review
      
@@ -67,8 +61,3 @@ Pennsieve account with SODA yet, [use the instructions available here.](/sodafor
 - Click on "Begin Submission". Only dataset owners can withdraw a
 dataset.
 - Click the "Withdraw" button.
-<video
-    controls
-    width="100%"
-    src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/withdraw.mp4"
-/>
