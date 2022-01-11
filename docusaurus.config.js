@@ -63,10 +63,14 @@ const config = {
             position: "left",
             label: "Documentation",
           },
-          // { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/fairdataihub/SODA-for-SPARC",
             label: "GitHub",
+            position: "right",
+          },
+          {
+            href: "https://fairdataihub.org/contact-us",
+            label: "Contact Us",
             position: "right",
           },
         ],
@@ -132,6 +136,13 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+  scripts: [
+    {
+      src: "scripts/uploadcare.js",
+      defer: true,
+    },
+  ],
 };
 
 module.exports = config;
