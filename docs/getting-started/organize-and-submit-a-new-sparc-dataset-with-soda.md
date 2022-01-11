@@ -24,7 +24,9 @@ To create a new dataset on Pennsieve, use the Create a new dataset option under 
 
 You can then confirm your details in the account step. Type out the name of the dataset you want to create on Pennsieve and click on `Create dataset`.
 
-Note: You can use the navigation buttons in the bottom right corner of the app to go through all the mandatory steps needed to curate a dataset. These buttons will follow the same steps as detailed in this guide.
+:::info
+You can use the navigation buttons in the bottom right corner of the app to go through all the mandatory steps needed to curate a dataset. These buttons will follow the same steps as detailed in this guide.
+:::
 
 ![](https://camo.githubusercontent.com/b95119c2a2f81cc5831dd78d52527e3bbc5ebcd19ea0ce05ff62deccee0b3890/68747470733a2f2f692e6962622e636f2f544c4e425064702f696d6167652e706e67)
 
@@ -61,7 +63,12 @@ You can use the feature `Upload a banner image` under the `Manage Datasets` tab 
 - Click on `Edit banner image`
 - Click on `Import image` in the new pop-up window.
 - Select the image file you want to use as a banner image.
-- Crop the file as desired. Note that all banner images must be square, have a minimum display size of _512x512_ px (_1024x1024_ px preferred), and have a maximum file size of 5 MB.
+- Crop the file as desired.
+
+  :::info
+  All banner images must be square, have a minimum display size of _512x512_ px (_1024x1024_ px preferred), and have a maximum file size of 5 MB.
+  :::
+
 - Click on `Save changes`.
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Add-metadata/banner-image.gif?raw=true)
@@ -209,13 +216,20 @@ Use the `Details` option from the right-click menu to see the actual path of the
 
 ### Step 4: Specify high-level metadata files
 
-Click on the applicable panel to include the high-level metadata files of your choice. Note that submission, dataset_description, and subjects files are mandatory for all datasets. The samples file is mandatory if applicable. The other files are optional.
+Click on the applicable panel to include the high-level metadata files of your choice.
+:::info
+submission, dataset_description, and subjects files are mandatory for all datasets. The samples file is mandatory if applicable. The other files are optional.
+:::
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-step4-metadata-files.gif?raw=true)
 
 ### Step 5: Request manifest files
 
-To generate and include the mandatory manifest files automatically, simply toggle the option to `Yes`. Note that any existing manifest files at the target location for generating the dataset will be replaced.
+To generate and include the mandatory manifest files automatically, simply toggle the option to `Yes`.
+
+:::caution
+Any existing manifest files at the target location for generating the dataset will be replaced.
+:::
 
 ![](https://camo.githubusercontent.com/fb2f030c12514bb1537b8b5ad1e14f4b983ca18e196b8fc45e732edf293eb52a/68747470733a2f2f692e6962622e636f2f3638686473564c2f6d616e69666573742d73637265656e73686f742e706e67)
 

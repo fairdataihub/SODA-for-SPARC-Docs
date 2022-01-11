@@ -73,7 +73,7 @@ Clicking on `Add a subject` will prompt you to a form where you can add a new su
 - Additional fields (Optional):
   - _Handedness_: This refers to the preference of the subject to use the right or left hand, whenever applicable.
   - _Body mass_: The body mass of the subject.
-  - _Genotype_: This refers to the genetic makeup of genetically modified alleles in transgenic animals belonging to the same subject group. Note: Ignore this field if the RRID is already provided.
+  - _Genotype_: This refers to the genetic makeup of genetically modified alleles in transgenic animals belonging to the same subject group. Ignore this field if the RRID is already provided.
   - _Phenotype_: Provide the phenotype of the subject.
   - _Disease or disorder_: Provide any disease of disorder of the subject.
   - _Disease model_: Provide the disease model of the subject..

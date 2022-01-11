@@ -16,7 +16,7 @@ npm run build-win
 npm run deploy-win
 ```
 
-:::caution Note
+:::caution
 On Windows, once the Python code is packaged, make sure the `pyzmq.libs` folder is included in `pysodadist/api` before going on with packaging the app. If not, make a copy of the `pyzmq.libs` folder from `C:\your_account\Anaconda3\envs\{environment name}\Lib\site-packages` and paste it in the `pysodadist/api` folder.
 :::
 
