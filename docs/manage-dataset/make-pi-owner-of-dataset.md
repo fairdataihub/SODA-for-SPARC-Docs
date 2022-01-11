@@ -14,4 +14,9 @@ When you create a dataset, you have 'owner' permissions on the dataset. As per S
 
 1. Select/confirm your Pennsieve account and the dataset that you wish to rename. If you have not connected your Pennsieve account with SODA yet, use the instructions available here.
 2. Select your SPARC award's PI's name in the drop-down list.
-3. Click on 'Make PI owner' (you will automatically be assigned 'manager' permissions).
+3. Click on `Make PI owner`.
+
+:::note
+You will automatically be assigned `manager` permissions to the dataset if you were the owner of the dataset.
+:::
+
