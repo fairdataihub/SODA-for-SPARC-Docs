@@ -31,8 +31,8 @@ public; or to researchers who have intellectual property concerns.
 ## How to submit a dataset for pre-publishing review
 
 - Select/confirm your Pennsieve account and dataset. If you have not
-connected your Pennsieve account with SODA yet,
-[use the instructions available here.](../manage-dataset/connect-your-pennsieve-account-with-SODA)
+  connected your Pennsieve account with SODA yet,
+  [use the instructions available here.](../manage-dataset/connect-your-pennsieve-account-with-SODA)
 - Click on "Begin Submission". Only dataset owners can begin a
   submission.
 - Complete all of the pre-publishing checklist items. Completed items
@@ -45,7 +45,6 @@ connected your Pennsieve account with SODA yet,
     public immediately after publication. As per SPARC guidelines, you may
     select an embargo date up to one year in advance.
 
-      
 ## How to withdraw a dataset from pre-publishing review
 
 - Confirm your Pennsieve account and select a dataset that you have
