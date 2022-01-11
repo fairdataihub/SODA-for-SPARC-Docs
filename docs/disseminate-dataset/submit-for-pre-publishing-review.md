@@ -49,7 +49,7 @@ connected your Pennsieve account with SODA yet,
 
 - Confirm your Pennsieve account and select a dataset that you have
   submitted for pre-publishing review. If you have not connected your
-  Pennsieve account with SODA yet, [use the instructions available here.](/sodaforsparc/docs/manage-dataset/connect-your-pennsieve-account-with-soda)
+  Pennsieve account with SODA yet, [use the instructions available here.](../manage-dataset/connect-your-pennsieve-account-with-soda)
 - Click on "Begin Submission". Only dataset owners can withdraw a
   dataset.
 - Click the "Withdraw" button.
