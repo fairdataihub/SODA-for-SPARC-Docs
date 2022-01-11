@@ -19,11 +19,11 @@ When publishing a dataset you may choose to do so under an embargo that lifts at
 - Complete all of the pre-publishing checklist items. Completed items will be marked with a green check. Incomplete items will be marked with a red cross:
   - Click on any incomplete item text to be taken to the section of SODA where you can complete that item.
   - To connect your ORCID iD to Pennsieve you will be guided through the ORCID OAuth flow within a new SODA window.
-<video
-   controls
-   width="100%"
-   src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/pre-publishing-checklist.mp4"
-/>
+    <video
+       controls
+       width="100%"
+       src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/pre-publishing-checklist.mp4"
+    />
 - Click `Continue`
 - Optionally exclude any of your dataset's top level metadata files from publishing by clicking the `checkbox` next to the files you want excluded.
 - Click the `Submit` button once all checklist items are complete.
