@@ -16,4 +16,3 @@ Simply click on the name of the file and select the destination folder to downlo
     <img src="https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Prepare-metadata/Download-templates/download-templates.PNG?raw=true">
     </img>
 </div>
-

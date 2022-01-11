@@ -20,4 +20,3 @@ A general solution for this issue is to end the pennsieve.exe process that is st
     <img src="https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Common-errors/blackfynn-agent-running-error.gif?raw=true">
     </img>
 </div>
-

@@ -48,7 +48,7 @@ h6,
 }
 
 video {
-  @apply px-10
+  @apply px-10;
 }
 
 .theme-last-updated {
