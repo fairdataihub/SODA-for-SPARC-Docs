@@ -39,7 +39,12 @@ public; or to researchers who have intellectual property concerns.
   will be marked with a green check. Incomplete items will be marked
   with a red cross:
   - Click on any incomplete item text to be taken to the section of SODA where you can complete that item.
-- To connect your ORCID iD to Pennsieve you will be guided through the ORCID OAuth flow within a new SODA window.
+  - To connect your ORCID iD to Pennsieve you will be guided through the ORCID OAuth flow within a new SODA window.
+<video
+   controls
+   width="100%"
+   src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/pre-publishing-checklist.mp4"
+/>
 - Click the "Submit" button once all checklist items are complete.
   - Select an embargo date or choose to make your dataset available to the
     public immediately after publication. As per SPARC guidelines, you may
@@ -53,3 +58,9 @@ public; or to researchers who have intellectual property concerns.
 - Click on "Begin Submission". Only dataset owners can withdraw a
   dataset.
 - Click the "Withdraw" button.
+
+<video
+   controls
+   width="100%"
+   src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/withdraw.mp4"
+/>
