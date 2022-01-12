@@ -25,7 +25,7 @@ const EmojiFeedback = ({ activeReaction, setActiveReaction }) => {
         <div className="flex justify-center w-full mt-2">
           <button
             className={
-              "text-xl font-bold rounded-md outline-none border-none px-4 py-2 text-white " +
+              "text-xl font-bold rounded-md outline-none border-none px-10 py-2 text-white " +
               (activeReaction !== ""
                 ? "cursor-pointer "
                 : "cursor-not-allowed ") +
