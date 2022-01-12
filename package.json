@@ -23,10 +23,14 @@
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.1.1",
     "file-loader": "^6.2.0",
+    "framer-motion": "^5.5.7",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-lottie": "^1.2.3",
     "react-player": "^2.9.0",
+    "styled-components": "^5.3.3",
+    "styled-normalize": "^8.0.7",
     "url-loader": "^4.1.1"
   },
   "browserslist": {
