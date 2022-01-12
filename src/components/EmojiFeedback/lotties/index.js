@@ -8,7 +8,7 @@ import amazingAnimationData from "./amazing.json";
 // Emotions array
 import { reactions } from "../data";
 
-const selectAnimationData = reaction => {
+const selectAnimationData = (reaction) => {
   switch (reaction) {
     case reactions[0]:
       return awfulAnimationData;
