@@ -13,7 +13,7 @@ If you select to generate your dataset locally, it will be generated at the desi
 3. Click `Generate` to create your dataset.
 
 :::note
- When uploading datasets with large amounts of files, a dataset upload may take longer than expected. This is regardless of the total storage size of your dataset. In the event of an usnsuccessful dataset upload you will receieve an error notification. You can trust that as long as there is no error notification SODA is uploading your dataset. 
+When uploading datasets with large amounts of files, a dataset upload may take longer than expected. This is regardless of the total storage size of your dataset. In the event of an usnsuccessful dataset upload you will receieve an error notification. You can trust that as long as there is no error notification SODA is uploading your dataset.
 :::
 
 <div class="px-10 my-5">
