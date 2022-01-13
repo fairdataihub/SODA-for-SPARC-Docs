@@ -21,9 +21,11 @@
   --ifm-menu-color-background-active: #ecfdf5;
   --ifm-code-background: #f0fdfa;
 
+  --plum-color: #ba0d49;
+
   --hr-color: #e5e7eb;
   --feedback-yes-color: #13716d;
-  --feedback-no-color: #ba0d49;
+  --feedback-no-color: var(--plum-color);
 }
 
 /* plum: #ba0d49,
@@ -33,12 +35,28 @@ plum very light: #f8cdbe7,
 
 /* dark theme variables */
 html[data-theme="dark"] {
-  --ifm-color-primary: #4e89e8;
-  --ifm-color-primary-dark: #5a91ea;
+  --ifm-color-primary-lightest: #f784b4;
+  --ifm-color-primary-lighter: #f45b9b;
+  --ifm-color-primary-light: #f34d93;
+  --ifm-color-primary: #f13282;
+  --ifm-color-primary-dark: #ef1771;
+  --ifm-color-primary-darker: #e8106a;
+  --ifm-color-primary-darkest: #bf0d57;
+
+  --ifm-link-color: #ff227e;
+
+  --ifm-toc-link-color: #ced2d8;
+
+  --ifm-menu-color: #e2dfdf;
+  --ifm-menu-color-active: #f0287c;
+  --ifm-menu-color-background-active: #383838;
+
+  --ifm-code-background: #605C5C;
+
+  --plum-color: #e4467d;
 
   --hr-color: #334155;
   --feedback-yes-color: #38b8b1;
-  --feedback-no-color: #e4467d;
 }
 
 /* All the relevant class names can be found here: https://docusaurus.io/docs/styling-layout#theme-class-names */
@@ -83,6 +101,10 @@ h6,
 
 [aria-label="animation"] {
   @apply m-0 !important;
+}
+
+.table-of-contents__link--active {
+  color: var(--plum-color) !important;
 }
 
 .theme-last-updated {
