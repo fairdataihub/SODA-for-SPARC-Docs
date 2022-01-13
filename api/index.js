@@ -7,7 +7,7 @@ const app = express();
 app.use(express.json());
 
 app.post("/api/feedback", (req, res) => {
-  const visitor = ua("UA-215309627-1", uuidv4());
+  const visitor = ua(process.env.UNIVERSAL_ANALYTICS_ID, uuidv4());
 
   const body = req.body;
 

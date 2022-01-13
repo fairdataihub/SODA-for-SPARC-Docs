@@ -300,3 +300,7 @@ All the information that is tracked within SODA is anonymized with privacy in mi
 - When you integrate your Pennsieve account with ORCID iD:
   - Success/Errors with integrating
   - The dataset name and/or ID
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

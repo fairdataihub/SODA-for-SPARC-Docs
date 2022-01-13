@@ -79,3 +79,7 @@ After you complete all steps, click on `Generate` to generate your dataset descr
 ## Note
 
 In the contributors' table, you can drag and drop rows to organize contributors in the order that they should appear in the dataset_description file. You can also remove one with the delete button.
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

@@ -45,3 +45,7 @@ When publishing a dataset you may choose to do so under an embargo that lifts at
    width="100%"
    src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/withdraw.mp4"
 />
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

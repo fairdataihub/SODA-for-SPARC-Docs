@@ -19,13 +19,11 @@ If you do not have pre-existing datasets SODA allows you to create a new dataset
 1. You can start by either choosing to generate a manifest file for a pre-existing dataset stored on your local computer or on Pennsieve.
 2. Select where the manifest files will be generated.
    - For local datasets user the `Browse here` input to point SODA to your dataset's location.
-   <div class="px-10">
-     <img src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Manifest/manifest-local-dataset.PNG?raw=true">
-     </img>
-   </div>
+     ![](https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Manifest/manifest-local-dataset.PNG?raw=true)
    - For Pennsieve datasets use the dropdown to select which Pennsieve dataset you would like to create Manifest files for.
-   <div class="px-10">
-     <img src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Manifest/manifest-pennsieve.PNG?raw=true">
-     </img>
-   </div>
+     ![](https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Manifest/manifest-pennsieve.PNG?raw=true)
 3. Click `Generate`
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

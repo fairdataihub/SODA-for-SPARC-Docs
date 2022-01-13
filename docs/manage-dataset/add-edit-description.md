@@ -25,3 +25,7 @@ If editing an existing description you will be presented with an `Edit descripti
 - SODA will notify you if one of your required sections is longer than a single paragraph.
 - SODA will notify you if you are missing a required section before finalizing your description.
 - SODA will never stop you from creating a description that does not conform to SPARC guidelines.
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

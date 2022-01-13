@@ -13,3 +13,7 @@ Any existing manifest files at the target location for generating the dataset wi
 :::
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/request-manifests.PNG?raw=true)
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

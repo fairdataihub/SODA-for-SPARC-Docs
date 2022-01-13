@@ -258,3 +258,7 @@ Once the dataset is generated, you will be prompted to share it with the Curatio
 You can find this feature under `Share with Curation Team` under the `Disseminate Dataset` tab. The dataset you created during step A2 should be automatically selected (you can select another one by clicking on the pencil symbol next to `Current dataset`). Simply click on `Share now` to share your dataset with the Curation Team for review.
 
 You are now done! Wait to hear back from the Curation Team.
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

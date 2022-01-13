@@ -12,3 +12,7 @@ Sharing your dataset with the Curation Team must be done only when your dataset 
 
 1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](../manage-dataset/connect-your-pennsieve-account-with-soda).
 2. Click on `Share now` to add your dataset to the Curation team's review queue.
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

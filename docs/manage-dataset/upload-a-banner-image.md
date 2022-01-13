@@ -23,3 +23,7 @@ All SPARC datasets must have the following metadata on Pennsieve: subtitle, desc
 6. Click on `Save changes`.
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Add-metadata/banner-image.gif?raw=true)
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

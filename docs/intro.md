@@ -4,32 +4,24 @@ sidebar_position: 1
 
 # What is SODA for SPARC?
 
-Let's discover **Docusaurus in less than 5 minutes**.
+SODA (Software to Organize Data Automatically) for SPARC is a cross-platform desktop software that allows SPARC-funded researchers to easily comply with the FAIR SPARC Data curation and sharing guidelines. Learn more about SODA for SPARC, its impact and its related resources on our website at https://fairdataihub.org/sodaforsparc.
 
-## Getting Started
+### What is SPARC?
 
-Get going by **creating a new site**.
+The NIH's Stimulating Peripheral Activity to Relieve Conditions (SPARC) program seeks to accelerate development of therapeutic devices that modulate electrical activity in nerves to improve organ function. [Learn more about SPARC here](https://commonfund.nih.gov/sparc).
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+import PageFeedback from '@site/src/components/PageFeedback';
 
-## Generate a new site
+### What are the FAIR SPARC Data Guidelines?
 
-Generate a new Docusaurus site using the **classic template**:
+All SPARC-funded researchers must curate their datasets following the SPARC Data Standards (SDS) and share them openly on the Pennsieve data platform as per their funding agreement with SPARC. [Learn more about SDS here](https://doi.org/10.1101/2021.02.10.430563).
 
-```shell
-npm init docusaurus@latest my-website classic
-```
+### What are the challenges?
 
-## Start your site
+The guidelines are very exhaustive to maximize FAIRness of SPARC datasets but are challenging and time-consuming for researchers to implement.
 
-Execute the development server:
+### What does SODA for SPARC do?
 
-```shell
-cd my-website
+SODA for SPARC combines intuitive user interfaces and automation such that researchers can efficiently and accurately curate their SPARC datasets.
 
-npx docusaurus start
-```
-
-Your place starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+<PageFeedback />

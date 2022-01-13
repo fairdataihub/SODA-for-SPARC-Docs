@@ -1,5 +1,7 @@
 ---
 sidebar_position: 11
+pagination_prev: null
+pagination_next: null
 ---
 
 # Changelog
@@ -316,3 +318,7 @@ All notable changes to SODA for SPARC will be documented in this file.
 - Updated Airtable SPARC's table name to reflect the change initiated by SPARC. Prior to the fix, SODA could not connect to the SPARC award data sheet, thus raising an error when users utilize the Prepare metadata feature.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

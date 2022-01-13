@@ -56,7 +56,7 @@ const AskFeedback = ({ setShowSuccess }) => {
       }
     });
 
-    setShowSuccess(false);
+    setShowSuccess(true);
   };
 
   return (

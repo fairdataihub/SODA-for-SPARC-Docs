@@ -58,3 +58,7 @@ These steps can be completed in the `Disseminate Dataset` tab of SODA.
 
 - [Share dataset with the SPARC Consortium as Embargoed dataset](../disseminate-dataset/share-with-sparc-consortium)
 - [Send dataset for pre-publishing review](../disseminate-dataset/submit-for-pre-publishing-review)
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

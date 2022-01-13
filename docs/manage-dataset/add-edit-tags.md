@@ -20,3 +20,7 @@ All SPARC datasets must have the following metadata on Pennsieve: subtitle, desc
    - If you already had tags you will be presented with an `Edit Tags` button to click on instead.
 
    ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Manage-permissions/add-permissions.gif?raw=true)
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

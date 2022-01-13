@@ -23,3 +23,7 @@ SODA will automatically check and see if you have an associated account with Pen
 - During subsequent uses, SODA will automatically connect to the Pennsieve account you were connected to the last time.
 - Neither the SODA Team nor anyone else besides you will have access to your Pennsieve account. The generated login information required for future sessions on your Pennsieve account will be stored locally on your computer only.
 - If you do not wish to provide your login details to SODA, you can create a set of API keys on Pennsieve and provide it to SODA. Instructions for this process can be found at Connect your Pennsieve account with SODA (API Key)
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />
