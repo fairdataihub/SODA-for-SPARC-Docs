@@ -1,7 +1,7 @@
-const app = require("express")();
-const bodyParser = require("body-parser");
+const express = require("express");
 var ua = require("universal-analytics");
 
+const app = express();
 app.use(express.json());
 
 app.get("/feedback", (req, res) => {
