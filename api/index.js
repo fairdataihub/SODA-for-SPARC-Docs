@@ -1,19 +1,15 @@
 const express = require("express");
 var ua = require("universal-analytics");
-// var cors = require("cors");
+const { v4: uuidv4 } = require("uuid");
 
 const app = express();
 
-// app.use(cors());
 app.use(express.json());
 
 app.post("/api", (req, res) => {
-  const visitor = ua("UA-215309627-1");
+  const visitor = ua("UA-215309627-1", uuidv4());
 
   const body = req.body;
-
-  // console.log("request", req);
-  console.log("request body", body);
 
   res.setHeader("Content-Type", "text/html");
   res.setHeader("Cache-Control", "s-max-age=1, stale-while-revalidate");
@@ -29,8 +25,9 @@ app.post("/api", (req, res) => {
       const category = body.category;
       const action = body.action;
 
-      console.log("category", category);
-      console.log("action", action);
+      console.log(
+        `Feedback submitted for Category '${category}' with Action '${action}'`
+      );
 
       visitor.event(category, action).send();
       res.json({ success: true, message: `Feedback Sent` });
