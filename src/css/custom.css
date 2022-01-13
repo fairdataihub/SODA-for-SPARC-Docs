@@ -20,12 +20,21 @@
   --ifm-toc-link-color: #94a3b8;
   --ifm-menu-color-background-active: #ecfdf5;
   --ifm-code-background: #f0fdfa;
+
+  --hr-color: #e5e7eb;
 }
+
+/* plum: #ba0d49,
+plum-light: #dd105a,
+plum very light: #f8cdbe7,
+ */
 
 /* dark theme variables */
 html[data-theme="dark"] {
   --ifm-color-primary: #4e89e8;
   --ifm-color-primary-dark: #5a91ea;
+
+  --hr-color: #334155;
   /* any other colors you wish to overwrite */
 }
 
@@ -50,6 +59,19 @@ h6,
 .theme-doc-markdown img,
 .theme-doc-markdown video {
   @apply shadow-lg shadow-teal-800/50  my-5;
+}
+
+.theme-doc-markdown hr{
+  border-color: var(--hr-color);
+  @apply border  border-solid rounded-lg;
+}
+
+.theme-doc-markdown .feedbackButtonYes{
+  @apply px-6 py-1 text-lg font-semibold text-[#13716d] transition-all bg-white border-2 border-[#13716d] border-solid rounded-lg appearance-none hover:shadow-md hover:shadow-[#13716d] hover:-translate-y-px
+}
+
+.theme-doc-markdown .feedbackButtonNo{
+  @apply px-6 py-1 text-lg font-semibold transition-all bg-white border-2 border-[#ba0d49] text-[#ba0d49] border-solid rounded-lg appearance-none hover:shadow-md hover:shadow-[#ba0d49] hover:-translate-y-px active:shadow-none active:translate-y-0
 }
 
 .theme-last-updated {
