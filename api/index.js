@@ -4,7 +4,7 @@ var ua = require("universal-analytics");
 const app = express();
 app.use(express.json());
 
-app.get("/feedback", (req, res) => {
+app.post("/feedback", (req, res) => {
   const visitor = ua("UA-215309627-1");
 
   const body = req.body;
