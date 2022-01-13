@@ -22,6 +22,8 @@
   --ifm-code-background: #f0fdfa;
 
   --hr-color: #e5e7eb;
+  --feedback-yes-color: #13716d;
+  --feedback-no-color: #ba0d49;
 }
 
 /* plum: #ba0d49,
@@ -35,7 +37,8 @@ html[data-theme="dark"] {
   --ifm-color-primary-dark: #5a91ea;
 
   --hr-color: #334155;
-  /* any other colors you wish to overwrite */
+  --feedback-yes-color: #38b8b1;
+  --feedback-no-color: #e4467d;
 }
 
 /* All the relevant class names can be found here: https://docusaurus.io/docs/styling-layout#theme-class-names */
@@ -67,15 +70,19 @@ h6,
 }
 
 .theme-doc-markdown .feedback-button {
-  @apply flex flex-row items-center w-full px-6 py-1 text-lg font-semibold transition-all border-2 border-solid rounded-lg appearance-none cursor-pointer hover:shadow-md hover:-translate-y-px active:shadow-none active:translate-y-0 justify-evenly;
+  @apply flex flex-row items-center w-full px-6 py-1 text-lg font-semibold transition-all bg-transparent border-2 border-solid rounded-lg appearance-none cursor-pointer hover:shadow-md hover:-translate-y-px active:shadow-none active:translate-y-0 justify-evenly;
 }
 
 .theme-doc-markdown .feedback-button-yes {
-  @apply text-[#13716d] bg-white border-[#13716d] hover:shadow-[#13716d];
+  @apply text-[color:var(--feedback-yes-color)] border-[color:var(--feedback-yes-color)] hover:shadow-[color:var(--feedback-yes-color)];
 }
 
 .theme-doc-markdown .feedback-button-no {
-  @apply bg-white border-[#ba0d49] text-[#ba0d49] hover:shadow-[#ba0d49];
+  @apply text-[color:var(--feedback-no-color)] border-[color:var(--feedback-no-color)] hover:shadow-[color:var(--feedback-no-color)];
+}
+
+[aria-label="animation"] {
+  @apply m-0 !important;
 }
 
 .theme-last-updated {

@@ -60,8 +60,8 @@ const AskFeedback = ({ setShowSuccess }) => {
   };
 
   return (
-    <div className="flex flex-row items-center justify-center w-full mt-4">
-      <h3 className="pr-5 mb-0 w-max"> Was this page helpful? </h3>
+    <div className="flex flex-col items-center justify-center w-full mt-4 sm:flex-row">
+      <h3 className="pr-5 mb-5 sm:mb-0 w-max"> Was this page helpful? </h3>
 
       <div className="flex items-center justify-center space-x-4">
         <button
