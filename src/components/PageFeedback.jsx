@@ -3,7 +3,7 @@ import Lottie from "react-lottie";
 
 import LikeAnimationData from "./lotties/like.json";
 import DislikeAnimationData from "./lotties/dislike.json";
-import SucessAnimationData from "./lotties/success.json";
+import SuccessAnimationData from "./lotties/success.json";
 
 const AskFeedback = ({ setShowSuccess }) => {
   const [startLikeAnimation, setStartLikeAnimation] = React.useState(false);
@@ -103,7 +103,7 @@ const ShowSuccessMessage = () => {
   const animationOptions = {
     loop: true,
     autoplay: true,
-    animationData: SucessAnimationData,
+    animationData: SuccessAnimationData,
     rendererSettings: {
       preserveAspectRatio: "xMidYMid slice",
     },
