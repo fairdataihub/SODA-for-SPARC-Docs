@@ -18,3 +18,7 @@ SODA helps you prepare the [manifest metadata files](../prepare-dataset/step-5.m
   - Filename: This should be path to the files relative to the high-level SPARC folder where the manifest file is located (with a forward slash independently of the OS). Note that the extension of the file is included.
   - Timestamp: The last time the file was modified locally on the creator's computer, preferably in ISO 8601 format with UTC offset. For example, this would be `2019-07-13T02:43:14+05:30` for a file last modified on July 13th 2019 at 2:43 AM (14 seconds) in PST (thus +5:30 to show the offset from UTC). If this timestamp is not available, the Pennsieve's timestamp (which indicate the last time the file was modified on Pennsieve) could be used as an alternative.
   - File type: Type of this file. Would be `.jpg` or `Image file` for the file histology.jpg.
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

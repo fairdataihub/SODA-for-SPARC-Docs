@@ -1,5 +1,6 @@
 module.exports = {
   content: ["./src/**/*.{html,js,jsx,ts,tsx}", "./docs/**/*.{md,mdx}"],
+  dark: "class",
   theme: {
     extend: {
       fontFamily: {

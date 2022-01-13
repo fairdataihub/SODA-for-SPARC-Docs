@@ -37,3 +37,7 @@ SODA helps you prepare the [dataset description metadata file](../prepare-metada
 :::info
 There should be only one of `Originating Article DOI`, `Protocol URL or DOI`, or `Additional Links` specified in each column. If there are multiple of those elements, each must be in a separate column. This is to avoid confusion about what the `Link Description` is for in case it is provided.
 :::
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

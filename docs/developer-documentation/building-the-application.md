@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+pagination_next: null
 ---
 
 # Building the application
@@ -67,3 +68,7 @@ npm run build-linux
 ```
 
 If there are any errors, please check your build settings in the package.json. For more information regarding the build process and all the possible configuration options please refer to [electron-builder](https://www.electron.build/configuration/configuration) documentation.
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

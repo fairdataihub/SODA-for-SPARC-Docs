@@ -23,3 +23,7 @@ We suggest keeping your group information up to date in the Airtable sheet, espe
 :::info
 You will have to do this only once and the Airtable connection will be then remembered by SODA during subsequent uses. Your Airtable key will be stored locally on your computer and the SODA Team will not have access to it.
 :::
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

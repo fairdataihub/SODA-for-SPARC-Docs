@@ -11,3 +11,7 @@ sidebar_position: 1
 ## Solution
 
 You can follow the [instructions provided here](https://docs.pennsieve.io/docs/the-pennsieve-agent) to install the Pennsieve agent. For any other questions, please visit the dedicated [Pennsieve Documentation](https://docs.pennsieve.io/docs).
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

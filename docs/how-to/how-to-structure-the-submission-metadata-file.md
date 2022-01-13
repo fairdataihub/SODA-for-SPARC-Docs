@@ -18,3 +18,7 @@ SODA helps you prepare the [submission metadata file](../prepare-metadata/create
   - Milestone achieved: This milestone must match exactly with one of the milestones agreed with the NIH in the Dataset Deliverables document. A screenshot of a sample Dataset Deliverables document is provided below. In case the dataset isn't related to a pre-agreed dataset, it should be explicitly mentioned (e.g., `Not included in the Dataset Deliverables document`).
   - Milestone completion date: This date must match exactly with the completion date agreed with the NIH in the Dataset Deliverables document for the above mentioned **Milestone achieved**. In the case the dataset isn't related to a pre-agreed milestone, it should be explicitly mentioned (e.g., `Not included in the Dataset Deliverables document`).
     ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/How%20to/submission/data-deliverables-doc-example.PNG?raw=true0)
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

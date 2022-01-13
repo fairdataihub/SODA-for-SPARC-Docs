@@ -35,3 +35,7 @@ SODA helps you prepare the [samples metadata file](../prepare-metadata/create-sa
   - Protocol title: This field refers to the title of the protocol within Protocols.io once the research protocol is uploaded to Protocols.io. In SODA, users can connect to their protocols.io account by clicking on `Help me with my protocol information` under the Protocol Information tab. An login interface will instruct users to sign in their account in the browser at [protocols.io](https://www.protocols.io/developers). An access token is required for automatic extraction of the protocol titles and links and can be easily obtained from the provided website once they are signed in. Once users successfully connect their account with with SODA, they can search in the input field for their protocol titles.
   - Protocol.io location: This refers to the Protocol.io URL for the protocol title. Once the protocol is uploaded to Protocols.io, the protocol must be shared with the SPARC group and the Protocol.io URL is noted in this field. Please share with the SPARC group. In SODA, when users select a protocol title in the previous field (Protocol title), the protocol location or link will be automatically filled out for this field.
   - Experimental log file name: This is a file containing experimental records for each sample, whenever applicable.
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

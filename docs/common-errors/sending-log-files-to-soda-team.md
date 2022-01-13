@@ -21,3 +21,7 @@ Send us all the files located here (you can zip that logs folder and simply emai
 Unable to find the AppData (Windows), .config (Ubuntu), or Library (macOS) folder
 
 Solution: It is very likely that the folder is hidden on your computer. To learn about how to show hidden files and folders, [please visit here](https://fairdataihub.org/sodaforsparc/docs/common-errors/Issues-regarding-hidden-files-or-folders).
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />
