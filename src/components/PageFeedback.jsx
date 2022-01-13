@@ -1,6 +1,5 @@
 import React from "react";
 import Lottie from "react-lottie";
-import ReactGA from "react-ga4";
 
 import LikeAnimationData from "./lotties/like.json";
 import DislikeAnimationData from "./lotties/dislike.json";
@@ -41,7 +40,7 @@ const AskFeedback = ({ setShowSuccess }) => {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ category: analyticsTitle, action: reaction }),
     };
-    fetch("/api", requestOptions).then(async (response) => {
+    fetch("/api/feedback", requestOptions).then(async (response) => {
       const status = response.status;
 
       if (status === 200) {
@@ -58,19 +57,6 @@ const AskFeedback = ({ setShowSuccess }) => {
     });
 
     setShowSuccess(false);
-
-    // ReactGA.initialize([
-    //   {
-    //     trackingId: "G-T4726G4DJ0",
-    //     debug: true,
-    //   },
-    // ]);
-
-    // ReactGA.event({
-    //   category: analyticsTitle,
-    //   action: reaction,
-    //   transport: "beacon",
-    // });
   };
 
   return (
