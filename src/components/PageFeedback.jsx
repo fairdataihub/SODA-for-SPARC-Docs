@@ -41,7 +41,7 @@ const AskFeedback = ({ setShowSuccess }) => {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ category: analyticsTitle, action: reaction }),
     };
-    fetch("/feedback", requestOptions).then(async (response) => {
+    fetch("/api", requestOptions).then(async (response) => {
       const status = response.status;
 
       if (status === 200) {

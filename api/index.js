@@ -7,7 +7,7 @@ const app = express();
 // app.use(cors());
 app.use(express.json());
 
-app.post("/feedback", (req, res) => {
+app.post("/api", (req, res) => {
   const visitor = ua("UA-215309627-1");
 
   const body = req.body;
