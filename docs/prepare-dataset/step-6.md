@@ -12,6 +12,10 @@ If you select to generate your dataset locally, it will be generated at the desi
 2. Enter the name of the new dataset (a folder with this name will be created at the selected destination).
 3. Click `Generate` to create your dataset.
 
+:::note
+When uploading datasets with large amounts of files, a dataset upload may take longer than expected. This is regardless of the total storage size of your dataset. In the event of an usnsuccessful dataset upload you will receieve an error notification. You can trust that as long as there is no error notification SODA is uploading your dataset.
+:::
+
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/generate-1.gif?raw=true)
 
 If you select to generate your dataset directly on Pennsieve, it will be generated on the Pennsieve dataset with the specified structure. No modifications will be made to the original local files/folders specified during the previous step.
