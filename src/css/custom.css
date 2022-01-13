@@ -58,20 +58,24 @@ h6,
 
 .theme-doc-markdown img,
 .theme-doc-markdown video {
-  @apply shadow-lg shadow-teal-800/50  my-5;
+  @apply my-5 shadow-lg shadow-teal-800/50;
 }
 
-.theme-doc-markdown hr {
+.theme-doc-markdown .feedback-divider {
   border-color: var(--hr-color);
-  @apply border  border-solid rounded-lg;
+  @apply border border-solid rounded-lg;
 }
 
-.theme-doc-markdown .feedbackButtonYes {
-  @apply px-6 py-1 text-lg font-semibold text-[#13716d] transition-all bg-white border-2 border-[#13716d] border-solid rounded-lg appearance-none hover:shadow-md hover:shadow-[#13716d] hover:-translate-y-px;
+.theme-doc-markdown .feedback-button {
+  @apply flex flex-row items-center w-full px-6 py-1 text-lg font-semibold transition-all border-2 border-solid rounded-lg appearance-none cursor-pointer hover:shadow-md hover:-translate-y-px active:shadow-none active:translate-y-0 justify-evenly;
 }
 
-.theme-doc-markdown .feedbackButtonNo {
-  @apply px-6 py-1 text-lg font-semibold transition-all bg-white border-2 border-[#ba0d49] text-[#ba0d49] border-solid rounded-lg appearance-none hover:shadow-md hover:shadow-[#ba0d49] hover:-translate-y-px active:shadow-none active:translate-y-0;
+.theme-doc-markdown .feedback-button-yes {
+  @apply text-[#13716d] bg-white border-[#13716d] hover:shadow-[#13716d];
+}
+
+.theme-doc-markdown .feedback-button-no {
+  @apply bg-white border-[#ba0d49] text-[#ba0d49] hover:shadow-[#ba0d49];
 }
 
 .theme-last-updated {
