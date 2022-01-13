@@ -33,6 +33,7 @@
     "react-player": "^2.9.0",
     "styled-components": "^5.3.3",
     "styled-normalize": "^8.0.7",
+    "universal-analytics": "^0.5.3",
     "url-loader": "^4.1.1"
   },
   "browserslist": {

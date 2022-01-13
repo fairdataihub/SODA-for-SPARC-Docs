@@ -36,6 +36,15 @@ const AskFeedback = ({ setShowSuccess }) => {
     const windowTitle = document.title;
     const analyticsTitle = windowTitle.split(" | ")[0];
 
+    const requestOptions = {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ category: analyticsTitle, action: reaction }),
+    };
+    fetch("/feedback", requestOptions).then((response) =>
+      console.log(response)
+    );
+
     setShowSuccess(false);
 
     // ReactGA.initialize([
