@@ -72,8 +72,8 @@ const AskFeedback = ({ setShowSuccess }) => {
         >
           <Lottie
             options={likeAnimationOptions}
-            height={30}
-            width={30}
+            height={25}
+            width={25}
             isClickToPauseDisabled
             isStopped={!startLikeAnimation}
           />
@@ -87,8 +87,8 @@ const AskFeedback = ({ setShowSuccess }) => {
         >
           <Lottie
             options={dislikeAnimationOptions}
-            height={30}
-            width={30}
+            height={25}
+            width={25}
             isClickToPauseDisabled
             isStopped={!startDislikeAnimation}
           />
