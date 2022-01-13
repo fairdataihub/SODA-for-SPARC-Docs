@@ -9,6 +9,9 @@ app.get("/feedback", (req, res) => {
 
   const body = req.body;
 
+  console.log("request", req);
+  console.log("request body", req.body);
+
   res.setHeader("Content-Type", "text/html");
   res.setHeader("Cache-Control", "s-max-age=1, stale-while-revalidate");
 
