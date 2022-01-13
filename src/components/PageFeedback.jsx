@@ -41,8 +41,24 @@ const AskFeedback = ({ setShowSuccess }) => {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ category: analyticsTitle, action: reaction }),
     };
-    fetch("/feedback", requestOptions).then((response) =>
-      console.log(response)
+    fetch("http://localhost:5000/feedback", requestOptions).then(
+      async (response) => {
+        console.log(response);
+
+        const status = response.status;
+
+        if (status === 200) {
+          const res = await response.json();
+
+          if (res.success) {
+            console.log("post", res.message);
+          } else {
+            console.log("error", res.message);
+          }
+        } else {
+          console.log("There was an error sending the feedback");
+        }
+      }
     );
 
     setShowSuccess(false);
