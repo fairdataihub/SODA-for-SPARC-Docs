@@ -16,7 +16,8 @@ A general solution for this issue is to end the `pennsieve.exe` or `pennsieve` p
 2. [macOS](https://support.apple.com/guide/activity-monitor/quit-a-process-actmntr1002/mac)
 3. [Ubuntu](https://www.cyberciti.biz/faq/stop-process-ubuntu-linux-command/)
 
-<div class="px-10 my-5">
-    <img src="https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Common-errors/blackfynn-agent-running-error.gif?raw=true">
-    </img>
-</div>
+![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Common-errors/blackfynn-agent-running-error.gif?raw=true)
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

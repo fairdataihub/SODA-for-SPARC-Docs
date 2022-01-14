@@ -8,7 +8,8 @@ This step serves as a confirmation page before SODA generates your dataset. You 
 
 When you are ready to generate your dataset, click the `Generate` button.
 
-<div class="px-10 my-5">
-    <img src="https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/preview-dataset.PNG?raw=true">
-    </img>
-</div>
+![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/preview-dataset.PNG?raw=true)
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

@@ -32,7 +32,8 @@ SODA makes use of two resources to help you prepare the submission file rapidly 
 5. Enter the date associated with this milestone or select from a dropdown of milestone(s) if a Data Deliverable document is imported.
 6. Review and click on `Generate` to generate your submission file. You have the options to generate and save it on your computer or generate and upload it to Pennsieve. The generated file will be ready to be included in your dataset.
 
-<div class="px-10">
-    <img src="https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Prepare-metadata/Submission/submission.gif?raw=true">
-    </img>
-</div>
+![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Prepare-metadata/Submission/submission.gif?raw=true)
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

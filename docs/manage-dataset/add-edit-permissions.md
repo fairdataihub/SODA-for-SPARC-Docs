@@ -43,3 +43,7 @@ Start by selecting/confirming your Pennsieve account and dataset. If you have no
 2. Select the **team** from the dropdown list.
 3. Select a **role** from the dropdown list.
 4. Click on `Add permission for team`.
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

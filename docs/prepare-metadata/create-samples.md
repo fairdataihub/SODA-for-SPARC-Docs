@@ -70,3 +70,7 @@ After you complete all steps, click on `Generate` to generate your samples file.
 :::tip
 If you have a properly structured SPARC primary folder to import, you can click on `I want to import subject ID(s) from my primary folder` specified under the button `Add a sample` to import it to the table of subjects. SODA will extract the subject ID(s) (if available) onto the table of subjects for your edits.
 :::
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

@@ -120,3 +120,7 @@ The minimum required programming language and compiler versions are provided bel
 
 - Python: 3.6
 - Nodejs: ^10.13.0
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />

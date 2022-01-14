@@ -16,3 +16,7 @@ Under this feature, SODA lets you rapidly prepare the CHANGES metadata file for 
 4. Review and click on `Generate` to generate your CHANGES file. You have the options to generate and save it on your computer or generate and upload it to Pennsieve. The generated file will be ready to be included in your dataset.
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Readme-Changes/changes.PNG?raw=true)
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />
