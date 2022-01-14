@@ -10,9 +10,7 @@ SODA uses the Pennsieve Agent to upload datasets to Pennsieve. At the time of wr
 
 The error will occur in the `Prepare datasets` tab under the `Organize dataset` section or in the `Manage Datasets` tab under the `Upload a Local Dataset` section when trying to upload a dataset, and will look like this:
 
-
- ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Common-errors/pennsieve-agent-error.PNG?raw=true)
-
+![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Common-errors/pennsieve-agent-error.PNG?raw=true)
 
 ## Solution
 
