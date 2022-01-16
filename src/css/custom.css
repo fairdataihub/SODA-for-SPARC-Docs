@@ -38,10 +38,12 @@ html[data-theme="dark"] {
   --ifm-color-primary-lightest: #f784b4;
   --ifm-color-primary-lighter: #f45b9b;
   --ifm-color-primary-light: #f34d93;
-  --ifm-color-primary: #f13282;
+  --ifm-color-primary: #dd2572;
   --ifm-color-primary-dark: #ef1771;
   --ifm-color-primary-darker: #e8106a;
   --ifm-color-primary-darkest: #bf0d57;
+
+  --ifm-heading-color: #fff;
 
   --ifm-link-color: #ff227e;
 
@@ -109,6 +111,10 @@ h6,
 
 .theme-last-updated {
   @apply not-italic;
+}
+
+.hero__subtitle {
+  color: var(--ifm-heading-color) !important;
 }
 
 .footer__title,

@@ -1,11 +1,23 @@
 import React from "react";
 import clsx from "clsx";
 import styles from "./HomepageFeatures.module.css";
+import Lottie from "react-lottie";
+
+import scienceAnimationData from "./lotties/science.json";
+import focusAnimationData from "./lotties/focus.json";
+import programmingAnimationData from "./lotties/programming.json";
 
 const FeatureList = [
   {
     title: "Easy to Use",
-    Svg: require("../../static/img/undraw_docusaurus_mountain.svg").default,
+    animationOptions: {
+      loop: true,
+      autoplay: true,
+      animationData: scienceAnimationData,
+      rendererSettings: {
+        preserveAspectRatio: "xMidYMid slice",
+      },
+    },
     description: (
       <>
         SODA for SPARC was designed from the ground up to be easily installed
@@ -15,7 +27,14 @@ const FeatureList = [
   },
   {
     title: "Focus on What Matters",
-    Svg: require("../../static/img/undraw_docusaurus_tree.svg").default,
+    animationOptions: {
+      loop: true,
+      autoplay: true,
+      animationData: focusAnimationData,
+      rendererSettings: {
+        preserveAspectRatio: "xMidYMid slice",
+      },
+    },
     description: (
       <>
         SODA for SPARC is built to be as simple as possible. We want to make it
@@ -25,7 +44,14 @@ const FeatureList = [
   },
   {
     title: "Powered by open source",
-    Svg: require("../../static/img/undraw_docusaurus_react.svg").default,
+    animationOptions: {
+      loop: true,
+      autoplay: true,
+      animationData: programmingAnimationData,
+      rendererSettings: {
+        preserveAspectRatio: "xMidYMid slice",
+      },
+    },
     description: (
       <>
         SODA for SPARC is built on top of the open source software that powers
@@ -36,11 +62,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({ Svg, title, description }) {
+function Feature({ animationOptions, title, description }) {
   return (
     <div className={clsx("col col--4")}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
+      <div className="flex justify-center py-4">
+        <Lottie options={animationOptions} height={300} width={300} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
