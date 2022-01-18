@@ -135,6 +135,26 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      metadata: [
+        {
+          name: "keywords",
+          content:
+            "SODA for SPARC, SPARC, SODA, fair data, fairhub, fairdataihub, software",
+        },
+        {
+          name: "description",
+          content:
+            "SODA for SPARC is an application created under the guidance of the NIH SPARC program to allow research members funded by SPARC to submit open and FAIR datasets.",
+        },
+        {
+          name: "robots",
+          content: "index, follow",
+        },
+        {
+          name: "author",
+          content: "Fair Data Innovations Hub",
+        },
+      ],
     }),
 
   scripts: [
