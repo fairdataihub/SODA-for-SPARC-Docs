@@ -33,6 +33,7 @@ You can use the version script to create a new documentation version based on th
 
 1. First, make sure the current docs version (the `docs` directory) is ready to be frozen.
 2. Enter the current version number.
+3. Update the `version` key in package.json for this repository.
 
 ```bash
 yarn run docusaurus docs:version 5.3.0
