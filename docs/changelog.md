@@ -19,7 +19,6 @@ All notable changes to SODA for SPARC will be documented in this file.
 - Users can withdraw their dataset from pre-publishing review.
 - Users can link their Pennsieve account to their ORCID iD from within the pre-publishing review process.
 
-
 ## Version 5.1.0
 
 ### Feature additions
