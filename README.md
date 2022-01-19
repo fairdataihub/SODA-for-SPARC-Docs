@@ -35,10 +35,10 @@ You can use the version script to create a new documentation version based on th
 2. Enter the current version number.
 
 ```bash
-yarn run docusaurus docs:version v1.1.0  # or v1.2.0
+yarn run docusaurus docs:version 5.3.0
 ```
 
-This will freeze the current version of the documentation. The files under the current `docs` directory will be considered to be `@next` version.
+This will freeze the current version of the documentation. The files under the current `docs` directory will be considered to be `Upcoming 🚧` version.
 
 ### Addition Information
 
