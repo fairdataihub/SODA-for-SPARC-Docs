@@ -1,6 +1,6 @@
 # SODA for SPARC Documentation
 
-All documentation for the SODA for SPARC application will be hosted in this repository. Versioning has been setup for previously released versions of the application. 
+All documentation for the SODA for SPARC application will be hosted in this repository. Versioning has been setup for previously released versions of the application.
 
 ### Project setup
 
