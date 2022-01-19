@@ -1,6 +1,6 @@
 # SODA for SPARC Documentation
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+All documentation for the SODA for SPARC application will be hosted in this repository. Versioning has been setup for previously released versions of the application. 
 
 ### Project setup
 
