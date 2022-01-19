@@ -25,6 +25,11 @@ const config = {
             "https://github.com/fairdataihub/SODA-for-SPARC-Docs/edit/main/",
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
+          versions: {
+            current: {
+              label: `Upcoming 🚧`,
+            },
+          },
         },
         blog: {
           showReadingTime: true,
@@ -62,6 +67,10 @@ const config = {
             docId: "intro",
             position: "left",
             label: "Documentation",
+          },
+          {
+            type: "docsVersionDropdown",
+            position: "right",
           },
           {
             href: "https://github.com/fairdataihub/SODA-for-SPARC",
