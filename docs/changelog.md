@@ -8,6 +8,18 @@ pagination_next: null
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## Version 5.2.0
+
+### Feature additions:
+
+- Users can hover over their account and dataset text to edit the selected dataset/account in the account and dataset details card throughout SODA for SPARC.
+- Users can submit their dataset to the SPARC Curation Team for pre-publishing review.
+- Users can exclude high level metadata files from publishing from within the pre-publishing review process.
+- Users can choose to place their dataset under embargo so that after being published their dataset is not immediately made public.
+- Users can withdraw their dataset from pre-publishing review.
+- Users can link their Pennsieve account to their ORCID iD from within the pre-publishing review process.
+
+
 ## Version 5.1.0
 
 ### Feature additions
