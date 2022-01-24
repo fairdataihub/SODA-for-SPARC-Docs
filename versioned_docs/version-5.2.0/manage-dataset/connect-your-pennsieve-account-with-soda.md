@@ -12,17 +12,38 @@ SODA will automatically check and see if you have an associated account with Pen
 
 ## How to
 
-1. Click on any features (e.g. Create a new dataset) under Manage Datasets.
+1. Click on any features (e.g. Create a new dataset) under `Manage Datasets`.
 2. Click on the **edit** symbol next to **Current account**.
 3. Fill in your Pennsieve **Email Address** and **Password** and click `Connect to Pennsieve`
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Connect-to-BF/connect-to-PS-SODA.png?raw=true)
 
-## Note
+<details><summary>If you do not wish to provide your Pennsieve login details to SODA, you can create a set of API keys on Pennsieve and provide it to SODA. Click this section to learn more.</summary>
+<p>
 
+:::caution
+Some features of SODA might not work if you add your API keys to SODA in this method. We recommend that you use the [username/password entry method](#how-to) to guarantee that only the relevant information needed for SODA is used.
+:::
+
+
+#### How to
+
+1. Click on any features (e.g. Create a new dataset) under `Manage Datasets`.
+2. Click on the edit symbol next to `Current account`.
+3. In the new pop-up window click on `I want to connect with an API key instead` at the bottom of the pop-up.
+4.  Follow the instructions on the Pennsieve help page to get a **key name**, **API key**, and **API secret** from your Pennsieve account. Make sure you are under the `SPARC Consortium` organization on Pennsieve when you generate the API key and secret.
+    ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Connect-to-BF/consortium-bf-account.PNG?raw=true)
+5. Enter your **key name**, **API key**, and **API secret** in the corresponding fields then click on `Add`.
+    ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Connect-to-BF/connect-to-blackfynn.gif?raw=true)
+
+</p>
+</details>
+
+:::note
 - During subsequent uses, SODA will automatically connect to the Pennsieve account you were connected to the last time.
 - Neither the SODA Team nor anyone else besides you will have access to your Pennsieve account. The generated login information required for future sessions on your Pennsieve account will be stored locally on your computer only.
-- If you do not wish to provide your login details to SODA, you can create a set of API keys on Pennsieve and provide it to SODA. Instructions for this process can be found at Connect your Pennsieve account with SODA (API Key)
+:::
+
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
