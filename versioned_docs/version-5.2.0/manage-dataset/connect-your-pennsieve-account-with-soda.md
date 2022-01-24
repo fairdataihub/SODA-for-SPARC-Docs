@@ -36,9 +36,9 @@ Some features of SODA might not work if you add your API keys to SODA in this me
 :::
 
 - In the new pop-up window click on `I want to connect with an API key instead` at the bottom of the pop-up.
-- Follow the instructions on the Pennsieve help page to get a **key name**, **API key**, and **API secret** from your Pennsieve account. Make sure you are under the `SPARC Consortium` organization on Pennsieve when you generate the API key and secret.
+- Follow the instructions on the Pennsieve help page to get a **API key**, and **API secret** from your Pennsieve account. Make sure you are under the `SPARC Consortium` organization on Pennsieve when you generate the API key and secret. Also set your **Key name** to `SODA-Pennsieve`
   ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Connect-to-BF/consortium-bf-account.PNG?raw=true)
-- Enter your **key name**, **API key**, and **API secret** in the corresponding fields then click on `Add`.
+- Enter your **API key**, **API secret** and `SODA-Pennsieve` for your **Key name** in the corresponding fields then click on `Add`.
   ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Connect-to-BF/connect-to-blackfynn.gif?raw=true)
 
 </details>
