@@ -22,7 +22,7 @@ git clone https://github.com/fairdataihub/SODA-for-SPARC.git
 #### Windows
 
 - Download [Visual Studio 2017](https://download.visualstudio.microsoft.com/download/pr/dfb60031-5f2b-4236-a36b-25a0197459bc/789aa74d8838804c37e2d0ea484e5d9a4958bc5cc5d2f6132542f2b637b9c17d/vs_Community.exe), run the executable file
-- In the installer, select “Desktop development with C++” and check “VC++ 2015.3 v14.00”
+- In the installer, select `Desktop development with C++` and check `VC++ 2015.3 v14.00`
 
 #### macOS
 
