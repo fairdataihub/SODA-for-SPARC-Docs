@@ -164,6 +164,12 @@ const config = {
           content: "Fair Data Innovations Hub",
         },
       ],
+      algolia: {
+        appId: "5C68KRW2LG",
+        apiKey: "f54157cf9bcb7564a29aa0995e0eb192",
+        indexName: "docs-sodaforsparc",
+        contextualSearch: true,
+      },
     }),
 
   scripts: [
