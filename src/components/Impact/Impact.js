@@ -30,11 +30,13 @@ export default function Impact() {
             return (
               <div
                 key={impact.description}
-                className="flex flex-col items-center justify-center m-2 mb-5 lg:m-6"
+                className="flex flex-col items-center justify-center m-2 mb-4 lg:m-4"
               >
                 <p className="my-1 text-5xl font-bold text-center font-lato sm:text-4xl md:text-5xl lg:text-6xl">
+                  {/*Mapped ImpactList element amount property passed as a prop to countUp component*/}
                   <ImpactNumber countTo={impact.amount} animationDuration="2" />
                   <span>+</span>
+                  {/*If ImpactList element unit property == truthy, display impact unit*/}
                   {impact.unit && <span> {impact.unit}</span>}
                 </p>
                 <p>{impact.description}</p>
