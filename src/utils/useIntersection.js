@@ -8,7 +8,6 @@ export default (element, rootMargin) => {
       ([entry]) => {
         if (entry.isIntersecting) {
           setState(entry.isIntersecting);
-          observer.unobserve(element.current);
         }
       },
       {

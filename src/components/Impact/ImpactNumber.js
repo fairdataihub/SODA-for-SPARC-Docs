@@ -1,22 +1,24 @@
-import React, { useState, useEffect, useRef } from "react";
+import React from "react";
 import { useCountUp } from "react-countup";
 import useIntersection from "../../utils/useIntersection";
 
 const ImpactNumber = (props) => {
   const countUpRef = React.useRef(null);
+  const countUpRefInViewport = useIntersection(countUpRef, "0px");
+
   const { update } = useCountUp({
     ref: countUpRef,
     start: 0,
-    duration: props.durationInSeconds,
+    duration: props.animationDuration,
   });
-  const startRefInViewport = useIntersection(countUpRef, "0px");
 
-  if (startRefInViewport) {
+  if (countUpRefInViewport) {
     {
       update(props.countTo);
     }
   }
-  return <h3 ref={countUpRef}></h3>;
+
+  return <span ref={countUpRef}></span>;
 };
 
 export default ImpactNumber;
