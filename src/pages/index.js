@@ -5,6 +5,7 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import styles from "./index.module.css";
 import HomepageFeatures from "../components/HomepageFeatures";
+import Impact from "../components/Impact/Impact";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -36,6 +37,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <Impact />
       </main>
     </Layout>
   );
