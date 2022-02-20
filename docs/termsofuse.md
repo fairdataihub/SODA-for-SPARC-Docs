@@ -175,7 +175,7 @@ Please read our [Privacy Policy](privacypolicy).
 
 ## Copyright/Trademark Information
 
-Copyright ©. All rights reserved. All trademarks, logos and service marks displayed on the Site are our property or the property of other third-parties. You are not permitted to use these Marks without our prior written consent or the consent of such third party which may own the Marks.
+Copyright ©. All rights reserved. All trademarks, logos and service marks displayed on the Site are our property or the property of other third-parties. You are not permitted to use these marks without our prior written consent or the consent of such third party which may own the marks.
 
 ## Questions and complaints
 

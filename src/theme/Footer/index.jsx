@@ -254,7 +254,7 @@ function Footer() {
                   </svg>
                 </a>
               </div>
-              <p className="text-[var(--docsearch-text-color)] m-0  mb-3 py-1 font-inter">
+              <p className="text-[var(--docsearch-text-color)] font-inter  m-0 mb-3 py-1">
                 Helping researchers navigate the world of FAIR data sharing.
               </p>
               <div className="flex flex-row justify-start space-x-3 py-1">
@@ -344,10 +344,10 @@ function Footer() {
                 <h3 className="footer-header">Legal</h3>
                 <ul className="m-0 list-outside list-none p-0">
                   <li className="pb-2 text-base ">
-                    <Link href="/docs/termsofuse">Terms of Use</Link>
+                    <Link href="/docs/privacypolicy">Privacy Policy</Link>
                   </li>
                   <li className="pb-2 text-base ">
-                    <Link href="/docs/privacypolicy">Privacy Policy</Link>
+                    <Link href="/docs/termsofuse">Terms of Use</Link>
                   </li>
                   <li className="pb-2 text-base ">
                     <Link href="/docs/cookiepolicy">Cookie Policy</Link>
