@@ -22,9 +22,15 @@ If you do not have pre-existing datasets SODA allows you to create a new dataset
      ![](https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Manifest/manifest-local-dataset.PNG?raw=true)
    - For Pennsieve datasets use the dropdown to select which Pennsieve dataset you would like to create Manifest files for.
      ![](https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Manifest/manifest-pennsieve.PNG?raw=true)
-3. (Optional) You can edit SODA-generated manifest files by clicking on `Yes, let's edit the manifest files`. SODA allows you to add Description or Additional Metadata to manifest files before generating them to the desired destination. Otherwise, simply click `No, generate now` to proceed.
+3. (Optional) You can edit SODA-generated manifest files by clicking on `Yes, let's edit the manifest files`. SODA allows you to add Description or Additional Metadata to the manifest files before generating them to the desired destination. If you do not wish to do so, simply click `No, generate now` to start generating the manifest files.
 
-4. Click `Generate`
+4. After you finish editing the manifest files at Step 3, click `Generate now`.
+
+<video
+   controls
+   width="100%"
+   src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Manifest/manifest.mkv"
+/>
 
 :::tip
 When you are in the manifest file's editing interface, click on the arrow symbol next to a folder to expand it.   
