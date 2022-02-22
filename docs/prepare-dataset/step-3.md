@@ -35,7 +35,15 @@ When importing and duplicate files/folders are detected an alert will appear to 
 
 `Cancel` returns you back to the duplicate prompt if you decide to not continue with one of the selections above. On hitting cancel again, duplicate files/folders will not imported and only the new unique fitems will.
 
-<ReactPlayer url='/Users/slugb0t/Code/SODA-for-SPARC-Docs/docs/prepare-dataset/videos/test.mp4' />
+<div className="player-wrapper">
+  <ReactPlayer
+    url="/videos/Duplicate-Item.mp4"
+    className="react-player"
+    playing
+    width="100%"
+    controls
+  />
+</div>
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
