@@ -142,6 +142,7 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 .player-wrapper {
   position: relative;
   padding-top: 48%; /* 720 / 1280 = 0.5625 */
+  margin-bottom: 150px;
 }
 
 .react-player {

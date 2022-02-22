@@ -37,7 +37,7 @@ When importing and duplicate files/folders are detected an alert will appear to 
 
 `Cancel` returns you back to the duplicate prompt if you decide to not continue with one of the selections above. On hitting cancel again, duplicate files/folders will not imported and only the new unique fitems will.
 
-<div className="player-wrapper">
+<div className="player-wrapper sm:pt-60 md:pt-64 lg:pt-64">
   <ReactPlayer
     url="/videos/Duplicate-Item.mp4"
     className="react-player"
