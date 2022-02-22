@@ -21,7 +21,9 @@ Virtually structure your dataset using this interface as if you were organizing 
   ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-step3-part2-files.gif?raw=true)
 
 ### Duplicate Files/Folders
+
 When importing and duplicate files/folders are detected an alert will appear to see how you would like to handle those duplicates. You have the options to:
+
 - Skip
 - Replace
 - Rename
