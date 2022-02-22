@@ -27,7 +27,7 @@ If you do not have pre-existing datasets SODA allows you to create a new dataset
 4. Click `Generate`
 
 :::tip
-When you are in the manifest file's editing interface, click on the arrow symbol next to a folder to expand it.   
+When you are in the manifest file's editing interface, click on the arrow symbol next to a folder to expand it.  
 :::
 
 import PageFeedback from '@site/src/components/PageFeedback';
