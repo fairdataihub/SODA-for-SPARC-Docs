@@ -8,6 +8,32 @@ pagination_next: null
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## Version 5.3.0
+
+### Feature additions:
+
+- A stand-alone manifest file generation feature has been added. For this feature, users can now generate manifest files for their datasets stored locally or on Pennsieve.
+- When importing files/folders duplicates will now prompt user if they would like to skip, replace, or rename them accordingly.
+
+### Bug fixes:
+
+- Fixed issue wherein Submission.xlsx files are not uploaded to Pennsieve in the Prepare Metadata section.
+- Fixed issue that prevented dataset_description.xlsx protocols from being editable within the Prepare Metadata section.
+
+### Known Issues:
+
+- There is a bug with removing dataset permissions using both SODA and Pennsieve. If you want to remove your own permission from a dataset, another user with either 'Manager' or 'Owner' permissions must remove you from the dataset. This is an issue with Pennsieve's backend system and will be updated soon.
+
+## Version 5.2.1
+
+### Bug fixes:
+
+- Fixed issue where file uploads to Pennsieve would sometimes fail because of an uncleared Pennsieve Client file upload queue.
+
+### Known Issues:
+
+- There is a bug with removing dataset permissions using both SODA and Pennsieve. If you want to remove your own permission from a dataset, another user with either 'Manager' or 'Owner' permissions must remove you from the dataset. This is an issue with Pennsieve's backend system and will be updated soon.
+
 ## Version 5.2.0
 
 ### Feature additions:
