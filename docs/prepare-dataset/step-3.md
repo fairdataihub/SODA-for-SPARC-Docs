@@ -18,6 +18,31 @@ Virtually structure your dataset using this interface as if you were organizing 
 - Use the arrow located in the upper left corner to move up a folder. The current location in the dataset is indicated right next to the arrow.
   ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-step3-part2-files.gif?raw=true)
 
+### Duplicate Files/Folders
+
+When importing and duplicate files/folders are detected an alert will appear to see how you would like to handle those duplicates. You have the options to:
+
+- Skip
+- Replace
+- Rename
+
+`Skip` will prompt you with a list of files and be able to select which ones you'd like to skip. For the ones left unselected you will be prompted back to see if you would like to handle those files/folders.
+(insert gif here)
+
+`Replace` gives you the ability to update an already imported file/folder. For example if you have updated the context of a file/folder outside of SODA you can update the file/folder within SODA to sync any new changes.
+
+`Rename` will allow you to import the duplicate files/folders with new names. You will be prompted to rename the current duplicates and after all are given a unique name you will be allowed to import.
+
+`Cancel` returns you back to the duplicate prompt if you decide to not continue with one of the selections above. On hitting cancel again, duplicate files/folders will not imported and only the new unique fitems will.
+
+<video
+   controls
+   autoPlay
+   loop
+   width="100%"
+   src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Duplicate-Item.mp4"
+/>
+
 import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />
