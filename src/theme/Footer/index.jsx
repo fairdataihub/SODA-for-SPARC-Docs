@@ -254,7 +254,7 @@ function Footer() {
                   </svg>
                 </a>
               </div>
-              <p className="text-[var(--docsearch-text-color)] m-0  mb-3 py-1 font-inter">
+              <p className="text-[var(--docsearch-text-color)] font-inter  m-0 mb-3 py-1">
                 Helping researchers navigate the world of FAIR data sharing.
               </p>
               <div className="flex flex-row justify-start space-x-3 py-1">
@@ -364,11 +364,15 @@ function Footer() {
               <div className="flex flex-col">
                 <h3 className="footer-header">Docs</h3>
                 <ul className="m-0 list-outside list-none p-0">
-                  <li className="pb-2 text-base ">
-                    <Link href="/docs/changelog">Changelog</Link>
+                  <li className="pb-2 text-base">
+                    <div className="h-max w-max scale-100  transition-all hover:scale-105">
+                      <Link href="/docs/changelog">Changelog</Link>
+                    </div>
                   </li>
                   <li className="pb-2 text-base ">
-                    <Link href="/docs/intro">What is SODA for SPARC?</Link>
+                    <div className="h-max w-max scale-100  transition-all hover:scale-105">
+                      <Link href="/docs/intro">What is SODA for SPARC?</Link>
+                    </div>
                   </li>
                 </ul>
               </div>
@@ -376,12 +380,16 @@ function Footer() {
                 <h3 className="footer-header">Company</h3>
                 <ul className="m-0 list-outside list-none p-0">
                   <li className="pb-2 text-base ">
-                    <Link href="https://fairdataihub.org/team"> About </Link>
+                    <div className="h-max w-max scale-100  transition-all hover:scale-105">
+                      <Link href="https://fairdataihub.org/team"> About </Link>
+                    </div>
                   </li>
                   <li className="pb-2 text-base ">
-                    <Link href="https://fairdataihub.org/contact-us">
-                      Contact Us
-                    </Link>
+                    <div className="h-max w-max scale-100  transition-all hover:scale-105">
+                      <Link href="https://fairdataihub.org/contact-us">
+                        Contact Us
+                      </Link>
+                    </div>
                   </li>
                 </ul>
               </div>
@@ -389,13 +397,19 @@ function Footer() {
                 <h3 className="footer-header">Legal</h3>
                 <ul className="m-0 list-outside list-none p-0">
                   <li className="pb-2 text-base ">
-                    <Link href="/docs/privacypolicy">Privacy Policy</Link>
+                    <div className="h-max w-max scale-100  transition-all hover:scale-105">
+                      <Link href="/docs/privacypolicy">Privacy Policy</Link>
+                    </div>
                   </li>
                   <li className="pb-2 text-base ">
-                    <Link href="/docs/termsofuse">Terms of Use</Link>
+                    <div className="h-max w-max scale-100  transition-all hover:scale-105">
+                      <Link href="/docs/termsofuse">Terms of Use</Link>
+                    </div>
                   </li>
                   <li className="pb-2 text-base ">
-                    <Link href="/docs/cookiepolicy">Cookie Policy</Link>
+                    <div className="h-max w-max scale-100  transition-all hover:scale-105">
+                      <Link href="/docs/cookiepolicy">Cookie Policy</Link>
+                    </div>
                   </li>
                 </ul>
               </div>

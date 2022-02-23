@@ -16,6 +16,12 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
+            to="/docs/getting-started/download-soda"
+          >
+            Download SODA for SPARC
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
             to="/docs/getting-started/organize-and-submit-sparc-datasets-with-soda"
           >
             View the documentation
