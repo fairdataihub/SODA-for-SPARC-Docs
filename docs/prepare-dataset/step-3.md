@@ -2,8 +2,6 @@
 sidebar_position: 4
 ---
 
-import ReactPlayer from 'react-player/lazy'
-
 # Step 3: Structure dataset files
 
 Virtually structure your dataset using this interface as if you were organizing it on your computer but without actually modifying any local files. All your requested actions (files to be included, folders to be created, metadata information to be added, etc.) will be registered by SODA and only implemented when the dataset is generated during Step 6.
@@ -37,15 +35,13 @@ When importing and duplicate files/folders are detected an alert will appear to 
 
 `Cancel` returns you back to the duplicate prompt if you decide to not continue with one of the selections above. On hitting cancel again, duplicate files/folders will not imported and only the new unique fitems will.
 
-<div className="player-wrapper sm:pt-60 md:pt-64 lg:pt-64">
-  <ReactPlayer
-    url="/videos/Duplicate-Item.mp4"
-    className="react-player"
-    playing
-    width="100%"
-    controls
-  />
-</div>
+<video
+   controls
+   autoPlay
+   loop
+   width="100%"
+   src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Duplicate-Item.mp4"
+/>
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
