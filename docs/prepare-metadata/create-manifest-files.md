@@ -28,6 +28,8 @@ If you do not have pre-existing datasets SODA allows you to create a new dataset
 
 <video
    controls
+   autoPlay
+   loop
    width="100%"
    src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/manifest.mp4"
 />
