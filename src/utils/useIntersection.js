@@ -18,7 +18,9 @@ export default (element, rootMargin) => {
     element.current && observer.observe(element.current);
 
     return () => {
-      observer.unobserve(element.current);
+      if (element.current) {
+        observer.unobserve(element.current);
+      }
     };
   }, []);
 

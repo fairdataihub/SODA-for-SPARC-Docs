@@ -8,10 +8,17 @@ const ImpactNumber = (props) => {
   //False until element with countUpRef is in viewport
   const countUpRefInViewport = useIntersection(countUpRef, "0px");
 
+  const easingFn = function (t, b, c, d) {
+    var ts = (t /= d) * t;
+    var tc = ts * t;
+    return b + c * (tc + -3 * ts + 3 * t);
+  };
+
   const { update } = useCountUp({
     ref: countUpRef,
     start: 0,
     duration: props.animationDuration,
+    easingFn: easingFn,
   });
   //If ImpactNumber element is in view, start the animation on element with countUpRef
   if (countUpRefInViewport) {
