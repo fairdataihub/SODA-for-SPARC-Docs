@@ -132,6 +132,14 @@ code {
   @apply font-fira-code;
 }
 
+.breadcrumbs__link {
+  @apply text-sm;
+}
+
+.breadcrumbs__item.breadcrumbs__item--active > a {
+  @apply bg-green-100;
+}
+
 .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.1);
   display: block;
