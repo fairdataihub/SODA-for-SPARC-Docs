@@ -255,7 +255,7 @@ export default function FooterWrapper() {
                     </svg>
                   </a>
                 </div>
-                <p className="text-[var(--docsearch-text-color)] font-inter  m-0 mb-3 py-1">
+                <p className="text-[var(--docsearch-text-color)] m-0  mb-3 py-1 font-inter">
                   Helping researchers navigate the world of FAIR data sharing.
                 </p>
                 <div className="flex flex-row justify-start space-x-3 py-1">
