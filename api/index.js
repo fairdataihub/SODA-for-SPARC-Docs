@@ -7,9 +7,12 @@ const app = express();
 app.use(express.json());
 
 app.post('/api/feedback', (req, res) => {
-  const visitor = ua('UA-215309627-2', uuidv4());
-
   const { body } = req;
+
+  // eslint-disable-next-line no-console
+  console.log(`Feedback received: ${JSON.stringify(body)}`);
+
+  const visitor = ua('UA-215309627-2', uuidv4());
 
   res.setHeader('Content-Type', 'text/html');
   res.setHeader('Cache-Control', 's-max-age=1, stale-while-revalidate');

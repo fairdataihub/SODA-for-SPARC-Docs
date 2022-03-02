@@ -46,7 +46,7 @@ const AskFeedback = ({ setShowSuccess }) => {
         const res = await response.json();
 
         if (res.success) {
-          console.log('Feedback sent successfully');
+          console.log(`Feedback sent successfully. Message: ${res.message}`);
         } else {
           console.log('There was an error with sending the feedback');
         }
