@@ -1,12 +1,29 @@
-import React from "react";
+import React, { useState } from "react";
 import Link from "@docusaurus/Link";
+import Lottie from "react-lottie";
+import CookiesLottieJSON from "./cookies.json";
 
 export default function FooterWrapper() {
+  const animationOptions = {
+    loop: true,
+    autoplay: true,
+    animationData: CookiesLottieJSON,
+    rendererSettings: {
+      preserveAspectRatio: "xMidYMid slice",
+    },
+  };
+
+  const [showCookieBanner, setShowCookieBanner] = useState(true);
+
+  const handleCookieBannerClose = () => {
+    setShowCookieBanner(false);
+  };
+
   return (
     <>
       <div>
         <footer className="bg-[color:var(--footer-background-color)]">
-          <div className="container mx-auto flex w-full max-w-screen-xl flex-col pt-10 ">
+          <div className="container relative mx-auto flex w-full max-w-screen-xl flex-col pt-10 ">
             <div className="flex flex-col justify-between pb-3 pr-3 md:flex-row">
               <div className="mb-5 flex w-full flex-col md:mb-0 md:w-4/12">
                 <div className="py-1">
@@ -255,7 +272,7 @@ export default function FooterWrapper() {
                     </svg>
                   </a>
                 </div>
-                <p className="text-[var(--docsearch-text-color)] m-0  mb-3 py-1 font-inter">
+                <p className="text-[var(--docsearch-text-color)] font-inter  m-0 mb-3 py-1">
                   Helping researchers navigate the world of FAIR data sharing.
                 </p>
                 <div className="flex flex-row justify-start space-x-3 py-1">
@@ -445,7 +462,30 @@ export default function FooterWrapper() {
                 </a>
               </div>
             </div>
-            {/* <span>{cookieConsent}</span> */}
+
+            {/* Cookie notification container */}
+            {showCookieBanner && (
+              <div className="fixed bottom-20 right-3 max-w-[300px] scale-95 rounded-lg border-2 border-green-200 bg-zinc-50  shadow-md transition-all hover:scale-100 hover:shadow-xl">
+                <div className="mb-2 flex flex-col items-center justify-center py-2 px-4">
+                  <Lottie options={animationOptions} height={150} width={150} />
+                  <p className="mb-1 text-left text-sm text-gray-600">
+                    We use cookies to understand how you use our website and
+                    make your experience better.
+                  </p>
+                  <p className="mb-2 text-left text-sm text-gray-600">
+                    To find out more read our{" "}
+                    <Link href="/docs/privacypolicy">privacy policy</Link> and{" "}
+                    <Link href="/docs/cookiepolicy">cookie policy</Link>.
+                  </p>
+                  <button
+                    className="cookie-button cookie-button-yes !text-base"
+                    onClick={handleCookieBannerClose}
+                  >
+                    Okay, I Agree
+                  </button>
+                </div>
+              </div>
+            )}
           </div>
         </footer>
       </div>
