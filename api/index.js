@@ -1,5 +1,5 @@
 const express = require('express');
-const ua = require('universal-analytics');
+// const ua = require('universal-analytics');
 const { v4: uuidv4 } = require('uuid');
 
 const app = express();
@@ -12,7 +12,8 @@ app.post('/api/feedback', (req, res) => {
   // eslint-disable-next-line no-console
   console.log(`Feedback received: ${JSON.stringify(body)}`);
 
-  const visitor = ua('UA-215309627-2', uuidv4());
+  // const visitor = ua('UA-215309627-2', uuidv4());
+  const clientID = uuidv4();
 
   res.setHeader('Content-Type', 'text/html');
   res.setHeader('Cache-Control', 's-max-age=1, stale-while-revalidate');
@@ -29,8 +30,25 @@ app.post('/api/feedback', (req, res) => {
     // eslint-disable-next-line no-console
     console.log(`Feedback submitted for Category '${category}' with Action '${action}'`);
 
-    visitor.event(category, action).send();
-    res.json({ success: true, message: `Feedback Sent` });
+    // visitor.event(category, action).send();
+
+    const myHeaders = new Headers();
+    myHeaders.append('User-Agent', 'Mozilla/5.0');
+
+    const requestOptions = {
+      method: 'POST',
+      headers: myHeaders,
+      redirect: 'follow',
+    };
+
+    fetch(
+      `https://www.google-analytics.com/collect?v=1&t=event&tid=UA-215309627-2&cid=${clientID}&ec=${category}&ea=${action}`,
+      requestOptions,
+    )
+      .then((_response) => res.json({ success: true, message: `Feedback Sent` }))
+      .catch((error) => console.log('error', error));
+
+    // res.json({ success: true, message: `Feedback Sent` });
   }
 });
 
