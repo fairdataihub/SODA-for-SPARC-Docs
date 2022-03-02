@@ -1,6 +1,7 @@
 const express = require('express');
 // const ua = require('universal-analytics');
 const { v4: uuidv4 } = require('uuid');
+var axios = require('axios');
 
 const app = express();
 
@@ -32,21 +33,21 @@ app.post('/api/feedback', (req, res) => {
 
     // visitor.event(category, action).send();
 
-    const myHeaders = new Headers();
-    myHeaders.append('User-Agent', 'Mozilla/5.0');
-
-    const requestOptions = {
-      method: 'POST',
-      headers: myHeaders,
-      redirect: 'follow',
+    var config = {
+      method: 'post',
+      url: `https://www.google-analytics.com/collect?v=1&t=event&tid=UA-215309627-2&cid=${clientID}&ec=${category}&ea=${action}`,
+      headers: {
+        'User-Agent': 'Mozilla/5.0',
+      },
     };
 
-    fetch(
-      `https://www.google-analytics.com/collect?v=1&t=event&tid=UA-215309627-2&cid=${clientID}&ec=${category}&ea=${action}`,
-      requestOptions,
-    )
-      .then((_response) => res.json({ success: true, message: `Feedback Sent` }))
-      .catch((error) => console.log('error', error));
+    axios(config)
+      .then(function (response) {
+        console.log(JSON.stringify(response.data));
+      })
+      .catch(function (error) {
+        console.log(error);
+      });
 
     // res.json({ success: true, message: `Feedback Sent` });
   }
