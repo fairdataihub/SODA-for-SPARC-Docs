@@ -1,21 +1,20 @@
-import React from "react";
-import Lottie from "react-lottie";
+import React from 'react';
+import Lottie from 'react-lottie';
 
-import LikeAnimationData from "./lotties/like.json";
-import DislikeAnimationData from "./lotties/dislike.json";
-import SuccessAnimationData from "./lotties/success.json";
+import LikeAnimationData from './lotties/like.json';
+import DislikeAnimationData from './lotties/dislike.json';
+import SuccessAnimationData from './lotties/success.json';
 
 const AskFeedback = ({ setShowSuccess }) => {
   const [startLikeAnimation, setStartLikeAnimation] = React.useState(false);
-  const [startDislikeAnimation, setStartDislikeAnimation] =
-    React.useState(false);
+  const [startDislikeAnimation, setStartDislikeAnimation] = React.useState(false);
 
   const likeAnimationOptions = {
     loop: true,
     autoplay: false,
     animationData: LikeAnimationData,
     rendererSettings: {
-      preserveAspectRatio: "xMidYMid slice",
+      preserveAspectRatio: 'xMidYMid slice',
     },
   };
 
@@ -24,35 +23,35 @@ const AskFeedback = ({ setShowSuccess }) => {
     autoplay: false,
     animationData: DislikeAnimationData,
     rendererSettings: {
-      preserveAspectRatio: "xMidYMid slice",
+      preserveAspectRatio: 'xMidYMid slice',
     },
   };
 
   const sendFeedback = (reaction) => {
-    console.log("send feedback", reaction);
+    console.log('send feedback', reaction);
     console.log(document.title);
 
     const windowTitle = document.title;
-    const analyticsTitle = windowTitle.split(" | ")[0];
+    const analyticsTitle = windowTitle.split(' | ')[0];
 
     const requestOptions = {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ category: analyticsTitle, action: reaction }),
     };
-    fetch("/api/feedback", requestOptions).then(async (response) => {
+    fetch('/api/feedback', requestOptions).then(async (response) => {
       const status = response.status;
 
       if (status === 200) {
         const res = await response.json();
 
         if (res.success) {
-          console.log("Feedback sent successfully");
+          console.log('Feedback sent successfully');
         } else {
-          console.log("There was an error with sending the feedback");
+          console.log('There was an error with sending the feedback');
         }
       } else {
-        console.log("There was an error with sending the feedback");
+        console.log('There was an error with sending the feedback');
       }
     });
 
@@ -66,7 +65,7 @@ const AskFeedback = ({ setShowSuccess }) => {
       <div className="flex items-center justify-center space-x-4">
         <button
           className="feedback-button feedback-button-yes"
-          onClick={() => sendFeedback("Like")}
+          onClick={() => sendFeedback('Like')}
           onMouseEnter={() => setStartLikeAnimation(true)}
           onMouseLeave={() => setStartLikeAnimation(false)}
         >
@@ -81,7 +80,7 @@ const AskFeedback = ({ setShowSuccess }) => {
         </button>
         <button
           className="feedback-button feedback-button-no"
-          onClick={() => sendFeedback("Dislike")}
+          onClick={() => sendFeedback('Dislike')}
           onMouseEnter={() => setStartDislikeAnimation(true)}
           onMouseLeave={() => setStartDislikeAnimation(false)}
         >
@@ -105,7 +104,7 @@ const ShowSuccessMessage = () => {
     autoplay: true,
     animationData: SuccessAnimationData,
     rendererSettings: {
-      preserveAspectRatio: "xMidYMid slice",
+      preserveAspectRatio: 'xMidYMid slice',
     },
   };
 
@@ -117,7 +116,7 @@ const ShowSuccessMessage = () => {
         height={70}
         width={70}
         isClickToPauseDisabled
-        style={{ margin: "0" }}
+        style={{ margin: '0' }}
       />
     </div>
   );
@@ -130,11 +129,7 @@ const PageFeedback = () => {
     <div className="mt-4 w-full ">
       <hr className="feedback-divider" />
 
-      {showSuccess ? (
-        <ShowSuccessMessage />
-      ) : (
-        <AskFeedback setShowSuccess={setShowSuccess} />
-      )}
+      {showSuccess ? <ShowSuccessMessage /> : <AskFeedback setShowSuccess={setShowSuccess} />}
     </div>
   );
 };

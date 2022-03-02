@@ -1,7 +1,7 @@
-import React, { useState } from "react";
-import Link from "@docusaurus/Link";
-import Lottie from "react-lottie";
-import CookiesLottieJSON from "./cookies.json";
+import React, { useState } from 'react';
+import Link from '@docusaurus/Link';
+import Lottie from 'react-lottie';
+import CookiesLottieJSON from './cookies.json';
 
 export default function FooterWrapper() {
   const animationOptions = {
@@ -9,7 +9,7 @@ export default function FooterWrapper() {
     autoplay: true,
     animationData: CookiesLottieJSON,
     rendererSettings: {
-      preserveAspectRatio: "xMidYMid slice",
+      preserveAspectRatio: 'xMidYMid slice',
     },
   };
 
@@ -272,7 +272,7 @@ export default function FooterWrapper() {
                     </svg>
                   </a>
                 </div>
-                <p className="text-[var(--docsearch-text-color)] font-inter  m-0 mb-3 py-1">
+                <p className="text-[var(--docsearch-text-color)] m-0  mb-3 py-1 font-inter">
                   Helping researchers navigate the world of FAIR data sharing.
                 </p>
                 <div className="flex flex-row justify-start space-x-3 py-1">
@@ -399,17 +399,12 @@ export default function FooterWrapper() {
                   <ul className="m-0 list-outside list-none p-0">
                     <li className="pb-2 text-base ">
                       <div className="h-max w-max scale-100  transition-all hover:scale-105">
-                        <Link href="https://fairdataihub.org/team">
-                          {" "}
-                          About{" "}
-                        </Link>
+                        <Link href="https://fairdataihub.org/team"> About </Link>
                       </div>
                     </li>
                     <li className="pb-2 text-base ">
                       <div className="h-max w-max scale-100  transition-all hover:scale-105">
-                        <Link href="https://fairdataihub.org/contact-us">
-                          Contact Us
-                        </Link>
+                        <Link href="https://fairdataihub.org/contact-us">Contact Us</Link>
                       </div>
                     </li>
                   </ul>
@@ -441,9 +436,7 @@ export default function FooterWrapper() {
 
             <div className="mt-3 flex h-full flex-col items-center justify-center space-y-4 space-x-0 divide-x-2 divide-none divide-gray-200 py-5 md:flex-row md:space-y-0 md:space-x-4 md:divide-solid">
               <div className="text-center ">
-                <p className="m-0">
-                  © {new Date().getFullYear()} FAIR Data Innovations Hub.
-                </p>
+                <p className="m-0">© {new Date().getFullYear()} FAIR Data Innovations Hub.</p>
                 <p className="m-0">All rights reserved.</p>
               </div>
 
@@ -469,13 +462,12 @@ export default function FooterWrapper() {
                 <div className="mb-2 flex flex-col items-center justify-center py-2 px-4">
                   <Lottie options={animationOptions} height={150} width={150} />
                   <p className="mb-1 text-left text-sm text-gray-600">
-                    We use cookies to understand how you use our website and
-                    make your experience better.
+                    We use cookies to understand how you use our website and make your experience
+                    better.
                   </p>
                   <p className="mb-2 text-left text-sm text-gray-600">
-                    To find out more read our{" "}
-                    <Link href="/docs/privacypolicy">privacy policy</Link> and{" "}
-                    <Link href="/docs/cookiepolicy">cookie policy</Link>.
+                    To find out more read our <Link href="/docs/privacypolicy">privacy policy</Link>{' '}
+                    and <Link href="/docs/cookiepolicy">cookie policy</Link>.
                   </p>
                   <button
                     className="cookie-button cookie-button-yes !text-base"
