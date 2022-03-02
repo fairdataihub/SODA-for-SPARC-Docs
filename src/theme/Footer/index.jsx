@@ -1,7 +1,8 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Link from '@docusaurus/Link';
 import Lottie from 'react-lottie';
 import CookiesLottieJSON from './cookies.json';
+import { useCookies } from 'react-cookie';
 
 export default function FooterWrapper() {
   const animationOptions = {
@@ -13,11 +14,19 @@ export default function FooterWrapper() {
     },
   };
 
-  const [showCookieBanner, setShowCookieBanner] = useState(true);
+  const [showCookieBanner, setShowCookieBanner] = useState(false);
+  const [cookies, setCookie] = useCookies(['cookieConsent']);
 
   const handleCookieBannerClose = () => {
     setShowCookieBanner(false);
+    setCookie('cookieConsent', true, { path: '/', maxAge: 60 * 60 * 24 * 60 });
   };
+
+  useEffect(() => {
+    if (cookies.cookieConsent) {
+      setShowCookieBanner(false);
+    }
+  }, [cookies]);
 
   return (
     <>
@@ -458,14 +467,14 @@ export default function FooterWrapper() {
 
             {/* Cookie notification container */}
             {showCookieBanner && (
-              <div className="fixed bottom-20 right-3 max-w-[300px] scale-95 rounded-lg border-2 border-green-200 bg-zinc-50  shadow-md transition-all hover:scale-100 hover:shadow-xl">
+              <div className="fixed bottom-20 right-3 hidden max-w-[300px] scale-95 rounded-lg border-2 border-green-200 bg-zinc-50 shadow-md  transition-all hover:scale-100 hover:shadow-xl sm:flex">
                 <div className="mb-2 flex flex-col items-center justify-center py-2 px-4">
                   <Lottie options={animationOptions} height={150} width={150} />
                   <p className="mb-1 text-left text-sm text-gray-600">
                     We use cookies to understand how you use our website and make your experience
                     better.
                   </p>
-                  <p className="mb-2 text-left text-sm text-gray-600">
+                  <p className="mb-3 text-left text-sm text-gray-600">
                     To find out more read our <Link href="/docs/privacypolicy">privacy policy</Link>{' '}
                     and <Link href="/docs/cookiepolicy">cookie policy</Link>.
                   </p>
