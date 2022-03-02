@@ -1,5 +1,5 @@
 const express = require('express');
-let ua = require('universal-analytics');
+const ua = require('universal-analytics');
 const { v4: uuidv4 } = require('uuid');
 
 const app = express();
