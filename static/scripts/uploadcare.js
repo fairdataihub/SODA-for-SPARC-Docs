@@ -14,6 +14,5 @@
     retina: true,
     webp: true,
   });
-
   console.log('Blinkloader loaded');
 });
