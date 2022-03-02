@@ -46,6 +46,8 @@ export default function FooterWrapper() {
   useEffect(() => {
     if (cookies.cookieConsent) {
       setShowCookieBanner(false);
+    } else {
+      setShowCookieBanner(true);
     }
   }, [cookies]);
 
@@ -491,7 +493,7 @@ export default function FooterWrapper() {
           </div>
           {/* Cookie notification container */}
           {showCookieBanner && (
-            <div className="fixed bottom-20 right-3 hidden max-w-[300px] scale-95 rounded-lg border-2 border-green-200 bg-zinc-50 shadow-md  transition-all hover:scale-100 hover:shadow-xl sm:flex">
+            <div className="fixed bottom-20 right-3 hidden max-w-[280px] scale-95 rounded-lg border-2 border-green-200 bg-zinc-50 shadow-md  transition-all hover:scale-100 hover:shadow-xl sm:flex">
               <div className="mb-2 flex flex-col items-center justify-center py-2 px-4">
                 <Lottie options={animationOptions} height={150} width={150} />
                 <p className="mb-1 text-left text-sm text-gray-600">
