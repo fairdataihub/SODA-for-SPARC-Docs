@@ -1,7 +1,6 @@
 const express = require('express');
-// const ua = require('universal-analytics');
 const { v4: uuidv4 } = require('uuid');
-var axios = require('axios');
+const axios = require('axios');
 
 const app = express();
 
@@ -13,7 +12,6 @@ app.post('/api/feedback', (req, res) => {
   // eslint-disable-next-line no-console
   console.log(`Feedback received: ${JSON.stringify(body)}`);
 
-  // const visitor = ua('UA-215309627-2', uuidv4());
   const clientID = uuidv4();
 
   res.setHeader('Content-Type', 'text/html');
@@ -31,25 +29,21 @@ app.post('/api/feedback', (req, res) => {
     // eslint-disable-next-line no-console
     console.log(`Feedback submitted for Category '${category}' with Action '${action}'`);
 
-    // visitor.event(category, action).send();
-
-    var config = {
+    const config = {
       method: 'post',
-      url: `https://www.google-analytics.com/collect?v=1&t=event&tid=UA-215309627-2&cid=${clientID}&ec=${category}&ea=${action}`,
+      url: `https://www.google-analytics.com/collect?v=1&t=event&tid=${process.env.UNIVERSAL_ANALYTICS_ID}&cid=${clientID}&ec=${category}&ea=${action}`,
       headers: {
         'User-Agent': 'Mozilla/5.0',
       },
     };
 
     axios(config)
-      .then(function (response) {
-        console.log(JSON.stringify(response.data));
+      .then(function (_response) {
+        res.json({ success: true, message: `Feedback Sent` });
       })
       .catch(function (error) {
         console.log(error);
       });
-
-    // res.json({ success: true, message: `Feedback Sent` });
   }
 });
 
