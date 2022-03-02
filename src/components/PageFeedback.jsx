@@ -1,3 +1,4 @@
+/* eslint-disable react/button-has-type */
 import React from 'react';
 import Lottie from 'react-lottie';
 
@@ -5,7 +6,8 @@ import LikeAnimationData from './lotties/like.json';
 import DislikeAnimationData from './lotties/dislike.json';
 import SuccessAnimationData from './lotties/success.json';
 
-const AskFeedback = ({ setShowSuccess }) => {
+// eslint-disable-next-line react/prop-types
+function AskFeedback({ setShowSuccess }) {
   const [startLikeAnimation, setStartLikeAnimation] = React.useState(false);
   const [startDislikeAnimation, setStartDislikeAnimation] = React.useState(false);
 
@@ -28,8 +30,8 @@ const AskFeedback = ({ setShowSuccess }) => {
   };
 
   const sendFeedback = (reaction) => {
-    console.log('send feedback', reaction);
-    console.log(document.title);
+    // eslint-disable-next-line no-console
+    console.log(`Send feedback - Title: ${document.title} | Reaction: ${reaction}`, reaction);
 
     const windowTitle = document.title;
     const analyticsTitle = windowTitle.split(' | ')[0];
@@ -40,17 +42,20 @@ const AskFeedback = ({ setShowSuccess }) => {
       body: JSON.stringify({ category: analyticsTitle, action: reaction }),
     };
     fetch('/api/feedback', requestOptions).then(async (response) => {
-      const status = response.status;
+      const { status } = response;
 
       if (status === 200) {
         const res = await response.json();
 
         if (res.success) {
+          // eslint-disable-next-line no-console
           console.log(`Feedback sent successfully. Message: ${res.message}`);
         } else {
+          // eslint-disable-next-line no-console
           console.log('There was an error with sending the feedback');
         }
       } else {
+        // eslint-disable-next-line no-console
         console.log('There was an error with sending the feedback');
       }
     });
@@ -96,9 +101,9 @@ const AskFeedback = ({ setShowSuccess }) => {
       </div>
     </div>
   );
-};
+}
 
-const ShowSuccessMessage = () => {
+function ShowSuccessMessage() {
   const animationOptions = {
     loop: true,
     autoplay: true,
@@ -120,9 +125,9 @@ const ShowSuccessMessage = () => {
       />
     </div>
   );
-};
+}
 
-const PageFeedback = () => {
+function PageFeedback() {
   const [showSuccess, setShowSuccess] = React.useState(false);
 
   return (
@@ -132,6 +137,6 @@ const PageFeedback = () => {
       {showSuccess ? <ShowSuccessMessage /> : <AskFeedback setShowSuccess={setShowSuccess} />}
     </div>
   );
-};
+}
 
 export default PageFeedback;

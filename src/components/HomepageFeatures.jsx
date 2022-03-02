@@ -1,7 +1,9 @@
+/* eslint-disable react/no-array-index-key */
+/* eslint-disable react/jsx-props-no-spreading */
 import React from 'react';
 import clsx from 'clsx';
-import styles from './HomepageFeatures.module.css';
 import Lottie from 'react-lottie';
+import styles from './HomepageFeatures.module.css';
 
 import scienceAnimationData from './lotties/science.json';
 import focusAnimationData from './lotties/focus.json';
@@ -61,6 +63,7 @@ const FeatureList = [
   },
 ];
 
+// eslint-disable-next-line react/prop-types
 function Feature({ animationOptions, title, description }) {
   return (
     <div className={clsx('col col--4')}>
