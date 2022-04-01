@@ -1,8 +1,7 @@
 ---
 sidebar_position: 2
+title: How to structure the dataset description metadata file
 ---
-
-# How to structure the dataset description metadata file
 
 ## Background
 

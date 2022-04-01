@@ -1,9 +1,8 @@
 ---
 sidebar_position: 6
 pagination_next: null
+title: How to get your Data Deliverables document
 ---
-
-# How to get your Data Deliverables document
 
 ## Background
 

@@ -1,8 +1,7 @@
 ---
 sidebar_position: 9
+title: Assign a license
 ---
-
-# Assign a license
 
 ## Background
 

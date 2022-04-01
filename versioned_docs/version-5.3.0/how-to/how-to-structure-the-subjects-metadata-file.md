@@ -1,8 +1,7 @@
 ---
 sidebar_position: 3
+title: How to structure the subjects metadata file
 ---
-
-# How to structure the subjects metadata file
 
 ## Background
 

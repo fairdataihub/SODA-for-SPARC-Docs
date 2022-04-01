@@ -1,8 +1,7 @@
 ---
 sidebar_position: 3
+title: Checklist to organize and submit SPARC datasets
 ---
-
-# Checklist to organize and submit SPARC datasets
 
 ## Prepare and submit SPARC datasets with SODA
 

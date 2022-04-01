@@ -1,8 +1,7 @@
 ---
 sidebar_position: 4
+title: Create subjects.xlsx
 ---
-
-# Create subjects.xlsx
 
 ## Background
 

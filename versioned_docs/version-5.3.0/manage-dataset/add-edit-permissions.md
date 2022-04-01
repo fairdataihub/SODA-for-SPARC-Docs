@@ -1,8 +1,7 @@
 ---
 sidebar_position: 5
+title: Add edit permissions
 ---
-
-# Add edit permissions
 
 ## Background
 
