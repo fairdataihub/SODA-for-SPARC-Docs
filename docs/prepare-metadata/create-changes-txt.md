@@ -1,8 +1,7 @@
 ---
 sidebar_position: 7
+title: Create CHANGES.txt
 ---
-
-# Create CHANGES.txt
 
 ## Background
 

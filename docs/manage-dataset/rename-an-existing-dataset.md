@@ -1,8 +1,7 @@
 ---
 sidebar_position: 3
+title: Rename an existing dataset
 ---
-
-# Rename an existing dataset
 
 ## Background
 

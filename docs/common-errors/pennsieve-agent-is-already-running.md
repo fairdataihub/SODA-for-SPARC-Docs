@@ -1,8 +1,7 @@
 ---
 sidebar_position: 2
+title: Pennsieve agent is already running
 ---
-
-# Pennsieve agent is already running
 
 ## Issue Background
 

@@ -1,8 +1,7 @@
 ---
 sidebar_position: 8
+title: Upload a banner image
 ---
-
-# Upload a banner image
 
 ## Background
 
