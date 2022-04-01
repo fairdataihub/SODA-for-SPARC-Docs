@@ -1,8 +1,7 @@
 ---
 sidebar_position: 5
+title: How to structure the manifest metadata file
 ---
-
-# How to structure the manifest metadata file
 
 ## Background
 

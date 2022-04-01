@@ -1,8 +1,7 @@
 ---
 sidebar_position: 11
+title: Upload a local dataset to Pennsieve
 ---
-
-# Upload a local dataset to Pennsieve
 
 ## Background
 

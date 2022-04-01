@@ -1,8 +1,7 @@
 ---
 sidebar_position: 4
+title: How to structure the samples metadata file
 ---
-
-# How to structure the samples metadata file
 
 ## Background
 

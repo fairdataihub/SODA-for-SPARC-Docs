@@ -1,8 +1,7 @@
 ---
 sidebar_position: 8
+title: Create Manifest files
 ---
-
-# Create Manifest files
 
 ## Background
 

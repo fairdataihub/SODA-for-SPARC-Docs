@@ -1,9 +1,8 @@
 ---
 sidebar_position: 2
 pagination_next: null
+title: Building the application
 ---
-
-# Building the application
 
 ```shell title="For Windows"
 conda activate env-electron-python

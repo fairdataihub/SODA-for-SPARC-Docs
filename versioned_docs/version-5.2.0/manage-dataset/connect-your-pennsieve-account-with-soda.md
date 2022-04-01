@@ -1,8 +1,7 @@
 ---
 sidebar_position: 1
+title: Connect your Pennsieve account with SODA
 ---
-
-# Connect your Pennsieve account with SODA
 
 ## Background
 

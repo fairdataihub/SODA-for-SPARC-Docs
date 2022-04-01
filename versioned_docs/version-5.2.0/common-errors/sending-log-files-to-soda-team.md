@@ -1,8 +1,7 @@
 ---
 sidebar_position: 4
+title: Sending log files to SODA Team
 ---
-
-# Sending log files to SODA Team
 
 ## Background
 
