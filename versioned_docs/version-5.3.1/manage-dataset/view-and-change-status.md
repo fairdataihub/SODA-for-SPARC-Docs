@@ -1,8 +1,7 @@
 ---
 sidebar_position: 12
+title: View and change status
 ---
-
-# View and change status
 
 ## Background
 

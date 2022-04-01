@@ -1,8 +1,7 @@
 ---
 sidebar_position: 9
+title: Download templates
 ---
-
-# Download templates
 
 ## Background
 

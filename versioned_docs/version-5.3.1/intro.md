@@ -1,8 +1,7 @@
 ---
 sidebar_position: 1
+title: What is SODA for SPARC?
 ---
-
-# What is SODA for SPARC?
 
 SODA (Software to Organize Data Automatically) for SPARC is a cross-platform desktop software that allows SPARC-funded researchers to easily comply with the FAIR SPARC Data curation and sharing guidelines. Learn more about SODA for SPARC, its impact and its related resources on our website at https://fairdataihub.org/sodaforsparc.
 
