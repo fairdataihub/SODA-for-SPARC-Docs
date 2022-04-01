@@ -1,8 +1,7 @@
 ---
 sidebar_position: 5
+title: Step 4 - Specify high level metadata files
 ---
-
-# Step 4: Specify high level metadata files
 
 Click on the applicable panel to include the high-level metadata files of your choice.
 

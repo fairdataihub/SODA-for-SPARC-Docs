@@ -1,8 +1,7 @@
 ---
 sidebar_position: 1
+title: Organize dataset
 ---
-
-# Organize dataset
 
 ## Background
 

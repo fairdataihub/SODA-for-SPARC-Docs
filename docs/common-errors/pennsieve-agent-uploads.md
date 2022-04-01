@@ -1,8 +1,7 @@
 ---
 sidebar_position: 3
+title: Pennsieve agent fails to upload a dataset
 ---
-
-# Pennsieve agent fails to upload a dataset
 
 ## Issue Background
 

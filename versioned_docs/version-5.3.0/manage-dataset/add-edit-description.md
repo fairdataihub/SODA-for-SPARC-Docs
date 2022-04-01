@@ -1,8 +1,7 @@
 ---
 sidebar_position: 7
+title: Add edit description
 ---
-
-# Add edit description
 
 ## Background
 

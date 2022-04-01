@@ -1,8 +1,7 @@
 ---
 sidebar_position: 4
+title: Organize and submit a new SPARC dataset
 ---
-
-# Organize and submit a new SPARC dataset
 
 ## Background
 

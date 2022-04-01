@@ -1,8 +1,7 @@
 ---
 sidebar_position: 10
+title: Add edit tags
 ---
-
-# Add edit tags
 
 ## Background
 

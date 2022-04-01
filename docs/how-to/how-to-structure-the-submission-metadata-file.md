@@ -1,8 +1,7 @@
 ---
 sidebar_position: 1
+title: How to structure the submission metadata file
 ---
-
-# How to structure the submission metadata file
 
 ## Background
 

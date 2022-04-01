@@ -1,8 +1,7 @@
 ---
 sidebar_position: 1
+title: Connect your Airtable account with SODA
 ---
-
-# Connect your Airtable account with SODA
 
 ## Background
 

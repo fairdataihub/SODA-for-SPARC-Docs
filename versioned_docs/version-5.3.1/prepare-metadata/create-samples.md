@@ -1,8 +1,7 @@
 ---
 sidebar_position: 5
+title: Create samples.xlsx
 ---
-
-# Create samples.xlsx
 
 ## Background
 

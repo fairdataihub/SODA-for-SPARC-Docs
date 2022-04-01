@@ -1,8 +1,7 @@
 ---
 sidebar_position: 4
+title: Step 3 - Structure dataset files
 ---
-
-# Step 3: Structure dataset files
 
 Virtually structure your dataset using this interface as if you were organizing it on your computer but without actually modifying any local files. All your requested actions (files to be included, folders to be created, metadata information to be added, etc.) will be registered by SODA and only implemented when the dataset is generated during Step 6.
 

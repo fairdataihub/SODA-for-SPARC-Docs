@@ -1,8 +1,7 @@
 ---
 sidebar_position: 2
+title: Step 1 - Getting started
 ---
-
-# Step 1: Getting started
 
 Select between the following 4 options to get started with your dataset organization process with SODA:
 

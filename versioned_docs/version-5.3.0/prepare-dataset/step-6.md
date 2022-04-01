@@ -1,8 +1,7 @@
 ---
 sidebar_position: 7
+title: Step 6 - Generate dataset
 ---
-
-# Step 6: Generate dataset
 
 The dataset will be generated based on the information provided during the previous steps. It could be generated locally on your computer or directly on Pennsieve.
 

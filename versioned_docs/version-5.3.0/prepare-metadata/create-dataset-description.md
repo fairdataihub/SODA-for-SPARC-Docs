@@ -1,8 +1,7 @@
 ---
 sidebar_position: 3
+title: Create dataset_description.xlsx
 ---
-
-# Create dataset_description.xlsx
 
 ## Background
 

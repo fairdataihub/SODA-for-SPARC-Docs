@@ -1,8 +1,7 @@
 ---
 sidebar_position: 6
+title: Create README.txt
 ---
-
-# Create README.txt
 
 <!-- import OptimizedImage from '@site/src/components/OptimizedImage'; -->
 

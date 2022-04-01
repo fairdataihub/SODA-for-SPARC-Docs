@@ -1,8 +1,7 @@
 ---
 sidebar_position: 3
+title: Submit for pre publishing review
 ---
-
-# Submit for pre publishing review
 
 ## Background
 

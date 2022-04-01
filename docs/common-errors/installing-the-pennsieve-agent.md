@@ -1,8 +1,7 @@
 ---
 sidebar_position: 1
+title: Installing the Pennsieve agent
 ---
-
-# Installing the Pennsieve agent
 
 ## Issue Background
 

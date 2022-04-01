@@ -1,8 +1,7 @@
 ---
 sidebar_position: 5
+title: Issues regarding hidden files or folders
 ---
-
-# Issues regarding hidden files or folders
 
 ## Background
 

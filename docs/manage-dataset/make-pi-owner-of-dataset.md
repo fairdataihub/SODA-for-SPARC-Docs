@@ -1,8 +1,7 @@
 ---
 sidebar_position: 4
+title: Make PI owner of dataset
 ---
-
-# Make PI owner of dataset
 
 ## Background
 
