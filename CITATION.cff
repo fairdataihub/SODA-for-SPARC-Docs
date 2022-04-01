@@ -1,0 +1,46 @@
+# This CITATION.cff file was generated with FAIRshare.
+# Visit https://fairdataihub.org/fairshare to learn more!
+
+abstract: Documentation for the SODA for SPARC application
+authors:
+- affiliation: FAIR Data Innovations Hub
+  email: ssoundarajan@calmi2.org
+  family-names: Soundarajan
+  given-names: Sanjay
+- affiliation: FAIR Data Innovations Hub
+  email: cmarroquin@calmi2.org
+  family-names: M
+  given-names: Aaron
+- affiliation: FAIR Data Innovations Hub
+  email: tngo@calmi2.org
+  family-names: Ngo
+  given-names: Tram
+- affiliation: FAIR Data Innovations Hub
+  email: dportiollo@calmi2.org
+  family-names: Portillo
+  given-names: Dorian
+- affiliation: FAIR Data Innovations Hub
+  email: bpatel@calmi2.org
+  family-names: Patel
+  given-names: Bhavesh
+  orcid: 0000-0002-0307-262X
+cff-version: 1.2.0
+date-released: '2022-04-01T22:07:28.055Z'
+keywords:
+- SPARC
+- FAIR
+- data
+- curation
+- documentation
+- macos
+- sparc-dataset
+- ubuntu
+- windows
+license: MIT
+message: If you use this software, please cite it as below.
+repository-artifact: https://github.com/fairdataihub/SODA-for-SPARC-Docs
+repository-code: https://github.com/fairdataihub/SODA-for-SPARC-Docs
+title: SODA for SPARC docs
+type: software
+url: https://fairdataihub.org/
+version: 5.3.1
