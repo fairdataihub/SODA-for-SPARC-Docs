@@ -5,7 +5,7 @@ title: Rename an existing dataset
 
 ## Background
 
-This feature allows you to change an existing Pennsieve dataset's name. The name of the dataset will be displayed as the title of the dataset when the dataset becomes public. 
+This feature allows you to change an existing Pennsieve dataset's name. The name of the dataset will be displayed as the title of the dataset when the dataset becomes public.
 It is thus advised to make sure that your dataset title is different than your other dataset titles and that it is relatively informative.
 
 ## How to

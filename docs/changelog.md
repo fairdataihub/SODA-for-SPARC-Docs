@@ -7,7 +7,7 @@ title: Changelog
 
 All notable changes to SODA for SPARC will be documented in this file.
 
-## Version 5.3.2 
+## Version 5.3.2
 
 ### Known Issues:
 

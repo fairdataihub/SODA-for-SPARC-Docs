@@ -22,9 +22,10 @@ If you do not have pre-existing datasets SODA allows you to create a new dataset
    - For Pennsieve datasets use the dropdown to select which Pennsieve dataset you would like to create Manifest files for.
      ![](https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Manifest/manifest-pennsieve.PNG?raw=true)
 3. (Optional) You can edit SODA-generated manifest files by clicking on `Yes, let's edit the manifest files`. If you do not wish to do so, simply click `No, generate now` to start generating the manifest files.
-    - When editing manifest files you may edit the `Description` or `Additional Metadata` columns in your dataset's manifest files before generating them to the desired destination.
-    - When editing manifest files you can also add or remove custom columns using the `Context Menu`. To do this select a column header and then right click on it to activate the `Context Menu`.
-      ![](https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Manifest/insert-columns.png?raw=true)
+
+   - When editing manifest files you may edit the `Description` or `Additional Metadata` columns in your dataset's manifest files before generating them to the desired destination.
+   - When editing manifest files you can also add or remove custom columns using the `Context Menu`. To do this select a column header and then right click on it to activate the `Context Menu`.
+     ![](https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Manifest/insert-columns.png?raw=true)
 
 4. After you finish editing the manifest files at Step 3, click `Generate now`.
 
