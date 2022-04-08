@@ -1,3 +1,18 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6426258.svg)](https://doi.org/10.5281/zenodo.6426258)
+
+[contributors-shield]: https://img.shields.io/github/contributors/fairdataihub/SODA-for-SPARC-Docs.svg?style=flat-square
+[contributors-url]: https://github.com/fairdataihub/SODA-for-SPARC-Docs/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/fairdataihub/SODA-for-SPARC-Docs.svg?style=flat-square
+[stars-url]: https://github.com/fairdataihub/SODA-for-SPARC-Docs/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fairdataihub/SODA-for-SPARC-Docs.svg?style=flat-square
+[issues-url]: https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues
+[license-shield]: https://img.shields.io/github/license/fairdataihub/SODA-for-SPARC-Docs.svg?style=flat-square
+[license-url]: https://github.com/fairdataihub/SODA-for-SPARC-Docs/blob/main/LICENSE
+
 # SODA for SPARC Documentation
 
 All documentation for the SODA for SPARC application will be hosted in this repository. Versioning has been setup for previously released versions of the application.
