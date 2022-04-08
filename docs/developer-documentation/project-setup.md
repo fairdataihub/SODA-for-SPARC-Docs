@@ -82,17 +82,31 @@ npm install
 
 :::caution
 For Windows, you also need the `win-node-env` package. This should automatically have been installed as an optional dependency from the `package.json` but if it doesn't you can use the following command to add it to your project:
-:::
 
 ```
 npm install -g win-node-env
 ```
 
-:::info
+:::
+
+:::info For Windows
+
+You might sometimes need to run these additional instructions below to set up your environment. For most instance just running `npm start` should be fine.
+
+```bash
+# Delete 'node_modules' folder and package-lock.json (if present)
+npm install -g node-gyp
+npm config set python \path\to\python2.exe
+npm config set msvs_version 2017
+npm install
+"./node_modules/.bin/"electron-rebuild .
+npm start
+```
+
 If `electron-rebuild .` gives you an error, try deleting the `.electron-gyp` folder from your user profile and try again.
 :::
 
-- This should launch the application. You can now edit the code files in the 'src' folder and run `npm start` to see/test your changes
+You can now launch the application. You can also edit the code files in the `src` folder and run `npm start` to see/test your changes
 
 ## Installing packages
 
