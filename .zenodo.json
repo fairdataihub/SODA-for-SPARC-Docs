@@ -1,1 +1,27 @@
-{"upload_type": "software", "title": "SODA for SPARC docs", "publication_date": "2022-04-08", "creators": [{"name": "Soundarajan, Sanjay", "affiliation": "FAIR Data Innovations Hub"}, {"name": "Marroquin, Aaron", "affiliation": "FAIR Data Innovations Hub"}, {"name": "Ngo, Tram", "affiliation": "FAIR Data Innovations Hub"}, {"name": "Portillo, Dorian", "affiliation": "FAIR Data Innovations Hub"}, {"name": "Patel, Bhavesh", "affiliation": "FAIR Data Innovations Hub"}], "description": "Documentation for the SODA for SPARC application", "access_right": "open", "license": "MIT", "keywords": ["SPARC", "FAIR", "data", "curation", "documentation", "macos", "sparc-dataset", "ubuntu", "windows"], "version": "5.3.3"}
+{
+  "upload_type": "software",
+  "title": "SODA for SPARC docs",
+  "publication_date": "2022-04-08",
+  "creators": [
+    { "name": "Soundarajan, Sanjay", "affiliation": "FAIR Data Innovations Hub" },
+    { "name": "Marroquin, Aaron", "affiliation": "FAIR Data Innovations Hub" },
+    { "name": "Ngo, Tram", "affiliation": "FAIR Data Innovations Hub" },
+    { "name": "Portillo, Dorian", "affiliation": "FAIR Data Innovations Hub" },
+    { "name": "Patel, Bhavesh", "affiliation": "FAIR Data Innovations Hub" }
+  ],
+  "description": "Documentation for the SODA for SPARC application",
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "SPARC",
+    "FAIR",
+    "data",
+    "curation",
+    "documentation",
+    "macos",
+    "sparc-dataset",
+    "ubuntu",
+    "windows"
+  ],
+  "version": "5.3.3"
+}
