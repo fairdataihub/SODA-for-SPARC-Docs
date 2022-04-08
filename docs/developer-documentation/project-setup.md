@@ -99,7 +99,7 @@ npm start
 
 :::info For Windows
 
-For most instance just running `npm start` should be fine. However, you might sometimes need to run these additional instructions below to set up your environment. 
+For most instance just running `npm start` should be fine. However, you might sometimes need to run these additional instructions below to set up your environment.
 
 ```bash
 # Delete 'node_modules' folder and package-lock.json (if present)
