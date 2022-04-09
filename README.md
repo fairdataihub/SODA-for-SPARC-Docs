@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
+  <img src="static/img/logo.svg" alt="logo" width="200" height="auto" />
   <h1>SODA for SPARC Documentation</h1>
   
   <p>
