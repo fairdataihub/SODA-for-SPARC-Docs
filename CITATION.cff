@@ -9,7 +9,7 @@ authors:
   given-names: Sanjay
 - affiliation: FAIR Data Innovations Hub
   email: cmarroquin@calmi2.org
-  family-names: M
+  family-names: Marroquin
   given-names: Aaron
 - affiliation: FAIR Data Innovations Hub
   email: tngo@calmi2.org
@@ -23,9 +23,8 @@ authors:
   email: bpatel@calmi2.org
   family-names: Patel
   given-names: Bhavesh
-  orcid: 0000-0002-0307-262X
 cff-version: 1.2.0
-date-released: '2022-04-01T22:07:28.055Z'
+date-released: '2022-04-08'
 keywords:
 - SPARC
 - FAIR
@@ -43,4 +42,4 @@ repository-code: https://github.com/fairdataihub/SODA-for-SPARC-Docs
 title: SODA for SPARC docs
 type: software
 url: https://fairdataihub.org/
-version: 5.3.1
+version: 5.3.3
