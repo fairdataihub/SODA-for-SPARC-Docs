@@ -103,7 +103,7 @@ To run this project, you will need to add the following environment variables to
 This project uses Yarn as package manager
 
 ```bash
- npm install --global yarn
+npm install --global yarn
 ```
 
 ### :running: Run Locally
@@ -111,25 +111,25 @@ This project uses Yarn as package manager
 Clone the project
 
 ```bash
-  git clone https://github.com/fairdataihub/SODA-for-SPARC-Docs.git
+git clone https://github.com/fairdataihub/SODA-for-SPARC-Docs.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd SODA-for-SPARC-Docs
+cd SODA-for-SPARC-Docs
 ```
 
 Install dependencies
 
 ```bash
-  yarn install
+yarn install
 ```
 
 Start the server
 
 ```bash
-  yarn start
+yarn start
 ```
 
 ### :stopwatch: Versioning
