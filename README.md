@@ -23,6 +23,9 @@
   <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/fairdataihub/SODA-for-SPARC-Docs.svg?style=flat-square" alt="license" />
   </a>
+  <a href="https://doi.org/10.5281/zenodo.6426258">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6426258.svg" alt="doi" />
+  </a>
 </p>
    
 <h4>
