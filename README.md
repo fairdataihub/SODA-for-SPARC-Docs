@@ -140,8 +140,9 @@ Ideally, you should create a new branch and update the relevant pages. Then send
 
 Only do these steps after all changes to the documentation for the specific version have been completed:
 
-1. First, make sure the current docs version (the `docs` directory) is ready to be frozen.
-2. Update the `version` key in package.json for this repository.
+1. Update the docs changelog to be on parity with the changelog in [@SODA-for-SPARC](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/CHANGELOG.md)
+2. Make sure the current docs version (the `docs` directory) is ready to be frozen.
+3. Update the `version` key in package.json for this repository.
 
 ```bash
 yarn run docusaurus docs:version 5.3.0
