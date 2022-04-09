@@ -4,40 +4,35 @@
   <h1>SODA for SPARC Documentation</h1>
   
   <p>
-    An awesome README template for your projects! 
+    A comprehensive documentation of the SODA for SPARC project!
   </p>
-  
-  
-<!-- Badges -->
+
 <p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+  <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/fairdataihub/SODA-for-SPARC-Docs.svg?style=flat-square" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/fairdataihub/SODA-for-SPARC-Docs?style=flat-square" alt="last update" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+  <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/stargazers">
+    <img src="https://img.shields.io/github/stars/fairdataihub/SODA-for-SPARC-Docs.svg?style=flat-square" alt="stars" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
+  <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/">
+    <img src="https://img.shields.io/github/issues/fairdataihub/SODA-for-SPARC-Docs.svg?style=flat-square" alt="open issues" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+  <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/fairdataihub/SODA-for-SPARC-Docs.svg?style=flat-square" alt="license" />
   </a>
 </p>
    
 <h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
+    <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
+    <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
+    <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+    <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -101,8 +96,6 @@ This project uses Yarn as package manager
 ```bash
  npm install --global yarn
 ```
-
-<!-- Installation -->
 
 ### :gear: Installation
 
