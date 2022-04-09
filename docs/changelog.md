@@ -7,6 +7,17 @@ title: Changelog
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## Version 5.3.3
+
+### Bug fixes:
+
+- Uploading a local dataset to a new Pennsieve dataset through the Organize Dataset feature no longer pauses indefinitely before the upload begins.
+
+### Known issues:
+
+- There is a bug with removing dataset permissions using both SODA and Pennsieve. If you want to remove your own permission from a dataset, another user with either 'Manager' or 'Owner' permissions must remove you from the dataset. This is an issue with Pennsieve's backend system and will be updated soon.
+- When uploading a dataset through Upload Local Dataset or Organize Dataset feature to Pennsieve the upload will sometimes freeze. When this occurs it is best to reset the upload and ensure the Pennsieve Agent has been stopped before attempting to upload again. It is also necessary to verify the integrity of uploaded files up to that point. This can be done by simply ensuring all files from folders that have been uploaded are included in the Pennsieve dataset.
+
 ## Version 5.3.2
 
 ### Feature additions:
@@ -16,7 +27,7 @@ All notable changes to SODA for SPARC will be documented in this file.
 - A user will have the option to perform other curation tasks after starting a dataset upload/generation. Upon doing so they will see a upload progress bar in the navigation bar.
 - User can upload large folders( 1k+ files ) through SODA to Pennsieve.
 
-### Known Issues:
+### Known issues:
 
 - There is a bug with removing dataset permissions using both SODA and Pennsieve. If you want to remove your own permission from a dataset, another user with either 'Manager' or 'Owner' permissions must remove you from the dataset. This is an issue with Pennsieve's backend system and will be updated soon.
 - When uploading a dataset through Upload Local Dataset or Organize Dataset feature to Pennsieve the upload will sometimes freeze. When this occurs it is best to reset the upload and ensure the Pennsieve Agent has been stopped before attempting to upload again. It is also necessary to verify the integrity of uploaded files up to that point. This can be done by simply ensuring all files from folders that have been uploaded are included in the Pennsieve dataset.
@@ -28,7 +39,7 @@ All notable changes to SODA for SPARC will be documented in this file.
 - Drag and drop functionality in `Organize Datasets` now correctly imports multi-selected files and folders.
 - Updated the mac SODA for SPARC application icon.
 
-### Known Issues:
+### Known issues:
 
 - There is a bug with removing dataset permissions using both SODA and Pennsieve. If you want to remove your own permission from a dataset, another user with either 'Manager' or 'Owner' permissions must remove you from the dataset. This is an issue with Pennsieve's backend system and will be updated soon.
 
@@ -44,7 +55,7 @@ All notable changes to SODA for SPARC will be documented in this file.
 - Fixed issue wherein Submission.xlsx files are not uploaded to Pennsieve in the Prepare Metadata section.
 - Fixed issue that prevented dataset_description.xlsx protocols from being editable within the Prepare Metadata section.
 
-### Known Issues:
+### Known issues:
 
 - There is a bug with removing dataset permissions using both SODA and Pennsieve. If you want to remove your own permission from a dataset, another user with either 'Manager' or 'Owner' permissions must remove you from the dataset. This is an issue with Pennsieve's backend system and will be updated soon.
 
@@ -54,7 +65,7 @@ All notable changes to SODA for SPARC will be documented in this file.
 
 - Fixed issue where file uploads to Pennsieve would sometimes fail because of an uncleared Pennsieve Client file upload queue.
 
-### Known Issues:
+### Known issues:
 
 - There is a bug with removing dataset permissions using both SODA and Pennsieve. If you want to remove your own permission from a dataset, another user with either 'Manager' or 'Owner' permissions must remove you from the dataset. This is an issue with Pennsieve's backend system and will be updated soon.
 
