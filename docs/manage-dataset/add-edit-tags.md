@@ -1,6 +1,7 @@
 ---
 sidebar_position: 10
 title: Add edit tags
+image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/add-edit-tags.png
 ---
 
 ## Background

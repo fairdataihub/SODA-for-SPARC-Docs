@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: How to structure the dataset description metadata file
+image: https://docs.sodaforsparc.io/thumbnails/how-to/how-to-structure-the-dataset-description-metadata-file.png
 ---
 
 ## Background

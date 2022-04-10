@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Checklist to organize and submit SPARC datasets
+image: https://docs.sodaforsparc.io/thumbnails/getting-started/organize-and-submit-a-new-sparc-dataset-with-soda.png
 ---
 
 ## Prepare and submit SPARC datasets with SODA

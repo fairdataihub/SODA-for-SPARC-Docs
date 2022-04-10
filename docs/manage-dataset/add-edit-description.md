@@ -1,6 +1,7 @@
 ---
 sidebar_position: 7
 title: Add edit description
+image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/add-edit-description.png
 ---
 
 ## Background

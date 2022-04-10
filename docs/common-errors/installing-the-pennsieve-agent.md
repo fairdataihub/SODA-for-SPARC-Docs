@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Installing the Pennsieve agent
+image: https://docs.sodaforsparc.io/thumbnails/common-errors/installing-the-pennsieve-agent.png
 ---
 
 ## Issue Background

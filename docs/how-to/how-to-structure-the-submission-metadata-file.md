@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: How to structure the submission metadata file
+image: https://docs.sodaforsparc.io/thumbnails/how-to/how-to-structure-the-submission-metadata-file.png
 ---
 
 ## Background

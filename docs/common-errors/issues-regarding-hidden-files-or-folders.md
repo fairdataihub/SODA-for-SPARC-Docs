@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 title: Issues regarding hidden files or folders
+image: https://docs.sodaforsparc.io/thumbnails/common-errors/issues-regarding-hidden-files-or-folders.png
 ---
 
 ## Background

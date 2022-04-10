@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Pennsieve agent is already running
+image: https://docs.sodaforsparc.io/thumbnails/common-errors/pennsieve-agent-is-already-running.png
 ---
 
 ## Issue Background

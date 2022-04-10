@@ -1,6 +1,7 @@
 ---
 sidebar_position: 11
 title: Upload a local dataset to Pennsieve
+image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/upload-a-local-dataset-to-pennsieve.png
 ---
 
 ## Background

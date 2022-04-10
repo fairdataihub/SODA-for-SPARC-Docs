@@ -2,6 +2,7 @@
 sidebar_position: 6
 pagination_next: null
 title: How to get your Data Deliverables document
+image: https://docs.sodaforsparc.io/thumbnails/how-to/how-to-get-your-data-deliverables-document.png
 ---
 
 ## Background

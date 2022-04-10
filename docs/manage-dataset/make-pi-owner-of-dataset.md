@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Make PI owner of dataset
+image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/make-pi-owner-of-dataset.png
 ---
 
 ## Background

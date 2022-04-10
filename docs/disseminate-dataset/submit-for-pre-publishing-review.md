@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Submit for pre publishing review
+image: https://docs.sodaforsparc.io/thumbnails/disseminate-dataset/submit-for-pre-publishing-review.png
 ---
 
 ## Background

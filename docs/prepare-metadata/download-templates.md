@@ -1,6 +1,7 @@
 ---
 sidebar_position: 9
 title: Download templates
+image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/download-templates.png
 ---
 
 ## Background

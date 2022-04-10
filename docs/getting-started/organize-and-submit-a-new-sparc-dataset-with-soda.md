@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Organize and submit a new SPARC dataset
+image: https://docs.sodaforsparc.io/thumbnails/getting-started/organize-and-submit-a-new-sparc-dataset-with-soda.png
 ---
 
 ## Background

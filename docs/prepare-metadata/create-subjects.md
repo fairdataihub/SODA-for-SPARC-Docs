@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Create subjects.xlsx
+image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-subjects.png
 ---
 
 ## Background

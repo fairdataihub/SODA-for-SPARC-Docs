@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 title: Create samples.xlsx
+image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-samples.png
 ---
 
 ## Background

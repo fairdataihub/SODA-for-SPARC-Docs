@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: How to structure the subjects metadata file
+image: https://docs.sodaforsparc.io/thumbnails/how-to/how-to-structure-the-subjects-metadata-file.png
 ---
 
 ## Background

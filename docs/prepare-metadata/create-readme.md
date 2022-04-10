@@ -1,6 +1,7 @@
 ---
 sidebar_position: 6
 title: Create README.txt
+image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-readme.png
 ---
 
 <!-- import OptimizedImage from '@site/src/components/OptimizedImage'; -->

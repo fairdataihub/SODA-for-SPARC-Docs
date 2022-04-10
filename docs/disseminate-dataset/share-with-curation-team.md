@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Share with curation team
+image: https://docs.sodaforsparc.io/thumbnails/disseminate-dataset/share-with-curation-team.png
 ---
 
 ## Background

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Rename an existing dataset
+image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/rename-an-existing-dataset.png
 ---
 
 ## Background
