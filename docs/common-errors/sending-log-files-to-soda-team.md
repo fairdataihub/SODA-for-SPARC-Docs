@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Sending log files to SODA Team
+image: https://docs.sodaforsparc.io/thumbnails/common-errors/sending-log-files-to-soda-team.png
 ---
 
 ## Background

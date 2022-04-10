@@ -1,6 +1,7 @@
 ---
 sidebar_position: 8
 title: Upload a banner image
+image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/upload-a-banner-image.png
 ---
 
 ## Background

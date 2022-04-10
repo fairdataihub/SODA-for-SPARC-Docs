@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Connect your Pennsieve account with SODA
+image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/connect-your-pennsieve-account-with-soda.png
 ---
 
 ## Background

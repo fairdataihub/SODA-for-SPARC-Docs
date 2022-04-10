@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Step 1 - Getting started
+image: https://docs.sodaforsparc.io/thumbnails/prepare-dataset/step-1.png
 ---
 
 Select between the following 4 options to get started with your dataset organization process with SODA:

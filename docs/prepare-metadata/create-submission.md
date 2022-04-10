@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Create submission.xlsx
+image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-submission.png
 ---
 
 ## Background

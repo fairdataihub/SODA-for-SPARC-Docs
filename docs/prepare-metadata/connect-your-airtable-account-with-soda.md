@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Connect your Airtable account with SODA
+image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/connect-your-airtable-account-with-soda.png
 ---
 
 ## Background

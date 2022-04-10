@@ -1,6 +1,7 @@
 ---
 sidebar_position: 8
 title: Create Manifest files
+image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-manifest-files.png
 ---
 
 ## Background

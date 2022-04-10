@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 title: How to structure the manifest metadata file
+image: https://docs.sodaforsparc.io/thumbnails/how-to/how-to-structure-the-manifest-metadata-file.png
 ---
 
 ## Background

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 7
 title: Create CHANGES.txt
+image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-changes-txt.png
 ---
 
 ## Background

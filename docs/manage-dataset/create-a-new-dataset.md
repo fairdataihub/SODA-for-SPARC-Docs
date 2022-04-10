@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Create a new dataset
+image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/create-a-new-dataset.png
 ---
 
 ## Background

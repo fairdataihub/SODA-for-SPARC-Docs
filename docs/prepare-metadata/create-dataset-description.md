@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Create dataset_description.xlsx
+image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-dataset-description.png
 ---
 
 ## Background

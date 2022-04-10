@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Pennsieve agent fails to upload a dataset
+image: https://docs.sodaforsparc.io/thumbnails/common-errors/pennsieve-agent-uploads.png
 ---
 
 ## Issue Background
