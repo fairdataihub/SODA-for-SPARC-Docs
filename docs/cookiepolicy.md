@@ -3,6 +3,7 @@ sidebar_position: 13
 pagination_prev: null
 pagination_next: null
 title: Cookie Policy
+image: https://docs.sodaforsparc.io/thumbnails/base/cookiepolicy.png
 ---
 
 ## What Are Cookies?
