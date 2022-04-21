@@ -253,7 +253,7 @@ When you are ready to generate your dataset, click the Generate button. Wait her
 
 Once the dataset is generated, you will be prompted to share it with the Curation Team. Click on Yes.
 
-## Organize dataset according to the SPARC Dataset Structure
+## Submit Dataset to the Curation Team for Review
 
 You can find this feature under `Share with Curation Team` under the `Disseminate Dataset` tab. The dataset you created during step A2 should be automatically selected (you can select another one by clicking on the pencil symbol next to `Current dataset`). Simply click on `Share now` to share your dataset with the Curation Team for review.
 
