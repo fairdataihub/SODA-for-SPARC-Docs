@@ -6,9 +6,9 @@ image: https://docs.sodaforsparc.io/thumbnails/prepare-dataset/step-7.png
 
 ## Background
 
-All SPARC datasets must conform to the [SPARC Dataset Structure (SDS) 2.0.0](https://sparc.science/help/3FXikFXC8shPRd8xZqhjVT) in order to be published. To help researchers verify the compliance of their dataset with the SDS 2.0.0, we have integrate in SODA the validator developed by the SPARC Curation Team ([FAIR Data Informatics (FDI) Laboratory at University of California, San Diego](https://www.fdilab.org/)). The simple interface provided in SODA will allow you to verify that the structure, relationships, and metadata contents of your dataset conform to the SDS 2.0.0.
+All SPARC datasets must conform to the [SPARC Dataset Structure (SDS) 2.0.0](https://sparc.science/help/3FXikFXC8shPRd8xZqhjVT) in order to be published. To help researchers verify the compliance of their dataset with the SDS 2.0.0, SODA has integrated the validator developed by the SPARC Curation Team ([FAIR Data Informatics (FDI) Laboratory at University of California, San Diego](https://www.fdilab.org/)). The simple interface provided in SODA will allow you to verify that the structure, relationships, and metadata contents of your dataset conform to the SDS 2.0.0.
 
-This validation step is should be done after you have organized your dataset (e.g. using the `Organize dataset` feature of SODA) and before you submit it to the Curation team for review (e.g. `Share with Curation Team` feature of SODA).
+This validation step should be done after you have organized your dataset (e.g. using the `Organize dataset` feature of SODA) and before you submit it to the Curation team for review (e.g. `Share with Curation Team` feature of SODA).
 
 :::info
 At the moment, valid datasets will still receive error messages regarding Pennsieve dataset and organization IDs. These will have the paths: `#/meta/uri_api` and `#/meta/uri_human`. You can safely ignore these messages.
