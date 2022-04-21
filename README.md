@@ -106,7 +106,8 @@ This project uses Yarn as package manager
 npm install --global yarn
 ```
 
-Node version >= 14 for Docusarus compatibility.
+Additionally, a version of Node.js that is >= 14 is required for compatibility with Docusarus. 
+If your Node.js version is < 14 you can download the latest Node.js version from ![the Node.js download page.](https://nodejs.org/en/download/)
 
 ### :running: Run Locally
 
