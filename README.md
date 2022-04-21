@@ -106,6 +106,8 @@ This project uses Yarn as package manager
 npm install --global yarn
 ```
 
+Node version >= 14 for Docusarus compatibility.
+
 ### :running: Run Locally
 
 Clone the project
