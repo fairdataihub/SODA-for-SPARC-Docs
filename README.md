@@ -136,7 +136,7 @@ yarn start
 
 You can use the version script to create a new documentation version based on the latest content in the `docs` directory. That specific set of documentation will then be preserved and accessible even as the documentation in the `docs` directory changes moving forward.
 
-Ideally, you should create a new branch and update the relevant pages. Then send a PR with [@megasanjay](https://github.com/megasanjay) on the review page.
+Ideally, you should create a new branch and update the relevant pages. Then send a PR with [@megasanjay](https://github.com/megasanjay) or [@aaronm-2112](https://github.com/aaronm-2112) on the review page.
 
 Only do these steps after all changes to the documentation for the specific version have been completed:
 
