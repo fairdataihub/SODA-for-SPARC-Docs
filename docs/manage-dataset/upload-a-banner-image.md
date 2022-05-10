@@ -12,7 +12,7 @@ All SPARC datasets must have the following metadata on Pennsieve: subtitle, desc
 
 To access this interface click on the `Free Form Mode` side bar option, then click on the `Manage Datasets` tab, and finally click on the `Upload a banner image` card.
 
-1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](../connect-your-pennsieve-account-with-soda). Any existing banner image for your Pennsieve dataset will be automatically imported in the interface.
+1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda). Any existing banner image for your Pennsieve dataset will be automatically imported in the interface.
 2. Click on `Edit banner image`
 3. Click on `Import image` in the new pop-up window.
 4. Select the image file you want to use as a banner image.
