@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Checklist to organize and submit SPARC datasets
+title: Step-by-step guide to organize and submit SPARC datasets with SODA for SPARC
 image: https://docs.sodaforsparc.io/thumbnails/getting-started/organize-and-submit-a-new-sparc-dataset-with-soda.png
 ---
 
@@ -12,10 +12,11 @@ This is the suggested workflow for preparing and submitting your SPARC datasets 
 
 These steps only need to be completed once after you install the application.
 
-- Read about the [SPARC requirements for organizing and sharing all SPARC datasets](https://sparc.science/help/7k8nEPuw3FjOq2HuS8OVsd)
+- <a href="../getting-started/download-soda" target="\_blank"> Dowload and install SODA </a>
 - Sign up to [Pennsieve](https://app.pennsieve.net/) and get access to the SPARC Consortium organization (contact support@pennsieve.net for help)
 - Download and install the [Pennsieve agent](https://docs.pennsieve.io/docs/the-pennsieve-agent) required to upload files through SODA
-- Open SODA and watch our quick video located under the `Overview` tab to familiarize yourself with the user interface of SODA
+- Watch our [quick video](../getting-started/user-interface) to familiarize yourself with the user interface of SODA (note: optional)
+- Read about the [SPARC requirements for organizing and sharing all SPARC datasets](https://sparc.science/help/7k8nEPuw3FjOq2HuS8OVsd) (note: optional)
 
 ### Prepare Dataset on Pennsieve
 
@@ -24,11 +25,12 @@ These steps can be completed in the `Manage Datasets` tab of SODA.
 - [Connect your Pennsieve account with SODA](../manage-dataset/connect-your-pennsieve-account-with-soda). This is only required the first time you use SODA
 - [Create a new dataset](../manage-dataset/create-a-new-dataset)
 - [Make PI of the SPARC award the owner of the dataset](../manage-dataset/make-pi-owner-of-dataset).
-- [Give access to other members/teams who may need to contribute to the dataset](../manage-dataset/add-edit-permissions) (note: optional)
+- [Give access to other members/teams who may need to contribute to the dataset](../manage-dataset/add-edit-permissions) (note: required only if others need to contribute to your dataset)
 - [Add a subtitle](../manage-dataset/add-edit-subtitle)
 - [Add a description](../manage-dataset/add-edit-description)
 - [Upload a banner image](../manage-dataset/upload-a-banner-image)
 - [Assign a license](../manage-dataset/assign-a-license)
+- [Add/edits tags](../manage-dataset/add-edit-tags)
 
 ### Prepare SPARC Metadata Files
 
@@ -37,8 +39,8 @@ These steps can be completed in the `Prepare Metadata` tab of SODA.
 - Prepare protocol on protocols.io following the [instructions provided here](https://sparc.science/help/1slXZSS2XtTYQsdY6mEJi5).
 - [Prepare submission file](../prepare-metadata/create-submission)
 - [Prepare dataset description file](../prepare-metadata/create-dataset-description)
-- [Prepare subjects file](../prepare-metadata/create-subjects) (required only if your study includes subjects)
-- [Prepare samples file](../prepare-metadata/create-samples) (required only if your study includes samples)
+- [Prepare subjects file](../prepare-metadata/create-subjects) (note: required only if your study includes subjects)
+- [Prepare samples file](../prepare-metadata/create-samples) (note: required only if your study includes samples)
 
 ### Organize dataset according to the SPARC Dataset Structure
 

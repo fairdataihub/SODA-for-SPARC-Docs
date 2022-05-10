@@ -6,7 +6,7 @@ image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-submissio
 
 ## Background
 
-Under this feature, SODA lets you rapidly prepare the submission metadata file for your dataset. This feature is designed to avoid commonly found errors when preparing this file. The expected structure of this file, generated automatically by SODA, is explained in our corresponding "[How to](../how-to/how-to-structure-the-submission-metadata-file.md)" page if you would like to learn about it.
+Under this feature, SODA lets you rapidly prepare the submission metadata file that is mandatory for all SPARC datasets. This feature is designed to avoid commonly found errors when preparing this file. The expected structure of this file, generated automatically by SODA, is explained in our corresponding "[How to](../how-to/how-to-structure-the-submission-metadata-file.md)" page if you would like to learn about it.
 
 SODA makes use of two resources to help you prepare the submission file rapidly and without errors:
 
