@@ -6,17 +6,19 @@ image: https://docs.sodaforsparc.io/thumbnails/getting-started/organize-and-subm
 
 ## Prepare and submit SPARC datasets with SODA
 
-This is the suggested workflow for preparing and submitting your SPARC datasets with SODA. All these steps are mandatory (unless marked otherwise) if you wish to satisfy the SPARC requirements.
+The typical process for submitting your SPARC dataset consists of organizing your data according to the SPARC Data Structure (SDS), adding metadata files, uploading everything on the [Pennsieve data platform](https://app.pennsieve.io/) where more metadata needs to be added, and finally sharing the dataset with the SPARC Curation Team who will review it for compliance. Once approved by the Curation Team, you will have to share your dataset as embargoed dataset and it will become accessible to all members of the SPARC Consortium through Pennsieve. Once the embargo period is over (one year after initial upload or after publication of related manuscript(s), wichever comes first), you will have to publish your dataset and it will then become accessible publicly through the [SPARC Data Portal](https://sparc.science/).
+
+We describe below the suggested workflow for preparing and submitting your SPARC datasets with SODA. All these steps are mandatory (unless marked otherwise) if you wish to satisfy the SPARC requirements.
 
 ### A. Preliminary Steps
 
 These steps only need to be completed once.
 
 - <a href="../getting-started/download-soda" target="\_blank"> Dowload and install SODA </a>
-- All SPARC datasets must be uploaded on the Pennsieve data platform. Get access to the SPARC Consortium organization on Pennsieve by filling out [this form](https://www.wrike.com/frontend/requestforms/index.html?token=eyJhY2NvdW50SWQiOjMyMDM1ODgsInRhc2tGb3JtSWQiOjUwMzQzN30JNDgwNTg4NjU3MjA3Nwk0MTg5ZTY0ODEyZGYxNTU1ZDJkYmU5MzIxNWZiNTQyZWUwZTMzY2U4NDQ5ODI0ZWI0YzZiMWZhNjVhYzgyOTRm). We also suggest to request access to the SPARC Airtable sheet through the same form as it will come in handy when your prepare your SPRARC metadata files.
+- All SPARC datasets must be uploaded on the Pennsieve data platform. Get access to Pennsieve as well as the SPARC Consortium organization on Pennsieve by filling out [this form](https://www.wrike.com/frontend/requestforms/index.html?token=eyJhY2NvdW50SWQiOjMyMDM1ODgsInRhc2tGb3JtSWQiOjUwMzQzN30JNDgwNTg4NjU3MjA3Nwk0MTg5ZTY0ODEyZGYxNTU1ZDJkYmU5MzIxNWZiNTQyZWUwZTMzY2U4NDQ5ODI0ZWI0YzZiMWZhNjVhYzgyOTRm). We also suggest to request access to the SPARC Airtable sheet through the same form as it will come in handy when your prepare your SPARC metadata files.
 - Download and install the [Pennsieve agent](https://docs.pennsieve.io/docs/the-pennsieve-agent) required to upload files through SODA
 - Watch our [quick video](../getting-started/user-interface) to familiarize yourself with the user interface of SODA (note: optional but recommended)
-- Read about the [SPARC requirements for organizing and sharing datasets] to familiarize yourself with the process (https://sparc.science/help/7k8nEPuw3FjOq2HuS8OVsd) (note: optional but recommended)
+- Read about the [SPARC requirements for organizing and sharing datasets](https://sparc.science/help/7k8nEPuw3FjOq2HuS8OVsd) to familiarize yourself with the process (note: optional but recommended)
 
 ### B. Prepare Dataset on Pennsieve
 
@@ -57,9 +59,9 @@ Once all the previous steps have been completed, it is time to share your datase
 
 - [Share with the Curation Team](../disseminate-dataset/share-with-curation-team)
 
-### F. Post-curation steps to be completed ONLY after dataset is approved by the Curation Team
+### F. Post-curation steps
 
-These steps can be completed in the `Disseminate Dataset` tab of SODA.
+These steps must be completed ONLY after your dataset is approved by the Curation Team
 
 - [Share dataset with the SPARC Consortium as Embargoed dataset](../disseminate-dataset/share-with-sparc-consortium)
 - [Send dataset for pre-publishing review](../disseminate-dataset/submit-for-pre-publishing-review)
