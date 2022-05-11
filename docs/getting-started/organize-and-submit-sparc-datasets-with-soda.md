@@ -43,7 +43,7 @@ The SPARC guidelines require each dataset to have specific metadata files, as de
 - If your study includes samples, [prepare the samples file](../prepare-metadata/create-samples)
 - If your study includes a computational model, prepare the code metadata files with help from the [O2S2PARC](https://osparc.io/) team (support@osparc.io)
 - [Prepare the README file](../prepare-metadata/create-readme)
-- If you are publishing a new version of a dataset, [prepare the CHANGES file](../prepare-metadata/create-changes)
+- If you are publishing a new version of a dataset, [prepare the CHANGES file](../prepare-metadata/create-changes-txt)
 
 ### D. Organize dataset according to the SPARC Dataset Structure
 
