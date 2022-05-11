@@ -6,7 +6,7 @@ image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-submissio
 
 ## Background
 
-Under this feature, SODA lets you rapidly prepare the submission metadata file for your dataset. This feature is designed to avoid commonly found errors when preparing this file. The expected structure of this file, generated automatically by SODA, is explained in our corresponding "[How to](../how-to/how-to-structure-the-submission-metadata-file.md)" page if you would like to learn about it.
+Under this feature, SODA lets you rapidly prepare the submission metadata file that is mandatory for all SPARC datasets. This feature is designed to avoid commonly found errors when preparing this file. The expected structure of this file, generated automatically by SODA, is explained in our corresponding "[How to](../how-to/how-to-structure-the-submission-metadata-file.md)" page if you would like to learn about it.
 
 SODA makes use of two resources to help you prepare the submission file rapidly and without errors:
 
@@ -16,21 +16,21 @@ SODA makes use of two resources to help you prepare the submission file rapidly 
 ## How to
 
 1. You can start by either Creating a submission file from scratch with SODA or Continue working on an existing submission.xlsx file.
-2. If you want to continue working on an existing submission.xlsx file, you will be prompted to either import it from your computer, or specify a Pennsieve dataset where the file is currently located. SODA will load information from such submission file for further edits at your convenience.
-3. Enter the SPARC Award number.
+   - If you want to continue working on an existing submission.xlsx file, you will be prompted to either import it from your computer, or specify a Pennsieve dataset where the file is currently located. SODA will load information from such submission file for further edits at your convenience.
+2. Enter/edit your SPARC award number.
 
    :::tip
-   SODA can help retrieve your SPARC award number if you are connected to the SPARC Airtable sheet. [Instructions are provided here](./connect-your-airtable-account-with-soda.md).
+   Click on `Click here to import my SPARC award from Airtable` to connect your Airtable account with SODA and import your SPARC award number automatically. [See instructions here](./connect-your-airtable-account-with-soda.md) for connecting your Airtable account with SODA.
    :::
 
-4. Enter the milestone(s) for this submission. Enter `Not specified in the Data Deliverables document` if this dataset isn't associated with any milestone initially planned.
+3. Enter/edit the milestone(s) for this submission. It should be exactly as listed in your SPARC award's Data Deliverables document. Enter `N/A` if this dataset isn't associated with any milestone initially planned in the Data Deliverables document.
 
-   :::note
+   :::tip
    Click on `Click here to import milestones from my Data Deliverables document` to import your Data Deliverable document. SODA will automatically extract milestones and associated information which will be used to help you prepare the submission metadata file. You will have to do this only once and it will be then remembered by SODA during subsequent uses. The information from your Data Deliverables document will be saved locally on your computer so only visible to you.
    :::
 
-5. Enter the date associated with this milestone or select from a dropdown of milestone(s) if a Data Deliverable document is imported.
-6. Review and click on `Generate` to generate your submission file. You have the options to generate and save it on your computer or generate and upload it to Pennsieve. The generated file will be ready to be included in your dataset.
+4. Enter the completion date associated with this milestone or select one from the dropdown if a Data Deliverable document is imported.
+5. Review and click on `Generate` to generate your submission file. You have the options to generate and save it on your computer or generate and upload it directly to Pennsieve. If your dataset is not organized yet, you can save this file anywhere on your computer then import it in SODA when prompted in the [Organize dataset](../prepare-dataset/organize-dataset) feature.
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Prepare-metadata/Submission/submission.gif?raw=true)
 
