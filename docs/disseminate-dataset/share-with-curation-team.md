@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Share with curation team
+title: Share with the Curation Team
 image: https://docs.sodaforsparc.io/thumbnails/disseminate-dataset/share-with-curation-team.png
 ---
 
@@ -10,8 +10,10 @@ Sharing your dataset with the Curation Team must be done only when your dataset 
 
 ## How to
 
+To access this interface click on the `Free Form Mode` side bar option, then click on the `Disseminate Datasets` tab, and finally click on the `Share with Curation Team` card.
+
 1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](../manage-dataset/connect-your-pennsieve-account-with-soda).
-2. Click on `Share now` to add your dataset to the Curation team's review queue.
+2. If your dataset is not already shared with the Curation Team, a `Share now` button will be visible. Click on it to add your dataset to the Curation team's review queue. Otherwise, there will be `Unshare` button for removing the dataset from the Curation team's review queue.
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
