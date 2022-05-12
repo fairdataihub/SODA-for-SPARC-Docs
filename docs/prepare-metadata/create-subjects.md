@@ -10,6 +10,8 @@ Under this feature, SODA lets you quickly and accurately prepare the subjects me
 
 ## How to
 
+To access this interface click on the `Free Form Mode` side bar option, then click on the `Prepare Metadata` tab, and finally click on the `Create subjects.xlsx` card.
+
 ### Step 1
 
 Currently, there are 2 ways to start creating your subjects.xlsx file with SODA:

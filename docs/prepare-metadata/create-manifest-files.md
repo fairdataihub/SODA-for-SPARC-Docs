@@ -16,6 +16,8 @@ If you do not have pre-existing datasets SODA allows you to create a new dataset
 
 ## How to
 
+To access this interface click on the `Free Form Mode` side bar option, then click on the `Prepare Metadata` tab, and finally click on the `Create manifest.xlsx` card.
+
 1. You can start by either choosing to generate a manifest file for a pre-existing dataset stored on your local computer or on Pennsieve.
 2. Select where the manifest files will be generated.
    - For local datasets user the `Browse here` input to point SODA to your dataset's location.

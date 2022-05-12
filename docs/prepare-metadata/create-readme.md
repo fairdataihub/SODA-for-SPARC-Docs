@@ -12,6 +12,8 @@ Under this feature, SODA lets you rapidly prepare the README metadata file for y
 
 ## How to
 
+To access this interface click on the `Free Form Mode` side bar option, then click on the `Prepare Metadata` tab, and finally click on the `Create README.txt` card.
+
 1. You can start by either Creating a README file from scratch with SODA or Continue working on an existing README.txt file.
 2. If you want to continue working on an existing README.txt file, you will be prompted to either import it from your computer, or specify a Pennsieve dataset where the file is currently located. SODA will load information from such README file for further edits at your convenience.
 3. In the text-area, enter the information to be included in your README.txt file.

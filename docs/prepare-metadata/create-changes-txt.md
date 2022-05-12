@@ -10,6 +10,8 @@ Under this feature, SODA lets you rapidly prepare the CHANGES metadata file for 
 
 ## How to
 
+To access this interface click on the `Free Form Mode` side bar option, then click on the `Prepare Metadata` tab, and finally click on the `CHANGES.txt` card.
+
 1. You can start by either Creating a CHANGES file from scratch with SODA or Continue working on an existing CHANGES.txt file.
 2. If you want to continue working on an existing CHANGES.txt file, you will be prompted to either import it from your computer, or specify a Pennsieve dataset where the file is currently located. SODA will load information from such CHANGES file for further edits at your convenience.
 3. In the text-area, enter the information to be included in your CHANGES.txt file.

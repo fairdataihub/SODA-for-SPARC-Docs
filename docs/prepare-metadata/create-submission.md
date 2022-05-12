@@ -13,7 +13,7 @@ Under this feature, SODA lets you rapidly prepare the submission metadata file t
 To access this interface click on the `Free Form Mode` side bar option, then click on the `Prepare Metadata` tab, and finally click on the `Create submission.xlsx` card.
 
 1. You can start by either creating a submission file from scratch with SODA or continue working on an existing submission.xlsx file.
-   - If you want to continue working on an existing submission.xlsx file, you will be prompted to either import it from your computer, or specify a Pennsieve dataset where the file is currently located. SODA will load information from such submission file so you can edit them throug the SODA interface.
+   - If you want to continue working on an existing submission.xlsx file, you will be prompted to either import it from your computer, or specify a Pennsieve dataset where the file is currently located. SODA will load information from such submission file so you can edit them through the SODA interface.
 2. Enter/edit your SPARC award number.
 
    :::tip

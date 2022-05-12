@@ -6,20 +6,27 @@ image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-dataset-d
 
 ## Background
 
-Under this feature, SODA lets you quickly and accurately prepare the dataset_description metadata file which is mandatory for all SPARC datasets. SODA provides a convenient interface, which is more intuitive than the Excel spreadsheet template. It also makes use of information from your dataset on Pennsieve and the SPARC Airtable sheet to help you populate some of the fields easily. The expected structure of this file, generated automatically by SODA, is explained in our corresponding "[How to](../how-to/how-to-structure-the-dataset-description-metadata-file.md)" page if you would like to learn about it.
+Under this feature, SODA lets you quickly and accurately prepare the dataset_description metadata file which is mandatory for all SPARC datasets. SODA provides a convenient interface, which is more intuitive than working with the Excel spreadsheet template. It also makes use of information from your dataset on Pennsieve and the SPARC Airtable sheet to help you populate some of the fields easily. The expected structure of this file, generated automatically by SODA, is explained in our corresponding "[How to](../how-to/how-to-structure-the-dataset-description-metadata-file.md)" page if you would like to learn about it.
 
 ## How to
 
-1. You can start by either Creating a dataset_description.xlsx file from scratch with SODA or Continue working on an existing dataset_description.xlsx file.
-2. If you want to continue working on an existing dataset_description.xlsx file, you will be prompted to either import it from your computer, or specify a Pennsieve dataset where the file is currently located. SODA will load information from such dataset_description file for further edits at your convenience.
-3. The subsequent interface divides the dataset description file into six convenient sections to facilitate your task.
+To access this interface click on the `Free Form Mode` side bar option, then click on the `Prepare Metadata` tab, and finally click on the `Create dataset_description.xlsx` card.
+
+You can start by either Creating a dataset_description.xlsx file from scratch with SODA or Continue working on an existing dataset_description.xlsx file.
+
+- If you want to continue working on an existing dataset_description.xlsx file, you will be prompted to either import it from your computer, or specify a Pennsieve dataset where the file is currently located. SODA will load information from such dataset_description file so you can edit them through the SODA interface.
+
+The subsequent interface divides inputs required for preparing the dataset_description file into six convenient sections to facilitate your task.
 
 ### Dataset Info (high-level information about your dataset)
 
-1. Name: Descriptive title for the dataset. Since this field should match exactly with your dataset on Pennsieve, SODA lets you select it from your list of Pennsieve datasets (see [Connect to your Pennsieve account](../manage-dataset/connect-your-pennsieve-account-with-soda) section).
-2. Description: Brief description of the study and the dataset. This is populated automatically from your dataset subtitle on Pennsieve for your convenience (see [this section](../manage-dataset/add-edit-description) to add a description).
-3. Dataset type: The type of this dataset, specifically whether it is experimental or computational.
-4. Keywords: A set of 3-5 keywords (other than those used in the name and description) that will help in searching your dataset once published
+1. Name: Descriptive title for the dataset. This field should match exactly with your dataset title on Pennsieve
+
+   :::tip
+   Click on `Click here to select my dataset from Pennsieve` to connect select the corresponding dataset on Pennsieve and SODA will populate the Name filed automatically. If you have not connected your Pennsieve account with SODA yet, [follow the instructions available here](../manage-dataset/connect-your-pennsieve-account-with-soda).
+   :::
+
+2. Description: Brief description of the study and the dataset. This is populated automatically from your dataset subtitle on Pennsieve for your convenience (see [this section](../manage-dataset/add-edit-description) to add a description). 3. Dataset type: The type of this dataset, specifically whether it is experimental or computational. 4. Keywords: A set of 3-5 keywords (other than those used in the name and description) that will help in searching your dataset once published
 
 <video
    controls
