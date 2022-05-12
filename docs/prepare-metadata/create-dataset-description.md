@@ -20,13 +20,17 @@ The subsequent interface divides inputs required for preparing the dataset_descr
 
 ### Dataset Info (high-level information about your dataset)
 
-1. Name: Descriptive title for the dataset. This field should match exactly with your dataset title on Pennsieve
+1. Dataset title: Enter a descriptive title for the dataset. This field should match exactly with your dataset title on Pennsieve.
 
    :::tip
    Click on `Click here to select my dataset from Pennsieve` to connect select the corresponding dataset on Pennsieve and SODA will populate the Name filed automatically. If you have not connected your Pennsieve account with SODA yet, [follow the instructions available here](../manage-dataset/connect-your-pennsieve-account-with-soda).
    :::
 
-2. Description: Brief description of the study and the dataset. This is populated automatically from your dataset subtitle on Pennsieve for your convenience (see [this section](../manage-dataset/add-edit-description) to add a description). 3. Dataset type: The type of this dataset, specifically whether it is experimental or computational. 4. Keywords: A set of 3-5 keywords (other than those used in the name and description) that will help in searching your dataset once published
+2. Description: Provide a brief description of the study and the dataset. This is populated automatically from your dataset subtitle on Pennsieve for your convenience (see [this section](../manage-dataset/add-edit-description) to add a subtitle for your dataset).
+
+3. Dataset type: Select the type of this dataset from the dropdown list. Select `Computational` if your study only includes a computational model, otherwise select `Experimental`.
+
+4. Keywords: Enter 3 to 5 keywords (other than those used in the name and description) that will help in searching your dataset once published. Hit 'Enter' after each word.
 
 <video
    controls
@@ -36,23 +40,34 @@ The subsequent interface divides inputs required for preparing the dataset_descr
 
 ### Participant Info (information about the subjects or samples of your dataset)
 
-1. Number of subjects: The number of unique subjects in this dataset, should match the subjects metadata file. Must be greater or equal to 1.
-2. Number of samples: The number of unique samples in this dataset, should match the samples metadata file. Set to zero if there are no samples.
+1. Number of subjects: Enter the number of unique subjects in this dataset. It should match the subjects metadata file. Set to `0` if there are no subjects.
+
+2. Number of samples: Enter the number of unique samples in this dataset. It should match the samples metadata file. Set to `0` if there are no samples.
 
 ### Study Info (high-level information about your experiment or study)
 
-1. Study organ system: The major organ systems related to this study.
-2. Study approach: The experimental approach or approaches taken in this study.
+1. Study organ system: Select the the major organ systems related to this study. Some common suggestions are provided in a dropdown but custom entries are also allowed. Either select from the dropdown list or type then hit 'Enter' to register. Multiple organ systems can be specified.
+
+2. Study approach: Enter keywords describing the experimental approach or approaches taken in this study (e.g., `electrophysiology`).
+
 3. Study technique: The experimental techniques used in this study.
-4. Study purpose: A description of the study purpose for the structured abstract
-5. Study data collection: A description of the study data collection process for this dataset. Used to generate the structured abstract.
-6. Study primary conclusion: A description of the primary conclusion drawn from the study for the structured abstract.
+
+4. Study purpose: Provide a description of the study purpose. It should match with the 'Study Purpose' section of your [description on Pennsieve](../manage-dataset/add-edit-description).
+
+5. Study data collection: Provide a description of the study data collection process for this dataset. It should match with the 'Data Collection' section of your [description on Pennsieve](../manage-dataset/add-edit-description).
+
+6. Study primary conclusion: Provide a description of the primary conclusion drawn from the study. It should match with the 'Primary Conclusion' section of your [description on Pennsieve](../manage-dataset/add-edit-description).
 
 ### Award and Contributor Info (information about the SPARC award and the contributors to your dataset)
 
-1. `SPARC Award associated with this dataset`: You can either type the SPARC award number or have SODA retrieve your SPARC award and its contributor information by connecting SODA with your Airtable account. Instructions are provided here.
+:::tip
+If you have not done so already,
+:::
+
+1. SPARC Award associated with this dataset: You can either your award number manually or click on `Help me with my award number and contributor information` at the bottom of the section to connect your Airtable account with SODA (if not connected already) and import your SPARC award number automatically. [See instructions here](./connect-your-airtable-account-with-soda.md) for connecting your Airtable account with SODA.
+
 2. Click on `Add a contributor` to start adding contributors to your dataset_description file.
-   - Provide information about any contributor to the dataset. Note that the 'Contributor' list is compiled from the SPARC Airtable sheet based on the SPARC award selected. Select one Contributor to get the ORCID ID, Contributor Affiliation, and Contributor Role populated automatically (if specified in the SPARC Airtable Sheet). Select `Other contributors` in the 'Contributors' dropdown list if you'd like to enter a Contributor name manually (although we suggest entering them directly in the SPARC Airtable - restart SODA to see them in the list).
+   - Provide information about any contributor to the dataset. Note that the 'Contributor' list is compiled from the SPARC Airtable sheet based on the SPARC award selected. Select one Contributor to get the ORCID ID, Contributor Affiliation, and Contributor Role populated automatically (if specified in the SPARC Airtable Sheet). Select `Other contributors` in the 'Contributors' dropdown list if you'd like to enter a Contributor name manually (although we suggest entering them directly in the SPARC Airtable then restart SODA to see them in the list so they are available for future reuse).
    - Check `Corresponding Author` if the contributor is a contact person/corresponding author for the dataset. At least one and only one of the contributors should be the corresponding author.
    - Click `Add contributor` to add the contributor to SODA's contributor table. Each contributor added to the table will be added to the dataset description file when it is generated.
 
@@ -64,20 +79,24 @@ The subsequent interface divides inputs required for preparing the dataset_descr
 
 ### Related Information: protocol, paper, dataset, etc.
 
-1. Click Add a protocol to add a protocol.
-   - Protocol URL or DOI: URLs (if still private) / DOIs (if public) of protocols from protocols.io related to this dataset.
-   - Protocol type: This will state whether your link is a 'URL' or a 'DOI' item. Use one of those two items to reference the type of identifier.
-   - Relation to the dataset: A prespecified list of relations for common protocols used in SPARC datasets. The value in this field must be read as the 'relationship that this dataset has to the specified protocol'.
-   - Protocol description: Provide a short description of the link.
-2. Click Add a URL/DOI to add a link other than a protocol.
-   - URL or DOI: Specify your actual URL (if resource is public) or DOI (if resource is private). This can be web links to repositories or papers (DOI).
-   - Link type: This will state whether your link is a 'URL' or 'DOI' item. Use one of those two items to reference the type of link.
-   - Relation to the dataset: A prespecified list of relations for common URLs or DOIs used in SPARC datasets. The value in this field must be read as the 'relationship that this dataset has to the specified URL/DOI'.
+Before completing this section, your protocol(s) related to this dataset must be prepared on protocols.io under the SPARC group according to the [instructions available here](https://sparc.science/help/1slXZSS2XtTYQsdY6mEJi5).
+
+1. Click Add a protocol. You can also click on `Click here to import my protocol information` first to connect your protocols.io account with SODA which would facilitate the next steps:
+
+   - Protocol URL or DOI: Provide the URL (if still private) / DOI (if public) of your protocol from protocols.io. If you have connected your protocols.io account with SODA, you can simply select the protocol from the list of your protocols available on protocols.io in the SPARC group and SODA will automatically populate with the URL or DOI as applicable.
+   - Protocol description: Provide a short description of the protocol.
+
+Repeat if you have multiple protocols.
+
+2. Click Add a URL/DOI to add a link relevant to this dataset (other than a protocol).
+   - URL or DOI: Specify the URL or DOI. This can be URL to a Github repository or DOI to a paper for instance.
+   - Link type: Select from the dropdown whether your link is a 'URL' or 'DOI'.
+   - Relation to the dataset: From the dropdown list, select the relationship between this link and the dataset. The value in this field must be read as the 'relationship that this dataset has to the specified URL/DOI'.
    - Link description: Provide a short description of the link.
 
 ### Additional Information
 
-1.  Study collection title: Title of the larger collection of to which this dataset belongs.
+1.  Study collection title: Title of the larger collection of to which this dataset belongs. Leave empty if none.
 2.  Other funding sources: Specify other funding sources, if any. Hit `Enter` on your keyboard after typing each. Leave empty if none.
 3.  Acknowledgments: Specify any acknowledgments beyond funding and contributors. Leave empty if none.
 

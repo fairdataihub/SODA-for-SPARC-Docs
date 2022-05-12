@@ -6,7 +6,7 @@ image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-subjects.
 
 ## Background
 
-Under this feature, SODA lets you quickly and accurately prepare the subjects metadata file which is mandatory for all SPARC datasets. SODA provides a convenient interface, which is more intuitive than the Excel spreadsheet template. It also makes use of information from your dataset on Pennsieve, NCBI Taxonomy, Scicrunch, and protocols.io to help you populate some of the fields easily. The expected structure of this file, generated automatically by SODA, is explained in our corresponding "[How to](../how-to/how-to-structure-the-subjects-metadata-file.md)" page if you would like to learn about it.
+Under this feature, SODA lets you quickly and accurately prepare the subjects metadata file, which is mandatory for all SPARC datasets where subjects are involved in the study. SODA provides a convenient interface, which is more intuitive than the Excel spreadsheet template. It also makes use of information from your dataset on Pennsieve, NCBI Taxonomy, Scicrunch, and protocols.io to help you populate some of the fields easily. The expected structure of this file, generated automatically by SODA, is explained in our corresponding "[How to](../how-to/how-to-structure-the-subjects-metadata-file.md)" page if you would like to learn about it.
 
 ## How to
 
@@ -14,25 +14,15 @@ To access this interface click on the `Free Form Mode` side bar option, then cli
 
 ### Step 1
 
-Currently, there are 2 ways to start creating your subjects.xlsx file with SODA:
+You can start by either Creating a subjects.xlsx file from scratch with SODA or Continue working on an existing subjects.xlsx file.
 
-1A. Start from scratch with SODA
-
-1B. Continue working on an existing subjects.xlsx file
-
-If you start with:
-
-(1A): You can go straight to step 2.
-
-If you start with:
-
-(1B): You will be able to specify the location of the existing subjects file: either from your computer or from a Pennsieve dataset. Clicking `Confirm` after specifying the file path or a Pennsieve dataset will load the information from the file onto SODA.
+If you want to continue working on an existing subjects.xlsx file, you will be prompted to either import it from your computer, or specify a Pennsieve dataset where the file is currently located. SODA will load information from such subjects file so you can edit them through the SODA interface.
 
 ### Step 2
 
-You will be able to add new subjects or edit/delete existing subjects (if any). If at least 1 subject is added, a table of subjects will be provided with each row containing a subject and the tasks associated with it (Edit/Copy/Delete).
+If you are continuing to work on an existing subjects file, the subjects included in that file will be shown in the table. They can be modified or removed through the associated Edit/Copy/Delete buttons.
 
-Clicking on `Add a subject` will prompt you to a form where you can add a new subject by entering information about it. The form contains the below fields with mandatory fields written in bold and optional fields in italic.
+Click on `Add a subject` to add a new subject. This will prompt you to a form where you can add enter information about that subject based on the fields listed below.
 
 <video 
   controls 
@@ -40,12 +30,13 @@ Clicking on `Add a subject` will prompt you to a form where you can add a new su
   src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Subjects-interface.mp4" 
 />
 
-- **subject id**: Lab-based schema for identifying each subject. This field should match the primary's sub-folder names. The subject_id must be unique.
+- **subject id** (Mandatory): Enter the ID of this subject. It must be unique for each subject across a dataset. The ID must start with `sub-` followed by any series of alpha-numeric characters (upper and lower cases allowed) or dash `-`. No other characters (including white space) are allowed.
+
 - Experimental Setup (Mandatory if available):
-  - pool id: If data is collected on multiple subjects at the same time include the identifier of the pool where the data file will be found. If this is included it should be the name of the top level folder inside primary. E.g: pool 1.
-  - experimental group: Experimental group subject is assigned to in research project. E.g: control.
+  - pool id: Enter the id of the pool this subject belongs to, if applicable. If this is included, it should be the name of the top level folder inside primary. E.g: pool-1.
+  - experimental group: Enter the experimental group this subject is assigned to in research project, if applicable. E.g: control.
 - Species Information (Mandatory if available):
-  - Sex: This is the sex of the subject, or if unknown, leave it empty. E.g: Female.
+  - Sex: Select the sex of the subject. If unknown, leave the dropdow on "Select an option". E.g: Female.
   - Species: This is the species of the subject. When users start typing to search for a species, SODA provides species suggestions based on the NCBI taxonomy. E.g: Rattus
   - Strain: This is the organism strain of the subject. When users start typing to search for a strain, SODA provides strain suggestions based on the common strains observed from SPARC datasets. Once a strain is specified, the Research Resource Identifier Identification (RRID) of the strain will be automatically pulled out from [Scicrunch](https://scicrunch.org/resources/Organisms/search) by SODA.
   - Exact age at the start of experiment: Age of the subject (e.g., hours, days, weeks, years old) or if unknown, leave it empty. For your convenience, SODA separates this entry into 2 fields: A number field (e.g: 1, 2, 3) and a unit field (e.g: hours, days, weeks, etc). If an ISO format is expected for this entry, enter the ISO-formatted text in the number field, and select `N/A` for the unit field.
