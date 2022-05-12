@@ -33,19 +33,32 @@ Click on `Add a subject` to add a new subject. This will prompt you to a form wh
 - **subject id** (Mandatory): Enter the ID of this subject. It must be unique for each subject across a dataset. The ID must start with `sub-` followed by any series of alpha-numeric characters (upper and lower cases allowed) or dash `-`. No other characters (including white space) are allowed.
 
 - Experimental Setup (Mandatory if available):
+
   - pool id: Enter the id of the pool this subject belongs to, if applicable. If this is included, it should be the name of the top level folder inside primary. E.g: pool-1.
+
   - experimental group: Enter the experimental group this subject is assigned to in research project, if applicable. E.g: control.
+
 - Species Information (Mandatory if available):
-  - Sex: Select the sex of the subject. If unknown, leave the dropdow on "Select an option". E.g: Female.
-  - Species: This is the species of the subject. When users start typing to search for a species, SODA provides species suggestions based on the NCBI taxonomy. E.g: Rattus
-  - Strain: This is the organism strain of the subject. When users start typing to search for a strain, SODA provides strain suggestions based on the common strains observed from SPARC datasets. Once a strain is specified, the Research Resource Identifier Identification (RRID) of the strain will be automatically pulled out from [Scicrunch](https://scicrunch.org/resources/Organisms/search) by SODA.
-  - Exact age at the start of experiment: Age of the subject (e.g., hours, days, weeks, years old) or if unknown, leave it empty. For your convenience, SODA separates this entry into 2 fields: A number field (e.g: 1, 2, 3) and a unit field (e.g: hours, days, weeks, etc). If an ISO format is expected for this entry, enter the ISO-formatted text in the number field, and select `N/A` for the unit field.
-  - Member of: Provide a population that the specimen of your subject belongs to.
-  - Also in dataset: Include the Pennsieve id(s) for other datasets that have data about the same specimen.
+
+  - Sex: Select the sex of the subject from the dropdown list. If unknown, leave the dropdow on "Select an option". E.g: Female.
+
+  - Species: Click on `Add species`. In the popup, type and select the applicable option from the suggestions given in the dropdown list or click on `Find the scientific name for xxx`. SODA will automatically fill with the correct scientific name defined by NCBI Taxonomy as per the SPARC requirements.
+
+  - Strain: Click on `Add strain`. In the popup, type and select the applicable option from the suggestions in the dropdown list or click on `Click here to check xxx` to verify that the strain is registered on Scicrunch as per SPARC requirements. If found, the Research Resource Identifier Identification (RRID) of the strain will be automatically pulled out from [Scicrunch](https://scicrunch.org/resources/Organisms/search) by SODA and included in your subject.xslx file when generated.
+
+  - Exact age at the start of experiment: Enter the age (e.g., hours, days, weeks, years old) or if unknown, leave it empty. For your convenience, SODA separates this entry into 2 fields: a number field (e.g: 1, 2, 3) and a unit field (e.g: hours, days, weeks, etc). If an ISO format is expected for this entry, enter the ISO-formatted text in the number field, and select `N/A` for the unit field.
+
+  - Member of: Provide a population that the specimen of your subject belongs to. E.g.: pop-1.
+
+  - Also in dataset: Include the Pennsieve id(s) for other datasets that have data about the same subject.
+
 - Optional details:
-  - _Age category_: The age category that the subject belongs to. An search field with suggestions based on list derived from [UBERON life](http://www.ontobee.org/ontology/catalog/UBERON?iri=http://purl.obolibrary.org/obo/UBERON_0000105) cycle stage is provided in the interface for your convenience.
-  - _Age range_: This is the minimal age (youngest) and the maximum age (oldest) of the research subjects. The format for these 2 fields is numerical value + space + unit (spelled out).
-  - _Date of birth_: The date of birth of the subject.
+
+  - Age category: Select, from the dropdown list, the age category that the subject belongs to. Options in the dropdown list are derived from [UBERON life](http://www.ontobee.org/ontology/catalog/UBERON?iri=http://purl.obolibrary.org/obo/UBERON_0000105) cycle stage, as per SPARC requirements.
+
+  - Age range: Provide the minimal age (youngest) and the maximum age (oldest) of the research subjects in this dataset. The format for these 2 fields is numerical value + space + unit (spelled out).
+
+  - Date of birth: The date of birth of the subject.
 
 <video 
   controls 
@@ -54,8 +67,8 @@ Click on `Add a subject` to add a new subject. This will prompt you to a form wh
 />
 
 - Protocol Information (Optional):
-  - _Protocol title on protocols.io_: This field refers to the title of the protocol within Protocols.io once the research protocol is uploaded to Protocols.io. In SODA, users can connect to their protocols.io account by clicking on `Help me with my protocol information` under the Protocol Information tab. An login interface will instruct users to sign in their account in the browser at [protocols.io](https://www.protocols.io/developers). An access token is required for automatic extraction of the protocol titles and links and can be easily obtained from the provided website once they are signed in. Once users successfully connect their account with with SODA, they can search in the input field for their protocol titles.
-  - _Protocol.io links_: This refers to the Protocol.io URL for the protocol title. In SODA, when users select a protocol title in the previous field (Protocol title), the protocol location or link will be automatically filled out for this field.
+  - Protocol title on protocols.io: Enter the title of the protocol on protocols.io associated with this subject study. Alternatively, click on `Help me with my protocol information` located at this end of this section. An login interface will instruct users to sign in their account in the browser at [protocols.io](https://www.protocols.io/developers). An access token is required for automatic extraction of the protocol titles and links and can be easily obtained from the provided website once they are signed in. Once users successfully connect their account with with SODA, they can search in the input field for their protocol titles.
+  - Protocol.io links: This refers to the protocol.io URL of your protocol.
 
 <video 
   controls 
