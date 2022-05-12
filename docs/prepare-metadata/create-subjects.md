@@ -22,7 +22,7 @@ If you want to continue working on an existing subjects.xlsx file, you will be p
 
 If you are continuing to work on an existing subjects file, the subjects included in that file will be shown in a table. They can be modified or removed through the associated Edit/Copy/Delete buttons.
 
-Click on `Add a subject` to add a new subject. This will prompt you to a form where you can add enter information about that subject based on the fields listed below.
+Click on `Add a subject` to add a new subject. This will prompt you to a form where you can provide information about that subject based on the fields listed below.
 
 <video 
   controls 
@@ -34,7 +34,7 @@ Click on `Add a subject` to add a new subject. This will prompt you to a form wh
 
 - Experimental Setup (Mandatory if available):
 
-  - pool id: Enter the id of the pool this subject belongs to, if applicable. If this is included, it should be the name of the top level folder inside primary. It must be unique for each pool across a dataset. The ID must start with `pool-` followed by any series of alpha-numeric characters (upper and lower cases allowed) or dash `-`. No other characters (including white space) are allowed. E.g: pool-1.
+  - pool id: Enter the id of the pool this subject belongs to, if applicable. It must be unique for each pool across a dataset. The ID must start with `pool-` followed by any series of alpha-numeric characters (upper and lower cases allowed) or dash `-`. No other characters (including white space) are allowed. E.g: pool-1.
 
   - experimental group: Enter the experimental group this subject is assigned to in the study, if applicable. E.g: control.
 
@@ -48,7 +48,7 @@ Click on `Add a subject` to add a new subject. This will prompt you to a form wh
 
   - Exact age at the start of experiment: Enter the age (e.g., hours, days, weeks, years old) or if unknown, leave it empty. For your convenience, SODA separates this entry into two fields: a number field (e.g: 1, 2, 3) and a unit field (e.g: hours, days, weeks, etc). If an ISO format is expected for this entry, enter the ISO-formatted text in the number field, and select `N/A` for the unit field.
 
-  - Member of: Provide a population that the specimen of your subject belongs to. E.g.: pop-1.
+  - Member of: Provide the ID of the population that the specimen of your subject belongs to. The ID must start with `pop-` followed by any series of alpha-numeric characters (upper and lower cases allowed) or dash `-`. No other characters (including white space) are allowed. E.g.: pop-1.
 
   - Also in dataset: Include the Pennsieve id(s) for other datasets that have data about the same subject.
 
