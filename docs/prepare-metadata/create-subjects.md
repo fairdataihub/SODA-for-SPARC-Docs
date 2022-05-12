@@ -56,7 +56,7 @@ Click on `Add a subject` to add a new subject. This will prompt you to a form wh
 
   - Age category: Select, from the dropdown list, the age category that the subject belongs to. Options in the dropdown list are derived from [UBERON life](http://www.ontobee.org/ontology/catalog/UBERON?iri=http://purl.obolibrary.org/obo/UBERON_0000105) cycle stage, as per SPARC requirements.
 
-  - Age range: Provide the minimal age (youngest) and the maximum age (oldest) of the research subjects in this dataset. The format for these 2 fields is numerical value + space + unit (spelled out).
+  - Age range: Provide the minimal age (youngest) and the maximum age (oldest) of the research subjects in this dataset. The format for these two fields is numerical value + space + unit (spelled out).
 
   - Date of birth: The date of birth of the subject.
 
@@ -68,7 +68,7 @@ Click on `Add a subject` to add a new subject. This will prompt you to a form wh
 
 - Protocol Information (Optional):
   - Protocol title on protocols.io: Enter the title of the protocol on protocols.io associated with this subject study. Alternatively, click on `Help me with my protocol information` located at this end of this section. A login interface will instruct you to connect your protocols.io account with SODA (if not already done), then select your relevant protocol. SODA will automatically populate the protocol title and protocols.io link (see below).
-  - Protocol.io links: Enter the protocol.io URL of your protocol.
+  - Protocol URL on protocols.io: Enter the protocol.io URL of your protocol.
 
 <video 
   controls 
