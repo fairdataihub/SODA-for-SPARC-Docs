@@ -10,6 +10,9 @@ image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-readme.pn
 
 Under this feature, SODA lets you rapidly prepare the README metadata file for your dataset. This feature is designed to avoid commonly found errors when preparing this file.
 
+:::note
+README.txt is a mandatory file when preparing a dataset.
+:::
 ## How to
 
 To access this interface click on the `Free Form Mode` side bar option, then click on the `Prepare Metadata` tab, and finally click on the `Create README.txt` card.
