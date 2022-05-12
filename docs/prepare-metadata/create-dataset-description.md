@@ -12,7 +12,7 @@ Under this feature, SODA lets you quickly and accurately prepare the dataset_des
 
 To access this interface click on the `Free Form Mode` side bar option, then click on the `Prepare Metadata` tab, and finally click on the `Create dataset_description.xlsx` card.
 
-You can start by either Creating a dataset_description.xlsx file from scratch with SODA or Continue working on an existing dataset_description.xlsx file.
+You can start by either creating a dataset_description.xlsx file from scratch with SODA or continue working on an existing dataset_description.xlsx file.
 
 - If you want to continue working on an existing dataset_description.xlsx file, you will be prompted to either import it from your computer, or specify a Pennsieve dataset where the file is currently located. SODA will load information from such dataset_description file so you can edit them through the SODA interface.
 
