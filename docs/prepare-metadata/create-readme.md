@@ -13,6 +13,7 @@ Under this feature, SODA lets you rapidly prepare the README metadata file for y
 :::note
 README.txt is a mandatory file when preparing a dataset.
 :::
+
 ## How to
 
 To access this interface click on the `Free Form Mode` side bar option, then click on the `Prepare Metadata` tab, and finally click on the `Create README.txt` card.
