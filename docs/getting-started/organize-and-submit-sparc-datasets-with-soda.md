@@ -41,10 +41,10 @@ The SPARC guidelines require each dataset to have specific metadata files, as de
 - Prepare protocol on protocols.io following the [instructions provided here](https://sparc.science/help/1slXZSS2XtTYQsdY6mEJi5). This is not supported through SODA since protocols.io already provides an intuitive interface for preparing the protocol.
 - [Prepare the submission file](../prepare-metadata/create-submission)
 - [Prepare the dataset description file](../prepare-metadata/create-dataset-description)
+- [Prepare the README file](../prepare-metadata/create-readme)
 - If your study includes subjects, [prepare the subjects file](../prepare-metadata/create-subjects)
 - If your study includes samples, [prepare the samples file](../prepare-metadata/create-samples)
-- If your study includes a computational model, prepare the code metadata files with help from the [O2S2PARC](https://osparc.io/) team (support@osparc.io)
-- [Prepare the README file](../prepare-metadata/create-readme)
+- If your study includes a computational model, prepare the code metadata files with help from the [O2S2PARC](https://osparc.io/) team (email support@osparc.io)
 - If you are publishing a new version of a dataset, [prepare the CHANGES file](../prepare-metadata/create-changes-txt)
 
 ### D. Organize Dataset According to the SPARC Data Structure

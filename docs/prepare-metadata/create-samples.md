@@ -79,7 +79,7 @@ Click on `Add a sample` to add a new samples. This will prompt you to a form whe
 
 Click `Add custom field` to start adding a header for a field that is not a SPARC-standard samples.xlsx field. You will have the option to add value for this field after it is created. Click on the `trash can` icon next to a field to delete a custom field.
 
-After you complete all steps, click on `Generate` to generate your samples file. You have the options to generate and save it on your computer or generate and upload it directly to Pennsieve.
+After you complete all steps, click on `Generate` to generate your samples file. You have the options to generate and save it on your computer or generate and upload it directly to Pennsieve. If your dataset is not organized yet, you can save this file anywhere on your computer then import it in SODA when prompted in the [Organize dataset](../prepare-dataset/organize-dataset) feature.
 
 :::tip
 If you have a properly structured SPARC primary folder to import, you can click on `I want to import subject ID(s) from my primary folder` specified under the button `Add a sample` to import it to the table of subjects. SODA will extract the subject and sample ID(s) (if available) onto the table of samples for your edits.

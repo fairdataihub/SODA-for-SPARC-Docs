@@ -100,7 +100,7 @@ Repeat if you have multiple protocols.
 2.  Other funding sources: Specify other funding sources, if any. Hit `Enter` on your keyboard after typing each. Leave empty if none.
 3.  Acknowledgments: Specify any acknowledgments beyond funding and contributors. Leave empty if none.
 
-After you complete all steps, click on `Generate` to generate your dataset description file. You have the options to generate and save it on your computer or generate and upload it to Pennsieve. A warning message may show up if any mandatory fields are missing. You may decide to go back and address the issues or generate the file anyway (and address the issues later).
+After you complete all steps, click on `Generate` to generate your dataset description file. You have the options to generate and save it on your computer or generate and upload it to Pennsieve. If your dataset is not organized yet, you can save this file anywhere on your computer then import it in SODA when prompted in the [Organize dataset](../prepare-dataset/organize-dataset) feature. A warning message may show up if any mandatory fields are missing. You may decide to go back and address the issues or generate the file anyway (and address the issues later).
 
 ## Note
 
