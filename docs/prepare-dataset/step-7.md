@@ -12,7 +12,12 @@ When you are ready to generate your dataset, click the `Generate` button.
 When uploading datasets SODA will now allow you to perform other curation tasks. You can track your progress, as well as return to the Preview Dataset page, by utilizing the new `Navigation Progress Bar`.
 :::
 
-<video controls autoPlay loop width="100%" src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Organize-dataset/organize-datasets-sidebar-progress.mkv?raw=true"
+<video
+  controls
+  autoPlay
+  loop
+  width="100%"
+  src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Organize-dataset/organize-datasets-sidebar-progress.mkv?raw=true"
 />
 
 import PageFeedback from '@site/src/components/PageFeedback';
