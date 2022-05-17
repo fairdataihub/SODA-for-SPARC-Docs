@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+title: Step 2 - Specify high level folders
+image: https://docs.sodaforsparc.io/thumbnails/prepare-dataset/step-2.png
 ---
 
 Select the high-level folder(s) to be included in your dataset. If you started with an existing dataset (local or Pennsieve), any high-level folder included in that dataset will be automatically selected at this step.

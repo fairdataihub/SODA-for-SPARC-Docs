@@ -1,8 +1,8 @@
 ---
 sidebar_position: 5
+title: Add edit permissions
+image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/add-edit-permissions.png
 ---
-
-# Add edit permissions
 
 ## Background
 
@@ -24,11 +24,19 @@ When you create a dataset, it is private and accessible only to you (you have `o
 |                                Delete dataset |         ✅         |   ❌    |   ❌   |   ❌   |
 |                                  Change owner |         ✅         |   ❌    |   ❌   |   ❌   |
 
+## Prerequisite
+
+Team members who need to contribute to your dataset must have a Pennsieve account and have access to the SPARC Consortium organization on Pennsieve (see the Prerequisite section [here](../manage-dataset/connect-your-pennsieve-account-with-soda) for details).
+
 ## How to
+
+To access this interface click on the `Free Form Mode` side bar option, then click on the `Manage Datasets` tab, and finally click on the `Add/edit permissions` card.
 
 Start by selecting/confirming your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda). The current permissions on the selected dataset will be displayed.
 
-## Add/edit permissions for team members
+### Add/edit permissions for team members
+
+Follow these steps to give permissions to a team member:
 
 1. Click on `Add/edit user permissions`.
 2. Select the **user** from the dropdown list.
@@ -37,7 +45,9 @@ Start by selecting/confirming your Pennsieve account and dataset. If you have no
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Manage-permissions/add-permissions.gif?raw=true)
 
-## Add/edit permissions for teams
+### Add/edit permissions for teams
+
+Follow these steps to give permissions to an entire Pennsieve team:
 
 1. Click on `Add/edit team permissions`.
 2. Select the **team** from the dropdown list.

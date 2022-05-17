@@ -1,37 +1,51 @@
-const express = require("express");
-var ua = require("universal-analytics");
-const { v4: uuidv4 } = require("uuid");
+const express = require('express');
+const { v4: uuidv4 } = require('uuid');
+const axios = require('axios');
 
 const app = express();
 
 app.use(express.json());
 
-app.post("/api/feedback", (req, res) => {
-  const visitor = ua(process.env.UNIVERSAL_ANALYTICS_ID, uuidv4());
+app.post('/api/feedback', async (req, res) => {
+  const { body } = req;
 
-  const body = req.body;
+  // eslint-disable-next-line no-console
+  console.log(`Feedback received: ${JSON.stringify(body)}`);
 
-  res.setHeader("Content-Type", "text/html");
-  res.setHeader("Cache-Control", "s-max-age=1, stale-while-revalidate");
+  const clientID = uuidv4();
+
+  res.setHeader('Content-Type', 'text/html');
+  res.setHeader('Cache-Control', 's-max-age=1, stale-while-revalidate');
 
   if (body === undefined) {
     res.status(400).json({ message: `Invalid Request ${req.body}` });
+  } else if (body.category === undefined) {
+    res.status(400).json({ message: `Category Missing ${body}` });
+  } else if (body.action === undefined) {
+    res.status(400).json({ message: `Action Missing ${body}` });
   } else {
-    if (body.category === undefined) {
-      res.status(400).json({ message: `Category Missing ${body}` });
-    } else if (body.action === undefined) {
-      res.status(400).json({ message: `Action Missing ${body}` });
-    } else {
-      const category = body.category;
-      const action = body.action;
+    const { category, action } = body;
 
-      console.log(
-        `Feedback submitted for Category '${category}' with Action '${action}'`
-      );
+    // eslint-disable-next-line no-console
+    console.log(`Feedback submitted for Category '${category}' with Action '${action}'`);
 
-      visitor.event(category, action).send();
-      res.json({ success: true, message: `Feedback Sent` });
+    const config = {
+      method: 'post',
+      // eslint-disable-next-line max-len
+      url: `https://www.google-analytics.com/collect?v=1&t=event&tid=${process.env.UNIVERSAL_ANALYTICS_ID}&cid=${clientID}&ec=${category}&ea=${action}`,
+      headers: {
+        'User-Agent': 'Mozilla/5.0',
+      },
+    };
+
+    try {
+      await axios(config);
+    } catch (error) {
+      res.status(500).json({ message: `Something went wrong: ${error}` });
+      throw new Error('Unable to get a token.');
     }
+
+    res.json({ success: true, message: `Feedback Sent` });
   }
 });
 

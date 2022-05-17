@@ -1,9 +1,9 @@
 ---
 name: Report issue
 about: Let us know of any issue you encounter while using SODA
-title: ""
-labels: ""
-assignees: ""
+title: ''
+labels: ''
+assignees: ''
 ---
 
 **Describe the issue**

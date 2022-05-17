@@ -1,14 +1,19 @@
 ---
 sidebar_position: 1
+title: Connect your Pennsieve account with SODA
+image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/connect-your-pennsieve-account-with-soda.png
 ---
-
-# Connect your Pennsieve account with SODA
 
 ## Background
 
 SPARC uses the [Pennsieve](https://app.pennsieve.net/) platform to store data and metadata files as well as append additional metadata. All SPARC researchers must thus share their data on Pennsieve. When using SODA for the first time, you will have to connect your Pennsieve account with SODA to use Pennsieve related functionalities implemented in SODA.
 
-SODA will automatically check and see if you have an associated account with Pennsieve when you open the application. If we find an account on your system (i.e you have used SODA or the Pennsieve Agent previously) you should be all set. If an account is not found you can use your Pennsieve login details and allow SODA to retrieve the necessary information to connect to your Pennsieve account.
+## Prerequisite
+
+1. Sign up to [Pennsieve](https://app.pennsieve.net/)
+2. Contact support@pennsieve.net to get access to the SPARC Consortium organization on Pennsieve. Ensure that the SPARC Consortium organization is listed under your organizations list on Pennsieve before you continue.
+
+![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Connect-to-BF/consortium-bf-account.PNG?raw=true)
 
 ## How to
 
