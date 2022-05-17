@@ -22,7 +22,6 @@ Virtually structure your dataset using this interface as if you were organizing 
 - Use the arrow located in the upper left corner to move up a folder. The current location in the dataset is indicated right next to the arrow.
   ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-step3-part2-files.gif?raw=true)
 
-
 #### Adding file descriptions (optional)
 
 - Use the `Details` option from the right-click menu to see the actual path of the file and include metadata (description, Additional Metadata) which will be included in the manifest files if you request SODA to generate them automatically for you (Step 5).
