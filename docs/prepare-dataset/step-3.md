@@ -1,8 +1,8 @@
 ---
 sidebar_position: 4
+title: Step 3 - Structure dataset files
+image: https://docs.sodaforsparc.io/thumbnails/prepare-dataset/step-3.png
 ---
-
-# Step 3: Structure dataset files
 
 Virtually structure your dataset using this interface as if you were organizing it on your computer but without actually modifying any local files. All your requested actions (files to be included, folders to be created, metadata information to be added, etc.) will be registered by SODA and only implemented when the dataset is generated during Step 6.
 
@@ -21,7 +21,6 @@ Virtually structure your dataset using this interface as if you were organizing 
   ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-step3-part1.gif?raw=true)
 - Use the arrow located in the upper left corner to move up a folder. The current location in the dataset is indicated right next to the arrow.
   ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-step3-part2-files.gif?raw=true)
-
 
 #### Adding file descriptions (optional)
 

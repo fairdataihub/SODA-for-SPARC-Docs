@@ -2,9 +2,8 @@
 sidebar_position: 11
 pagination_prev: null
 pagination_next: null
+title: Changelog
 ---
-
-# Changelog
 
 All notable changes to SODA for SPARC will be documented in this file.
 

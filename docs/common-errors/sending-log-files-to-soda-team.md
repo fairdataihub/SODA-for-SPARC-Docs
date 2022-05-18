@@ -1,8 +1,8 @@
 ---
 sidebar_position: 4
+title: Sending log files to SODA Team
+image: https://docs.sodaforsparc.io/thumbnails/common-errors/sending-log-files-to-soda-team.png
 ---
-
-# Sending log files to SODA Team
 
 ## Background
 
@@ -12,7 +12,7 @@ The SODA app saves all errors in several log files on your computer. In order to
 
 Send us all the files located here (you can zip that logs folder and simply email/Slack it to us
 
-1. Windows: _C:\Users\your-username\AppData\Roaming\SODA\logs_
+1. Windows: _C:\Users\your-username\AppData\Roaming\SODA for SPARC\logs_
 2. macOS: _~/your-username/Library/Logs/SODA_
 3. Ubuntu: _/home/your-username/.config/SODA/logs_
 

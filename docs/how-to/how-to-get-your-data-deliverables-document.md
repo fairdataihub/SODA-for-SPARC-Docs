@@ -1,9 +1,9 @@
 ---
 sidebar_position: 6
 pagination_next: null
+title: How to get your Data Deliverables document
+image: https://docs.sodaforsparc.io/thumbnails/how-to/how-to-get-your-data-deliverables-document.png
 ---
-
-# How to get your Data Deliverables document
 
 ## Background
 
@@ -11,7 +11,7 @@ The milestones and associated datasets as agreed between awardees and SPARC are 
 
 ## How to
 
-To obtain the Data Deliverables document associated with your award, simply ask your PI or grant manager. [Download a template](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/src/file_templates/DataDeliverablesDocument-template.docx?raw=true) of the Data Deliverables document to see the expected format. A screenshot of a sample Dataset Deliverables document is provided below. Most importantly, it should be in the docx format and at least one table should be included with these exact three headers: `Related milestone, aim, or task`, `Description of data`, `Expected date of completion`. If any of these headers need to be modified, make sure to edit them before importing the file in SODA.
+To obtain the Data Deliverables document associated with your award, simply ask your PI or grant manager. [Download a template](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/src/file_templates/DataDeliverablesDocument-template.docx?raw=true) of the Data Deliverables document to see the expected format. A screenshot of a sample Dataset Deliverables document is provided below. Most importantly, it should be in the docx format and at least one table should be included with these exact three headers: `Related milestone, aim, or task`, `Description of data`, `Expected date of completion`. Make sure these three headers are spelled correctly for SODA to recognize your Data Deliverables document.
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/How%20to/submission/data-deliverables-doc-example.PNG?raw=true)
 

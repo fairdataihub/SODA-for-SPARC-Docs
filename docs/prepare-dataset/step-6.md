@@ -1,5 +1,7 @@
 ---
 sidebar_position: 7
+title: Step 6 - Generate dataset
+image: https://docs.sodaforsparc.io/thumbnails/prepare-dataset/step-6.png
 ---
 
 The dataset will be generated based on the information provided during the previous steps. It could be generated **locally on your computer** or **directly on Pennsieve**.

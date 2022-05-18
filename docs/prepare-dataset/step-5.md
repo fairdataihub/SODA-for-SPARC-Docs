@@ -1,8 +1,8 @@
 ---
 sidebar_position: 6
+title: Step 5 - Request manifest files
+image: https://docs.sodaforsparc.io/thumbnails/prepare-dataset/step-5.png
 ---
-
-# Step 5: Request manifest files
 
 Manifest files are mandatory for all datasets. To learn more about this metadata file we refer to our corresponding "[How to](../how-to/how-to-structure-the-manifest-metadata-file.md)" page.
 
