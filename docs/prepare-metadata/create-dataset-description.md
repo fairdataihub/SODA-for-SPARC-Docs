@@ -12,7 +12,7 @@ Under this feature, SODA lets you quickly and accurately prepare the dataset_des
 
 To access this interface click on the `Free Form Mode` side bar option, then click on the `Prepare Metadata` tab, and finally click on the `Create dataset_description.xlsx` card.
 
-You can start by either Creating a dataset_description.xlsx file from scratch with SODA or Continue working on an existing dataset_description.xlsx file.
+You can start by either creating a dataset_description.xlsx file from scratch with SODA or continue working on an existing dataset_description.xlsx file.
 
 - If you want to continue working on an existing dataset_description.xlsx file, you will be prompted to either import it from your computer, or specify a Pennsieve dataset where the file is currently located. SODA will load information from such dataset_description file so you can edit them through the SODA interface.
 
@@ -100,7 +100,7 @@ Repeat if you have multiple protocols.
 2.  Other funding sources: Specify other funding sources, if any. Hit `Enter` on your keyboard after typing each. Leave empty if none.
 3.  Acknowledgments: Specify any acknowledgments beyond funding and contributors. Leave empty if none.
 
-After you complete all steps, click on `Generate` to generate your dataset description file. You have the options to generate and save it on your computer or generate and upload it to Pennsieve. A warning message may show up if any mandatory fields are missing. You may decide to go back and address the issues or generate the file anyway (and address the issues later).
+After you complete all steps, click on `Generate` to generate your dataset description file. You have the options to generate and save it on your computer or generate and upload it to Pennsieve. If your dataset is not organized yet, you can save this file anywhere on your computer then import it in SODA when prompted in the [Organize dataset](../prepare-dataset/organize-dataset) feature. A warning message may show up if any mandatory fields are missing. You may decide to go back and address the issues or generate the file anyway (and address the issues later).
 
 ## Note
 

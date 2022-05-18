@@ -8,14 +8,23 @@ Virtually structure your dataset using this interface as if you were organizing 
 
 - Go inside a folder by double-clicking on it.
 - Import files/folders inside a folder using drag-and-drop or the `Import` menu located in the upper right corner.
-- reate a new folder using the `New folder` button located in the upper right corner. Note that this is only possible inside a high-level SPARC folder. To create a new high-level SPARC folder, go back to Step 2.
-- Rename files/folders using the right-click menu option `Rename`.
-- Remove files/folders using the right-click menu option `Delete`.
-- Move files/folders using the right-click menu option `Move`
-- Multiple-select files/folders by either drag-selecting items or holding Ctrl and clicking items.
+- Create a new folder using the `New folder` button located in the upper right corner. Note that this option is only allowed inside a high-level SPARC folder. To create a new high-level SPARC folder, go back to Step 2.
+
+  :::info
+  SPARC folders naming should contain only alpha-numerical values 0-9, A-Z, no empty spaces, and no special characters.
+  :::
+
+- Rename files/folders by right-clicking on the files/folders and click menu option `Rename`.
+- Remove files/folders by right-clicking on the files/folders and click menu option `Delete`.
+- Move files/folders by right-clicking on the files/folders and click menu option `Move`
+- Simultaneously select multiple files/folders by either drag-selecting items or holding Ctrl and clicking the items.
   ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-step3-part1.gif?raw=true)
-- Use the `Details` option from the right-click menu to see the actual path of the file and include metadata (description, Additional Metadata) which will be included in the manifest files if you request SODA to generate them automatically for you (Step 5).
 - Use the arrow located in the upper left corner to move up a folder. The current location in the dataset is indicated right next to the arrow.
+  ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-step3-part2-files.gif?raw=true)
+
+#### Adding file descriptions (optional)
+
+- Use the `Details` option from the right-click menu to see the actual path of the file and include metadata (description, Additional Metadata) which will be included in the manifest files if you request SODA to generate them automatically for you (Step 5).
   ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-step3-part2-files.gif?raw=true)
 
 ### Duplicate Files/Folders
