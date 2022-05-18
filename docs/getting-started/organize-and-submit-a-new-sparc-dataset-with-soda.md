@@ -218,7 +218,7 @@ Use the `Details` option from the right-click menu to see the actual path of the
 
 Click on the applicable panel to include the high-level metadata files of your choice.
 :::info
-submission, dataset_description, and subjects files are mandatory for all datasets. The samples file is mandatory if applicable. The other files are optional.
+submission, dataset_description, README.txt, and subjects files are mandatory for all datasets. The samples file is mandatory if applicable. The other files are optional.
 :::
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-step4-metadata-files.gif?raw=true)
