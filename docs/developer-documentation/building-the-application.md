@@ -18,7 +18,7 @@ npm run deploy-win
 ```
 
 :::note
-Ensure that the `api.spec` file in the root of the repository has a `binaries` path set to your anaconda3 installation directory. If it doesn't, manually change the `binaries` path to your anaconda3 installation directory. Then run the `python-onefile-build-win` command. 
+Ensure that the `api.spec` file in the root of the repository has a `binaries` path set to your anaconda3 installation directory. If it doesn't, manually change the `binaries` path to your anaconda3 installation directory. Then run the `python-onefile-build-win` command.
 :::
 
 :::caution
@@ -43,7 +43,7 @@ npm run deploy-win
 ```shell title="For macOS"
 conda activate env-electron-python
 cd ./src
-npm run python-onefile-build 
+npm run python-onefile-build
 
 # To build only
 npm run build-mac
@@ -55,7 +55,7 @@ npm run deploy-mac
 ```shell title="For Linux"
 conda activate env-electron-python
 cd ./src
-npm run python-onefile-build 
+npm run python-onefile-build
 
 # To build only
 npm run build-linux
