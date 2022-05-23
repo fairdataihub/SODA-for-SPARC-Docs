@@ -7,7 +7,7 @@ image: https://docs.sodaforsparc.io/thumbnails/prepare-dataset/step-4.png
 Click on the applicable panel to include the high-level metadata files of your choice. For example, to include a submission file in your dataset, simply click on the `submission` panel and you will be taken to a separate page to either import or drag & drop your file into SODA. Click `Confirm` to finish the importing process. To remove a metadata file you previously imported, click on the corresponding panel and click `Remove`.
 
 :::info
-submission, dataset_description, subjects files and README.txt are mandatory for all datasets. The samples file is mandatory if applicable. The other files are optional.
+submission, dataset_description, subjects, and README.txt files are mandatory for all datasets. The samples file is mandatory if applicable. The other files are optional.
 :::
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-step4-metadata-files.gif?raw=true)

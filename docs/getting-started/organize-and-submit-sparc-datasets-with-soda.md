@@ -6,7 +6,7 @@ image: https://docs.sodaforsparc.io/thumbnails/getting-started/organize-and-subm
 
 ## Prepare and submit SPARC datasets with SODA
 
-The typical process for submitting your SPARC dataset consists of organizing your data according to the SPARC Data Structure (SDS), adding metadata files, uploading everything on the [Pennsieve data platform](https://app.pennsieve.io/) where more metadata needs to be added, and finally sharing the dataset with the SPARC Curation Team who will review it for compliance. Once approved by the Curation Team, you will have to share your dataset as embargoed dataset and it will become accessible to all members of the SPARC Consortium through Pennsieve. Once the embargo period is over (one year after initial upload or after publication of related manuscript(s), wichever comes first), you will have to publish your dataset and it will then become accessible publicly through the [SPARC Data Portal](https://sparc.science/).
+The typical process for submitting your SPARC dataset consists of organizing your data according to the SPARC Data Structure (SDS), adding metadata files, uploading everything on the [Pennsieve data platform](https://app.pennsieve.io/) where more metadata needs to be added, and finally sharing the dataset with the SPARC Curation Team who will review it for compliance. Once approved by the Curation Team, you will have to share your dataset as embargoed dataset and it will become accessible to all members of the SPARC Consortium through Pennsieve. Once the embargo period is over (one year after initial upload or after publication of related manuscript(s), whichever comes first), you will have to publish your dataset and it will then become accessible publicly through the [SPARC Data Portal](https://sparc.science/).
 
 We describe below the suggested workflow for preparing and submitting your SPARC datasets with SODA. All these steps are mandatory (unless marked otherwise) if you wish to satisfy the SPARC requirements.
 
@@ -14,7 +14,7 @@ We describe below the suggested workflow for preparing and submitting your SPARC
 
 These steps only need to be completed once.
 
-- <a href="../getting-started/download-soda" target="\_blank"> Dowload and install SODA </a>
+- <a href="../getting-started/download-soda" target="\_blank"> Download and install SODA </a>
 - All SPARC datasets must be uploaded on the Pennsieve data platform. Get access to Pennsieve as well as the SPARC Consortium organization on Pennsieve by filling out [this form](https://www.wrike.com/frontend/requestforms/index.html?token=eyJhY2NvdW50SWQiOjMyMDM1ODgsInRhc2tGb3JtSWQiOjUwMzQzN30JNDgwNTg4NjU3MjA3Nwk0MTg5ZTY0ODEyZGYxNTU1ZDJkYmU5MzIxNWZiNTQyZWUwZTMzY2U4NDQ5ODI0ZWI0YzZiMWZhNjVhYzgyOTRm). We also suggest to request access to the SPARC Airtable sheet through the same form as it will come in handy when your prepare your SPARC metadata files.
 - Download and install the [Pennsieve agent](https://docs.pennsieve.io/docs/the-pennsieve-agent) required to upload files through SODA
 - Watch our [quick video](../getting-started/user-interface) to familiarize yourself with the user interface of SODA (note: optional but recommended)
@@ -38,7 +38,7 @@ The SPARC guidelines require each dataset to have specific metadata on Pennsieve
 
 The SPARC guidelines require each dataset to have specific metadata files, as described by the SPARC Data Standards (SDS). These metadata files can be conveniently prepared through SODA.
 
-- Prepare protocol on protocols.io following the [instructions provided here](https://sparc.science/help/1slXZSS2XtTYQsdY6mEJi5). This is not supported through SODA since protocols.io already provides an intuitive interface for preparing the protocol.
+- Prepare protocol on `protocols.io` following the [instructions provided here](https://sparc.science/help/1slXZSS2XtTYQsdY6mEJi5). This is not supported through SODA since `protocols.io` already provides an intuitive interface for preparing the protocol.
 - [Prepare the submission file](../prepare-metadata/create-submission)
 - [Prepare the dataset description file](../prepare-metadata/create-dataset-description)
 - [Prepare the README file](../prepare-metadata/create-readme)
@@ -49,7 +49,7 @@ The SPARC guidelines require each dataset to have specific metadata files, as de
 
 ### D. Organize Dataset According to the SPARC Data Structure
 
-All SPARC datasets must be organized according to the structure described by the SPARC Data Standards (SDS). Briefly, all data must be organized into one of the following six high-level folders: `primary`, `source`, `derivative`, `code`, `protocol`, and `docs`. Each of these folders must have have a manifest metadata file that summarizes the content of the folder. Additionally, all the metadata files created during Step C must be located at the highest-level of the dataset, alongside the high-level folders. SODA provides a intuitive interface for organizing your dataset according to the SDS and upload it on Pennsieve with automatically generated manifest files.
+All SPARC datasets must be organized according to the structure described by the SPARC Data Standards (SDS). Briefly, all data must be organized into one of the following six high-level folders: `primary`, `source`, `derivative`, `code`, `protocol`, and `docs`. Each of these folders must have a manifest metadata file that summarizes the content of the folder. Additionally, all the metadata files created during Step C must be located at the highest-level of the dataset, alongside the high-level folders. SODA provides a intuitive interface for organizing your dataset according to the SDS and upload it on Pennsieve with automatically generated manifest files.
 
 - [Specify files and metadata files to be included in your dataset and generate dataset directly on Pennsieve](../prepare-dataset/organize-dataset)
 
