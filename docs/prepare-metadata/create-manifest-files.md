@@ -29,12 +29,11 @@ To access this interface click on the `Free Form Mode` side bar option, then cli
    - When editing manifest files you may edit the `Description` or `Additional Metadata` columns in your dataset's manifest files before generating them to the desired destination.
    - When editing manifest files you can also add or remove custom columns using the `Context Menu`. To do this select a column header and then right click on it to activate the `Context Menu`.
 
-
    :::info
    If the dataset contains manifest.xlsx files, SODA will load the existing manifest files for your edits. Note that at this moment, only the manifest.xlsx files are supported by SODA (not any other manifest file types).  
    :::
 
-     ![](https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Manifest/insert-columns.png?raw=true)
+   ![](https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Manifest/insert-columns.png?raw=true)
 
 4. After you finish editing the manifest files at Step 3, click `Generate now`.
 
