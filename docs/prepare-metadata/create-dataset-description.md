@@ -14,23 +14,23 @@ To access this interface click on the `Free Form Mode` side bar option, then cli
 
 You can start by either creating a dataset_description.xlsx file from scratch with SODA or continue working on an existing dataset_description.xlsx file.
 
-- If you want to continue working on an existing dataset_description.xlsx file, you will be prompted to either import it from your computer, or specify a Pennsieve dataset where the file is currently located. SODA will load information from such dataset_description file so you can edit them through the SODA interface.
+- If you want to continue working on an existing dataset_description.xlsx file, you will be prompted to either import it from your computer, or specify a Pennsieve dataset where the file is currently located. SODA will load information from the specified dataset_description file so you can edit them through the SODA interface.
 
-The subsequent interface divides inputs required for preparing the dataset_description file into six convenient sections to facilitate your task.
+The interface below divides inputs required for preparing the dataset_description file into six convenient sections to facilitate your task.
 
 ### Dataset Info (high-level information about your dataset)
 
-1. Dataset title: Enter a descriptive title for the dataset. This field should match exactly with your dataset title on Pennsieve.
+1. Dataset title: Enter a descriptive title for the dataset. This field should exactly match your dataset title on Pennsieve.
 
    :::tip
-   Click on `Click here to select my dataset from Pennsieve` to connect select the corresponding dataset on Pennsieve and SODA will populate the Name filed automatically. If you have not connected your Pennsieve account with SODA yet, [follow the instructions available here](../manage-dataset/connect-your-pennsieve-account-with-soda).
+   Click on `Click here to select my dataset from Pennsieve` to select the corresponding dataset on Pennsieve, with which SODA will populate the `Name` field automatically. If you have not connected your Pennsieve account with SODA yet, [follow the instructions available here](../manage-dataset/connect-your-pennsieve-account-with-soda).
    :::
 
-2. Description: Provide a brief description of the study and the dataset. This is populated automatically from your dataset subtitle on Pennsieve for your convenience (see [this section](../manage-dataset/add-edit-description) to add a subtitle for your dataset).
+2. Description: Provide a brief description of the study and the dataset. This is automatically populated from your dataset subtitle on Pennsieve for your convenience (see [this section](../manage-dataset/add-edit-description) to add a subtitle for your dataset).
 
-3. Dataset type: Select the type of this dataset from the dropdown list. Select `Computational` if your study only includes a computational model, otherwise select `Experimental`.
+3. Dataset type: Select the type of the dataset from the dropdown list. Select `Computational` if your study only includes a computational model, otherwise select `Experimental`.
 
-4. Keywords: Enter 3 to 5 keywords (other than those used in the name and description) that will help in searching your dataset once published. Hit 'Enter' after each word.
+4. Keywords: Enter 3 to 5 keywords (other than those used in the name and description) that will help in searching your dataset once it is published. Hit 'Enter' after each keyword.
 
 <video
    controls
@@ -61,10 +61,10 @@ The subsequent interface divides inputs required for preparing the dataset_descr
 ### Award and Contributor Info (information about the SPARC award and the contributors to your dataset)
 
 :::tip
-If you have not done so already,
+If you have not done so already, click on `Help me with my award number and contributor information` to connect your Airtable account with SODA and select your SPARC award number and contributors automatically. [See instructions here](./connect-your-airtable-account-with-soda.md) for connecting your Airtable account with SODA.
 :::
 
-1. SPARC Award associated with this dataset: You can either your award number manually or click on `Help me with my award number and contributor information` at the bottom of the section to connect your Airtable account with SODA (if not connected already) and import your SPARC award number automatically. [See instructions here](./connect-your-airtable-account-with-soda.md) for connecting your Airtable account with SODA.
+1. SPARC Award associated with this dataset: You can either enter your award number manually or have your SPARC award number automatically populated if you are connected to Airtable (see tip above). 
 
 2. Click on `Add a contributor` to start adding contributors to your dataset_description file.
    - Provide information about any contributor to the dataset. Note that the 'Contributor' list is compiled from the SPARC Airtable sheet based on the SPARC award selected. Select one Contributor to get the ORCID ID, Contributor Affiliation, and Contributor Role populated automatically (if specified in the SPARC Airtable Sheet). Select `Other contributors` in the 'Contributors' dropdown list if you'd like to enter a Contributor name manually (although we suggest entering them directly in the SPARC Airtable then restart SODA to see them in the list so they are available for future reuse).
