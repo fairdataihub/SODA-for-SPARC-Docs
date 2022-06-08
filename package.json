@@ -14,13 +14,13 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "prepare": "husky install",
-    "lint": "eslint --ignore-path .gitignore \"./**/*.+(ts|js|tsx)\"",
-    "format": "prettier --ignore-path .gitignore \"./**/*.+(ts|js|tsx|md)\" --write",
+    "lint": "eslint --ignore-path .gitignore \"./**/*.+(ts|js|jsx|tsx)\"",
+    "format": "prettier --ignore-path .gitignore \"./**/*.+(ts|js|jsx|tsx|md)\" --write",
     "semantic-release": "semantic-release"
   },
   "lint-staged": {
-    "*.js": "eslint --cache --fix",
-    "*.{js,css,md}": "prettier --write"
+    "*.{js,jsx}": "eslint --cache --fix",
+    "*.{js,jsx,css,md}": "prettier --write"
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-beta.21",
