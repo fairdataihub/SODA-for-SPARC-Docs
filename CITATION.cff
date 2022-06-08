@@ -1,44 +1,41 @@
-# This CITATION.cff file was generated with FAIRshare.
-# Visit https://fairdataihub.org/fairshare to learn more!
-
 abstract: Documentation for the SODA for SPARC application
 authors:
-- affiliation: FAIR Data Innovations Hub
-  email: ssoundarajan@calmi2.org
-  family-names: Soundarajan
-  given-names: Sanjay
-- affiliation: FAIR Data Innovations Hub
-  email: cmarroquin@calmi2.org
-  family-names: Marroquin
-  given-names: Aaron
-- affiliation: FAIR Data Innovations Hub
-  email: tngo@calmi2.org
-  family-names: Ngo
-  given-names: Tram
-- affiliation: FAIR Data Innovations Hub
-  email: dportiollo@calmi2.org
-  family-names: Portillo
-  given-names: Dorian
-- affiliation: FAIR Data Innovations Hub
-  email: bpatel@calmi2.org
-  family-names: Patel
-  given-names: Bhavesh
+  - affiliation: FAIR Data Innovations Hub
+    email: ssoundarajan@calmi2.org
+    family-names: Soundarajan
+    given-names: Sanjay
+  - affiliation: FAIR Data Innovations Hub
+    email: cmarroquin@calmi2.org
+    family-names: Marroquin
+    given-names: Aaron
+  - affiliation: FAIR Data Innovations Hub
+    email: tngo@calmi2.org
+    family-names: Ngo
+    given-names: Tram
+  - affiliation: FAIR Data Innovations Hub
+    email: dportiollo@calmi2.org
+    family-names: Portillo
+    given-names: Dorian
+  - affiliation: FAIR Data Innovations Hub
+    email: bpatel@calmi2.org
+    family-names: Patel
+    given-names: Bhavesh
 cff-version: 1.2.0
 date-released: '2022-05-18'
 identifiers:
-- description: DOI for this software's record on Zenodo
-  type: doi
-  value: 10.5281/zenodo.6407300.
+  - description: DOI for this software's record on Zenodo
+    type: doi
+    value: https://doi.org/10.5281/zenodo.6625103
 keywords:
-- SPARC
-- FAIR
-- data
-- curation
-- documentation
-- macos
-- sparc-dataset
-- ubuntu
-- windows
+  - SPARC
+  - FAIR
+  - data
+  - curation
+  - documentation
+  - macos
+  - sparc-dataset
+  - ubuntu
+  - windows
 license: MIT
 message: If you use this software, please cite it as below.
 repository-artifact: https://github.com/fairdataihub/SODA-for-SPARC-Docs
@@ -46,4 +43,4 @@ repository-code: https://github.com/fairdataihub/SODA-for-SPARC-Docs
 title: SODA for SPARC docs
 type: software
 url: https://fairdataihub.org/
-version: 6.0.0
+version: 1.0.0
