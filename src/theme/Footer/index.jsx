@@ -444,14 +444,6 @@ export default function FooterWrapper() {
                       </Link>
                     </div>
                   </li>
-                  <li className="pb-2 text-base ">
-                    <div className="h-max w-max scale-100  transition-all hover:scale-105">
-                      <Link href="/sitemap.xml">
-                        {' '}
-                        Sitemap <ExternalLinkSVG />
-                      </Link>
-                    </div>
-                  </li>
                 </ul>
               </div>
               <div className="flex flex-col ">
