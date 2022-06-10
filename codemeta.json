@@ -8,8 +8,8 @@
   "downloadUrl": "https://github.com/fairdataihub/SODA-for-SPARC-Docs",
   "issueTracker": "https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues",
   "name": "SODA for SPARC docs",
-  "version": "7.0.1",
-  "identifier": "https://doi.org/10.5281/zenodo.6625170",
+  "version": "7.1.0",
+  "identifier": "https://doi.org/10.5281/zenodo.6633739",
   "description": "Documentation for the SODA for SPARC application",
   "applicationCategory": "Scientific",
   "funding": "OT2OD030213",
@@ -31,7 +31,10 @@
     "ubuntu",
     "windows"
   ],
-  "programmingLanguage": ["JavaScript", "CSS"],
+  "programmingLanguage": [
+    "JavaScript",
+    "CSS"
+  ],
   "relatedLink": [
     "https://docs.sodaforsparc.io/",
     "https://github.com/fairdataihub/SODA-for-SPARC"
