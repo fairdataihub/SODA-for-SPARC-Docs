@@ -1,5 +1,6 @@
 * @aaronm-2112
 /docs/ @bvhpatel @aaronm-2112
 /versioned_docs/ @aaronm-2112
+/.github/ @megasanjay
 package.json @megasanjay
 yarn.lock @megasanjay
