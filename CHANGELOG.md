@@ -1,9 +1,8 @@
 ## [7.1.3](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v7.1.2...v7.1.3) (2022-06-18)
 
-
 ### Bug Fixes
 
-* **deps:** update react monorepo to v18.2.0 ([#81](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/81)) ([caf6aff](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/caf6aff34be380a475d8754170e25b2792e34104))
+- **deps:** update react monorepo to v18.2.0 ([#81](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/81)) ([caf6aff](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/caf6aff34be380a475d8754170e25b2792e34104))
 
 ## [7.1.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v7.1.1...v7.1.2) (2022-06-17)
 
