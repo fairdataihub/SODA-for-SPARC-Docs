@@ -1,9 +1,8 @@
 # [7.2.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v7.1.3...v7.2.0) (2022-06-20)
 
-
 ### Features
 
-* ✨ new page on how to get a pennsieve account ([9d49405](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/9d49405b18022cc260dffdcb1035350ee3635060))
+- ✨ new page on how to get a pennsieve account ([9d49405](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/9d49405b18022cc260dffdcb1035350ee3635060))
 
 ## [7.1.3](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v7.1.2...v7.1.3) (2022-06-18)
 
