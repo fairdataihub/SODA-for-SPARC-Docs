@@ -10,10 +10,7 @@ SPARC uses the [Pennsieve](https://app.pennsieve.net/) platform to store data an
 
 ## Prerequisite
 
-1. Sign up to [Pennsieve](https://app.pennsieve.net/)
-2. Contact support@pennsieve.net to get access to the SPARC Consortium organization on Pennsieve. Ensure that the SPARC Consortium organization is listed under your organizations list on Pennsieve before you continue.
-
-![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Connect-to-BF/consortium-bf-account.PNG?raw=true)
+You will need a Pennsieve account with access to the SPARC Consortium oganization before connecting your Pennsieve account with SODA. If you do not have a Pennsieve account and/or access to the SPARC Consortium organizaton, follow the instructions available [here](../how-to/how-to-get-a-pennsieve-account).
 
 ## How to
 
