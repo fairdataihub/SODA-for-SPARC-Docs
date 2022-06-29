@@ -12,7 +12,7 @@ SPARC uses the [Pennsieve](https://app.pennsieve.net/) platform to store data an
 
 You will need a Pennsieve account with access to the SPARC Consortium oganization before connecting your Pennsieve account with SODA. If you do not have a Pennsieve account and/or access to the SPARC Consortium organizaton, follow the instructions available [here](../how-to/how-to-get-a-pennsieve-account).
 
-## How to
+## How to login with Email and Password
 
 1. Click on any features (e.g. Create a new dataset) under `Manage Datasets`.
 2. Click on the **edit** symbol next to **Current account**.
@@ -29,9 +29,9 @@ import PageFeedback from '@site/src/components/PageFeedback';
 
 :::
 
-<details>
+## How to login with API key
 
-<summary>If you do not wish to provide your Pennsieve login details to SODA, you can create a set of API keys on Pennsieve and provide it to SODA. Click this section to learn more.</summary>
+If you do not wish to provide your Pennsieve login details to SODA, you can create a set of API keys on Pennsieve and provide it to SODA. Click this section to learn more.
 
 :::caution
 Some features of SODA might not work if you add your API keys to SODA in this method. We recommend that you use the [username/password entry method](#how-to) to guarantee that only the relevant information needed for SODA is used.
@@ -41,8 +41,13 @@ Some features of SODA might not work if you add your API keys to SODA in this me
 - Follow the instructions on the Pennsieve help page to get a **API key**, and **API secret** from your Pennsieve account. Make sure you are under the `SPARC Consortium` organization on Pennsieve when you generate the API key and secret. Also set your **Key name** to `SODA-Pennsieve`
   ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Connect-to-BF/consortium-bf-account.PNG?raw=true)
 - Enter your **API key**, **API secret** and `SODA-Pennsieve` for your **Key name** in the corresponding fields then click on `Add`.
-  ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Connect-to-BF/connect-to-blackfynn.gif?raw=true)
 
-</details>
+<video
+   controls
+   autoPlay
+   loop
+   width="100%"
+   src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/connect-with-api.mp4"
+/>
 
 <PageFeedback />
