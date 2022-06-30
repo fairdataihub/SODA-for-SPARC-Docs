@@ -31,14 +31,16 @@ import PageFeedback from '@site/src/components/PageFeedback';
 
 ## How to login with API key
 
-If you do not wish to provide your Pennsieve login details to SODA, you can create a set of API keys on Pennsieve and provide it to SODA. Click this section to learn more.
+If you do not wish to provide your Pennsieve login details to SODA, you can create a set of API keys on Pennsieve and provide it to SODA.
 
 :::caution
 Some features of SODA might not work if you add your API keys to SODA in this method. We recommend that you use the [username/password entry method](#how-to) to guarantee that only the relevant information needed for SODA is used.
 :::
 
-- In the new pop-up window click on `I want to connect with an API key instead` at the bottom of the pop-up.
-- Follow the instructions on the Pennsieve help page to get a **API key**, and **API secret** from your Pennsieve account. Make sure you are under the `SPARC Consortium` organization on Pennsieve when you generate the API key and secret. Also set your **Key name** to `SODA-Pennsieve`
+1. Click on any of the features (e.g. Create a new dataset) under Manage Datasets
+2. On the login prompt click on `I want to connect with an API key instead` at the bottom of the prompt.
+
+- [Follow the instructions on the Pennsieve help page to get a **API key**, and **API secret** from your Pennsieve account.](https://commonfund.nih.gov/sparc) Make sure you are under the `SPARC Consortium` organization on Pennsieve when you generate the API key and secret. Also set your **Key name** to `SODA-Pennsieve`
   ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Connect-to-BF/consortium-bf-account.PNG?raw=true)
 - Enter your **API key**, **API secret** and `SODA-Pennsieve` for your **Key name** in the corresponding fields then click on `Add`.
 
