@@ -17,7 +17,6 @@ npm run build-win
 npm run deploy-win
 ```
 
-
 ```shell title="For macOS"
 conda activate env-electron-python
 cd ./src
