@@ -1,3 +1,10 @@
+## [7.2.6](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v7.2.5...v7.2.6) (2022-07-11)
+
+
+### Bug Fixes
+
+* **deps:** update docusaurus monorepo to v2.0.0-beta.22 ([#103](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/103)) ([7bc777c](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/7bc777cc2f4fd48990cde94fc3dcf19be68a657d))
+
 ## [7.2.5](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v7.2.4...v7.2.5) (2022-07-09)
 
 ### Bug Fixes
