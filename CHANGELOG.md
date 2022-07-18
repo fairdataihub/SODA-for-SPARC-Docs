@@ -1,9 +1,8 @@
 ## [7.2.9](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v7.2.8...v7.2.9) (2022-07-18)
 
-
 ### Bug Fixes
 
-* 🐛 update download urls to pre render links ([af571fd](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/af571fd7c8faab1613cfc9944004ac5780e988d2))
+- 🐛 update download urls to pre render links ([af571fd](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/af571fd7c8faab1613cfc9944004ac5780e988d2))
 
 ## [7.2.8](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v7.2.7...v7.2.8) (2022-07-18)
 
