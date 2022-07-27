@@ -5,7 +5,7 @@ title: Project Setup
 image: https://docs.sodaforsparc.io/thumbnails/developer-documentation/project-setup.png
 ---
 
-The front-end (Graphical User Interface or GUI) of SODA is built with Electron, an open-source framework developed and maintained by GitHub that conveniently combines Node.js, HTML, CSS, and Javascript, while the back-end is developed in Python (v3.6). The application is inspired by a GitHub repository and a Medium blog. All source codes and files are shared with an open-source license (MIT) to permit user modification without restrictions. The folder structure for the source code is based on the Electron standards and similar to the Electron Demo Application.
+The front-end (Graphical User Interface or GUI) of SODA is built with Electron, an open-source framework developed and maintained by GitHub that conveniently combines Node.js, HTML, CSS, and Javascript, while the back-end is developed in Python (v3.9). The application is inspired by a GitHub repository and a Medium blog. All source codes and files are shared with an open-source license (MIT) to permit user modification without restrictions. The folder structure for the source code is based on the Electron standards and similar to the Electron Demo Application.
 
 ## Download source code from the GitHub repository
 
@@ -19,11 +19,6 @@ git clone https://github.com/fairdataihub/SODA-for-SPARC.git
 
 ### Installing C++ development libraries
 
-#### Windows
-
-- Download [Visual Studio 2017](https://download.visualstudio.microsoft.com/download/pr/dfb60031-5f2b-4236-a36b-25a0197459bc/789aa74d8838804c37e2d0ea484e5d9a4958bc5cc5d2f6132542f2b637b9c17d/vs_Community.exe), run the executable file
-- In the installer, select “Desktop development with C++” and check “VC++ 2015.3 v14.00”
-
 #### macOS
 
 - Install [Xcode](https://developer.apple.com/download/)
@@ -32,16 +27,6 @@ git clone https://github.com/fairdataihub/SODA-for-SPARC.git
 ```
 $ brew install gcc
 $ brew cask install emacs
-```
-
-#### Linux
-
-- [Install GCC](https://linuxize.com/post/how-to-install-gcc-compiler-on-ubuntu-18-04/) and [Emacs](https://www.gnu.org/software/emacs/) on Ubuntu
-
-```
-$ sudo apt update
-$ sudo apt install build-essential
-$ sudo apt-get install emacs
 ```
 
 ## Setting up your environment
@@ -121,7 +106,7 @@ yarn add <package-name>
 
 The minimum required programming language and compiler versions are provided below. Please be aware that this is subject to change.
 
-- Python: 3.6
+- Python: 3.9
 - Nodejs: ^10.13.0
 
 import PageFeedback from '@site/src/components/PageFeedback';
