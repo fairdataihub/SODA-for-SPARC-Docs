@@ -14,12 +14,14 @@ To access this interface click on the `Free Form Mode` side bar option, then cli
 
 1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda).
 2. Add, edit, or delete tags:
-   - Enter any tags you feel capture the nature of your research in the textbox. Once you have entered the text for a single tag, press `Enter` or click off the textbox to add it.
-   - Edit existing tags by double clicking them to change their text. Press `Enter` or click off the textbox to finalize the edit.
+   - Enter any collection name you feel capture the nature of your research as a collection name. Once you have entered the text for a single collection name, press `Enter` or click off the textbox to add it.
+   - Edit existing collection names by double clicking them to change their text. Press `Enter` or click off the textbox to finalize the edit.
    - Delete a tag by clicking the `x` to the right of a given tag.
-3. Click on the `Add Tags` button.
+3. Click on the `Update collections` button.
 
-   - If you already had tags you will be presented with an `Edit Tags` button to click on instead.
+:::info
+All collection names that belong to the organization will be shown as an option.
+:::
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
