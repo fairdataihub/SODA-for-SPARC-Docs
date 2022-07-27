@@ -17,25 +17,11 @@ git clone https://github.com/fairdataihub/SODA-for-SPARC.git
 
 ## Prerequisites
 
-### Installing C++ development libraries
-
-#### macOS
-
-- Install [Xcode](https://developer.apple.com/download/)
-- Refer here for installing ['brew'](https://docs.brew.sh/Installation) if your Mac doesn't already have it.
-
-```
-$ brew install gcc
-$ brew cask install emacs
-```
+We use Anaconda to keep track of the high level dependencies required to create this application. You can download it here: [Anaconda Individual Edition](https://www.anaconda.com/products/individual)
 
 ## Setting up your environment
 
-We use Anaconda to keep track of the high level dependencies required to create this application. The environment files required to generate the dev environment have been provided with the repository in the `dev` folder.
-
-:::tip
-Download Anaconda here: [Anaconda Individual Edition](https://www.anaconda.com/products/individual)
-:::
+The environment files required to generate the dev environment have been provided with the repository in the `tools/anaconda-env` folder.
 
 Each operating system requires its own environment to develop in. To facilitate this task we have provided platform specific environment files. Use the one that is relevant for your system.
 
