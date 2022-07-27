@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 8
 title: Add edit subtitle
 image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/add-edit-subtitle.png
 ---

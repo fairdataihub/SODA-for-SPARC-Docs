@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 4
 title: Assign a license
 image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/assign-a-license.png
 ---
