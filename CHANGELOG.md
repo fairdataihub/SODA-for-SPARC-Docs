@@ -1,12 +1,10 @@
 # [8.0.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v7.2.12...v8.0.0) (2022-07-28)
 
-
-* feat!: 💥 ✨ docs version release ([d40b8d8](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/d40b8d8e1a63ff622fca1e4585cec47abb61b357))
-
+- feat!: 💥 ✨ docs version release ([d40b8d8](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/d40b8d8e1a63ff622fca1e4585cec47abb61b357))
 
 ### BREAKING CHANGES
 
-* version update
+- version update
 
 ## [7.2.12](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v7.2.11...v7.2.12) (2022-07-25)
 
