@@ -25,7 +25,7 @@ The environment files required to generate the dev environment have been provide
 
 Each operating system requires its own environment to develop in. To facilitate this task we have provided platform specific environment files. Use the one that is relevant for your system.
 
-import Tabs from "@theme/Tabs";
+import Tabs from "@theme/Tabs"; 
 import TabItem from "@theme/TabItem";
 
 ```shell title="For Windows"
