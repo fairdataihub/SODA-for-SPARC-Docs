@@ -16,7 +16,18 @@
   ],
   "repositoryUrl": "https://github.com/fairdataihub/SODA-for-SPARC-Docs.git",
   "plugins": [
-    "@semantic-release/commit-analyzer",
+    [
+      "@semantic-release/commit-analyzer",
+      {
+        "releaseRules": [
+          {
+            "type": "release",
+            "scope": "README",
+            "release": "major"
+          }
+        ]
+      }
+    ],
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
     [
