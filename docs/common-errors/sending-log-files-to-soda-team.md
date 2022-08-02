@@ -10,7 +10,17 @@ The SODA app saves all errors in several log files on your computer. In order to
 
 ## How to obtain the log files
 
-Send us all the files located here (you can zip that logs folder and simply email/Slack it to us
+# Automatically
+
+To automatically gather your log files:
+
+1. Select the `Contact Us` tab in the navigation menu.
+2. Click `Gather Logs` and then select a location store the log files.
+3. They will be stored in a folder called `SODA-For-SPARC-Logs`
+
+# Manually
+
+To manually gather log files:
 
 1. Windows: _C:\Users\your-username\AppData\Roaming\SODA for SPARC\logs_
 2. macOS: _~/your-username/Library/Logs/SODA_
