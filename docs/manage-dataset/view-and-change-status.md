@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 13
 title: View and change status
 image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/view-and-change-status.png
 ---
