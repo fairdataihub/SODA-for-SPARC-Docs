@@ -40,13 +40,11 @@ const config = {
           changefreq: 'weekly',
           priority: 0.5,
         },
-        gtag: {
-          trackingID: 'G-6PG193J31V',
-          anonymizeIP: true,
-        },
       }),
     ],
   ],
+
+  plugins: ['docusaurus-plugin-umami'],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -165,6 +163,10 @@ const config = {
         apiKey: 'f54157cf9bcb7564a29aa0995e0eb192',
         indexName: 'docs-sodaforsparc',
         contextualSearch: true,
+      },
+      umami: {
+        websiteid: '4dfba05a-4a76-4d20-92b4-a7778613dbb0',
+        src: 'https://umami.fairdataihub.org/mushroom.js',
       },
     }),
 
