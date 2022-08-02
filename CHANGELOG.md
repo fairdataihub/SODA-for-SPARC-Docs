@@ -1,3 +1,10 @@
+# [9.1.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v9.0.0...v9.1.0) (2022-08-02)
+
+
+### Features
+
+* ✨ move from google analytics to umami ([6d095c2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/6d095c26158d503d6c66eb568875e28ffa4a7d28))
+
 # [9.0.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v8.0.1...v9.0.0) (2022-08-01)
 
 - feat!: docs versioned for 7.0.1 release (#118) ([101f08e](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/101f08ef38e6a5a9dbb9bd39a0d9c4a1353ffeaa)), closes [#118](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/118)
