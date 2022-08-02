@@ -34,7 +34,7 @@ Solution: It is very likely that the folder is hidden on your computer. To learn
 
 ## How to send the log files to the SODA team
 
-Unless instrcuted otherwise by the SODA team, you can email the log files with an explanation of your issue at help@fairdataihub.org
+Unless instructed otherwise by the SODA team, you can email the log files with an explanation of your issue at help@fairdataihub.org
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
