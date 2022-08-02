@@ -26,6 +26,15 @@
   <a href="https://doi.org/10.5281/zenodo.6407300">
     <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6407300.svg" alt="doi" />
   </a>
+  <a href="https://fairdataihub.org/fairshare">
+    <img src="https://img.shields.io/badge/Curated%20with-FAIRshare-yellow" alt="Curated with FAIRshare" />
+  </a>
+   <a href="https://docs.sodaforsparc.io/">
+    <img src="https://api.checklyhq.com/v1/badges/checks/5e468ec3-5de2-40be-aad5-24ca5ea643aa?style=flat&theme=default" alt="checkly status" />
+  </a>
+  <a href="https://docs.sodaforsparc.io/">
+    <img src="https://api.checklyhq.com/v1/badges/checks/5e468ec3-5de2-40be-aad5-24ca5ea643aa?style=flat&theme=default&responseTime=true" alt="checkly response time" />
+  </a>
 </p>
    
 <h4>

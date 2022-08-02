@@ -3,11 +3,26 @@
   "title": "SODA for SPARC docs",
   "publication_date": "2022-05-18",
   "creators": [
-    { "name": "Soundarajan, Sanjay", "affiliation": "FAIR Data Innovations Hub" },
-    { "name": "Marroquin, Aaron", "affiliation": "FAIR Data Innovations Hub" },
-    { "name": "Ngo, Tram", "affiliation": "FAIR Data Innovations Hub" },
-    { "name": "Portillo, Dorian", "affiliation": "FAIR Data Innovations Hub" },
-    { "name": "Patel, Bhavesh", "affiliation": "FAIR Data Innovations Hub" }
+    {
+      "name": "Soundarajan, Sanjay",
+      "affiliation": "FAIR Data Innovations Hub"
+    },
+    {
+      "name": "Marroquin, Aaron",
+      "affiliation": "FAIR Data Innovations Hub"
+    },
+    {
+      "name": "Ngo, Tram",
+      "affiliation": "FAIR Data Innovations Hub"
+    },
+    {
+      "name": "Portillo, Dorian",
+      "affiliation": "FAIR Data Innovations Hub"
+    },
+    {
+      "name": "Patel, Bhavesh",
+      "affiliation": "FAIR Data Innovations Hub"
+    }
   ],
   "description": "Documentation for the SODA for SPARC application",
   "access_right": "open",
@@ -23,5 +38,5 @@
     "ubuntu",
     "windows"
   ],
-  "version": "6.0.0"
+  "version": "9.1.0"
 }
