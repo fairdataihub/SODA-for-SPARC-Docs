@@ -66,7 +66,6 @@ If you have not done so already, click on `Help me with my award number and cont
 
 1. SPARC Award associated with this dataset: You can either enter your award number manually or have your SPARC award number automatically populated if you are connected to Airtable (see tip above).
 
-
 2. Click on `Add a contributor` to start adding contributors to your dataset_description file.
    - Provide information about any contributor to the dataset. Note that the 'Contributor' list is compiled from the SPARC Airtable sheet based on the SPARC award selected. Select one Contributor to get the ORCID ID, Contributor Affiliation, and Contributor Role populated automatically (if specified in the SPARC Airtable Sheet). Select `Other contributors` in the 'Contributors' dropdown list if you'd like to enter a Contributor name manually (although we suggest entering them directly in the SPARC Airtable then restart SODA to see them in the list so they are available for future reuse).
    - Check `Corresponding Author` if the contributor is a contact person/corresponding author for the dataset. At least one and only one of the contributors should be the corresponding author.
