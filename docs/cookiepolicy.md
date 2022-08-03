@@ -14,7 +14,7 @@ For more information, please visit [AllAboutCookies.org](https://www.allaboutcoo
 
 ## How We Use Cookies
 
-We do not use third-party cookies or send any information to third-parties. We do collect website usage information via the privacy focused, self hosted and open source [Umami](https://umami.is/) platform. Umami lets us gather the data you need while respecting your privacy. Umami does not collect any personal information, does not use cookies, does not track users across websites, and is GDPR compliant. All data collected is anonymized, making it impossible to identify any individual user. To see exactly what information we collect you can preview our public dashboard [here](https://umami.fairdataihub.org/share/IgtWDN0v/docs.sodaforsparc.io).
+We do not use third-party cookies or send any information to third-parties. We do collect website usage information via the privacy focused, self hosted and open source [Umami](https://umami.is/) platform. Umami lets us gather the data we need while respecting your privacy. Umami does not collect any personal information, does not use cookies, does not track users across websites, and is GDPR compliant. All data collected is anonymized, making it impossible to identify any individual user. To see exactly what information we collect you can preview our public dashboard [here](https://umami.fairdataihub.org/share/IgtWDN0v/docs.sodaforsparc.io).
 
 ## Additional Information
 
