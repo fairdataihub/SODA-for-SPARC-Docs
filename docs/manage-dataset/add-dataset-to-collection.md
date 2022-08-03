@@ -11,7 +11,7 @@ A collection allows you to associate and consolidate multiple datasets into a si
 ## How to
 
 :::info
-All collection names that belong to the organization will be shown as an option. Only datasets that you are owner/manager to will be possible to modify.
+All collection names that belong to the organization will be shown as an option. You can only modify datasets for which you are the owner/manager.
 :::
 
 To access this interface click on the `Free Form Mode` side bar option, then click on the `Manage Datasets` tab, and finally click on the `Add dataset to a collection` card.
