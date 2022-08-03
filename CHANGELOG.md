@@ -1,9 +1,8 @@
 ## [9.1.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v9.1.1...v9.1.2) (2022-08-03)
 
-
 ### Bug Fixes
 
-* 🐛 update wording in cookie notice ([83cb20b](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/83cb20b3993f51a5c9b3e457e3c92983ff90b37f))
+- 🐛 update wording in cookie notice ([83cb20b](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/83cb20b3993f51a5c9b3e457e3c92983ff90b37f))
 
 ## [9.1.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v9.1.0...v9.1.1) (2022-08-03)
 
