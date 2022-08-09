@@ -8,6 +8,10 @@ image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/upload-a-banner-im
 
 All SPARC datasets must have the following metadata on Pennsieve: subtitle, description, banner image, license, and tags. This interface allows you to easily add a banner image to your Pennsieve dataset. This image will be associated with the dataset and used as a thumbnail once the dataset is published on the [SPARC data portal](https://sparc.science/).
 
+:::caution
+Only .PNG, .JPEG, and .TIFF images are allowed to be used as a banner.
+:::
+
 ## How to
 
 To access this interface click on the `Free Form Mode` side bar option, then click on the `Manage Datasets` tab, and finally click on the `Upload a banner image` card.
@@ -19,7 +23,8 @@ To access this interface click on the `Free Form Mode` side bar option, then cli
 5. Crop the file as desired.
 
    :::info
-   All banner images must be square, have a minimum display size of _512x512 px_ (_1024x1024 px_ preferred), and have a maximum file size of 5 MB.
+   All banner images must be square, have a minimum display size of _512x512 px_ (_1024x1024 px_ preferred), and have a maximum size of _2048x2048 px_.
+   If the image exceeds in dimensions SODA can scale the image down automatically.
    :::
 
 6. Click on `Save changes`. The newly added banner image will be displayed in the interface.
