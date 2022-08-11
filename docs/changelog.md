@@ -8,7 +8,7 @@ image: https://docs.sodaforsparc.io/thumbnails/base/changelog.png
 
 All notable changes to SODA for SPARC will be documented in this file.
 
-## v.8.0.0
+## Version 8.0.0
 
 ## Feature additions:
 
@@ -22,7 +22,7 @@ All notable changes to SODA for SPARC will be documented in this file.
 - When using the Create manifest.xlsx feature any custom columns added to a manifest file stored on Pennsieve will not be imported for editing.
 - The Create manifest.xlsx feature will spawn an error while generating manifest files for a local dataset if there are hidden files in the dataset directory. SODA will not tell the user the cause is the presence of the hidden files.
 
-## v.7.0.1
+## Version 7.0.1
 
 ## Bug fixes:
 
@@ -36,7 +36,7 @@ All notable changes to SODA for SPARC will be documented in this file.
 - When using the Create manifest.xlsx feature any custom columns added to a manifest file stored on Pennsieve will not be imported for editing.
 - The Create manifest.xlsx feature will spawn an error while generating manifest files for a local dataset if there are hidden files in the dataset directory. SODA will not tell the user the cause is the presence of the hidden files.
 
-## v.7.0.0
+## Version 7.0.0
 
 ## Feature additions:
 

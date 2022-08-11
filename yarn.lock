@@ -6650,6 +6650,11 @@ docusaurus-plugin-umami@^2.0.0:
   resolved "https://registry.yarnpkg.com/docusaurus-plugin-umami/-/docusaurus-plugin-umami-2.0.0.tgz#c9918484423c6e5c342cbbb05b22448055b78560"
   integrity sha512-SgkZZYuUMCZe0XeitTA2RPVJvb4fC3aiF3pHc1JxEoaeF9v5g34Yxr2YQb18eFhAMeVK4AjjCr62IwpnuOGyEg==
 
+docusaurus-theme-frontmatter@^1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/docusaurus-theme-frontmatter/-/docusaurus-theme-frontmatter-1.3.0.tgz#6691a80e8b510af65ddfcface50f3699309b8770"
+  integrity sha512-T/p4immO1mRdP9ok+7f8fRK+Eee2Hqv7sndgmt1mtnWKAHWbHg5N5SAG2oON27/nzv5y3Mo6GpbRkXbQC86zdw==
+
 dom-converter@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/dom-converter/-/dom-converter-0.2.0.tgz#6721a9daee2e293682955b6afe416771627bb768"

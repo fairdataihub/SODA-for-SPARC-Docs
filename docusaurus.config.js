@@ -45,6 +45,7 @@ const config = {
   ],
 
   plugins: ['docusaurus-plugin-umami'],
+  themes: ['docusaurus-theme-frontmatter'],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
