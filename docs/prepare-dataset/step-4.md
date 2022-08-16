@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 title: Step 4 - Specify high level metadata files
-image: https://docs.sodaforsparc.io/thumbnails/prepare-dataset/step-4.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Step%204%20-%20Specify%20high%20level%20metadata%20files&description=Prepare%20Dataset
 ---
 
 Click on the applicable panel to include the high-level metadata files of your choice. For example, to include a submission file in your dataset, simply click on the `submission` panel and you will be taken to a separate page to either import or drag & drop your file into SODA. Click `Confirm` to finish the importing process. To remove a metadata file you previously imported, click on the corresponding panel and click `Remove`.

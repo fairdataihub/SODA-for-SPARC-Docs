@@ -1,7 +1,7 @@
 ---
 sidebar_position: 12
 title: View and change status
-image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/view-and-change-status.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=View%20and%20change%20status&description=Manage%20Dataset
 ---
 
 ## Background

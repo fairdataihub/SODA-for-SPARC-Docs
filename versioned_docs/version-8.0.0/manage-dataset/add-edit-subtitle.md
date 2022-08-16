@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 title: Add edit subtitle
-image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/add-edit-subtitle.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Add%2Fedit%20subtitle&description=Manage%20Dataset
 ---
 
 ## Background

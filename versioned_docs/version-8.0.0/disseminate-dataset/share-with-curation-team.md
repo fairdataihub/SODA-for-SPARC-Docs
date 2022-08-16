@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Share with the Curation Team
-image: https://docs.sodaforsparc.io/thumbnails/disseminate-dataset/share-with-curation-team.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Share%20with%20the%20Curation%20Team&description=Disseminate%20Dataset
 ---
 
 ## Background

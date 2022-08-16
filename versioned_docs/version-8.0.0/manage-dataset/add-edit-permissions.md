@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 title: Add edit permissions
-image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/add-edit-permissions.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Add%2Fedit%20permissions&description=Manage%20Dataset
 ---
 
 ## Background

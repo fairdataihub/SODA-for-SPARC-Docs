@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Organize dataset
-image: https://docs.sodaforsparc.io/thumbnails/prepare-dataset/organize-dataset.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Organize%20dataset&description=Prepare%20Dataset
 ---
 
 ## Background

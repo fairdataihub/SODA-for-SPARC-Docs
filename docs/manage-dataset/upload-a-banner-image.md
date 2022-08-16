@@ -1,7 +1,7 @@
 ---
 sidebar_position: 8
 title: Upload a banner image
-image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/upload-a-banner-image.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Upload%20a%20banner%20image&description=Manage%20Dataset
 ---
 
 ## Background
