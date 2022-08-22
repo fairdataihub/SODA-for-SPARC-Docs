@@ -3,6 +3,9 @@ import React from 'react';
 import compatJSON from '../../docs.compatibility.json';
 
 export default function VersionCompatibility() {
+  const reversedArray = JSON.parse(JSON.stringify(compatJSON));
+  reversedArray.reverse();
+
   return (
     <table>
       <thead>
@@ -12,7 +15,7 @@ export default function VersionCompatibility() {
         </tr>
       </thead>
       <tbody>
-        {compatJSON.map((version) => (
+        {reversedArray.map((version) => (
           <tr key={version.docsVersion}>
             <td>{version.docsVersion}</td>
             <td>{version.appVersion}</td>
