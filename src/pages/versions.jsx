@@ -42,7 +42,7 @@ export default function Version() {
 
           <p>
             <span id="versionsPage.current.description">
-              Here you can find the documentation for current released version.
+              Here you can find the documentation for latest stable release of SODA for SPARC.
             </span>
           </p>
 
@@ -149,7 +149,7 @@ export default function Version() {
             <tbody>
               {reversedArray.map((version) => (
                 <tr key={version.docsVersion}>
-                  <th className="flex items-center justify-center space-x-2">
+                  <td className="flex items-center justify-center space-x-2 font-bold">
                     <span>{version.docsVersion}</span>
 
                     <Link
@@ -159,7 +159,7 @@ export default function Version() {
                     >
                       <Icon icon="akar-icons:github-fill" />
                     </Link>
-                  </th>
+                  </td>
 
                   <td>
                     <div className="flex items-center justify-center space-x-2">
