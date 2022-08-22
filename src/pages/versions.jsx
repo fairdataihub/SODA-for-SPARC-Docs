@@ -7,6 +7,7 @@ import Heading from '@theme/Heading';
 import { Icon } from '@iconify/react';
 import AllVersionsJSON from '@site/docs.compatibility.json';
 import packageJSON from '@site/package.json';
+import Head from '@docusaurus/Head';
 
 const docsPluginId = undefined; // Default docs plugin instance
 
@@ -21,6 +22,19 @@ export default function Version() {
 
   return (
     <Layout title="Versions" description="Versions page listing all documented site versions">
+      <Head>
+        <meta
+          property="og:image"
+          // eslint-disable-next-line max-len
+          content="https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Documentation%20versions&description=Match%20every%20docs%20version%20to%20an%20app%20version."
+        />
+        <meta
+          property="twitter:image"
+          // eslint-disable-next-line max-len
+          content="https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Documentation%20versions&description=Match%20every%20docs%20version%20to%20an%20app%20version."
+        />
+      </Head>
+
       <main className="margin-vert--lg container">
         <Heading as="h1">
           <span id="versionsPage.title">SODA for SPARC documentation versions</span>
