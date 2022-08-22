@@ -9,7 +9,6 @@ import { useDocsVersionCandidates } from '@docusaurus/theme-common/internal';
 import { translate } from '@docusaurus/Translate';
 import DefaultNavbarItem from '@theme/NavbarItem/DefaultNavbarItem';
 import DropdownNavbarItem from '@theme/NavbarItem/DropdownNavbarItem';
-import semver from 'semver';
 
 const getVersionMainDoc = (version) => version.docs.find((doc) => doc.id === version.mainDocId);
 export default function DocsVersionDropdownNavbarItem({
@@ -29,7 +28,7 @@ export default function DocsVersionDropdownNavbarItem({
     const versionDoc =
       activeDocContext.alternateDocVersions[version.name] ?? getVersionMainDoc(version);
     return {
-      label: `${semver.valid(version.label) ? 'SODA v.' : ''}${version.label}`,
+      label: `${version.label === 'Upcoming 🚧' ? '' : 'SODA v.'}${version.label}`,
       to: versionDoc.path,
       isActive: () => version === activeDocContext.activeVersion,
       onClick: () => savePreferredVersionName(version.name),
@@ -45,7 +44,7 @@ export default function DocsVersionDropdownNavbarItem({
           message: 'Versions',
           description: 'The label for the navbar versions dropdown on mobile view',
         })
-      : `${semver.valid(dropdownVersion.label) ? 'SODA v.' : ''}${dropdownVersion.label}`;
+      : `${dropdownVersion.label === 'Upcoming 🚧' ? '' : 'SODA v.'}${dropdownVersion.label}`;
   const dropdownTo =
     mobile && items.length > 1 ? undefined : getVersionMainDoc(dropdownVersion).path;
   // We don't want to render a version dropdown with 0 or 1 item. If we build
