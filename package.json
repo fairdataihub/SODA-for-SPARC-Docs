@@ -42,6 +42,7 @@
     "react-dom": "18.2.0",
     "react-lottie": "1.2.3",
     "react-player": "2.10.1",
+    "semver": "^7.3.7",
     "url-loader": "4.1.1",
     "uuid": "8.3.2"
   },
