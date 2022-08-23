@@ -38,7 +38,7 @@ The SPARC guidelines require each dataset to have specific metadata on Pennsieve
 
 The SPARC guidelines require each dataset to have specific metadata files, as described by the SPARC Data Standards (SDS). These metadata files can be conveniently prepared through SODA.
 
-- Prepare protocol on `protocols.io` following the [instructions provided here](https://sparc.science/help/1slXZSS2XtTYQsdY6mEJi5). This is not supported through SODA since `protocols.io` already provides an intuitive interface for preparing the protocol.
+- Prepare protocol on `protocols.io` following the [instructions provided here](https://docs.sparc.science/docs/protocols). This is not supported through SODA since `protocols.io` already provides an intuitive interface for preparing the protocol.
 - [Prepare the submission file](../prepare-metadata/create-submission)
 - [Prepare the dataset description file](../prepare-metadata/create-dataset-description)
 - [Prepare the README file](../prepare-metadata/create-readme)
