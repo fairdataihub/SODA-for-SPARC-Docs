@@ -1,0 +1,122 @@
+[
+  {
+    "docsVersion": "7.0.0",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.0.1",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.1.0",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.1.1",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.1.2",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.1.3",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.2.0",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.2.1",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.2.2",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.2.3",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.2.4",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.2.5",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.2.6",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.2.7",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.2.8",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.2.9",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.2.10",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.2.11",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "7.2.12",
+    "appVersion": "6.0.0"
+  },
+  {
+    "docsVersion": "8.0.0",
+    "appVersion": "7.0.0"
+  },
+  {
+    "docsVersion": "8.0.1",
+    "appVersion": "7.0.0"
+  },
+  {
+    "docsVersion": "9.0.0",
+    "appVersion": "7.0.1"
+  },
+  {
+    "docsVersion": "9.1.0",
+    "appVersion": "7.0.1"
+  },
+  {
+    "docsVersion": "9.1.1",
+    "appVersion": "7.0.1"
+  },
+  {
+    "docsVersion": "9.1.2",
+    "appVersion": "7.0.1"
+  },
+  {
+    "docsVersion": "9.1.3",
+    "appVersion": "7.0.1"
+  },
+  {
+    "docsVersion": "9.1.4",
+    "appVersion": "7.0.1"
+  },
+  {
+    "docsVersion": "10.0.0",
+    "appVersion": "8.0.0"
+  },
+  {
+    "docsVersion": "10.0.1",
+    "appVersion": "8.0.0"
+  },
+  {
+    "docsVersion": "10.0.2",
+    "appVersion": "8.0.0"
+  }
+]
