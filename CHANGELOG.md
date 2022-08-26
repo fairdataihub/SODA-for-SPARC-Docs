@@ -1,9 +1,8 @@
 # [10.1.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v10.0.2...v10.1.0) (2022-08-26)
 
-
 ### Features
 
-* ✨ add docs and app version compatibility page ([#137](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/137)) ([f02c05f](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/f02c05facfed6ccca6a9cc2201d4994c9d5ae9b5))
+- ✨ add docs and app version compatibility page ([#137](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/137)) ([f02c05f](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/f02c05facfed6ccca6a9cc2201d4994c9d5ae9b5))
 
 ## [10.0.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v10.0.1...v10.0.2) (2022-08-19)
 
