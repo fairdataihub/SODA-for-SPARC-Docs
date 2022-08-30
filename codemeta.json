@@ -4,12 +4,12 @@
   "license": "https://spdx.org/licenses/MIT",
   "codeRepository": "https://github.com/fairdataihub/SODA-for-SPARC-Docs",
   "dateCreated": "2022-04-01",
-  "dateModified": "2022-08-27",
+  "dateModified": "2022-08-30",
   "downloadUrl": "https://github.com/fairdataihub/SODA-for-SPARC-Docs",
   "issueTracker": "https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues",
   "name": "SODA for SPARC docs",
-  "version": "10.1.1",
-  "identifier": "https://doi.org/10.5281/zenodo.7026721",
+  "version": "10.2.0",
+  "identifier": "https://doi.org/10.5281/zenodo.7036014",
   "description": "Documentation for the SODA for SPARC application",
   "applicationCategory": "Scientific",
   "funding": "OT2OD030213",
@@ -31,7 +31,10 @@
     "ubuntu",
     "windows"
   ],
-  "programmingLanguage": ["JavaScript", "CSS"],
+  "programmingLanguage": [
+    "JavaScript",
+    "CSS"
+  ],
   "relatedLink": [
     "https://docs.sodaforsparc.io/",
     "https://github.com/fairdataihub/SODA-for-SPARC"
