@@ -1,9 +1,8 @@
 # [10.2.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v10.1.1...v10.2.0) (2022-08-30)
 
-
 ### Features
 
-* ✨ add og image thumbnails to pages ([#134](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/134)) ([8097022](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/8097022c8edefdd4d8d6ce518e93e1a1c94e2c3c))
+- ✨ add og image thumbnails to pages ([#134](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/134)) ([8097022](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/8097022c8edefdd4d8d6ce518e93e1a1c94e2c3c))
 
 ## [10.1.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v10.1.0...v10.1.1) (2022-08-27)
 
