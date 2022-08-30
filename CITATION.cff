@@ -21,11 +21,11 @@ authors:
     family-names: Patel
     given-names: Bhavesh
 cff-version: 1.2.0
-date-released: '2022-08-27'
+date-released: '2022-08-30'
 identifiers:
   - description: DOI for this software's record on Zenodo
     type: doi
-    value: https://doi.org/10.5281/zenodo.7026721
+    value: https://doi.org/10.5281/zenodo.7036014
 keywords:
   - SPARC
   - FAIR
@@ -43,4 +43,4 @@ repository-code: https://github.com/fairdataihub/SODA-for-SPARC-Docs
 title: SODA for SPARC docs
 type: software
 url: https://fairdataihub.org/
-version: 10.1.1
+version: 10.2.0
