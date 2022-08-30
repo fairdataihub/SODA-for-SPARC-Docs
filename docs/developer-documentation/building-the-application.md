@@ -2,7 +2,7 @@
 sidebar_position: 2
 pagination_next: null
 title: Building the application
-image: https://docs.sodaforsparc.io/thumbnails/developer-documentation/building-the-application.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Building%20the%20application&description=For%20Developers
 ---
 
 ```shell title="For Windows"

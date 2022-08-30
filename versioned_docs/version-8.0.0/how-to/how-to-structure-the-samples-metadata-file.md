@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 title: How to structure the samples metadata file
-image: https://docs.sodaforsparc.io/thumbnails/how-to/how-to-structure-the-samples-metadata-file.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=How%20to%20structure%20the%20samples%20metadata%20file&description=%27How%20to%27%20SPARC%20series
 ---
 
 ## Background

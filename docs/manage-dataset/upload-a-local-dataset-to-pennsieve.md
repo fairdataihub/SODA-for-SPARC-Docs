@@ -1,7 +1,7 @@
 ---
 sidebar_position: 11
 title: Upload a local dataset to Pennsieve
-image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/upload-a-local-dataset-to-pennsieve.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Upload%20a%20local%20dataset%20to%20Pennsieve&description=Manage%20Dataset
 ---
 
 ## Background

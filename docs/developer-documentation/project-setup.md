@@ -2,7 +2,7 @@
 sidebar_position: 1
 pagination_prev: null
 title: Project Setup
-image: https://docs.sodaforsparc.io/thumbnails/developer-documentation/project-setup.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Project%20Setup&description=For%20Developers
 ---
 
 The front-end (Graphical User Interface or GUI) of SODA is built with Electron, an open-source framework developed and maintained by GitHub that conveniently combines Node.js, HTML, CSS, and Javascript, while the back-end is developed in Python (v3.9). The application is inspired by a GitHub repository and a Medium blog. All source codes and files are shared with an open-source license (MIT) to permit user modification without restrictions. The folder structure for the source code is based on the Electron standards and similar to the Electron Demo Application.
