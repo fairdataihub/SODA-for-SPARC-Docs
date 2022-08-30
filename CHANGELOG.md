@@ -1,9 +1,8 @@
 # [10.3.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v10.2.0...v10.3.0) (2022-08-30)
 
-
 ### Features
 
-* ✨ add 'SODA' to the versioning label ([#138](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/138)) ([0acbbc2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/0acbbc2c20c230276a244f72381e0e246f975a57))
+- ✨ add 'SODA' to the versioning label ([#138](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/138)) ([0acbbc2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/0acbbc2c20c230276a244f72381e0e246f975a57))
 
 # [10.2.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v10.1.1...v10.2.0) (2022-08-30)
 
