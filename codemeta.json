@@ -31,7 +31,10 @@
     "ubuntu",
     "windows"
   ],
-  "programmingLanguage": ["JavaScript", "CSS"],
+  "programmingLanguage": [
+    "JavaScript",
+    "CSS"
+  ],
   "relatedLink": [
     "https://docs.sodaforsparc.io/",
     "https://github.com/fairdataihub/SODA-for-SPARC"
@@ -82,6 +85,16 @@
       "givenName": "Bhavesh",
       "familyName": "Patel",
       "email": "bpatel@calmi2.org",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "FAIR Data Innovations Hub"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Jacob",
+      "familyName": "Clark",
+      "email": "jclark@calmi2.org",
       "affiliation": {
         "@type": "Organization",
         "name": "FAIR Data Innovations Hub"
