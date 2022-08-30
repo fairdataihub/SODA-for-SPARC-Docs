@@ -86,6 +86,16 @@
         "@type": "Organization",
         "name": "FAIR Data Innovations Hub"
       }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Jacob",
+      "familyName": "Clark",
+      "email": "jclark@calmi2.org",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "FAIR Data Innovations Hub"
+      }
     }
   ]
 }

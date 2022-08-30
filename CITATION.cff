@@ -20,6 +20,10 @@ authors:
     email: bpatel@calmi2.org
     family-names: Patel
     given-names: Bhavesh
+  - affiliation: FAIR Data Innovations Hub
+    email: jclark@calmi2.org
+    family-names: Clark
+    given-names: Jacob
 cff-version: 1.2.0
 date-released: '2022-08-30'
 identifiers:
