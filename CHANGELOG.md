@@ -1,3 +1,10 @@
+## [11.0.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v11.0.1...v11.0.2) (2022-09-02)
+
+
+### Bug Fixes
+
+* **deps:** update emotion monorepo to v11.10.4 ([#153](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/153)) ([a8fe296](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/a8fe296a2e08ad719b47b0ddc473a4c79ab9d908))
+
 ## [11.0.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v11.0.0...v11.0.1) (2022-09-01)
 
 ### Bug Fixes
