@@ -1,3 +1,27 @@
+## [11.0.4](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v11.0.3...v11.0.4) (2022-09-12)
+
+### Bug Fixes
+
+- **deps:** update dependency @iconify/react to v4 ([#158](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/158)) ([8b664c8](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/8b664c8650ebd0f0dc6a482b53533f2e46798fa8))
+
+## [11.0.3](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v11.0.2...v11.0.3) (2022-09-06)
+
+### Bug Fixes
+
+- **deps:** update docusaurus monorepo to v2.1.0 ([#154](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/154)) ([15244ec](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/15244ecf3729234c85fff6ec02fb78683bf060a4))
+
+## [11.0.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v11.0.1...v11.0.2) (2022-09-02)
+
+### Bug Fixes
+
+- **deps:** update emotion monorepo to v11.10.4 ([#153](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/153)) ([a8fe296](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/a8fe296a2e08ad719b47b0ddc473a4c79ab9d908))
+
+## [11.0.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v11.0.0...v11.0.1) (2022-09-01)
+
+### Bug Fixes
+
+- **deps:** update dependency @mui/material to v5.10.3 ([#152](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/152)) ([578e46c](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/578e46ccadcffe4add189e2db65de5267f1c1951))
+
 # [11.0.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v10.3.0...v11.0.0) (2022-08-30)
 
 ### Features
