@@ -1,9 +1,8 @@
 # [11.1.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v11.0.6...v11.1.0) (2022-09-12)
 
-
 ### Features
 
-* ✨ add support for text comments with Notion ([#151](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/151)) ([23f9731](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/23f97318cc8c64c553d55cd00698bc8f49d4ab06))
+- ✨ add support for text comments with Notion ([#151](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/151)) ([23f9731](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/23f97318cc8c64c553d55cd00698bc8f49d4ab06))
 
 ## [11.0.6](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v11.0.5...v11.0.6) (2022-09-12)
 
