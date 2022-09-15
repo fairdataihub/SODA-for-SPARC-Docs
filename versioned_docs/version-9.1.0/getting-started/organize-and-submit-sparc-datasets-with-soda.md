@@ -16,7 +16,7 @@ These steps only need to be completed once.
 
 - <a href="../getting-started/download-soda" target="\_blank"> Download and install SODA </a>
 - All SPARC datasets must be uploaded on the Pennsieve data platform. Get access to Pennsieve as well as the SPARC Consortium organization on Pennsieve by filling out [this form](https://www.wrike.com/frontend/requestforms/index.html?token=eyJhY2NvdW50SWQiOjMyMDM1ODgsInRhc2tGb3JtSWQiOjUwMzQzN30JNDgwNTg4NjU3MjA3Nwk0MTg5ZTY0ODEyZGYxNTU1ZDJkYmU5MzIxNWZiNTQyZWUwZTMzY2U4NDQ5ODI0ZWI0YzZiMWZhNjVhYzgyOTRm). We also suggest to request access to the SPARC Airtable sheet through the same form as it will come in handy when your prepare your SPARC metadata files.
-- Download and install the [Pennsieve agent](https://docs.pennsieve.io/docs/the-pennsieve-agent) required to upload files through SODA
+- Download and install the [Pennsieve agent](https://docs.pennsieve.io/v1/docs/the-pennsieve-agent) required to upload files through SODA
 - Watch our [quick video](../getting-started/user-interface) to familiarize yourself with the user interface of SODA (note: optional but recommended)
 - Read about the [SPARC requirements for organizing and sharing datasets](https://sparc.science/help/7k8nEPuw3FjOq2HuS8OVsd) to familiarize yourself with the process (note: optional but recommended)
 
