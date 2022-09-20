@@ -31,10 +31,7 @@
     "ubuntu",
     "windows"
   ],
-  "programmingLanguage": [
-    "JavaScript",
-    "CSS"
-  ],
+  "programmingLanguage": ["JavaScript", "CSS"],
   "relatedLink": [
     "https://docs.sodaforsparc.io/",
     "https://github.com/fairdataihub/SODA-for-SPARC"
