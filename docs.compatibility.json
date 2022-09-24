@@ -182,5 +182,9 @@
   {
     "docsVersion": "12.0.2",
     "appVersion": "9.1.0"
+  },
+  {
+    "docsVersion": "13.0.0",
+    "appVersion": "9.2.0"
   }
 ]
