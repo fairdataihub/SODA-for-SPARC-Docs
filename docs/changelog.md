@@ -8,6 +8,22 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v.9.2.0
+
+## Feature additions:
+
+- An announcements system has been added to give the user updates on recents changes/additions to SODA.
+- Guided Mode: Added the ability to retry uploading a dataset if an upload in progress fails.
+
+## Bug fixes:
+
+- In organize dataset: When moving files/folders to another location there will be a check if any duplicates are there already.
+- On startup the server will try to connect continuosly. (backOff was replaced)
+- Organize dataset: import dataset will correctly check manifest details.
+- Guided Mode: Fixed the automatically generated headers for manifest files
+- Guided Mode: Changed the generated filepath from the filepath on the user's local machine to the path relative to the
+  SPARC dataset structure
+
 ## v.9.1.0
 
 - An announcements system has been added to give the user updates on recents changes/additions to SODA.
