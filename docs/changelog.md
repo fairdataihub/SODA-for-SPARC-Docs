@@ -8,6 +8,12 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v.9.2.1
+
+## Bug fixes:
+
+- Fixed an issue where medium and large datasets were not being imported in Organize Datasets or the Create manifest.xlsx feature on Darwin.
+
 ## v.9.2.0
 
 ## Feature additions:
