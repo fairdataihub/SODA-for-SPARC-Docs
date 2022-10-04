@@ -1,9 +1,8 @@
 ## [14.0.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v14.0.1...v14.0.2) (2022-10-04)
 
-
 ### Bug Fixes
 
-* **deps:** update dependency @svgr/webpack to v6.4.0 ([#170](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/170)) ([fd5be06](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/fd5be068b336d273f973831a6968fbb28821f7e1))
+- **deps:** update dependency @svgr/webpack to v6.4.0 ([#170](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/170)) ([fd5be06](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/fd5be068b336d273f973831a6968fbb28821f7e1))
 
 ## [14.0.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v14.0.0...v14.0.1) (2022-09-30)
 
