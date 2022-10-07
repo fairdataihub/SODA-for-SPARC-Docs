@@ -1,3 +1,10 @@
+## [14.0.4](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v14.0.3...v14.0.4) (2022-10-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @notionhq/client to v2.2.1 ([#172](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/172)) ([e68b8d6](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/e68b8d6cc6f3413d1f99af48ea8039617da5ae5c))
+
 ## [14.0.3](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v14.0.2...v14.0.3) (2022-10-06)
 
 ### Bug Fixes
