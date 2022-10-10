@@ -29,25 +29,19 @@ import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
 
 ```shell title="For Windows"
-cd ./tools/anaconda-env
-conda env create -f environment-Windows.yml
-cd ../src/
+conda env create -f ./tools/anaconda-env/environment-Windows.yml
 conda activate env-electron-python
 npm install
 ```
 
 ```shell title="For macOS"
-cd ./tools/anaconda-env
-conda env create -f environment-MAC.yml
-cd ../src/
+conda env create -f ./tools/anaconda-env/environment-MAC.yml
 conda activate env-electron-python
 npm install
 ```
 
 ```shell title="For linux"
-cd ./tools/anaconda-env
-conda env create -f environment-Linux.yml
-cd ../src/
+conda env create -f ./tools/anaconda-env/environment-Linux.yml
 conda activate env-electron-python
 npm install
 ```
