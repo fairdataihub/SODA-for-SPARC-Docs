@@ -7,7 +7,6 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Building
 
 ```shell title="For Windows"
 conda activate env-electron-python
-cd ./src
 npm run python-onefile-build
 
 # To build only
@@ -19,7 +18,6 @@ npm run deploy-win
 
 ```shell title="For macOS"
 conda activate env-electron-python
-cd ./src
 npm run python-onefile-build
 
 # To build only
@@ -31,7 +29,6 @@ npm run deploy-mac
 
 ```shell title="For Linux"
 conda activate env-electron-python
-cd ./src
 npm run python-onefile-build
 
 # To build only
