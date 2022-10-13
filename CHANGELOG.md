@@ -1,3 +1,17 @@
+# [15.0.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v14.0.6...v15.0.0) (2022-10-13)
+
+
+* feat!: 9.3.0 update (#179) ([40db613](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/40db613948f6485708c14dfb692e030872445036)), closes [#179](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/179)
+
+
+### BREAKING CHANGES
+
+* docs versioned for 9.3.0
+
+* style: 🎨 fix code style issues with Prettier
+
+Co-authored-by: fairdataihub-bot <fairdataihub@gmail.com>
+
 ## [14.0.6](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v14.0.5...v14.0.6) (2022-10-12)
 
 ### Bug Fixes
