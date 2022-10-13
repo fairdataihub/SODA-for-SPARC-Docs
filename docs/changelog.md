@@ -8,6 +8,38 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v.9.3.0
+
+## Feature additions:
+
+- Guided Mode: Added a new page to let users know what accounts and documents they will be needing to curate a dataset.
+- Guided Mode: Manifest files now automatically update when changes are made to a dataset's structure.
+- Guided Mode: Contributor addition flow upgraded to make AirTable contributor importation more intuitive.
+- Guided Mode: dataset upload error alerts now give a clearer reason as to why the dataset upload failed and what can be done to remedy the issue.
+- Guided Mode: simplified the UI for selecting a SPARC award.
+
+## Bug fixes:
+
+- Announcements should launch on auto-updates moving forward now!
+
+## v.9.2.3
+
+## Bug fixes:
+
+- Guided Mode: Manifest files - Auto-generated manifest files no longer include their high level folder in their path.
+
+## v.9.2.2
+
+## Bug fixes:
+
+- Prepare Metadata - Create manifest.xlsx: Manifest files created from large datasets will no longer be 0KB or fail to be created.
+- Prepare Metadata - Create manifest.xlsx: An issue for Windows users that prevents the file explorer from immediately opening after creating manifest files has been corrected. Windows users will now be able to see their manifest files in the explorer post creation to check them for correctness.
+- Prepare Metadata - Create manifest.xlsx: Users will no longer have to wait to get feedback that their manifest files are being generated for large datasets.
+
+## Known issues:
+
+- Guided Mode - Manifest file entries created with guided mode include their high level SPARC folder in the file name column.
+
 ## v.9.2.1
 
 ## Bug fixes:
