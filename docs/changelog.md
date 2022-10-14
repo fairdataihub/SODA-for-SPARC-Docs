@@ -8,6 +8,15 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v.9.3.1
+
+## Bug fixes:
+
+- Accounts failing to pass consortium check has been patched.
+- Guided Mode: When Pennsieve link is copied a a notyf was created. Sometimes multiple notyfs were created at once and has been patched to only do so once.
+- Prepare Metadata -> Dataset description -> Edit protocols: Duplicate protocols will not be allowed and when editing a protocol the current name can accepted again.
+- Prepare Metadata -> Dataset description -> Click here to select my dataset from Pennsieve: would hide the page after selecting a dataset. Has been patched to behave accordingly.
+
 ## v.9.3.0
 
 ## Feature additions:
