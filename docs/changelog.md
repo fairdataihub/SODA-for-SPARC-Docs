@@ -10,8 +10,6 @@ All notable changes to SODA for SPARC will be documented in this file.
 
 ## v.9.3.2
 
-## Feature additions:
-
 ## Bug fixes:
 
 - Patched announcements to not cause error on auto update.
