@@ -8,6 +8,14 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v.9.3.2
+
+## Feature additions:
+
+## Bug fixes:
+
+- Patched announcements to not cause error on auto update.
+
 ## v.9.3.1
 
 ## Bug fixes:
