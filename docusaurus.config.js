@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'SODA for SPARC',
-  tagline: 'Simplifying data curation for researchers funded by the NIH SPARC initiative',
+  tagline: 'Easily make biomedical research data FAIR according to the NIH SPARC guidelines',
   url: 'https://docs.sodaforsparc.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
