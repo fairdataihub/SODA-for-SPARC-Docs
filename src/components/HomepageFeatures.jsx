@@ -5,13 +5,13 @@ import clsx from 'clsx';
 import Lottie from 'react-lottie';
 import styles from './HomepageFeatures.module.css';
 
-import scienceAnimationData from './lotties/science.json';
-import focusAnimationData from './lotties/focus.json';
-import programmingAnimationData from './lotties/programming.json';
+import scienceAnimationData from './lotties/column1lottie.json';
+import focusAnimationData from './lotties/column2lottie.json';
+import programmingAnimationData from './lotties/column3lottie.json';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Curate',
     animationOptions: {
       loop: true,
       autoplay: true,
@@ -20,15 +20,10 @@ const FeatureList = [
         preserveAspectRatio: 'xMidYMid slice',
       },
     },
-    description: (
-      <>
-        SODA for SPARC was designed from the ground up to be easily installed and used to get your
-        data made available to the world.
-      </>
-    ),
+    description: <>Rapidly curate your data and metadata according to the SPARC Data Standards.</>,
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Share',
     animationOptions: {
       loop: true,
       autoplay: true,
@@ -38,14 +33,11 @@ const FeatureList = [
       },
     },
     description: (
-      <>
-        SODA for SPARC is built to be as simple as possible. We want to make it as easy as possible
-        for you to focus on what matters most.
-      </>
+      <>Easily upload your curated dataset on the SPARC data platform Pennsieve to make it FAIR.</>
     ),
   },
   {
-    title: 'Powered by open source',
+    title: 'Relax',
     animationOptions: {
       loop: true,
       autoplay: true,
@@ -56,8 +48,8 @@ const FeatureList = [
     },
     description: (
       <>
-        SODA for SPARC is built on top of the open source software that powers the internet. We are
-        proud to be a part of the open source community. Your data is yours.
+        SODA comes with intuitive user interfaces and automation that streamline the process for you
+        so you can chill.
       </>
     ),
   },

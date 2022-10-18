@@ -1,70 +1,56 @@
 ---
 sidebar_position: 3
-title: Step-by-step guide to organize and submit SPARC datasets with SODA for SPARC
+title: Step-by-step guide for curating and sharing data
 image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Step-by-step%20guide%20to%20organize%20and%20submit%20SPARC%20datasets%20with%20SODA%20for%20SPARC&description=Getting%20Started
 ---
 
-## Prepare and submit SPARC datasets with SODA
+The typical process for curating and sharing a dataset according to the SPARC guidelines consists of organizing your data according to the SPARC Data Structure (SDS), adding metadata files, uploading everything on the Pennsieve data platform where more metadata needs to be added, and finally sharing the dataset with the SPARC Curation Team who will review it for compliance and help with subsequent steps until your dataset becomes accessible publicly through the [SPARC Data Portal](https://sparc.science/).
 
-The typical process for submitting your SPARC dataset consists of organizing your data according to the SPARC Data Structure (SDS), adding metadata files, uploading everything on the [Pennsieve data platform](https://app.pennsieve.io/) where more metadata needs to be added, and finally sharing the dataset with the SPARC Curation Team who will review it for compliance. Once approved by the Curation Team, you will have to share your dataset as embargoed dataset and it will become accessible to all members of the SPARC Consortium through Pennsieve. Once the embargo period is over (one year after initial upload or after publication of related manuscript(s), whichever comes first), you will have to publish your dataset and it will then become accessible publicly through the [SPARC Data Portal](https://sparc.science/).
+We describe below the suggested steps for implementing this process with SODA. It differs slightly depending on if you are sharing a dataset associated with a SPARC funded study (i.e., a SPARC dataset) or not (i.e., a non-SPARC dataset).
 
-We describe below the suggested workflow for preparing and submitting your SPARC datasets with SODA. All these steps are mandatory (unless marked otherwise) if you wish to satisfy the SPARC requirements.
+## Sharing a SPARC dataset
 
-### A. Preliminary Steps
+If you have data issued from a SPARC-funded study, it is mandatory to share it according to the SPARC data curation and sharing guidelines such that they eventually become openly accessible through the [SPARC Data Portal](https://sparc.science/). Follow the steps below to do so.
+
+### A. Preliminary steps
 
 These steps only need to be completed once.
 
 - <a href="../getting-started/download-soda" target="\_blank"> Download and install SODA </a>
-- All SPARC datasets must be uploaded on the Pennsieve data platform. Get access to Pennsieve as well as the SPARC Consortium organization on Pennsieve by filling out [this form](https://www.wrike.com/frontend/requestforms/index.html?token=eyJhY2NvdW50SWQiOjMyMDM1ODgsInRhc2tGb3JtSWQiOjUwMzQzN30JNDgwNTg4NjU3MjA3Nwk0MTg5ZTY0ODEyZGYxNTU1ZDJkYmU5MzIxNWZiNTQyZWUwZTMzY2U4NDQ5ODI0ZWI0YzZiMWZhNjVhYzgyOTRm). We also suggest to request access to the SPARC Airtable sheet through the same form as it will come in handy when your prepare your SPARC metadata files.
+- All SPARC datasets must be uploaded on the Pennsieve data platform. Get access to Pennsieve as well as the SPARC organization on Pennsieve by filling out [this form](https://www.wrike.com/frontend/requestforms/index.html?token=eyJhY2NvdW50SWQiOjMyMDM1ODgsInRhc2tGb3JtSWQiOjUwMzQzN30JNDgwNTg4NjU3MjA3Nwk0MTg5ZTY0ODEyZGYxNTU1ZDJkYmU5MzIxNWZiNTQyZWUwZTMzY2U4NDQ5ODI0ZWI0YzZiMWZhNjVhYzgyOTRm). We also suggest to request access to the SPARC Airtable sheet through the same form as it will come in handy when your prepare your SPARC metadata files.
 - Download and install the [Pennsieve agent](https://docs.pennsieve.io/docs/the-pennsieve-agent) required to upload files through SODA
 - Watch our [quick video](../getting-started/user-interface) to familiarize yourself with the user interface of SODA (note: optional but recommended)
-- Read about the [SPARC requirements for organizing and sharing datasets](https://sparc.science/help/7k8nEPuw3FjOq2HuS8OVsd) to familiarize yourself with the process (note: optional but recommended)
 
-### B. Prepare Dataset on Pennsieve
+### B. Curate and share data with SODA
 
-The SPARC guidelines require each dataset to have specific metadata on Pennsieve. We recommend starting with this such that everything is set on Pennsieve when you are ready to upload your data and metadata files (Step D). This metadata can be easily added to Pennsieve through SODA.
+Use the Guided Mode of SODA, accessible through the sidebar of the app, for preparing and sharing your dataset according to the SPARC guidelines. The Guided Mode is intended to guide users step-by-step through all the requirements for curating and sharing datasets according to the SPARC data standards. The user interfaces of the Guided Mode are designed to logically guide users through the curation steps and include all necessary information such that no prior knowledge of the SPARC data standards is required.
 
-- [Connect your Pennsieve account with SODA](../manage-dataset/connect-your-pennsieve-account-with-soda). This is only required the first time you use SODA
-- [Create a new Pennsieve dataset](../manage-dataset/create-a-new-dataset)
-- [Make PI of the SPARC award the owner of the dataset](../manage-dataset/make-pi-owner-of-dataset).
-- If others need to contribute to your dataset, [give access to your dataset to other members/teams](../manage-dataset/add-edit-permissions)
-- [Add a subtitle](../manage-dataset/add-edit-subtitle)
-- [Add a description](../manage-dataset/add-edit-description)
-- [Upload a banner image](../manage-dataset/upload-a-banner-image)
-- [Assign a license](../manage-dataset/assign-a-license)
-- [Add/edits tags](../manage-dataset/add-edit-tags)
+## Sharing a non-SPARC dataset
 
-### C. Prepare SPARC Metadata Files
+As of August 2022, SPARC is accepting datasets from investigators that are not funded through the NIH SPARC program. This is an excellent opportunity to make your research data FAIR through the [SPARC Data Portal](https://sparc.science/) and get credit whenever someone reuse your data!
 
-The SPARC guidelines require each dataset to have specific metadata files, as described by the SPARC Data Standards (SDS). These metadata files can be conveniently prepared through SODA.
+### A. Initial inquiry
 
-- Prepare protocol on `protocols.io` following the [instructions provided here](https://docs.sparc.science/docs/protocols). This is not supported through SODA since `protocols.io` already provides an intuitive interface for preparing the protocol.
-- [Prepare the submission file](../prepare-metadata/create-submission)
-- [Prepare the dataset description file](../prepare-metadata/create-dataset-description)
-- [Prepare the README file](../prepare-metadata/create-readme)
-- If your study includes subjects, [prepare the subjects file](../prepare-metadata/create-subjects)
-- If your study includes samples, [prepare the samples file](../prepare-metadata/create-samples)
-- If your study includes a computational model, prepare the code metadata files with help from the [O2S2PARC](https://osparc.io/) team (email support@osparc.io)
-- If you are publishing a new version of a dataset, [prepare the CHANGES file](../prepare-metadata/create-changes-txt)
+The process for sharing non-SPARC datasets on the SPARC data portal starts with reaching out via email to the SPAR Curation team (curation@sparc.science). Include briefly information about the data you want to share and the SPARC Curation team will follow up with you regarding the suitability of your data for the SPARC data portal.
 
-### D. Organize Dataset According to the SPARC Data Structure
+### B. Preliminary steps
 
-All SPARC datasets must be organized according to the structure described by the SPARC Data Standards (SDS). Briefly, all data must be organized into one of the following six high-level folders: `primary`, `source`, `derivative`, `code`, `protocol`, and `docs`. Each of these folders must have a manifest metadata file that summarizes the content of the folder. Additionally, all the metadata files created during Step C must be located at the highest-level of the dataset, alongside the high-level folders. SODA provides a intuitive interface for organizing your dataset according to the SDS and upload it on Pennsieve with automatically generated manifest files.
+If your dataset is deemed suitable for the SPARC data portal, the SPARC Curation team will typically instruct you to download SODA and request access to Pennsieve.
 
-- [Specify files and metadata files to be included in your dataset and generate dataset directly on Pennsieve](../prepare-dataset/organize-dataset)
+- <a href="../getting-started/download-soda" target="\_blank"> Download and install SODA </a>
+- All SPARC datasets must be uploaded on the Pennsieve data platform. Get access to Pennsieve as well as the SPARC organization on Pennsieve by filling out [this form](https://www.wrike.com/frontend/requestforms/index.html?token=eyJhY2NvdW50SWQiOjMyMDM1ODgsInRhc2tGb3JtSWQiOjUwMzQzN30JNDgwNTg4NjU3MjA3Nwk0MTg5ZTY0ODEyZGYxNTU1ZDJkYmU5MzIxNWZiNTQyZWUwZTMzY2U4NDQ5ODI0ZWI0YzZiMWZhNjVhYzgyOTRm)
+- Download and install the [Pennsieve agent](https://docs.pennsieve.io/docs/the-pennsieve-agent) required to upload files through SODA
+- Watch our [quick video](../getting-started/user-interface) to familiarize yourself with the user interface of SODA (note: optional but recommended)
 
-### E. Submit Dataset to the Curation Team for Review
+### C. Curate and share data with SODA
 
-Once all the previous steps have been completed, it is time to share your dataset with the SPARC Data Curation Team for review.
+Use the Guided Mode of SODA, accessible through the sidebar of the app, for preparing and sharing your dataset according to the SPARC guidelines. The Guided Mode is intended to guide users step-by-step through all the requirements for curating and sharing datasets according to the SPARC data standards. The user interfaces of the Guided Mode are designed to logically guide users through the curation steps and include all necessary information such that no prior knowledge of the SPARC data standards is required.
 
-- [Share with the Curation Team](../disseminate-dataset/share-with-curation-team)
+A specific workflow is currently being implemented for easily processing non-SPARC datasets through the Guided Mode. In the meantime, the Guided Mode can still be used for non-SPARC datasets with the following instructions:
 
-### F. Post-curation steps
-
-These steps must be completed ONLY after your dataset is approved by the Curation Team
-
-- [Share dataset with the SPARC Consortium as Embargoed dataset](../disseminate-dataset/share-with-sparc-consortium)
-- [Send dataset for pre-publishing review](../disseminate-dataset/submit-for-pre-publishing-review)
+- On the "Before Getting Started Page" ignore reference to the Data Deliverables document and the Airtable account
+- On the "SPARC Award number" page, enter your own award number associated with your dataset manually. If you have multiple awards, specify the main one here and you will be able to specify other award numbers at a later step. If you don't have any award number associated with your dataset, write "None".
+- Throughout the user interface, ignore references to "SPARC" such as "SPARC datasets" or "SPARC investigators".
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
