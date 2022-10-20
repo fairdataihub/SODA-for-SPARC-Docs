@@ -1,9 +1,8 @@
 # [17.1.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v17.0.1...v17.1.0) (2022-10-20)
 
-
 ### Features
 
-* ✨ non-SPARC data documentation ([#188](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/188)) ([e9c04c5](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/e9c04c56fbd468f9a3ae25aa95467d7a6872ac5e))
+- ✨ non-SPARC data documentation ([#188](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/188)) ([e9c04c5](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/e9c04c56fbd468f9a3ae25aa95467d7a6872ac5e))
 
 ## [17.0.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v17.0.0...v17.0.1) (2022-10-18)
 
