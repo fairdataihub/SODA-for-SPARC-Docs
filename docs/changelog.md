@@ -8,6 +8,14 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v.9.3.3
+
+## Feature additions:
+
+- Documentation was added for non-SPARC data curation.
+- Updated link to the Pennsieve agent. Link to the first agent will say that the agent is deprecated (ignore when downloading).
+- Homepage styling added lotties to the home page.
+
 ## v.9.3.2
 
 ## Bug fixes:
