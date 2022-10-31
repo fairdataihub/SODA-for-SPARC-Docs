@@ -1,11 +1,10 @@
 ## [18.0.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v18.0.1...v18.0.2) (2022-10-31)
 
-
 ### Bug Fixes
 
-* **deps:** update dependency @mui/material to v5.10.11 ([#195](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/195)) ([5763a2f](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/5763a2fa4cec485386ad32c1ebba5bbef77f47ce))
-* **deps:** update dependency @svgr/webpack to v6.5.1 ([#197](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/197)) ([a02cb9d](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/a02cb9ddfa44761834974816054491ec561d6ae8))
-* **deps:** update emotion monorepo to v11.10.5 ([#196](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/196)) ([2a31a05](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/2a31a0594bd58640b9b304efa534e8a610538908))
+- **deps:** update dependency @mui/material to v5.10.11 ([#195](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/195)) ([5763a2f](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/5763a2fa4cec485386ad32c1ebba5bbef77f47ce))
+- **deps:** update dependency @svgr/webpack to v6.5.1 ([#197](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/197)) ([a02cb9d](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/a02cb9ddfa44761834974816054491ec561d6ae8))
+- **deps:** update emotion monorepo to v11.10.5 ([#196](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/196)) ([2a31a05](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/2a31a0594bd58640b9b304efa534e8a610538908))
 
 ## [18.0.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v18.0.0...v18.0.1) (2022-10-24)
 
