@@ -1,9 +1,8 @@
 ## [19.0.9](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v19.0.8...v19.0.9) (2022-12-16)
 
-
 ### Bug Fixes
 
-* update pennsieve agent download link in getting started ([#227](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/227)) ([b703bfd](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/b703bfdd8faa86ec2c075478e89f69c27b80aabe))
+- update pennsieve agent download link in getting started ([#227](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/227)) ([b703bfd](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/b703bfdd8faa86ec2c075478e89f69c27b80aabe))
 
 ## [19.0.8](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v19.0.7...v19.0.8) (2022-12-16)
 
