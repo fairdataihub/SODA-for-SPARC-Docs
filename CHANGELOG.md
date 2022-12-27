@@ -1,9 +1,15 @@
-## [19.0.10](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v19.0.9...v19.0.10) (2022-12-27)
+## [19.0.11](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v19.0.10...v19.0.11) (2022-12-27)
 
 
 ### Bug Fixes
 
-* **deps:** update dependency @notionhq/client to v2.2.3 ([#231](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/231)) ([c282d16](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/c282d1679c6bc8ecb84bf14b631d3ce2c8ff39ef))
+* **deps:** update dependency @mui/material to v5.11.1 ([#229](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/229)) ([0f859e0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/0f859e0d5691c74e4c50a77cdc33cb85bee99de4))
+
+## [19.0.10](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v19.0.9...v19.0.10) (2022-12-27)
+
+### Bug Fixes
+
+- **deps:** update dependency @notionhq/client to v2.2.3 ([#231](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/231)) ([c282d16](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/c282d1679c6bc8ecb84bf14b631d3ce2c8ff39ef))
 
 ## [19.0.9](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v19.0.8...v19.0.9) (2022-12-16)
 
