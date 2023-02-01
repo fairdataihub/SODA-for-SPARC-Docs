@@ -1,3 +1,28 @@
+# [20.0.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v19.0.12...v20.0.0) (2023-02-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @iconify/react to v4.1.0 ([#264](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/264)) ([8bb9d9b](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/8bb9d9b9f542357002e2d14fb2037e564f2b7ced))
+* **deps:** update dependency axios to v1.2.3 ([#252](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/252)) ([f6771e6](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/f6771e6621d2b0d85c0fa7f912be34b41a829c5c))
+* **deps:** update dependency axios to v1.2.4 ([#258](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/258)) ([45180aa](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/45180aad2a8baf06a8d0f5c5ee1584eb91c6dfdd))
+* **deps:** update dependency axios to v1.2.5 ([#260](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/260)) ([efc95d0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/efc95d09a11ceafe020b4ef8eb8fe5cf9bfcc7fd))
+* **deps:** update dependency axios to v1.2.6 ([#262](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/262)) ([53d4e26](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/53d4e26d37e8f2533158473c320dda765a52d012))
+* **deps:** update docusaurus monorepo to v2.3.0 ([#263](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/263)) ([fff4d4b](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/fff4d4be3edf8699b86c4f46241d6981fed66849))
+
+
+* feat!: docs versioned for 10.0.0 release ([5d5fb59](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/5d5fb5981b9388d9469c42d7e99ece2e5b143a0c))
+
+
+### Features
+
+* update docs to point to the new agent ([#254](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/254)) ([0ac62c1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/0ac62c16c98d7dc3c0857f51fdcba3dbd021a8dd))
+
+
+### BREAKING CHANGES
+
+* docs versioend for 10.0.0
+
 ## [19.0.12](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v19.0.11...v19.0.12) (2023-01-02)
 
 ### Bug Fixes
