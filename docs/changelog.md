@@ -8,6 +8,23 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v.10.0.1
+
+# Feature additions:
+
+- None
+
+## Bug Fixes:
+
+- Updated Windows build to run with Github actions rather than manually building.
+
+## Known Issues:
+
+- Freeform Mode:
+  - The transition to the generate manifest files in the Organize Datasets feature is slowed when working with large datasets.
+  - Uploading large amounts of very small files ( <= 1kb ) will sometimes cause the upload to pause or crash. It is best to restart the upload when this happens.
+- When working with large datasets and trying to auto generate manifest files to edit. It can take some time and with no status indicator on the progress. (To be added)
+
 ## v.10.0.0
 
 # Feature additions:
@@ -37,7 +54,6 @@ All notable changes to SODA for SPARC will be documented in this file.
   - The transition to the generate step in the Organize Datasets feature is slowed when working with large datasets.
   - Uploading large amounts of very small files ( <= 1kb ) will sometimes cause the upload to pause or crash. It is best to restart the upload when this happens.
 - When working with large datasets and trying to auto generate manifest files to edit. It can take some time and with no status indicator on the progress. (To be added)
-
 
 ## v.9.4.0
 
