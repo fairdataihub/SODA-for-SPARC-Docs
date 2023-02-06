@@ -8,6 +8,13 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v.10.0.2
+
+## Bug Fixes:
+
+- Fixed an issue on Linux and Mac where importing a dataset stored on Pennsieve would fail if the dataset had manifest files.
+- Fixed an issue on Linux and Mac where importing a metadata file in the `Prepare Metadata` section would fail.
+
 ## v.10.0.1
 
 # Feature additions:
