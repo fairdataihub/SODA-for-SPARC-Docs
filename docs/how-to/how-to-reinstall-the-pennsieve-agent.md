@@ -17,6 +17,7 @@ Sometimes you may need to reinstall the Pennsieve Agent. Here are the steps for 
 ```bash
 # stop the pennsieve agent
 pennsieve agent stop
+
 # remove the folder that stores the Pennsieve Agent database files
 rm -r ~/.pennsieve
 
@@ -36,6 +37,7 @@ rm /usr/local/bin/pennsieve
 ```bash
 # stop the pennsieve agent
 pennsieve agent stop
+
 # remove the folder that stores the Pennsieve Agent database files
 rm -r ~/.pennsieve
 ```
@@ -50,6 +52,7 @@ rm -r ~/.pennsieve
 ```bash
 # stop the pennsieve agent
 pennsieve agent stop
+
 # remove the folder that stores the Pennsieve Agent database files
 rm -r ~/.pennsieve
 
@@ -59,5 +62,5 @@ sudo dpkg -P pennsieve
 
 
 ## Next Steps 
-Next reinstall the Pennsieve Agent as described in [How to install the Pennsieve Agent](how-to-install-the-pennsieve-agent.md).
+Next reinstall the Pennsieve Agent as described in [How to install the Pennsieve Agent](../getting-started//organize-and-submit-sparc-datasets-with-soda.md).
 You should now be able to continue your dataset curation. 
