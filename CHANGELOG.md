@@ -1,9 +1,16 @@
-## [20.0.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v20.0.1...v20.0.2) (2023-02-06)
+## [20.0.3](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v20.0.2...v20.0.3) (2023-02-06)
 
 
 ### Bug Fixes
 
-* **deps:** update dependency axios to v1.3.1 ([#268](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/268)) ([c3002dc](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/c3002dca8354fa48c4c070e5f52520d24789c10f))
+* **deps:** update dependency axios to v1.3.2 ([#269](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/269)) ([c29d2ea](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/c29d2eae5bac2f665af703425ee3e6cad624e101))
+* **deps:** update docusaurus monorepo to v2.3.1 ([#270](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/270)) ([b987495](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/b987495cae51022d5f91029d73a87c4d42dc91a1))
+
+## [20.0.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v20.0.1...v20.0.2) (2023-02-06)
+
+### Bug Fixes
+
+- **deps:** update dependency axios to v1.3.1 ([#268](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/268)) ([c3002dc](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/c3002dca8354fa48c4c070e5f52520d24789c10f))
 
 ## [20.0.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v20.0.0...v20.0.1) (2023-02-04)
 
