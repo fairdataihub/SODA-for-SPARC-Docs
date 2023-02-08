@@ -8,6 +8,16 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+
+
+## v.10.0.2
+
+## Bug fixes:
+- Fixed an issue causing Guided Mode dataset imports to reject when proper criteria are met.
+- Fixed an issue causing the Pennsieve Agent to not start up properly
+- Fixed an issue on Mac and Linux where importing a dataset with manifest files present would cause the import to fail.
+- Fixed an issue on Mac and Linux where importing metadata files would fail.
+
 ## v.10.0.0
 
 # Feature additions:
