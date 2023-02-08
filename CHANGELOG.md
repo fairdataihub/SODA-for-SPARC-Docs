@@ -1,10 +1,21 @@
-## [20.0.3](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v20.0.2...v20.0.3) (2023-02-06)
+# [21.0.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v20.0.3...v21.0.0) (2023-02-08)
 
+
+* feat!: version 10.0.2 docs released  (#272) ([7f66bb8](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/7f66bb8e79cb01918c3214f6e47d44168aaff5a2)), closes [#272](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/272)
+
+
+### BREAKING CHANGES
+
+* docs versioned fo 10.0.2
+
+* feat: remove old sidebar version for 10
+
+## [20.0.3](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v20.0.2...v20.0.3) (2023-02-06)
 
 ### Bug Fixes
 
-* **deps:** update dependency axios to v1.3.2 ([#269](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/269)) ([c29d2ea](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/c29d2eae5bac2f665af703425ee3e6cad624e101))
-* **deps:** update docusaurus monorepo to v2.3.1 ([#270](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/270)) ([b987495](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/b987495cae51022d5f91029d73a87c4d42dc91a1))
+- **deps:** update dependency axios to v1.3.2 ([#269](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/269)) ([c29d2ea](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/c29d2eae5bac2f665af703425ee3e6cad624e101))
+- **deps:** update docusaurus monorepo to v2.3.1 ([#270](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/270)) ([b987495](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/b987495cae51022d5f91029d73a87c4d42dc91a1))
 
 ## [20.0.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v20.0.1...v20.0.2) (2023-02-06)
 
