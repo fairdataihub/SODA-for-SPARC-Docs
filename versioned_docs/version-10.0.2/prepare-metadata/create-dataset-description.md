@@ -60,10 +60,6 @@ The interface below divides inputs required for preparing the dataset_descriptio
 
 ### Award and Contributor Info (information about the SPARC award and the contributors to your dataset)
 
-:::tip
-If you have not done so already, click on `Help me with my award number and contributor information` to connect your Airtable account with SODA and select your SPARC award number and contributors automatically. [See instructions here](./connect-your-airtable-account-with-soda.md) for connecting your Airtable account with SODA.
-:::
-
 1. SPARC Award associated with this dataset: You can either enter your award number manually or have your SPARC award number automatically populated if you are connected to Airtable (see tip above).
 
 2. Click on `Add a contributor` to start adding contributors to your dataset_description file.
