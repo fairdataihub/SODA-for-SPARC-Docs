@@ -16,10 +16,6 @@ To access this interface click on the `Free Form Mode` side bar option, then cli
    - If you want to continue working on an existing submission.xlsx file, you will be prompted to either import it from your computer, or specify a Pennsieve dataset where the file is currently located. SODA will load information from the specified submission file so you can edit it through the SODA interface.
 2. Enter/edit your SPARC award number.
 
-   :::tip
-   Click on `Click here to import my SPARC award from Airtable` to connect your Airtable account with SODA and import your SPARC award number automatically. [See instructions here](./connect-your-airtable-account-with-soda.md) for connecting your Airtable account with SODA.
-   :::
-
 3. Enter/edit the milestone(s) for this submission. It must be exactly as listed in your SPARC award's Data Deliverables document. See [instructions here](../how-to/how-to-get-your-data-deliverables-document) if you are not familiar with the Data Deliverables document for your SPARC award. Enter `N/A` if this dataset isn't associated with any milestone initially planned in the Data Deliverables document.
 
    :::tip
