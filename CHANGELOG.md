@@ -1,14 +1,19 @@
+## [21.0.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v21.0.0...v21.0.1) (2023-02-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency react-player to v2.11.2 ([#276](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/276)) ([fbf631b](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/fbf631b5ac0cc0bafc753b4ddc281a7e3531cc5b))
+
 # [21.0.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v20.0.3...v21.0.0) (2023-02-08)
 
-
-* feat!: version 10.0.2 docs released  (#272) ([7f66bb8](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/7f66bb8e79cb01918c3214f6e47d44168aaff5a2)), closes [#272](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/272)
-
+- feat!: version 10.0.2 docs released (#272) ([7f66bb8](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/7f66bb8e79cb01918c3214f6e47d44168aaff5a2)), closes [#272](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/272)
 
 ### BREAKING CHANGES
 
-* docs versioned fo 10.0.2
+- docs versioned fo 10.0.2
 
-* feat: remove old sidebar version for 10
+- feat: remove old sidebar version for 10
 
 ## [20.0.3](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v20.0.2...v20.0.3) (2023-02-06)
 
