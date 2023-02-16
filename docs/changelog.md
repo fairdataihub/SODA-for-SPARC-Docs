@@ -9,6 +9,22 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 All notable changes to SODA for SPARC will be documented in this file.
 
 
+## v.10.0.3
+# Feature additions:
+
+- Removed AirTable support. A future version will allow users to store data that was stored on AirTable locally.
+
+## Bug fixes:
+
+- SODA for SPARC returns the correct Pennsieve Agent output log file instead of the outdated out.log file in the Gather Logs feature.
+- Fixed an issue with non-standard manifest file headers not being imported properly.
+
+## Known Issues:
+
+- Freeform Mode:
+  - The transition to the generate step in the Organize Datasets feature is slowed when working with large datasets.
+- Uploading large amounts of very small files ( <= 1kb ) will sometimes cause the upload to pause or crash. It is best to restart the upload when this happens.
+- When working with large datasets and trying to auto generate manifest files to edit. It can take some time and with no status indicator on the progress. (To be added)
 
 ## v.10.0.2
 
