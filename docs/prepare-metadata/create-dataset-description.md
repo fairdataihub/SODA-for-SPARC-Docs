@@ -22,10 +22,6 @@ The interface below divides inputs required for preparing the dataset_descriptio
 
 1. Dataset title: Enter a descriptive title for the dataset. This field should exactly match your dataset title on Pennsieve.
 
-   :::tip
-   Click on `Click here to select my dataset from Pennsieve` to select the corresponding dataset on Pennsieve, with which SODA will populate the `Name` field automatically. If you have not connected your Pennsieve account with SODA yet, [follow the instructions available here](../manage-dataset/connect-your-pennsieve-account-with-soda).
-   :::
-
 2. Description: Provide a brief description of the study and the dataset. This is automatically populated from your dataset subtitle on Pennsieve for your convenience (see [this section](../manage-dataset/add-edit-description) to add a subtitle for your dataset).
 
 3. Dataset type: Select the type of the dataset from the dropdown list. Select `Computational` if your study only includes a computational model, otherwise select `Experimental`.
