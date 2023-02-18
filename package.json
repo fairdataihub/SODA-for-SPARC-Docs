@@ -70,7 +70,7 @@
     "eslint-plugin-jsx-a11y": "6.7.1",
     "eslint-plugin-react": "7.32.2",
     "husky": "8.0.3",
-    "lint-staged": "13.1.1",
+    "lint-staged": "13.1.2",
     "megasanjay-devmoji": "^1.2.1",
     "postcss": "8.4.21",
     "prettier": "2.8.4",
