@@ -8,11 +8,28 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v.10.0.4 - 2023-02-24
 
+## Bug fixes:
+
+- Imported datasets with manifests that carry incorrect headers for the standard columns (filename, timestamp, description, file type, Additional Metadata) will be preserved as extra columns.
+- Auto generating manifests will preserve column headers for each individual high level folder rather than giving the same headers to all manifests.
+
+## v.10.0.3 - 2023-02-14
+
+## Feature additions:
+
+- Removed AirTable support. A future version will allow users to store data that was stored on AirTable locally.
+
+## Bug fixes:
+
+- SODA for SPARC returns the correct Pennsieve Agent output log file instead of the outdated out.log file in the Gather Logs feature.
+- Fixed an issue with non-standard manifest file headers not being imported properly.
 
 ## v.10.0.2
 
 ## Bug fixes:
+
 - Fixed an issue causing Guided Mode dataset imports to reject when proper criteria are met.
 - Fixed an issue causing the Pennsieve Agent to not start up properly
 - Fixed an issue on Mac and Linux where importing a dataset with manifest files present would cause the import to fail.
@@ -47,7 +64,6 @@ All notable changes to SODA for SPARC will be documented in this file.
   - The transition to the generate step in the Organize Datasets feature is slowed when working with large datasets.
   - Uploading large amounts of very small files ( <= 1kb ) will sometimes cause the upload to pause or crash. It is best to restart the upload when this happens.
 - When working with large datasets and trying to auto generate manifest files to edit. It can take some time and with no status indicator on the progress. (To be added)
-
 
 ## v.9.4.0
 
