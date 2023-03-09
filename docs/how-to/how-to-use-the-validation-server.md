@@ -8,7 +8,7 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=How%20to
 
 SODA has a companion validation server that can be used to validate your dataset according to the official SPARC Dataset Structure (SDS).
 This guide will walk you through starting the validation server and using it alongside SODA-for-SPARC to validate your SPARC datasets.
-NOTE: For instructions on installing the validation server see the [How to install the validation server](/docs/how-to/how-to-install-validation-server) page.
+NOTE: For instructions on installing the validation server see the [How to install the validation server](./how-to-install-the-validation-server.md) page.
 
 ## How to
 

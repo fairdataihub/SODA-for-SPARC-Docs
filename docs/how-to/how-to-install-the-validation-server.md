@@ -31,7 +31,7 @@ This page will guide you through installation of the validation server. Once ins
 
 ## Next steps
 
-Learn how to validate your datasets using the validation server in the [How to use the validation server](/docs/how-to/how-to-use-the-validation-server) page.
+Learn how to validate your datasets using the validation server in the [How to use the validation server](how-to-use-the-validation-server.md) page.
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
