@@ -1,26 +1,36 @@
 ---
 sidebar_position: 8
-title: Step 7 - Preview dataset
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Step%207%20-%20Preview%20dataset&description=Prepare%20Dataset
+title: Step 7 - Generate dataset
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Step%206%20-%20Generate%20dataset&description=Prepare%20Dataset
 ---
 
-This step serves as a confirmation page before SODA generates your dataset. You can preview your dataset organization with specified SPARC metadata files and specified dataset generate options. This is how your dataset will look once it is generated either on Pennsieve or locally on your computer. To edit any details from this step, simply click on the `Edit` icon next to a section. This will bring you back to the associated section for edits.
+The dataset will be generated based on the information provided during the previous steps. It could be generated **locally on your computer** or **directly on Pennsieve**.
 
-When you are ready to generate your dataset, click the `Generate` button.
+### Generate your dataset locally
 
-![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/preview-dataset.PNG?raw=true)
+If you select to generate your dataset locally, it will be generated at the desired location on your computer. No modifications will be made to the original local files/folders specified during the previous steps. Follow the steps below to generate the dataset locally:
+
+1. Specify the desired destination on your computer where SODA should generate the dataset at.
+2. Enter the name of the new dataset (a folder with this name will be created at the selected destination).
+3. Click `Generate` to create your dataset.
+
+![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/generate-1.gif?raw=true)
+
+### Generate your dataset directly on Pennsieve
+
+If you select to generate your dataset directly on Pennsieve, it will be generated on the Pennsieve dataset with the specified structure. No modifications will be made to the original local files/folders specified during the previous step. Follow the steps below to generate the dataset onto Pennsieve:
+
+1. Select your Pennsieve account from the drop-down list.
+2. Select the option to generate on a new Pennsieve dataset or to use an existing one.
+   - If you select to generate on a new Pennsieve dataset, specify a name for it.
+     ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/generate-21.gif?raw=true)
+   - If you select to generate on an existing Pennsieve dataset, select one from the drop-down list, and tell SODA how to handle any existing files/folders specified in your dataset that may already exist on the selected Pennsieve dataset.
+     ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/generate-3.gif?raw=true)
+3. Click `Generate` to create your dataset.
 
 :::note
-When uploading datasets SODA will now allow you to perform other curation tasks. You can track your progress, as well as return to the Preview Dataset page, by utilizing the new `Navigation Progress Bar`.
+When uploading datasets with large amounts of files, a dataset upload may take longer than expected. This is regardless of the total storage size of your dataset. In the event of an unsuccessful dataset upload you will receive an error notification. You can trust that as long as there is no error notification SODA is uploading your dataset.
 :::
-
-<video
-  controls
-  autoPlay
-  loop
-  width="100%"
-  src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Organize-dataset/organize-datasets-sidebar-progress.mkv?raw=true"
-/>
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
