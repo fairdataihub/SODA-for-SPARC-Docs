@@ -17,8 +17,8 @@ All SPARC datasets must follow the top level SPARC folder structure imposed by t
 - [Step 3: Structure dataset files](./step-3.md)
 - [Step 4: Specify high-level metadata files](./step-4.md)
 - [Step 5: Request manifest files](./step-5.md)
-- [Step 6: Validate dataset](./step-6.md)
-- [Step 7: Generate dataset](./step-7.md)
+- [Step 6: Generate dataset](./step-6.md)
+- [Step 7: Validate dataset](./step-7.md)
 - [Step 8: Preview dataset](./step-8.md)
 
 :::info

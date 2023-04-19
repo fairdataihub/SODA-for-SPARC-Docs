@@ -1,36 +1,27 @@
 ---
 sidebar_position: 8
-title: Step 7 - Generate dataset
+title: Step 7 - Validate dataset
 image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Step%206%20-%20Generate%20dataset&description=Prepare%20Dataset
 ---
 
-The dataset will be generated based on the information provided during the previous steps. It could be generated **locally on your computer** or **directly on Pennsieve**.
+Now that the dataset is prepared validate it to ensure it follows the SPARC Dataset Structure before uploading it to Pennsieve.
 
-### Generate your dataset locally
+### Running Validation
 
-If you select to generate your dataset locally, it will be generated at the desired location on your computer. No modifications will be made to the original local files/folders specified during the previous steps. Follow the steps below to generate the dataset locally:
+- To run validation, click the `Validate Dataset` button.
+  ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-datasets-validate-button.png?raw=true)
+- The validation process will take a few moments to complete.
+- Once validation is complete you can re-run validation as often as desired by clicking the `Validate Dataset` button again.
 
-1. Specify the desired destination on your computer where SODA should generate the dataset at.
-2. Enter the name of the new dataset (a folder with this name will be created at the selected destination).
-3. Click `Generate` to create your dataset.
+### Interpreting Results
 
-![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/generate-1.gif?raw=true)
-
-### Generate your dataset directly on Pennsieve
-
-If you select to generate your dataset directly on Pennsieve, it will be generated on the Pennsieve dataset with the specified structure. No modifications will be made to the original local files/folders specified during the previous step. Follow the steps below to generate the dataset onto Pennsieve:
-
-1. Select your Pennsieve account from the drop-down list.
-2. Select the option to generate on a new Pennsieve dataset or to use an existing one.
-   - If you select to generate on a new Pennsieve dataset, specify a name for it.
-     ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/generate-21.gif?raw=true)
-   - If you select to generate on an existing Pennsieve dataset, select one from the drop-down list, and tell SODA how to handle any existing files/folders specified in your dataset that may already exist on the selected Pennsieve dataset.
-     ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/generate-3.gif?raw=true)
-3. Click `Generate` to create your dataset.
-
-:::note
-When uploading datasets with large amounts of files, a dataset upload may take longer than expected. This is regardless of the total storage size of your dataset. In the event of an unsuccessful dataset upload you will receive an error notification. You can trust that as long as there is no error notification SODA is uploading your dataset.
-:::
+- If validation is successful you will receive a message notifying you that your dataset is valid and a table with results.
+  ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-datasets-validation-results.png?raw=true)
+- The resulting table has two columns:
+  - `Path` - The path to the file, folder, or field that was validated.
+  - `Message` - The message informing you what was determined to be invalid about the file, folder, or field specified in the `Path` column.
+- To fix your errors, simply alter your dataset to correct the given error messages then re-run validation for confirmation.
+- It is recommended that, if possible, you fix most errors before uploading your dataset to Pennsieve.
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
