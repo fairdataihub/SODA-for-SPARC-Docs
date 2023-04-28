@@ -6,7 +6,7 @@ image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-dataset-d
 
 ## Background
 
-Under this feature, SODA lets you quickly and accurately prepare the dataset_description metadata file which is mandatory for all SPARC datasets. SODA provides a convenient interface, which is more intuitive than working with the Excel spreadsheet template. It also makes use of information from your dataset on Pennsieve and the SPARC Airtable sheet to help you populate some of the fields easily. The expected structure of this file, generated automatically by SODA, is explained in our corresponding "[How to](../how-to/how-to-structure-the-dataset-description-metadata-file.md)" page if you would like to learn about it.
+Under this feature, SODA lets you quickly and accurately prepare the dataset_description metadata file which is mandatory for all SPARC datasets. SODA provides a convenient interface, which is more intuitive than working with the Excel spreadsheet template. It also makes use of information from your dataset on Pennsieve and the SPARC Airtable sheet to help you populate some of the fields easily. The expected structure of this file, generated automatically by SODA, is explained in our corresponding "[How to](../../how-to/how-to-structure-the-dataset-description-metadata-file.md)" page if you would like to learn about it.
 
 ## How to
 
