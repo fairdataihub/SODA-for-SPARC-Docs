@@ -1,5 +1,5 @@
 ---
-sidebar_position: 11
+sidebar_position: 2
 pagination_prev: null
 pagination_next: null
 title: Privacy Policy

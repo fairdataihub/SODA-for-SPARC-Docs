@@ -1,5 +1,5 @@
 ---
-sidebar_position: 13
+sidebar_position: 3
 pagination_prev: null
 pagination_next: null
 title: Cookie Policy

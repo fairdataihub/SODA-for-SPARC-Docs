@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 1
 pagination_prev: null
 pagination_next: null
 title: Terms of Use
