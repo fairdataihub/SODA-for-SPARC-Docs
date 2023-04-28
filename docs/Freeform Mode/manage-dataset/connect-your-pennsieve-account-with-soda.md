@@ -10,7 +10,7 @@ SPARC uses the [Pennsieve](https://app.pennsieve.net/) platform to store data an
 
 ## Prerequisite
 
-You will need a Pennsieve account with access to the SPARC Consortium oganization before connecting your Pennsieve account with SODA. If you do not have a Pennsieve account and/or access to the SPARC Consortium organizaton, follow the instructions available [here](../how-to/how-to-get-a-pennsieve-account).
+You will need a Pennsieve account with access to the SPARC Consortium oganization before connecting your Pennsieve account with SODA. If you do not have a Pennsieve account and/or access to the SPARC Consortium organizaton, follow the instructions available [here](../../how-to/how-to-get-a-pennsieve-account).
 
 ## How to login with Email and Password
 

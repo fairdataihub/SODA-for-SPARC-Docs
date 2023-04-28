@@ -35,7 +35,7 @@ It is recommended that, when possible, you resolve any validation errors before 
 
 ## Next Steps
 
-Now that your dataset is validated you can submit it to the SPARC Curation Team for review. To do so, follow the instructions [here](../disseminate-dataset/share-with-curation-team.md).
+Now that your dataset is validated you can submit it to the SPARC Curation Team for review. To do so, follow the instructions [here](../disseminate-dataset/submit-for-pre-publishing-review.md).
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

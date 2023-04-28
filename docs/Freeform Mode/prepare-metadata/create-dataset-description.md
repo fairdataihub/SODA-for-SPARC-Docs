@@ -52,17 +52,13 @@ The interface below divides inputs required for preparing the dataset_descriptio
 
 3. Study technique: The experimental techniques used in this study.
 
-4. Study purpose: Provide a description of the study purpose. It should match with the 'Study Purpose' section of your [description on Pennsieve](../manage-dataset/add-edit-description).
+4. Study purpose: Provide a description of the study purpose. It should match with the 'Study Purpose' section of your [description on Pennsieve](../manage-dataset/add-edit-description.md).
 
 5. Study data collection: Provide a description of the study data collection process for this dataset. It should match with the 'Data Collection' section of your [description on Pennsieve](../manage-dataset/add-edit-description).
 
 6. Study primary conclusion: Provide a description of the primary conclusion drawn from the study. It should match with the 'Primary Conclusion' section of your [description on Pennsieve](../manage-dataset/add-edit-description).
 
 ### Award and Contributor Info (information about the SPARC award and the contributors to your dataset)
-
-:::tip
-If you have not done so already, click on `Help me with my award number and contributor information` to connect your Airtable account with SODA and select your SPARC award number and contributors automatically. [See instructions here](./connect-your-airtable-account-with-soda.md) for connecting your Airtable account with SODA.
-:::
 
 1. SPARC Award associated with this dataset: You can either enter your award number manually or have your SPARC award number automatically populated if you are connected to Airtable (see tip above).
 

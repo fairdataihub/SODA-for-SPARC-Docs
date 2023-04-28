@@ -7,7 +7,7 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=How%20to
 
 ## Background
 
-The milestones and associated datasets as agreed between awardees and SPARC are summarized in a document called Data Deliverables document. This documents lists, among other, the milestones of the award, the expected datasets to be associated with each milestone, and the tentative submission date for each of these datasets. The awardee are then expected to submit each dataset by the agreed submission date. When a dataset is submitted by the awardees, the milestone and submission date associated with it must be included in the [submission metadata file](../prepare-metadata/create-submission.md). In SODA, we provide you the option to import your Data Deliverables document such that you can easily prepare you submission metadata file without errors.
+The milestones and associated datasets as agreed between awardees and SPARC are summarized in a document called Data Deliverables document. This documents lists, among other, the milestones of the award, the expected datasets to be associated with each milestone, and the tentative submission date for each of these datasets. The awardee are then expected to submit each dataset by the agreed submission date. When a dataset is submitted by the awardees, the milestone and submission date associated with it must be included in the [submission metadata file](../Freeform%20Mode/prepare-metadata/create-submission.md). In SODA, we provide you the option to import your Data Deliverables document such that you can easily prepare you submission metadata file without errors.
 
 ## How to
 
