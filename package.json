@@ -1,6 +1,6 @@
 {
   "name": "docs",
-  "version": "21.0.1",
+  "version": "22.0.0",
   "private": true,
   "author": "Fair Data Innovations Hub <info@fairdataihub.org> (https://fairdataihub.org)",
   "scripts": {
@@ -51,7 +51,7 @@
     "uuid": "9.0.0"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "7.19.1",
+    "@babel/eslint-parser": "7.21.3",
     "@commitlint/cli": "17.6.1",
     "@commitlint/config-conventional": "17.6.1",
     "@fairdataihub/config": "2.2.3",
@@ -62,7 +62,6 @@
     "@semantic-release/npm": "10.0.3",
     "@semantic-release/release-notes-generator": "10.0.3",
     "autoprefixer": "10.4.11",
-    "@babel/eslint-parser": "7.21.3",
     "eslint": "8.39.0",
     "eslint-config-airbnb": "19.0.4",
     "eslint-config-prettier": "8.8.0",
