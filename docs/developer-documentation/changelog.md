@@ -1,6 +1,5 @@
 ---
 sidebar_position: 11
-pagination_prev: null
 pagination_next: null
 title: Changelog
 image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelog&description=All%20notable%20changes%20to%20SODA%20for%20SPARC

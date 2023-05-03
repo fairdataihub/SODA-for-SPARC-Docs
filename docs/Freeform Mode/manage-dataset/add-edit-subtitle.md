@@ -10,14 +10,15 @@ All SPARC datasets must have the following metadata on Pennsieve: subtitle, desc
 
 ## How to
 
-To access this interface click on the `Free Form Mode` side bar option, then click on the `Manage Datasets` tab, and finally click on the `Add/edit subtitle` card.
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Manage Datasets` tab, click on
+the `Add/edit subtitle` card.
 
 1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda).
 2. In the textbox, add two or three sentences (limit of 256 characters) that describe the content of your dataset such that it is possible to differentiate it from other datasets. You can see published datasets on [sparc.science](https://sparc.science/) for inspiration.
 3. Click on `Add subtitle`.
 
 :::info
-If an existing subtitle if found for your Pennsieve dataset, it will be shown in the interface and you will be presented with an `Edit description` button to click.
+If an existing subtitle is found for your Pennsieve dataset, it will be shown in the interface and you will be presented with an `Edit description` button to click.
 :::
 
 import PageFeedback from '@site/src/components/PageFeedback';

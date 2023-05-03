@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 8
 pagination_next: null
 title: How to reinstall the Pennsieve Agent
 image: https://docs.sodaforsparc.io/thumbnails/how-to/how-to-get-your-data-deliverables-document.png
@@ -24,10 +24,9 @@ rm -r ~/.pennsieve
 # remove the Pennsieve Agent from its installation location
 sudo rm -r /usr/local/opt/pennsieve
 
-# remove the symlink 
+# remove the symlink
 rm /usr/local/bin/pennsieve
-``` 
-
+```
 
 ### Windows
 
@@ -41,11 +40,12 @@ pennsieve agent stop
 # remove the folder that stores the Pennsieve Agent database files
 rm -r ~/.pennsieve
 ```
+
 3. Navigate to 'Add or Remove Programs' in the Control Panel
 4. Select 'Pennsieve Agent' and click 'Uninstall'
 
-
 ### Linux (Ubuntu)
+
 1. Open a terminal window
 2. Run the following commands:
 
@@ -60,7 +60,7 @@ rm -r ~/.pennsieve
 sudo dpkg -P pennsieve
 ```
 
+## Next Steps
 
-## Next Steps 
 Next reinstall the Pennsieve Agent as described in [How to install the Pennsieve Agent](../getting-started//organize-and-submit-sparc-datasets-with-soda.md).
-You should now be able to continue your dataset curation. 
+You should now be able to continue your dataset curation.

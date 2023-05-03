@@ -1,7 +1,5 @@
 ---
 sidebar_position: 2
-pagination_prev: null
-pagination_next: null
 title: Privacy Policy
 image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Privacy%20Policy&description=Privacy%20policy%20for%20data%20collected%20about%20the%20SODA%20for%20SPARC%20application
 ---

@@ -6,11 +6,15 @@ image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-dataset-d
 
 ## Background
 
-Under this feature, SODA lets you quickly and accurately prepare the dataset_description metadata file which is mandatory for all SPARC datasets. SODA provides a convenient interface, which is more intuitive than working with the Excel spreadsheet template. It also makes use of information from your dataset on Pennsieve and the SPARC Airtable sheet to help you populate some of the fields easily. The expected structure of this file, generated automatically by SODA, is explained in our corresponding "[How to](../../how-to/how-to-structure-the-dataset-description-metadata-file.md)" page if you would like to learn about it.
+Under this feature, SODA lets you quickly and accurately prepare the dataset_description metadata file which is mandatory for all SPARC datasets. SODA provides a convenient
+interface, which is more intuitive than working with the Excel spreadsheet template. It also makes use of information from your dataset on Pennsieve and the SPARC Airtable sheet
+to help you populate some of the fields easily. The expected structure of this file, generated automatically by SODA, is explained in our corresponding
+"[How to](../../how-to/how-to-structure-the-dataset-description-metadata-file.md)" page if you would like to learn about it.
 
 ## How to
 
-To access this interface click on the `Free Form Mode` side bar option, then click on the `Prepare Metadata` tab, and finally click on the `Create dataset_description.xlsx` card.
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Prepare Metadata` tab, click on
+the `Create dataset_description.xlsx` card.
 
 You can start by either creating a dataset_description.xlsx file from scratch with SODA or continue working on an existing dataset_description.xlsx file.
 
@@ -77,9 +81,9 @@ The interface below divides inputs required for preparing the dataset_descriptio
 
 Before completing this section, your protocol(s) related to this dataset must be prepared on protocols.io under the SPARC group according to the [instructions available here](https://sparc.science/help/1slXZSS2XtTYQsdY6mEJi5).
 
-1. Click Add a protocol. You can also click on `Click here to import my protocol information` first to connect your protocols.io account with SODA which would facilitate the next steps:
+1. Click Add a protocol.
 
-   - Protocol URL or DOI: Provide the URL (if still private) / DOI (if public) of your protocol from protocols.io. If you have connected your protocols.io account with SODA, you can simply select the protocol from the list of your protocols available on protocols.io in the SPARC group and SODA will automatically populate with the URL or DOI as applicable.
+   - Protocol URL or DOI: Provide the URL (if still private) / DOI (if public) of your protocol from protocols.io.
    - Protocol description: Provide a short description of the protocol.
 
 Repeat if you have multiple protocols.
@@ -98,9 +102,10 @@ Repeat if you have multiple protocols.
 
 After you complete all steps, click on `Generate` to generate your dataset description file. You have the options to generate and save it on your computer or generate and upload it to Pennsieve. If your dataset is not organized yet, you can save this file anywhere on your computer then import it in SODA when prompted in the [Organize dataset](../prepare-dataset/organize-dataset) feature. A warning message may show up if any mandatory fields are missing. You may decide to go back and address the issues or generate the file anyway (and address the issues later).
 
-## Note
-
-In the contributors' table, you can drag and drop rows to organize contributors in the order that they should appear in the dataset_description file. You can also remove one with the delete button.
+:::note
+In the contributors' table, you can drag and drop rows to organize contributors in the order that they should appear in the dataset_description file. You can also remove one
+with the delete button.
+:::
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

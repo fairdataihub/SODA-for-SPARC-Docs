@@ -6,11 +6,11 @@ image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-subjects.
 
 ## Background
 
-Under this feature, SODA lets you quickly and accurately prepare the subjects metadata file, which is mandatory for all SPARC datasets where subjects are involved in the study. SODA provides a convenient interface, which is more intuitive than the Excel spreadsheet template. It also makes use of information from your dataset on Pennsieve, NCBI Taxonomy, Scicrunch, and protocols.io to help you populate some of the fields easily. The expected structure of this file, generated automatically by SODA, is explained in our corresponding "[How to](../../how-to/how-to-structure-the-subjects-metadata-file.md)" page if you would like to learn about it.
+Under this feature, SODA lets you quickly and accurately prepare the subjects metadata file, which is mandatory for all SPARC datasets where subjects are involved in the study. SODA provides a convenient interface, which is more intuitive than the Excel spreadsheet template. It also makes use of information from your dataset on Pennsieve, NCBI Taxonomy and Scicrunch to help you populate some of the fields easily. The expected structure of this file, generated automatically by SODA, is explained in our corresponding "[How to](../../how-to/how-to-structure-the-subjects-metadata-file.md)" page if you would like to learn about it.
 
 ## How to
 
-To access this interface click on the `Free Form Mode` side bar option, then click on the `Prepare Metadata` tab, and finally click on the `Create subjects.xlsx` card.
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Prepare Metadata` tab, click on the `Create subjects.xlsx` card.
 
 ### Step 1
 
@@ -67,7 +67,9 @@ Click on `Add a subject` to add a new subject. This will prompt you to a form wh
 />
 
 - Protocol Information (Optional):
-  - Protocol title on protocols.io: Enter the title of the protocol on protocols.io associated with this subject study. Alternatively, click on `Help me with my protocol information` located at this end of this section. A login interface will instruct you to connect your protocols.io account with SODA (if not already done), then select your relevant protocol. SODA will automatically populate the protocol title and protocols.io link (see below).
+
+  - Protocol title on protocols.io: Enter the title of the protocol on protocols.io associated with this subject study.
+
   - Protocol URL on protocols.io: Enter the protocol.io URL of your protocol.
 
 <video 

@@ -10,7 +10,8 @@ All SPARC datasets must have the following metadata on Pennsieve: subtitle, desc
 
 ## How to
 
-To access this interface click on the `Free Form Mode` side bar option, then click on the `Manage Datasets` tab, and finally click on the `Add/edit tags` card.
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Manage Datasets` tab, click on the
+`Add/edit tags` card.
 
 1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda).
 2. Add, edit, or delete tags:

@@ -10,7 +10,8 @@ The Curation Team has release templates for all the metadata files required in S
 
 ## How to
 
-To access this interface click on the `Free Form Mode` side bar option, then click on the `Prepare Metadata` tab, and finally click on the `Download templates` card.
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Prepare Metadata` tab,
+click on the `Download templates` card.
 
 Simply click on the name of the file and select the destination folder to download.
 

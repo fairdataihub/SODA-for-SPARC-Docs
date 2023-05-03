@@ -14,7 +14,8 @@ A collection allows you to associate and consolidate multiple datasets into a si
 All collection names that belong to the organization will be shown as an option. You can only modify datasets for which you are the owner/manager.
 :::
 
-To access this interface click on the `Free Form Mode` side bar option, then click on the `Manage Datasets` tab, and finally click on the `Add dataset to a collection` card.
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Manage Datasets` tab, click on the
+`Add dataset to a collection` card.
 
 1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda).
 2. Add/delete collection names:

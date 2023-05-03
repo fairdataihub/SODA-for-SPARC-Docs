@@ -10,19 +10,18 @@ There are four roles available for a dataset: owner, manager, editor, and viewer
 
 When you create a dataset, it is private and accessible only to you (you have `owner` permissions on the dataset). You can change who can access and modify your dataset by giving permissions to members or entire teams.
 
-|                                   Permissions |       Owner        | Manager | Editor | Viewer |
-| --------------------------------------------: | :----------------: | :-----: | :----: | :----: |
-|                           View/download files |         ✅         |   ✅    |   ✅   |   ✅   |
-|                        Edit name of a dataset |         ✅         |   ✅    |   ✅   |   ❌   |
-|                           Upload/delete files |         ✅         |   ✅    |   ✅   |   ❌   |
-|                                  Add metadata |         ✅         |   ✅    |   ❌   |   ❌   |
-|                            Manage permissions |         ✅         |   ✅    |   ❌   |   ❌   |
-|                         Change dataset status |         ✅         |   ✅    |   ❌   |   ❌   |
-| Share dataset with SPARC consortium (embargo) |         ✅         |   ✅    |   ❌   |   ❌   |
-|                                   Reserve DOI |         ✅         |   ✅    |   ❌   |   ❌   |
-|              Submit for pre-publishing review | ✅ (+ORCID linked) |   ❌    |   ❌   |   ❌   |
-|                                Delete dataset |         ✅         |   ❌    |   ❌   |   ❌   |
-|                                  Change owner |         ✅         |   ❌    |   ❌   |   ❌   |
+|                     Permissions |       Owner        | Manager | Editor | Viewer |
+| ------------------------------: | :----------------: | :-----: | :----: | :----: |
+|             View/download files |         ✅         |   ✅    |   ✅   |   ✅   |
+|          Edit name of a dataset |         ✅         |   ✅    |   ✅   |   ❌   |
+|             Upload/delete files |         ✅         |   ✅    |   ✅   |   ❌   |
+|                    Add metadata |         ✅         |   ✅    |   ❌   |   ❌   |
+|              Manage permissions |         ✅         |   ✅    |   ❌   |   ❌   |
+|           Change dataset status |         ✅         |   ✅    |   ❌   |   ❌   |
+|                     Reserve DOI |         ✅         |   ✅    |   ❌   |   ❌   |
+| Submit dataset to Curation Team | ✅ (+ORCID linked) |   ❌    |   ❌   |   ❌   |
+|                  Delete dataset |         ✅         |   ❌    |   ❌   |   ❌   |
+|                    Change owner |         ✅         |   ❌    |   ❌   |   ❌   |
 
 ## Prerequisite
 
@@ -30,7 +29,7 @@ Team members who need to contribute to your dataset must have a Pennsieve accoun
 
 ## How to
 
-To access this interface click on the `Free Form Mode` side bar option, then click on the `Manage Datasets` tab, and finally click on the `Add/edit permissions` card.
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Manage Datasets` tab, click on the `Add/edit permissions` card.
 
 Start by selecting/confirming your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda). The current permissions on the selected dataset will be displayed.
 

@@ -6,15 +6,26 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Share%20
 
 ## Background
 
-One year after the dataset completion date (as per the Data Deliverables document), or right after publishing results from the dataset, whichever comes first, you must publish your dataset to Pennsieve Discover, which populates the SPARC Data Portal, and make it public.
+One year after the dataset completion date (as per the Data Deliverables document), or right after publishing results from the dataset, whichever comes first, you must publish
+your dataset to Pennsieve Discover, which populates the SPARC Data Portal, and make it public.
 
-As per the SPARC sharing process, when ready to share with the Curation Team, you must submit your dataset for review again to the Curation Team who will make a final check of your dataset and accept or reject the publication request. If accepted, the dataset will be published automatically on Pennsieve Discover by default. Otherwise, the Curation Team will inform you of the reasons for rejecting. While the dataset is under review it will become locked until the submission is withdrawn, rejected, or approved.
+As per the SPARC sharing process, you must submit your dataset for review to the Curation Team who will make a final check of your dataset and accept or reject the
+publication request. If accepted, the dataset will be published automatically on Pennsieve Discover by default. Otherwise, the Curation Team will inform you of the
+reasons for rejecting.
 
-When submitting a dataset to the Curation Team you may choose to do so under an embargo that lifts at a selected time up to one year in advance. While a published dataset is under embargo, it is not visible to the public. Publishing under embargo can be useful for researchers who want to provide easy access to collaborators without making their dataset public; or to researchers who have intellectual property concerns.
+:::note
+While the dataset is under review it will come locked until the Curation Team has withdrawn, rejected, or approved the submission. You will not be able to make any changes
+to the dataset until the Curation Team has completed their review.
+:::
 
-## How to submit a dataset for pre-publishing review
+When submitting a dataset to the Curation Team you may choose to do so under an embargo that lifts at a selected time up to one year in advance. While a published dataset is
+under embargo, it is not visible to the public. Publishing under embargo can be useful for researchers who want to provide easy access to collaborators without making their
+dataset public; or to researchers who have intellectual property concerns.
 
-- Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here.](../manage-dataset/connect-your-pennsieve-account-with-soda)
+## How to submit a dataset to the Curation Team
+
+- Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet,
+  [use the instructions available here.](../manage-dataset/connect-your-pennsieve-account-with-soda)
 - Click on `Share with Curation Team`. Only dataset owners can begin a submission.
 - Complete all of the pre-publishing checklist items. Completed items will be marked with a green check. Incomplete items will be marked with a red cross:
   - Click on any incomplete item text to be taken to the section of SODA where you can complete that item.

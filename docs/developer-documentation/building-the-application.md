@@ -1,6 +1,5 @@
 ---
 sidebar_position: 2
-pagination_next: null
 title: Building the application
 image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Building%20the%20application&description=For%20Developers
 ---

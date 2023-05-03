@@ -6,17 +6,20 @@ image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-manifest-
 
 ## Background
 
-Manifest files are mandatory for all datasets. To learn more about this metadata file please refer to our corresponding "[How to](../../how-to/how-to-structure-the-manifest-metadata-file.md)" page.
+Manifest files are mandatory for all datasets. To learn more about this metadata file please refer to our corresponding "
+[How to](../../how-to/how-to-structure-the-manifest-metadata-file.md)" page.
 
 This section will allow you to generate manifest files for your pre-existing datasets stored locally and on Pennsieve.
 
 :::tip
-If you do not have pre-existing datasets SODA allows you to create a new dataset and generate manifest files at the same time. [Instructions are provided here](../prepare-dataset/organize-dataset.md).
+If you do not have pre-existing datasets SODA allows you to create a new dataset and generate manifest files at the same time.  
+[Instructions are provided here](../prepare-dataset/organize-dataset.md).
 :::
 
 ## How to
 
-To access this interface click on the `Free Form Mode` side bar option, then click on the `Prepare Metadata` tab, and finally click on the `Create manifest.xlsx` card.
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Prepare Metadata` tab,
+click on the `Create manifest.xlsx` card.
 
 1. You can start by either choosing to generate a manifest.xlsx file for a pre-existing dataset stored on your local computer or on Pennsieve.
 2. Select where the manifest.xlsx files will be generated.

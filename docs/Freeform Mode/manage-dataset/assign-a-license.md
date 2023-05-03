@@ -10,7 +10,7 @@ All SPARC datasets must have the following metadata: subtitle, description, bann
 
 ## How to
 
-To access this interface click on the `Free Form Mode` side bar option, then click on the `Manage Datasets` tab, and finally click on the `Assign a license` card.
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Manage Datasets` tab click on the `Assign a license` card.
 
 1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda).
 2. Click on `Assign Creative Commons Attribution (CC-BY) license`. This button will only be visible if the CC-BY 4.0 license is not already assigned, otherwise you will see "Creative Commons Attribution" mentioned under "Current License" and you don't need to do anything else.
