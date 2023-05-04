@@ -1,3 +1,9 @@
+## [22.0.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v22.0.1...v22.0.2) (2023-05-04)
+
+### Bug Fixes
+
+- 🐛 update umami script url ([081ee10](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/081ee10ecc7217a8cc6d3b763cd291e4d6943636))
+
 ## [22.0.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v22.0.0...v22.0.1) (2023-05-02)
 
 ### Bug Fixes
