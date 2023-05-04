@@ -24,11 +24,11 @@ If you are continuing to work on an existing subjects file, the subjects include
 
 Click on `Add a subject` to add a new subject. This will prompt you to a form where you can provide information about that subject based on the fields listed below.
 
-<video 
-  controls 
-  width="100%" 
-  src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Subjects-interface.mp4" 
-/>
+<!-- <video
+  controls
+  width="100%"
+  src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Subjects-interface.mp4"
+/> -->
 
 - **subject id** (Mandatory): Enter the ID of this subject. It must be unique for each subject across a dataset. The ID must start with `sub-` followed by any series of alpha-numeric characters (upper and lower cases allowed) or dash `-`. No other characters (including white space) are allowed.
 
@@ -60,11 +60,11 @@ Click on `Add a subject` to add a new subject. This will prompt you to a form wh
 
   - Date of birth: The date of birth of the subject.
 
-<video 
-  controls 
-  width="100%" 
-  src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Subjects-species.mp4" 
-/>
+<!-- <video
+  controls
+  width="100%"
+  src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Subjects-species.mp4"
+/> -->
 
 - Protocol Information (Optional):
 
@@ -72,11 +72,11 @@ Click on `Add a subject` to add a new subject. This will prompt you to a form wh
 
   - Protocol URL on protocols.io: Enter the protocol.io URL of your protocol.
 
-<video 
-  controls 
-  width="100%" 
-  src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Subjects-protocols.mp4" 
-/>
+<!-- <video
+  controls
+  width="100%"
+  src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Subjects-protocols.mp4"
+/> -->
 
 - Additional fields (Optional):
 

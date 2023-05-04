@@ -29,7 +29,7 @@ To access this interface click on the `Curate and Share` side bar option, then c
 
 6. Click on `Save changes`. The newly added banner image will be displayed in the interface.
 
-![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Add-metadata/banner-image.gif?raw=true)
+<!-- ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Add-metadata/banner-image.gif?raw=true) -->
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

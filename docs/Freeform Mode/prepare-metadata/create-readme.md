@@ -36,7 +36,7 @@ click on the `Create README.txt` card.
 
 3. Review and click on `Generate` to generate your README file. You have the options to generate and save it on your computer or generate and upload it directly to Pennsieve. If your dataset is not organized yet, you can save this file anywhere on your computer then import it in SODA when prompted in the [Organize dataset](../prepare-dataset/organize-dataset) feature.
 
-![](https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Readme-Changes/readme.PNG?raw=true)
+<!-- ![](https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Readme-Changes/readme.PNG?raw=true) -->
 
 <!-- <OptimizedImage src="https://ucarecdn.com/e5c4a022-9a55-49b2-8af5-d5d4d8a74057/aqualogofull.png" alt="screenshot for readme" /> -->
 

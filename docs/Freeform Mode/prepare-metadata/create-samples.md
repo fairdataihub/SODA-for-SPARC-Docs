@@ -30,11 +30,11 @@ associated Edit/Copy/Delete buttons.
 
 Click on `Add a sample` to add a new samples. This will prompt you to a form where you can provide information about that sample based on the fields listed below.
 
-<video 
-  controls 
-  width="100%" 
-  src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Samples-interface.mp4" 
-/>
+<!-- <video
+  controls
+  width="100%"
+  src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Samples-interface.mp4"
+/> -->
 
 - **subject** id (mandatory): Enter the ID of the subject this sample belongs to. It must be unique for each subject across a dataset. The ID must start with `sub-`
   followed by any series of alpha-numeric characters (upper and lower cases allowed) or dash `-`. No other characters (including white space) are allowed.

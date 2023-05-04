@@ -26,7 +26,7 @@ the `Create submission.xlsx` card.
 4. Enter the completion date associated with this milestone or select one from the dropdown if a Data Deliverable document is imported. Enter `N/A` if this dataset isn't associated with any milestone initially planned in the Data Deliverables document.
 5. Review and click on `Generate` to generate your submission file. You have the options to generate and save it on your computer or generate and upload it directly to Pennsieve. If you have not organized your dataset yet, you can save this file on your computer then import it in SODA when prompted in the [Organize dataset](../prepare-dataset/organize-dataset) feature.
 
-![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Prepare-metadata/Submission/submission.gif?raw=true)
+<!-- ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Prepare-metadata/Submission/submission.gif?raw=true) -->
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

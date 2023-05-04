@@ -71,11 +71,11 @@ The interface below divides inputs required for preparing the dataset_descriptio
    - Check `Corresponding Author` if the contributor is a contact person/corresponding author for the dataset. At least one and only one of the contributors should be the corresponding author.
    - Click `Add contributor` to add the contributor to SODA's contributor table. Each contributor added to the table will be added to the dataset description file when it is generated.
 
-<video
+<!-- <video
    controls
    width="100%"
    src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/dd-awardInfo.mp4"
-/>
+/> -->
 
 ### Related Information: protocol, paper, dataset, etc.
 

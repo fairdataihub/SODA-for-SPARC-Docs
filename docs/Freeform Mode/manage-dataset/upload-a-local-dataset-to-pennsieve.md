@@ -6,7 +6,7 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Upload%2
 
 ## Background
 
-With this feature, you can upload a data from your computer on to a Pennsieve dataset (with folder structure preserved).
+With this feature, you can upload a data from your computer on to a Pennsieve dataset (with folder structure preserved). If the dataset is not structured according to the SPARC Data Structure, SODA will not be able to upload it. You can find out more about the SPARC Data Structure [here](https://docs.sparc.science/docs/overview-of-sparc-dataset-format#organization-of-a).
 
 ## How to
 
@@ -18,13 +18,13 @@ With this feature, you can upload a data from your computer on to a Pennsieve da
 When uploading your local dataset to Pennsieve SODA will now allow you to perform other curation tasks. You can track your progress, as well as return to the `Upload a Local Dataset to Pennsieve` page, by utilizing the new `Navigation Progress Bar`.
 :::
 
-<video
+<!-- <video
    controls
    autoPlay
    loop
    width="100%"
    src="https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Upload-local-ds/upload-a-local-dataset-navbar-progress.mkv?raw=true"
-/>
+/> -->
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

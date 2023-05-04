@@ -14,7 +14,7 @@ If you select to generate your dataset locally, it will be generated at the desi
 2. Enter the name of the new dataset (a folder with this name will be created at the selected destination).
 3. Click `Generate` to create your dataset.
 
-![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/generate-1.gif?raw=true)
+<!-- ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/generate-1.gif?raw=true) -->
 
 ### Generate your dataset directly on Pennsieve
 
@@ -23,9 +23,9 @@ If you select to generate your dataset directly on Pennsieve, it will be generat
 1. Select your Pennsieve account from the drop-down list.
 2. Select the option to generate on a new Pennsieve dataset or to use an existing one.
    - If you select to generate on a new Pennsieve dataset, specify a name for it.
-     ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/generate-21.gif?raw=true)
+     <!-- ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/generate-21.gif?raw=true) -->
    - If you select to generate on an existing Pennsieve dataset, select one from the drop-down list, and tell SODA how to handle any existing files/folders specified in your dataset that may already exist on the selected Pennsieve dataset.
-     ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/generate-3.gif?raw=true)
+     <!-- ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/generate-3.gif?raw=true) -->
 3. Click `Generate` to create your dataset.
 
 :::note

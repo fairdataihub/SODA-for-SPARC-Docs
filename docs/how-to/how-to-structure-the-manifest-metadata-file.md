@@ -11,7 +11,7 @@ SODA helps you prepare the [manifest metadata files](../Freeform%20Mode/prepare-
 ## How to
 
 - Format: the manifest file is accepted in either xlsx, csv, or json format. SODA generates it in the xlsx format based on the template provided by the Curation Team. A screenshot of a sample manifest file from a primary folder is provided below:
-  ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/How%20to/manifest/manifest-example.PNG?raw=true)
+  ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Prepare-metadata/Manifest/empty-manifest-editor.png?raw=true)
 - Location in the dataset: a manifest file is required in either **each of the high-level SPARC folders** **_OR_** **in each of the dataset folders with at least one file**.
 - SODA follows the structure #1 when generating the manifest files automatically for you. We thus only talk about structure #1 below. Should be `None` if no extension (instead of blank).
 - Content: The `filename` and `timestamp` fields are mandatory and it is suggested to provide other fields as needed to understand each file.
