@@ -172,7 +172,7 @@ const config = {
       },
       umami: {
         websiteid: '4dfba05a-4a76-4d20-92b4-a7778613dbb0',
-        src: 'https://umami.fairdataihub.org/mushroom.js',
+        src: 'https://umami.fairdataihub.org/mushroom',
       },
     }),
 
