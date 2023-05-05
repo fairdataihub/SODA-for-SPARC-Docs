@@ -7,6 +7,33 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v.11.0.0 - 2023-03-29
+
+## Bug fixes:
+
+- GM: Sharing with the Curation Team has been modified to notify the Curation Team.
+  -GM: For the file explorer the right click menu has been aligned with the mouse position.
+
+- FFM: Prepare Metadata -> dataset_description.xlsx text was being modified and has been patched to display fields as the user originally wrote it.
+- FFM: Imported metadata files not resetting upon changing a dataset has been patched.
+
+- The ability for deleting all files selected has been fixed.
+- Taxonomy endpoint has been patched to look up names and return response corrently.
+
+## Feature Additions:
+
+- SODA for SPARC's home page has been updated to be minimal and easier to navigate. Free form mode and Guided mode have been merged to one location: Curate and Share.
+- GM: Ability to reserve a DOI after uploading.
+
+## v.10.0.5 - 2023-03-20
+
+## Feature Additions:
+
+- GM: Contributor names in the dataset_description file will now always upload as "Last name, First name"
+- FFM: Contributors table emulates Guided Mode's contributors table
+- FFM: Removed the "Corresponding Authors" metadata field from dataset_description as it is no longer required per the SPARC dataset structure
+- FFM: Bug fixed causing ORCIDs to not get pulled into the dataset_description contributors UI
+
 ## v.10.0.4 - 2023-02-24
 
 ## Bug fixes:
