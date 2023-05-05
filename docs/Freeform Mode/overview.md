@@ -12,7 +12,7 @@ If you are making only a few changes to an existing dataset (for example based o
 
 Click on the `Curate and Share` option of the sidebar and then click on `Free Form Curation`.
 
-![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Guided/endtoend.png?raw=true)
+![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Free-form/ffm-overview.png?raw=true)
 
 There are four pages accessible through the top menu bar:
 
