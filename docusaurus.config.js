@@ -96,7 +96,7 @@ const config = {
             items: [
               {
                 label: 'Changelog',
-                to: '/docs/changelog',
+                to: '/docs/developer-documentation/changelog',
               },
             ],
           },
