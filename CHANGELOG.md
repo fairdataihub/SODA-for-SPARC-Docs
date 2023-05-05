@@ -1,3 +1,29 @@
+# [23.0.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v22.0.2...v23.0.0) (2023-05-05)
+
+### Bug Fixes
+
+- 🐛 addressed some typos ([#337](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/337)) ([5f8918c](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/5f8918cfea63c6ff8bf98427b64bfae23613de3d))
+- 🐛 removed broken link ([50eb133](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/50eb133184472addb30870f1b0f4b55443b0b9a5))
+
+### Features
+
+- ✨ added an overview page for the Free Form Curation mode ([4a6da39](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/4a6da39feb6b38bcf114ac2ef202b56e7ddcfd22))
+- ✨ adding changes to reflect RE-JOIN support ([9b54f55](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/9b54f551034d20850ff339eed052bb0184c44ff9))
+- ✨ changelog updated ([94e0fb5](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/94e0fb5d03da3d0883080bdc0b003bb0b58a8c3a))
+- ✨ ffm overview page added + endtoend image ([94fa930](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/94fa9309a0003fcf2e77bddbb87281e1d833abf3))
+- ✨ image added to ffm overview page ([a6a78a6](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/a6a78a66538cc87a5c46146f68cb97883a2e6bf1))
+- ✨ Updated text for 11.0.1 ([2fcbdf5](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/2fcbdf58717d491a83d4df82c6376d141b283cb3))
+- ✨ updating End to End Curation page ([3ba5914](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/3ba59143f331c03135ef6943d74a82837274d9d5))
+- 💥 ✨ docs versioned for SODA 11.1.0 ([a2ab60d](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/a2ab60d10056408d23dd8513365038ff9d0b0cca))
+- 💥 ✨ docs versioned for SODA 11.1.0 ([d04f9c4](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/d04f9c42bf50ef85251f65ef077abed0cb866b1a))
+- 💥 ✨ docs versioned for SODA 11.1.0 ([7f730ff](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/7f730ffe6b3dbb01929c977f2065cddfe98ffec1))
+
+### BREAKING CHANGES
+
+- docs versioned for SODA 11.1.0
+- docs versioned for SODA 11.1.0
+- docs versioned for SODA 11.1.0
+
 ## [22.0.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v22.0.1...v22.0.2) (2023-05-04)
 
 ### Bug Fixes
