@@ -6,7 +6,8 @@ const config = {
   title: 'SODA for SPARC',
   // eslint-disable-next-line max-len
   tagline:
-    'Easily make bioelectronic and neurophysiology research data and computational models FAIR according to the NIH SPARC guidelines',
+    // eslint-disable-next-line max-len
+    'Easily make bioelectronic, neurophysiology, and other similar research data and computational models FAIR following the NIH SPARC guidelines',
   url: 'https://docs.sodaforsparc.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
