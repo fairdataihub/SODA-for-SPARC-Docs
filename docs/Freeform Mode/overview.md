@@ -6,24 +6,21 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=What%20i
 
 ### About
 
-`End to End Curation` is the easiest mode in SODA for preparing and submitting your dataset to the SPARC Curation Team for review before it is published on the SPARC Data Portal. This mode is designed to guide users step-by-step through all the requirements for preparing and sharing datasets with the SPARC Curation Team according to the SPARC guidelines. Automation is implement whenever possible to minimize users' time and effort in the process. The user interfaces are designed to include all the necessary information such that no documentation or prior knowledge of the SPARC data curation and sharing guidelines should be needed.
+If you are making only a few changes to an existing dataset (for example based on feedback from the SPARC Curation Team), you can use the `Free Form Curation` mode. This mode provides various feature for creating/editing individual compoenents of a dataset. This mode should only be used if you are familiar with the SPARC data curation and sharing guidelines, otherwise we strongly recommend using the `End to End Curation` mode.
 
-### Using the End to End Curation mode
+### Using the Free Form Curation mode
 
-Click on the `Curate and Share` option of the sidebar and then click on `End to End Curation`.
+Click on the `Curate and Share` option of the sidebar and then click on `Free Form Curation`.
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Guided/endtoend.png?raw=true)
 
-On the first page there are three options available:
+There are four pages accessible through the top menu bar:
 
-- `Prepare and submit a new dataset`: Select this option if you are starting to curate and share a new dataset that has not been previously start in SODA or Pennsieve.
-- `Continue a dataset saved in SODA`: Select this option if you want to continue working on a dataset previously started and saved in SODA. You will be able to continue where you left off last time.
-- `Work on a dataset from Pennsieve`: Select this option if you want to continue working on a dataset that is already on Pennsieve (either pushed through SODA or outside). Note that only dataset that are SDS-compliant can be imported at the moment.
+- `Manage Datasets`: You will find here features to create/modify datasets on Pennsieve (create a new dataset, add/edit a banner image, etc.). There is also a feature to upload dataset which can be used e.g. if you have already organized your dataset according to the SDS and all you want to do is upload it.
+- `Prepare Metadata`: You will find here feature to individually prepare the metadata files requires in the SDS (dataset description file, manifest files, etc.). There is also a feature to download the latest templates of these metadata files.
+- `Prepare Datasets`: You will find here features to structure your dataset according to the SDS and validate it.
+- `Disseminate Datasets`: You will find here a feature to share your dataset with the SPARC Curation Team for their review.
 
-We have designed the next steps such that you should be able to go through them without needing any documentation. Through successive interfaces, SODA will ask you to specify data files to be included in your dataset, request information about your dataset, and invite you to link your Pennsive account. SODA will then use all of that information to generate directly on Pennsieve a dataset that is compliant with the SPARC data curation and sharing guidelines. Once generated, you will be able to review the dataset and share it with the SPARC Curation for their review.
-
-:::info
-SODA will never modify your local data files through the End to End Curation mode. Any changes (file renaming, adding metadata files, etc.) will be reflected on the dataset that is generated on Pennsieve.
-:::
+Help pages for the different features are accessible from the "Free Form Curation" menu of this document.
 
 <PageFeedback />
