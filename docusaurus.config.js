@@ -9,7 +9,10 @@ const darkCodeTheme = themes.dracula;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'SODA for SPARC',
-  tagline: 'Easily make biomedical research data FAIR according to the NIH SPARC guidelines',
+  // eslint-disable-next-line max-len
+  tagline:
+    // eslint-disable-next-line max-len
+    'Easily make bioelectronic, neurophysiology, and other similar research data and computational models FAIR following the NIH SPARC guidelines',
   url: 'https://docs.sodaforsparc.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -93,7 +96,7 @@ const config = {
             items: [
               {
                 label: 'Changelog',
-                to: '/docs/changelog',
+                to: '/docs/developer-documentation/changelog',
               },
             ],
           },
