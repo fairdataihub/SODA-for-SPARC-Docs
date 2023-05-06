@@ -43,6 +43,6 @@ SODA is developed by the team from the FAIR Data Innovations Hub at the Californ
 
 ### Ready to share your data?
 
-Get started with our [step-by-step guide](../getting-started/organize-and-submit-sparc-datasets-with-soda)!
+Get started with our [step-by-step guide](./getting-started/organize-and-submit-sparc-datasets-with-soda.md)!
 
 <PageFeedback />

@@ -42,7 +42,7 @@
   <span> · </span>
     <a href="https://docs.sodaforsparc.io/">Documentation</a>
   <span> · </span>
-    <a href="https://docs.sodaforsparc.io/docs/changelog">Changelog</a>
+    <a href="https://docs.sodaforsparc.io/docs/developer-documentation/changelog">Changelog</a>
   <span> · </span>
     <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/">Report Bug</a>
   <span> · </span>
@@ -214,4 +214,3 @@ A special thank you to Vercel for hosting our application documentation.
 <a href="https://vercel.com/?utm_source=fairdataihub&utm_campaign=oss" target="_blank">
   <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg"  width="auto"/>
 </a>
-
