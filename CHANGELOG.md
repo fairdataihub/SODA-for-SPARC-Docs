@@ -1,3 +1,10 @@
+## [24.0.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v24.0.1...v24.0.2) (2023-05-09)
+
+### Bug Fixes
+
+- **deps:** update dependency @notionhq/client to v2.2.5 ([#339](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/339)) ([fa34395](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/fa343959cc847dbd77bf81e011622a39af2ac26f))
+- **deps:** update emotion monorepo to v11.11.0 ([#344](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/344)) ([948c9dd](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/948c9dd9b49638e83eddd497b4e9ac5446601a27))
+
 ## [24.0.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v24.0.0...v24.0.1) (2023-05-08)
 
 ### Bug Fixes
