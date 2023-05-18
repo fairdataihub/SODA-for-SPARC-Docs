@@ -1,3 +1,9 @@
+## [24.0.4](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v24.0.3...v24.0.4) (2023-05-18)
+
+### Bug Fixes
+
+- **deps:** update docusaurus monorepo to v2.4.1 ([#346](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/346)) ([bea82fc](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/bea82fcab595ac89d262203740f58476246693ba))
+
 ## [24.0.3](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v24.0.2...v24.0.3) (2023-05-16)
 
 ### Bug Fixes
