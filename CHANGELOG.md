@@ -1,3 +1,10 @@
+## [24.0.5](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v24.0.4...v24.0.5) (2023-06-11)
+
+### Bug Fixes
+
+- **deps:** update dependency @emotion/react to v11.11.1 ([#359](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/359)) ([d2d33fd](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/d2d33fd78a434d28072af148d65f6293490a23c8))
+- **deps:** update dependency prism-react-renderer to v2.0.5 ([#360](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/360)) ([6e2c0b9](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/6e2c0b9ea053cb1741033e7a9ef8d9c2d4739e76))
+
 ## [24.0.4](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v24.0.3...v24.0.4) (2023-05-18)
 
 ### Bug Fixes
