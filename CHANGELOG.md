@@ -1,3 +1,9 @@
+## [24.0.6](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v24.0.5...v24.0.6) (2023-06-25)
+
+### Bug Fixes
+
+- **deps:** update dependency @iconify/react to v4.1.1 ([#365](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/365)) ([8b0eeb5](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/8b0eeb5ff24ca40009ebe11e5f26bc2ba074cf82))
+
 ## [24.0.5](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v24.0.4...v24.0.5) (2023-06-11)
 
 ### Bug Fixes
