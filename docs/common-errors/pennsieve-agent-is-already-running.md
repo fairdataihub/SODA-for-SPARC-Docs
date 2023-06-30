@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
-title: Pennsieve agent is already running
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Pennsieve%20agent%20is%20already%20running&description=Common%20errors%20and%20their%20solutions
+title: Can't Start the Pennsieve Agent Through SODA
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Can%27t%20start%20the%20Pennsieve%20Agent%20through%20SODA&description=Common%20Pennsieve%20Agent%20errors%20and%20their%20solutions
 ---
 
 ## Issue Background
