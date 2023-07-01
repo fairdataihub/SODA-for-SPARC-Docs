@@ -1,3 +1,10 @@
+## [24.0.7](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v24.0.6...v24.0.7) (2023-07-01)
+
+### Bug Fixes
+
+- **deps:** update dependency @notionhq/client to v2.2.6 ([#369](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/369)) ([57488b2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/57488b2563b7b0468dbdeba39a8fa02df4590602))
+- **deps:** update dependency prism-react-renderer to v2.0.6 ([#367](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/367)) ([c76a7b6](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/c76a7b6f440be3cc856288d336f2615c200c7dbd))
+
 ## [24.0.6](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v24.0.5...v24.0.6) (2023-06-25)
 
 ### Bug Fixes
