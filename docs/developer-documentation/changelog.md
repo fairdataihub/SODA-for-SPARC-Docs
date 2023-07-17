@@ -7,6 +7,38 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v.12.1.0
+
+## Feature Additions:
+
+- Dataset Description Metadata updated from SDS 2.0.0 -> 2.1.0
+- Submission Metadata updated from SDS 2.0.0 -> 2.1.0
+- Files Explorer can now move files in Guided Mode (patched for Free Form Mode)
+
+## Bug fixes:
+
+- Fixed an issue causing the server to not connect for Window's users
+- Fixed an issue where moving files in the File Explorer did not remove files from their original location
+
+## v.12.0.2
+
+## Bug fixes:
+
+- Fixed an issue causing the server to not connect for Window's users
+
+## v.12.0.1
+
+## Feature Additions:
+
+- Removed calls to analytics in order to prepare for our new analytics platform
+- Updated pre_flight_checks to give better error messages and allow the user to restart the checks.
+
+## Bug fixes:
+
+- The file explorer can now import hidden files that are within a folder.
+- Dataset is locked pop up will wait for user to confirm pop up before continuing processes.
+- Local dataset upload throw "Dataset is Locked" pop up when trying to upload to a dataset that is locked.
+
 ## v.12.0.0
 
 ## Feature Additions:
