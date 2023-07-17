@@ -8,7 +8,7 @@ In this privacy notice, we seek to explain to you in the clearest way possible w
 
 #### Last revised date
 
-This privacy policy was last updated on 01/10/2022
+This privacy policy was last updated on 07/17/2023
 
 ### Why do we collect information?
 
@@ -20,7 +20,7 @@ We automatically collect certain information when you launch, use, or navigate S
 
 For a detailed list regarding what information is tracked within SODA please refer to [What do we track?](#what-do-we-track).
 
-We employ the use of Google Analytics to track and log user events within SODA. To learn more, please visit their [Terms of service](https://marketingplatform.google.com/about/analytics/terms/us/).
+We employ the use of Kombucha Analytics to track and log user events within SODA. See the Github Repository [here](https://github.com/fairdataihub/analytics).
 
 ### How do we use the collected information?
 
@@ -40,7 +40,7 @@ Collected information will be shared with the SPARC management team. It may also
 
 ### Do we use cookies and other tracking technologies?
 
-We use Google's Universal Analytics program to track anonymized user interactions within SODA. To learn more about the technologies used please refer to [Security and privacy in Universal Analytics](https://support.google.com/analytics/answer/2838718?hl=en).
+We use Kombucha Analytics to track anonymized user interactions within SODA.
 
 On this documentation platform, Fair Data Innovations Hub uses cookies. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
 
@@ -149,7 +149,6 @@ All the information that is tracked within SODA is anonymized with privacy in mi
   - The point of origin of the dataset
   - The destination of the dataset
   - The merge details when uploading onto an existing Pennsieve dataset
-  - The number and name of the metadata files imported
   - The amount of imported files and/or folders
   - The amount of folders created in SODA
   - The point of origin of the imported metadata files
@@ -158,11 +157,9 @@ All the information that is tracked within SODA is anonymized with privacy in mi
   - The size of the dataset
   - The number of files in the dataset
   - The point of origin of the dataset
-  - The number and name of the metadata files imported
   - The dataset ID and/or name
   - The destination of the dataset
   - The merge details when uploading onto an existing Pennsieve dataset
-  - The number and name of the metadata files imported
   - The point of origin of the imported metadata files
   - The amount of imported files and/or folders
   - The amount of folders created in SODA
@@ -180,9 +177,6 @@ All the information that is tracked within SODA is anonymized with privacy in mi
   - Success/Errors with the change in the description
   - Success/Errors with getting the description
   - Success/Errors with parsing the description
-  - The name and/or ID of the dataset
-- When you import a banner image from Pennsieve :
-  - Success/Errors with the import
   - The name and/or ID of the dataset
 - When you upload a banner image for the dataset:
   - Success/Errors with the upload
@@ -242,8 +236,6 @@ All the information that is tracked within SODA is anonymized with privacy in mi
   - The point of origin of an existing manifest file
   - The destination of a created manifest file
   - The name and/or ID of the dataset
-- When you import a Data Deliverable document:
-  - Success/Errors with the import process
 - When you create dataset_description.xlsx metadata file:
   - Success/Errors with the creation
   - The name of the dataset
@@ -253,51 +245,7 @@ All the information that is tracked within SODA is anonymized with privacy in mi
 - When you share a dataset with the Curation Team:
   - Success/Errors with the process required to share a dataset with the Curation Team
   - The dataset's status
-  - The Consortium's dataset permission
   - The name and/or ID of the dataset
-- When a dataset is unshared with the Curation Team:
-  - Success/Errors with the process required to make the dataset unshared with the Curation Team
-  - The dataset's status
-  - The Consortium's dataset permission
-  - The name and/or ID of the dataset
-- When you share a dataset with the SPARC Consortium:
-  - Success/Errors with the process required to share a dataset with the SPARC Consortium
-  - The dataset's status
-  - The Consortium's dataset permission
-- When a dataset is unshared with the SPARC Consortium:
-  - Success/Errors with the process required to make the dataset unshared with the SPARC Consortium
-  - The dataset's status
-  - The Consortium's dataset permission
-- When you submit a dataset for Pre-Publishing Review:
-  - Success/Errors with the submission
-  - Success/Errors with getting a list of excluded files
-  - Success/Errors with updating your list of excluded files
-  - Success/Errors with determining a user's dataset role
-  - Success/Errors with validating the dataset's description, tags, subtitle, banner image, license.
-  - Success/Errors with getting the dataset owner's ORCID iD.
-  - Errors with getting the dataset's updated publishing status
-  - The name and/or ID of the dataset
-- When you withdraw a dataset from Pre-publishing Review:
-  - Success/Errors with withdrawing the dataset
-  - Errors with getting the dataset's updated publishing status
-  - The dataset name and/or ID
-- When you update SODA
-  - Operating system version
-  - SODA version
-- When you change a dataset in SODA:
-  - Success/Errors with getting the dataset's Review status
-  - Success/Errors with getting the dataset's tags
-  - Success/Errors with getting the dataset's description
-  - Success/Errors with getting the dataset's banner image
-  - Success/Errors with getting the dataset's license
-  - Success/Errors with getting the dataset's subtitle
-  - Success/Errors with getting the dataset's permissions
-  - Success/Errors with getting the dataset's owner
-  - Success/Errors with getting the dataset's statuses
-  - The dataset name and/or ID
-- When you integrate your Pennsieve account with ORCID iD:
-  - Success/Errors with integrating
-  - The dataset name and/or ID
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
