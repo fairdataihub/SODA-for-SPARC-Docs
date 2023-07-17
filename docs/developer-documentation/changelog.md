@@ -7,13 +7,13 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
-## v.12.0.2 - 2023-07-03
+## v.12.0.2
 
 ## Bug fixes:
 
 - Fixed an issue causing the server to not connect for Window's users
 
-## v.12.0.1 - 2023-06-30
+## v.12.0.1
 
 ## Feature Additions:
 
