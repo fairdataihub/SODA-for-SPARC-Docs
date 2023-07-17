@@ -1,3 +1,13 @@
+# [25.0.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v24.0.8...v25.0.0) (2023-07-17)
+
+### Feat
+
+- Privacy Policy Updates ([#385](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/385)) ([3b57f15](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/3b57f152159df8ff1de3c88451c62eeb2a680d1a))
+
+### BREAKING CHANGES
+
+- docs versioned for SODA 12.1.0
+
 ## [24.0.8](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v24.0.7...v24.0.8) (2023-07-14)
 
 ### Bug Fixes
