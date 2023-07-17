@@ -7,21 +7,6 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
-
-## v.12.1.0
-
-## Feature Additions:
-
-- Dataset Description Metadata updated from SDS 2.0.0 -> 2.1.0
-- Submission Metadata updated from SDS 2.0.0 -> 2.1.0
-- Files Explorer can now move files in Guided Mode (patched for Free Form Mode)
-
-## Bug fixes:
-
-- Fixed an issue causing the server to not connect for Window's users
-- Fixed an issue where moving files in the File Explorer did not remove files from their original location
-
-
 ## v.12.0.2
 
 ## Bug fixes:
