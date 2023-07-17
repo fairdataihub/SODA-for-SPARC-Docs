@@ -1,7 +1,7 @@
 {
   "upload_type": "software",
   "title": "SODA for SPARC docs",
-  "publication_date": "2023-07-14",
+  "publication_date": "2023-07-17",
   "creators": [
     {
       "name": "Soundarajan, Sanjay",
@@ -38,5 +38,5 @@
     "ubuntu",
     "windows"
   ],
-  "version": "24.0.8"
+  "version": "25.0.0"
 }
