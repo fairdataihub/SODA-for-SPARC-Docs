@@ -7,9 +7,14 @@ export default function DownloadURL({ children, os }) {
   const getLatestVersion = async () => {
     const res = await fetch('https://api.github.com/repos/fairdataihub/SODA-for-SPARC/releases');
     const data = await res.json();
-    const release = data[0];
 
-    release.assets.forEach((asset) => {
+    // filter releases with tag_name that includes "-beta" or "-alpha"
+    const nonBetaReleases = data.filter(
+      (releaseDownload) => !releaseDownload.tag_name.includes('-beta'),
+    );
+    const latestRelease = nonBetaReleases[0];
+
+    latestRelease.assets.forEach((asset) => {
       const fileName = asset.name;
       const fileExt = fileName.split('.').pop();
 
