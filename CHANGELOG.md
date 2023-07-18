@@ -1,3 +1,9 @@
+# [25.1.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v25.0.1...v25.1.0) (2023-07-18)
+
+### Features
+
+- ✨ api version mismatch page ([#386](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/386)) ([d5dc86d](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/d5dc86dae99b5285d2c85612b8938b7b1ac33be9))
+
 ## [25.0.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v25.0.0...v25.0.1) (2023-07-18)
 
 ### Bug Fixes
