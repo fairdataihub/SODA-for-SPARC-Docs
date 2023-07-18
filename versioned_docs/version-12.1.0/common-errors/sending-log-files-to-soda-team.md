@@ -20,11 +20,19 @@ To automatically gather your log files:
 
 ### Manually
 
-You can also get the log files manually. Here are their locations on the different OS:
+You can also get the log files manually. There are two locations where log files are stored. The first location is the log files for the Electron process. THe second location stores log files for the SODA server. When possible, both should be gathered and sent to the SODA team.
+
+#### Electron Process Log Files
 
 1. Windows: _C:\Users\your-username\AppData\Roaming\SODA for SPARC\logs_
 2. macOS: _~/your-username/Library/Logs/SODA_
 3. Ubuntu: _/home/your-username/.config/SODA/logs_
+
+#### SODA Server Log Files
+
+1. Windows: C:\Users\your-username\SODA\logs
+2. macOS: ~/your-username/SODA/logs
+3. Ubuntu: /home/your-username/SODA/logs
 
 ### Common issues regarding the log files
 
