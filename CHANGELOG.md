@@ -1,3 +1,9 @@
+## [25.0.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v25.0.0...v25.0.1) (2023-07-18)
+
+### Bug Fixes
+
+- 🐛 filter out beta releases for download links ([4b71e2c](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/4b71e2ca0bbd672f8642f279e77929cfc0ed49ee))
+
 # [25.0.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v24.0.8...v25.0.0) (2023-07-17)
 
 ### Feat
