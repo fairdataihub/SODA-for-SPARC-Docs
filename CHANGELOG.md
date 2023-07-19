@@ -1,3 +1,9 @@
+## [25.1.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v25.1.0...v25.1.1) (2023-07-19)
+
+### Bug Fixes
+
+- **deps:** update dependency clsx to v2 ([#387](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/387)) ([0d921f8](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/0d921f8ddcfbb1a4e1f71d769fd63be5e2a23589))
+
 # [25.1.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v25.0.1...v25.1.0) (2023-07-18)
 
 ### Features
