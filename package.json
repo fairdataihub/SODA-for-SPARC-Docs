@@ -32,7 +32,7 @@
     "@iconify/react": "4.1.1",
     "@mdx-js/react": "1.6.22",
     "@mui/material": "5.11.1",
-    "@notionhq/client": "2.2.7",
+    "@notionhq/client": "2.2.8",
     "@svgr/webpack": "8.0.1",
     "axios": "1.4.0",
     "clsx": "2.0.0",
