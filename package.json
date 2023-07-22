@@ -52,8 +52,8 @@
   },
   "devDependencies": {
     "@babel/eslint-parser": "7.22.9",
-    "@commitlint/cli": "17.6.6",
-    "@commitlint/config-conventional": "17.6.6",
+    "@commitlint/cli": "17.6.7",
+    "@commitlint/config-conventional": "17.6.7",
     "@fairdataihub/config": "2.2.3",
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/commit-analyzer": "10.0.1",
