@@ -215,17 +215,17 @@ All the information that is tracked within SODA is anonymized with privacy in mi
   - The point of origin of an existing samples.xlsx file
   - The destination of a created samples.xlsx file
   - The name and/or ID of the dataset
-- When you create README.xlsx metadata file:
+- When you create README.txt metadata file:
   - Success/Errors with the creation
-  - Success/Errors with using an existing README.xlsx file
-  - The point of origin of an existing README.xlsx file
-  - The destination of a created README.xlsx file
+  - Success/Errors with using an existing README.txt file
+  - The point of origin of an existing README.txt file
+  - The destination of a created README.txt file
   - The name and/or ID of the dataset
-- When you create CHANGES.xlsx metadata file:
+- When you create CHANGES.txt metadata file:
   - Success/Errors with the creation
-  - Success/Errors with using an existing CHANGES.xlsx file
-  - The point of origin of an existing CHANGES.xlsx file
-  - The destination of a created CHANGES.xlsx file
+  - Success/Errors with using an existing CHANGES.txt file
+  - The point of origin of an existing CHANGES.txt file
+  - The destination of a created CHANGES.txt file
   - The name and/or ID of the dataset
 - When you create manifest files with SODA:
   - Success/Errors with the creation
