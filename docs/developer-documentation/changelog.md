@@ -7,6 +7,34 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v.12.2.0 - 2023-08-01
+
+## Feature Additions:
+
+- Windows builds are created with the ASAR flag set to true. This allows
+  for the application to be packaged as a single file. This will speed up
+  the installation process for Windows users.
+- Analytics for SODA have been converted to Kombucha. Fully replacing
+  Google Analytics.
+- usersCreated field added to the Kombucha User ID. This will allow us to
+  track when a new user is created in SODA.
+
+## Bug fixes:
+
+- Showing confirm button for workspace selection in Free Form Mode (Step 6)
+  after the first upload.
+- Kombucha User ID is being correctly stored in the user's local storage.
+
+## v.12.1.1 - 2023-07-25
+
+## Feature Additions:
+
+- Implemented access token caching for improved request performance
+
+## Bug fixes:
+
+- Fixed an issue when importing duplicate folders and files into the file explorer
+- Fixed an issue where the SODA server would sometimes crash on MAC due to too many import/upload status requests being made to the server
 
 ## v.12.1.0
 
@@ -20,7 +48,6 @@ All notable changes to SODA for SPARC will be documented in this file.
 
 - Fixed an issue causing the server to not connect for Window's users
 - Fixed an issue where moving files in the File Explorer did not remove files from their original location
-
 
 ## v.12.0.2
 
