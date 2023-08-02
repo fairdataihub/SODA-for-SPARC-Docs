@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: How to structure the subjects metadata file
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=How%20to%20structure%20the%20subjects%20metadata%20file&description=%27How%20to%27%20SPARC%20series
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Structure%20the%20subjects%20metadata%20file&description=%27How%20to%27%20SPARC%20series
 ---
 
 ## Background
