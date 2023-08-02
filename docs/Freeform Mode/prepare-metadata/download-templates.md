@@ -1,7 +1,7 @@
 ---
 sidebar_position: 9
 title: Download templates
-image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/download-templates.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Download%20Templates&description=Prepare%20Metadata
 ---
 
 ## Background
@@ -10,12 +10,10 @@ The Curation Team has release templates for all the metadata files required in S
 
 ## How to
 
-To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Prepare Metadata` tab,
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Curation` button and within the `Prepare Metadata` tab,
 click on the `Download templates` card.
 
 Simply click on the name of the file and select the destination folder to download.
-
-<!-- ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Prepare-metadata/Download-templates/download-templates.PNG?raw=true) -->
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

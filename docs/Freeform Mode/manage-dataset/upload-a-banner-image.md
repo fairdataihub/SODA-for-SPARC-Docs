@@ -14,7 +14,7 @@ Only .PNG, .JPEG, and .TIFF images are allowed to be used as a banner.
 
 ## How to
 
-To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Manage Datasets` tab, click on the `Upload a banner image` card.
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Curation` button and within the `Manage Datasets` tab, click on the `Upload a banner image` card.
 
 1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda). Any existing banner image for your Pennsieve dataset will be automatically imported in the interface.
 2. Click on `Edit banner image`

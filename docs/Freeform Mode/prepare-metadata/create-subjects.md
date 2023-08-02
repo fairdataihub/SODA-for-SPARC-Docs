@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 title: Create subjects.xlsx
-image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-subjects.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Create%20subjects.xlsx&description=Prepare%20Metadata
 ---
 
 ## Background
@@ -10,7 +10,7 @@ Under this feature, SODA lets you quickly and accurately prepare the subjects me
 
 ## How to
 
-To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Prepare Metadata` tab, click on the `Create subjects.xlsx` card.
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Curation` button and within the `Prepare Metadata` tab, click on the `Create subjects.xlsx` card.
 
 ### Step 1
 
@@ -23,12 +23,6 @@ If you want to continue working on an existing subjects.xlsx file, you will be p
 If you are continuing to work on an existing subjects file, the subjects included in that file will be shown in a table. They can be modified or removed through the associated Edit/Copy/Delete buttons.
 
 Click on `Add a subject` to add a new subject. This will prompt you to a form where you can provide information about that subject based on the fields listed below.
-
-<!-- <video
-  controls
-  width="100%"
-  src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Subjects-interface.mp4"
-/> -->
 
 - **subject id** (Mandatory): Enter the ID of this subject. It must be unique for each subject across a dataset. The ID must start with `sub-` followed by any series of alpha-numeric characters (upper and lower cases allowed) or dash `-`. No other characters (including white space) are allowed.
 
@@ -60,23 +54,11 @@ Click on `Add a subject` to add a new subject. This will prompt you to a form wh
 
   - Date of birth: The date of birth of the subject.
 
-<!-- <video
-  controls
-  width="100%"
-  src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Subjects-species.mp4"
-/> -->
-
 - Protocol Information (Optional):
 
   - Protocol title on protocols.io: Enter the title of the protocol on protocols.io associated with this subject study.
 
   - Protocol URL on protocols.io: Enter the protocol.io URL of your protocol.
-
-<!-- <video
-  controls
-  width="100%"
-  src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Subjects-protocols.mp4"
-/> -->
 
 - Additional fields (Optional):
 

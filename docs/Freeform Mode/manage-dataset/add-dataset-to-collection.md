@@ -1,7 +1,7 @@
 ---
 sidebar_position: 9
 title: Add remove dataset to collection
-image: https://docs.sodaforsparc.io/thumbnails/manage-dataset/add-edit-description.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Add%2fedit%20Dataset%20Collection&description=Manage%20Dataset
 ---
 
 ## Background
@@ -14,7 +14,7 @@ A collection allows you to associate and consolidate multiple datasets into a si
 All collection names that belong to the organization will be shown as an option. You can only modify datasets for which you are the owner/manager.
 :::
 
-To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Manage Datasets` tab, click on the
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Curation` button and within the `Manage Datasets` tab, click on the
 `Add dataset to a collection` card.
 
 1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda).

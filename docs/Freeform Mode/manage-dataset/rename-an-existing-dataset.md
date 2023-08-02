@@ -11,7 +11,7 @@ It is thus advised to make sure that your dataset title is different than your o
 
 ## How to
 
-1. In `Free Form Mode Curation`, navigate to the `Rename an existing dataset` page from the `Manage Datasets` tab.
+1. In `Free Form Curation`, navigate to the `Rename an existing dataset` page from the `Manage Datasets` tab.
 2. Select/confirm your Pennsieve account. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda).
 3. Select the `Current dataset` field and choose one of your Pennsieve datasets that you would like to rename.
 4. Enter a new name in the input field and click `Rename dataset`.

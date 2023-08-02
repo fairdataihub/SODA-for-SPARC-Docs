@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 title: Create samples.xlsx
-image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-samples.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Create%20samples.xlsx&description=Prepare%20Metadata
 ---
 
 ## Background
@@ -13,7 +13,7 @@ to help you populate some of the fields easily. The expected structure of this f
 
 ## How to
 
-To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` and within the `Prepare Metadata` tab, click on
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Curation` and within the `Prepare Metadata` tab, click on
 the `Create samples.xlsx` card.
 
 ### Step 1

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Create dataset_description.xlsx
-image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-dataset-description.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Create%20dataset_description.xlsx&description=Prepare%20Metadata
 ---
 
 ## Background
@@ -13,7 +13,7 @@ to help you populate some of the fields easily. The expected structure of this f
 
 ## How to
 
-To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Prepare Metadata` tab, click on
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Curation` button and within the `Prepare Metadata` tab, click on
 the `Create dataset_description.xlsx` card.
 
 You can start by either creating a dataset_description.xlsx file from scratch with SODA or continue working on an existing dataset_description.xlsx file.
@@ -70,12 +70,6 @@ The interface below divides inputs required for preparing the dataset_descriptio
    - Provide information about any contributor to the dataset. Note that the 'Contributor' list is compiled from the SPARC Airtable sheet based on the SPARC award selected. Select one Contributor to get the ORCID ID, Contributor Affiliation, and Contributor Role populated automatically (if specified in the SPARC Airtable Sheet). Select `Other contributors` in the 'Contributors' dropdown list if you'd like to enter a Contributor name manually (although we suggest entering them directly in the SPARC Airtable then restart SODA to see them in the list so they are available for future reuse).
    - Check `Corresponding Author` if the contributor is a contact person/corresponding author for the dataset. At least one and only one of the contributors should be the corresponding author.
    - Click `Add contributor` to add the contributor to SODA's contributor table. Each contributor added to the table will be added to the dataset description file when it is generated.
-
-<!-- <video
-   controls
-   width="100%"
-   src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/dd-awardInfo.mp4"
-/> -->
 
 ### Related Information: protocol, paper, dataset, etc.
 

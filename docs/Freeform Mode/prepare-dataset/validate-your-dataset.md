@@ -4,8 +4,8 @@ title: Standalone Validator
 image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Step%207%20-%20Preview%20dataset&description=Prepare%20Dataset
 ---
 
-This Free Form Mode feature allows you to validate one of your organized datasets stored locally or on Pennsieve. This can save you time by allowing you to avoid stepping
-through `Organize dataset` in `Free Form Mode Curation` or `End to End Curation Mode` UIs when validating your dataset is your only goal.
+This Free Form Curation feature allows you to validate one of your organized datasets stored locally or on Pennsieve. This can save you time by allowing you to avoid stepping
+through `Organize dataset` in `Free Form Curation` or `End to End Curation` UIs when validating your dataset is your only goal.
 
 ## Background
 

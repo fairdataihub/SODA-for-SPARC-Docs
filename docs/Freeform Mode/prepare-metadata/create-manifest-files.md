@@ -1,7 +1,7 @@
 ---
 sidebar_position: 8
 title: Create Manifest files
-image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-manifest-files.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Create%20Manifest%20Files&description=Prepare%20Metadata
 ---
 
 ## Background
@@ -18,7 +18,7 @@ If you do not have pre-existing datasets SODA allows you to create a new dataset
 
 ## How to
 
-To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Prepare Metadata` tab,
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Curation` button and within the `Prepare Metadata` tab,
 click on the `Create manifest.xlsx` card.
 
 1. You can start by either choosing to generate a manifest.xlsx file for a pre-existing dataset stored on your local computer or on Pennsieve.

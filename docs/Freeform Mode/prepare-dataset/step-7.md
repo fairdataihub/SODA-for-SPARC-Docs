@@ -9,7 +9,6 @@ Now that the dataset is prepared validate it to ensure it follows the SPARC Data
 ### Running Validation
 
 - To run validation, click the `Validate Dataset` button.
-  <!-- ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-datasets-validate-button.png?raw=true) -->
 - The validation process will take a few moments to complete.
 - Once validation is complete you can re-run validation as often as desired by clicking the `Validate Dataset` button again.
 

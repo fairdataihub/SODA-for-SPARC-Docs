@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 title: Create README.txt
-image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-readme.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Create%20README.txt&description=Prepare%20Metadata
 ---
 
 <!-- import OptimizedImage from '@site/src/components/OptimizedImage'; -->
@@ -17,7 +17,7 @@ README.txt is a mandatory file when preparing a dataset.
 
 ## How to
 
-To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Prepare Metadata` tab,
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Curation` button and within the `Prepare Metadata` tab,
 click on the `Create README.txt` card.
 
 1. You can start by either Creating a README file from scratch with SODA or Continue working on an existing README.txt file.

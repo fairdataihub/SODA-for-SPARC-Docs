@@ -1,7 +1,7 @@
 ---
 sidebar_position: 7
 title: Create CHANGES.txt
-image: https://docs.sodaforsparc.io/thumbnails/prepare-metadata/create-changes-txt.png
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Create%20CHANGES.txt&description=Prepare%20Metadata
 ---
 
 ## Background
@@ -10,7 +10,7 @@ Under this feature, SODA lets you rapidly prepare the CHANGES metadata file, whi
 
 ## How to
 
-To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Prepare Metadata` tab,
+To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Curation` button and within the `Prepare Metadata` tab,
 click on the `CHANGES.txt` card.
 
 1. You can start by either Creating a CHANGES file from scratch with SODA or Continue working on an existing CHANGES.txt file.
