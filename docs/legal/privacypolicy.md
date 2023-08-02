@@ -139,7 +139,7 @@ All the information that is tracked within SODA is anonymized with privacy in mi
   - The name of the dataset as well as the dataset ID
 - When you rename an existing dataset:
   - Success/Errors with the renaming
-  - The dataset's ID as well as the old and new names of the dataset
+  - The dataset's ID as well as the new name of the dataset.
 - When you upload a local dataset or organize and generate a dataset using SODA:
   - Success/Errors with the upload
   - The name of the dataset
@@ -171,12 +171,9 @@ All the information that is tracked within SODA is anonymized with privacy in mi
   - The name and/or ID of the dataset
 - When you add/edit a dataset's subtitle:
   - Success/Errors with the change in the subtitle
-  - Success/Errors with getting the subtitle
   - The name and/or ID of the dataset
 - When you add/edit a dataset's description:
   - Success/Errors with the change in the description
-  - Success/Errors with getting the description
-  - Success/Errors with parsing the description
   - The name and/or ID of the dataset
 - When you upload a banner image for the dataset:
   - Success/Errors with the upload
@@ -184,15 +181,15 @@ All the information that is tracked within SODA is anonymized with privacy in mi
   - The file size of the banner image
 - When you assign a license to the dataset:
   - Success/Errors with the assignment
-  - Success/Errors with getting the license
   - The name and/or ID of the dataset
 - When you add/edit a dataset's tags:
   - Success/Error with the change in tags
-  - Success/Errors with getting the tags
+  - The name and/or ID of the dataset
+    -When you add/edit a dataset's collection tags:
+  - Success/Error with the change in collection tags
   - The name and/or ID of the dataset
 - When you change a dataset's curation status:
   - Success/Errors with the change in status
-  - Success/Errors in getting the dataset status
   - The name and/or ID of the dataset
 - When you create submission.xlsx metadata file:
   - Success/Errors with the creation
@@ -245,6 +242,9 @@ All the information that is tracked within SODA is anonymized with privacy in mi
 - When you share a dataset with the Curation Team:
   - Success/Errors with the process required to share a dataset with the Curation Team
   - The dataset's status
+  - The name and/or ID of the dataset
+- When you change that status of your dataset:
+  - Success/Errors with the change in status
   - The name and/or ID of the dataset
 
 import PageFeedback from '@site/src/components/PageFeedback';
