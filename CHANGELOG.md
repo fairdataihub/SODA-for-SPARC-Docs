@@ -1,3 +1,9 @@
+## [26.0.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.0.1...v26.0.2) (2023-08-17)
+
+### Bug Fixes
+
+- **deps:** update dependency react-cookie to v5 ([#410](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/410)) ([79cdbc0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/79cdbc0061f89ddcc05db92376b5bf3474144747))
+
 ## [26.0.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.0.0...v26.0.1) (2023-08-06)
 
 ### Bug Fixes
