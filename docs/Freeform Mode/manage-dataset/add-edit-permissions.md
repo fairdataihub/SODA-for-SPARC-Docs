@@ -31,7 +31,7 @@ Team members who need to contribute to your dataset must have a Pennsieve accoun
 
 To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Curation` button and within the `Manage Datasets` tab, click on the `Add/edit permissions` card.
 
-Start by selecting/confirming your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda). The current permissions on the selected dataset will be displayed.
+Start by selecting/confirming your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda). Then Select/confirm your Workspace ( Learn more about workspaces [here](../../how-to/how-to-use-workspaces.md)). The current permissions on the selected dataset will be displayed.
 
 ### Add/edit permissions for team members
 
