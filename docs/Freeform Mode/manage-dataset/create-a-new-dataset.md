@@ -13,8 +13,9 @@ You can create a new dataset on Pennsieve through this feature of SODA. The name
 To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` and within the `Manage Datasets` tab you click on the `Create a new dataset` card.
 
 1. Select/confirm your Pennsieve account. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda).
-2. Enter the desired name for the dataset.
-3. Click `Create dataset`.
+2. Select/confirm your Workspace. Learn more about workspaces [here](../../how-to/how-to-use-workspaces.md).
+3. Enter the desired name for the dataset.
+4. Click `Create dataset`.
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

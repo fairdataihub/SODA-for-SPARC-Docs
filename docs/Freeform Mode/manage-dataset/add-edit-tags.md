@@ -14,11 +14,12 @@ To access this interface click on the `Curate and Share` side bar option, then c
 `Add/edit tags` card.
 
 1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda).
-2. Add, edit, or delete tags:
+2. Select/confirm your Workspace. Learn more about workspaces [here](../../how-to/how-to-use-workspaces.md).
+3. Add, edit, or delete tags:
    - Enter any tags you feel capture the nature of your research in the textbox. Once you have entered the text for a single tag, press `Enter` or click off the textbox to add it.
    - Edit existing tags by double clicking them to change their text. Press `Enter` or click off the textbox to finalize the edit.
    - Delete a tag by clicking the `x` to the right of a given tag.
-3. Click on the `Add Tags` button.
+4. Click on the `Add Tags` button.
 
    - If you already had tags you will be presented with an `Edit Tags` button to click on instead.
 

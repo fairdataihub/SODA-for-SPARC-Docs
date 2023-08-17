@@ -18,11 +18,12 @@ To access this interface click on the `Curate and Share` side bar option, then c
 `Add dataset to a collection` card.
 
 1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda).
-2. Add/delete collection names:
+2. Select/confirm your Workspace. Learn more about workspaces [here](../../how-to/how-to-use-workspaces.md).
+3. Add/delete collection names:
    - A list of collection names that have already been created will appear as a list of suggestions for you to choose.
    - To create a new collection name type any collection name that you feel captures the nature of your dataset as a collection name. Once you have entered the text for a single collection name, press `Enter` or click off the textbox to add it.
    - Delete a collection by clicking the `x` to the right of a given collection name.
-3. Click on the `Update collections` button.
+4. Click on the `Update collections` button.
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

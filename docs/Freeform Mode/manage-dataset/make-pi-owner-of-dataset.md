@@ -19,8 +19,9 @@ The PI of your SPARC award must have a Pennsieve account and have access to the 
 To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Manage Datasets` tab click on the `Make PI owner of dataset` card.
 
 1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda).
-2. Select your SPARC award PI's name in the drop-down list.
-3. Click on `Make PI owner`.
+2. Select/confirm your Workspace. Learn more about workspaces [here](../../how-to/how-to-use-workspaces.md).
+3. Select your SPARC award PI's name in the drop-down list.
+4. Click on `Make PI owner`.
 
 :::note
 You will automatically be assigned `manager` permissions to the dataset if you were the owner of the dataset.

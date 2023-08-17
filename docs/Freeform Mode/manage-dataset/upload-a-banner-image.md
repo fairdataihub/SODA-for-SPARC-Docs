@@ -17,17 +17,18 @@ Only .PNG, .JPEG, and .TIFF images are allowed to be used as a banner.
 To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Mode Curation` button and within the `Manage Datasets` tab, click on the `Upload a banner image` card.
 
 1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda). Any existing banner image for your Pennsieve dataset will be automatically imported in the interface.
-2. Click on `Edit banner image`
-3. Click on `Import image` in the new pop-up window.
-4. Select the image file you want to use as a banner image.
-5. Crop the file as desired.
+2. Select/confirm your Workspace. Learn more about workspaces [here](../../how-to/how-to-use-workspaces.md).
+3. Click on `Edit banner image`
+4. Click on `Import image` in the new pop-up window.
+5. Select the image file you want to use as a banner image.
+6. Crop the file as desired.
 
    :::info
    All banner images must be square, have a minimum display size of _512x512 px_ (_1024x1024 px_ preferred), and have a maximum size of _2048x2048 px_.
    If the image exceeds in dimensions SODA can scale the image down automatically.
    :::
 
-6. Click on `Save changes`. The newly added banner image will be displayed in the interface.
+7. Click on `Save changes`. The newly added banner image will be displayed in the interface.
 
 <!-- ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Add-metadata/banner-image.gif?raw=true) -->
 
