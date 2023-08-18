@@ -33,7 +33,7 @@
     "@mdx-js/react": "1.6.22",
     "@mui/material": "5.11.1",
     "@notionhq/client": "2.2.10",
-    "@svgr/webpack": "8.0.1",
+    "@svgr/webpack": "8.1.0",
     "axios": "1.4.0",
     "clsx": "2.0.0",
     "docusaurus-plugin-umami": "^2.0.0",
