@@ -7,7 +7,20 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
-## v.12.2.0 - 2023-08-01
+## v.12.2.2
+
+## Bug fixes:
+
+- Fixed an issue where switching workspaces in Free Form Mode and Guided Mode would sometimes disallow access to the target workspace for up to a minute.
+
+## v.12.2.1
+
+## Bug fixes:
+
+- Free Form Mode's Standalone Validator feature no longer shows a validation results table when validation fails due to a user missing required metadata files.
+- Linking your ORCID ID with Pennsieve through SODA for SPARC no longer fails to authenticate when given a valid user profile.
+
+## v.12.2.0
 
 ## Feature Additions:
 
