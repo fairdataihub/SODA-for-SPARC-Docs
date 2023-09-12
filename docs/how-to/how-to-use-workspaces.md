@@ -13,8 +13,23 @@ Workspaces are a way to organize datasets and Pennsieve users into groups. A wor
 SODA for SPARC will automatically utilize your default workspace after you have connected your account with Pennsieve.
 If you have access to only one workspace then that workspace is your default workspace. If you have access to multiple workspaces then in most cases the default workspace is the workspace you last accessed on Pennsieve. Any work you do in SODA for SPARC will be done for a dataset in your default workspace.
 
-## How to Change Workspaces Within SODA for SPARC
+## How to switch workspaces within SODA if you sign in with a username/password
 
-For users with access to more than one workspace it is possible to switch between workspace within SODA for SPARC. To switch workspaces in Free Form Mode simply select a feature, and then select the workspace field. This will open a dropdown menu where you can select the workspaces from the list of workspaces you have access to. Enter your email and password to enable the workspace switch.
+1. Navigate to a task or feature that requires authentication. When using End to End Curation, you will have the ability to change workspaces on the 'Pennsieve log in' tab.
+2. Look for the pencil icon located next to your current workspace.
+3. Click the pencil icon, and a dropdown menu will appear.
+4. From the dropdown, choose the workspace you wish to switch to.
+5. Finally, click the "Confirm" button to make the switch.
 
-In Guided Mode you will be asked to verify your workspace before you can proceed with a dataset upload. Like in Free Form Mode you can select your available workspaces from a dropdown menu. Enter your email and password to enable the workspace switch.
+## How to switch workspaces if you sign in with an ORCiD or API Key
+
+1. Close out of SODA if it is currently running.
+2. Sign in to your [Pennsieve account](https://app.pennsieve.io/).
+3. In the bottom left corner of the Pennsieve interface, hover over your account details, and select 'Switch to Private Workspace.'
+4. Choose the workspace you would like to use in SODA when you open it back up.
+5. **Important:** Follow the instructions [here](../common-errors/deleting-pennsieve-config-files) to delete your Pennsieve config files.
+6. After deleting your Pennsieve config files, open SODA, and it will automatically switch to your new workspace.
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />
