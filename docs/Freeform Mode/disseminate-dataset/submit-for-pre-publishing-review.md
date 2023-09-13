@@ -25,8 +25,8 @@ dataset public; or to researchers who have intellectual property concerns.
 ## How to submit a dataset to the Curation Team
 
 - Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet,
-  [use the instructions available here.](../manage-dataset/connect-your-pennsieve-account-with-soda)
-- Select/confirm your Workspace. Learn more about workspaces [here](../../how-to/how-to-use-workspaces.md).
+  [use the instructions available here.](../../connecting-to-pennsieve/connecting-with-username-password)
+- Select/confirm your Workspace. Learn more about workspaces [here](../../how-to/how-to-use-workspaces).
 - Click on `Share with Curation Team`. Only dataset owners can begin a submission.
 - Complete all of the pre-publishing checklist items. Completed items will be marked with a green check. Incomplete items will be marked with a red cross:
   - Click on any incomplete item text to be taken to the section of SODA where you can complete that item.
