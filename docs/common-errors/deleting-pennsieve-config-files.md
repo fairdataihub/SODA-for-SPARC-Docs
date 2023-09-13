@@ -11,7 +11,7 @@ There is a known issue where the Pennsieve Agent fails to start due to more than
 ## For Windows
 
 1. Open the Windows file explorer
-2. Navigate to: 'C:\Users\&lt;your-user-name&gt.pennsieve' (If you can't see it, press 'Command' + 'h' to display hidden files)
+2. Navigate to: 'C:\Users\&lt;your-user-name&gt\.pennsieve' (If you can't see it, press 'Command' + 'h' to display hidden files)
 3. Delete all the files and folders inside the ".pennsieve" folder.
 
 ## For MacOS
