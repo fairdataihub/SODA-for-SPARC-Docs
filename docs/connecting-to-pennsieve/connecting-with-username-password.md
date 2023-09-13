@@ -4,6 +4,16 @@ title: Connecting with a username/password
 image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Installing%20the%20Pennsieve%20agent&description=Common%20errors%20and%20their%20solutions
 ---
 
+## Background
+
+SPARC uses the [Pennsieve](https://app.pennsieve.net/) platform to store data and metadata files as well as append additional metadata. All SPARC researchers must thus share their data on Pennsieve. When using SODA for the first time, you will have to connect your Pennsieve account with SODA to use Pennsieve related functionalities implemented in SODA.
+
+## Prerequisite
+
+You will need a Pennsieve account with access to the SPARC Consortium oganization before connecting your Pennsieve account with SODA. If you do not have a Pennsieve account and/or access to the SPARC Consortium organizaton, follow the instructions available [here](../how-to/how-to-get-a-pennsieve-account).
+
+## Connecting with an username/password
+
 To connect your Pennsieve account using a username and password, follow these steps:
 
 1. Open SODA.
@@ -17,5 +27,7 @@ To connect your Pennsieve account using a username and password, follow these st
 - Neither the SODA Team nor anyone else besides you will have access to your Pennsieve account. The generated login information required for future sessions on your Pennsieve account will be stored locally on your computer only.
 
 :::
+
+import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 title: Create a new dataset
 image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Create%20a%20new%20dataset&description=Manage%20Dataset
 ---

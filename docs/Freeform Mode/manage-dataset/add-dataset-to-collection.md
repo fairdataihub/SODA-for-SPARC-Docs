@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 8
 title: Add remove dataset to collection
 image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Add%2fedit%20Dataset%20Collection&description=Manage%20Dataset
 ---

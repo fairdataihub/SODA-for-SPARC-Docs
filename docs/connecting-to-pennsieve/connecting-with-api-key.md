@@ -5,10 +5,19 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Installi
 ---
 
 :::caution
-
 Using your API key to sign in is only recommended if you sign in to Pennsieve with an ORCiD account.
 If you have a Pennsieve username and password, please view how to use them to sign in [here](./connecting-with-username-password).
 :::
+
+## Background
+
+SPARC uses the [Pennsieve](https://app.pennsieve.net/) platform to store data and metadata files as well as append additional metadata. All SPARC researchers must thus share their data on Pennsieve. When using SODA for the first time, you will have to connect your Pennsieve account with SODA to use Pennsieve related functionalities implemented in SODA.
+
+## Prerequisite
+
+You will need a Pennsieve account with access to the SPARC Consortium oganization before connecting your Pennsieve account with SODA. If you do not have a Pennsieve account and/or access to the SPARC Consortium organizaton, follow the instructions available [here](../how-to/how-to-get-a-pennsieve-account).
+
+## Connecting with an API key
 
 SODA does not currently offer a method to connect your Pennsieve account with an ORCiD, therefore you will have to generate an API key on Pennsieve to use to sign in to SODA.
 To sign in with a Pennsieve API key, please follow the following steps:
@@ -32,5 +41,7 @@ Once your API key is created, open SODA. To sign in with your API key, follow th
 - Neither the SODA Team nor anyone else besides you will have access to your API key and secret. The API key and secred will be stored locally on your computer only.
 
 :::
+
+import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 11
 title: Upload a banner image
 image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Upload%20a%20banner%20image&description=Manage%20Dataset
 ---

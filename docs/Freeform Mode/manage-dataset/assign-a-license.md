@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 title: Assign a license
 image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Assign%20a%20license&description=Manage%20Dataset
 ---

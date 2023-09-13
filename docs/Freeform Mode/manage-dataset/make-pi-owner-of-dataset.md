@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 title: Make PI owner of dataset
 image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Make%20PI%20owner%20of%20dataset&description=Manage%20Dataset
 ---

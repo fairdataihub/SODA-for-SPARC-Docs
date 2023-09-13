@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 9
 title: Add edit tags
 image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Add%2Fedit%20tags&description=Manage%20Dataset
 ---
