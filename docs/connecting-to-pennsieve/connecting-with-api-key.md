@@ -25,7 +25,7 @@ To sign in with a Pennsieve API key, please follow the following steps:
 1. Log in to your [Pennsieve account](https://app.pennsieve.io/).
 2. On the bottom left of the Pennsieve interface, hover over your account details and select 'View My Profile.'
 3. In the API Keys section, click the 'Create API Key' button.
-4. You will be prompted to enter a name for your API key. The name of they API key is not important, but please **make sure it is unique**.
+4. You will be prompted to enter a name for your API key. The name of they API key is not important, but please **make sure it is unique** and has not been used in SODA before.
 
 Once your API key is created, open SODA. To sign in with your API key, follow these steps:
 
