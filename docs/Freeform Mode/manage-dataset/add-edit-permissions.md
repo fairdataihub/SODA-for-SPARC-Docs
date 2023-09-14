@@ -25,7 +25,7 @@ When you create a dataset, it is private and accessible only to you (you have `o
 
 ## Prerequisite
 
-Team members who need to contribute to your dataset must have a Pennsieve account and have access to the SPARC Consortium organization on Pennsieve (see the Prerequisite section [here](../manage-dataset/connect-your-pennsieve-account-with-soda) for details).
+Team members who need to contribute to your dataset must have a Pennsieve account and have access to the SPARC Consortium organization on Pennsieve (see the Prerequisite section [here](../../how-to/how-to-get-a-pennsieve-account) for details).
 
 ## How to
 
