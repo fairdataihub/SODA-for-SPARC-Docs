@@ -10,7 +10,7 @@ The status of a dataset is used to allow easy communication between SPARC invest
 
 ## How to
 
-1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda).
+1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](../../connecting-to-pennsieve/connecting-with-username-password).
 2. Select/confirm your Workspace. Learn more about workspaces [here](../../how-to/how-to-use-workspaces.md).
 3. Select the desired option from the list.
 

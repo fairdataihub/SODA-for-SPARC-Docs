@@ -25,13 +25,13 @@ When you create a dataset, it is private and accessible only to you (you have `o
 
 ## Prerequisite
 
-Team members who need to contribute to your dataset must have a Pennsieve account and have access to the SPARC Consortium organization on Pennsieve (see the Prerequisite section [here](../manage-dataset/connect-your-pennsieve-account-with-soda) for details).
+Team members who need to contribute to your dataset must have a Pennsieve account and have access to the SPARC Consortium organization on Pennsieve (see the Prerequisite section [here](../../how-to/how-to-get-a-pennsieve-account) for details).
 
 ## How to
 
 To access this interface click on the `Curate and Share` side bar option, then click on the `Free Form Curation` button and within the `Manage Datasets` tab, click on the `Add/edit permissions` card.
 
-Start by selecting/confirming your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](./connect-your-pennsieve-account-with-soda). Then Select/confirm your Workspace ( Learn more about workspaces [here](../../how-to/how-to-use-workspaces.md)). The current permissions on the selected dataset will be displayed.
+Start by selecting/confirming your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](../../connecting-to-pennsieve/connecting-with-username-password). Then Select/confirm your Workspace ( Learn more about workspaces [here](../../how-to/how-to-use-workspaces.md)). The current permissions on the selected dataset will be displayed.
 
 ### Add/edit permissions for team members
 

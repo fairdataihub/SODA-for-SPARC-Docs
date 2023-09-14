@@ -1,7 +1,7 @@
 ---
 sidebar_position: 8
 title: Deleting your Pennsieve account config
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=API%20Version%20Mismatch&description=Common%20errors%20and%20their%20solutions
+image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Deleting%20Pennsieve%20config%20files&description=
 ---
 
 ## Issue Background
