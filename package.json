@@ -48,7 +48,7 @@
     "react-lottie": "1.2.3",
     "react-player": "2.13.0",
     "url-loader": "4.1.1",
-    "uuid": "9.0.0"
+    "uuid": "9.0.1"
   },
   "devDependencies": {
     "@babel/eslint-parser": "7.22.15",
