@@ -1,3 +1,9 @@
+## [26.0.8](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.0.7...v26.0.8) (2023-09-18)
+
+### Bug Fixes
+
+- **deps:** update dependency uuid to v9.0.1 ([#439](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/439)) ([0eb6110](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/0eb6110a00efaeb627adebd028b9911e199dddc3))
+
 ## [26.0.7](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.0.6...v26.0.7) (2023-09-11)
 
 ### Bug Fixes
