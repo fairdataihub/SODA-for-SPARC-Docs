@@ -1,3 +1,10 @@
+## [26.1.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.1.1...v26.1.2) (2023-10-01)
+
+### Bug Fixes
+
+- **deps:** update dependency axios to v1.5.1 ([#453](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/453)) ([3c78048](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/3c78048b1e51440fac3ffd224491e40a679f36d8))
+- **deps:** update dependency prism-react-renderer to v2.1.0 ([#452](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/452)) ([dbc9e83](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/dbc9e83ccd3b3ac436dde9c5a5353d7ec264f9ac))
+
 ## [26.1.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.1.0...v26.1.1) (2023-09-24)
 
 ### Bug Fixes
