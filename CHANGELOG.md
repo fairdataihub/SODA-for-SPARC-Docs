@@ -1,3 +1,9 @@
+## [26.2.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.2.0...v26.2.1) (2023-10-19)
+
+### Bug Fixes
+
+- 🐛 Always get latest release for all platforms ([1d897a8](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/1d897a89de85f654ac1b1e5f1d0713a48b8c3e63))
+
 # [26.2.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.1.2...v26.2.0) (2023-10-19)
 
 ### Features
