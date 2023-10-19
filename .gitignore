@@ -21,3 +21,6 @@ yarn-error.log*
 .eslintcache
 .env
 notionTest.js
+.yarn
+.yarnrc.yml
+yarn.lock
