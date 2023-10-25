@@ -7,6 +7,16 @@ image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelo
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v.12.3.3
+
+## Bug fixes:
+
+- If multiple Pennsieve Agents are installed on a user's system the most current Pennsieve Agent is started.
+
+## Known Issues:
+
+- Pennsieve Agent cannot be started on Mac OS X versions >= 22 ( aka Ventura )
+
 ## v.12.3.2
 
 ## Bug fixes:
