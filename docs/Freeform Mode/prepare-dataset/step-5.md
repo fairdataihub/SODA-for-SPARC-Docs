@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 title: Step 5 - Request manifest files
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Step%205%20-%20Request%20manifest%20files&description=Prepare%20Dataset
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%205%20-%20Request%20manifest%20files&description=Prepare%20Dataset&org=fairdataihub
 ---
 
 Manifest files are mandatory for all datasets. To learn more about this metadata file we refer to our corresponding

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Rename an existing dataset
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Rename%20an%20existing%20dataset&description=Manage%20Dataset
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Rename%20an%20existing%20dataset&description=Manage%20Dataset
 ---
 
 ## Background

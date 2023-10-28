@@ -3,7 +3,7 @@ sidebar_position: 12
 pagination_prev: null
 pagination_next: null
 title: Terms of Use
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Terms%20of%20Use&description=
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Terms%20of%20Use&description=
 ---
 
 ### Version 1.0

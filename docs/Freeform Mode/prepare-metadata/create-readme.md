@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 title: Create README.txt
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Create%20README.txt&description=Prepare%20Metadata
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Create%20README.txt&description=Prepare%20Metadata&org=fairdataihub
 ---
 
 <!-- import OptimizedImage from '@site/src/components/OptimizedImage'; -->

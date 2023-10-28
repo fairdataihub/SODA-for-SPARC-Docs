@@ -2,7 +2,7 @@
 sidebar_position: 3
 pagination_next: null
 title: Cookie Policy
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Cookie%20Policy&description=Information%20about%20SODA%20for%20SPARC%27s%20documentation%20platform%20cookie%20policy
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Cookie%20Policy&description=Information%20about%20SODA%20for%20SPARC%27s%20documentation%20platform%20cookie%20policy&org=fairdataihub
 ---
 
 ## What Are Cookies?

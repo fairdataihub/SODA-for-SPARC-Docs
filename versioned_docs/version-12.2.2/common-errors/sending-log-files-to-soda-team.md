@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 title: Sending log files to SODA Team
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Sending%20log%20files%20to%20SODA%20Team&description=Common%20errors%20and%20their%20solutions
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Sending%20log%20files%20to%20SODA%20Team&description=Common%20errors%20and%20their%20solutions
 ---
 
 ## Background

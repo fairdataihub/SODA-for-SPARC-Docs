@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 title: API Version Mismatch
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=API%20Version%20Mismatch&description=Common%20errors%20and%20their%20solutions
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=API%20Version%20Mismatch&description=Common%20errors%20and%20their%20solutions&org=fairdataihub
 ---
 
 ## Issue Background

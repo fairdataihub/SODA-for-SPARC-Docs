@@ -2,7 +2,7 @@
 sidebar_position: 6
 pagination_next: null
 title: How to get your Data Deliverables document
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Get%20your%20Data%20Deliverables%20document&description=%27How%20to%27%20SPARC%20series
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Get%20your%20Data%20Deliverables%20document&description=%27How%20to%27%20SPARC%20series
 ---
 
 ## Background

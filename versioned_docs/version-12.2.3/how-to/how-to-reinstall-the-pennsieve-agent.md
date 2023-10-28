@@ -2,7 +2,7 @@
 sidebar_position: 8
 pagination_next: null
 title: How to reinstall the Pennsieve Agent
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Reinstall%20the%20Pennsieve%20Agent&description=%27How%20to%27%20SPARC%20series
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Reinstall%20the%20Pennsieve%20Agent&description=%27How%20to%27%20SPARC%20series
 ---
 
 ## Background

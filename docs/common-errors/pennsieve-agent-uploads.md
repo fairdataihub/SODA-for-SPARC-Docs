@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Pennsieve agent fails to upload a dataset
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Pennsieve%20agent%20fails%20to%20upload%20a%20dataset&description=Common%20errors%20and%20their%20solutions
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Pennsieve%20agent%20fails%20to%20upload%20a%20dataset&description=Common%20errors%20and%20their%20solutions&org=fairdataihub
 ---
 
 ## Issue Background

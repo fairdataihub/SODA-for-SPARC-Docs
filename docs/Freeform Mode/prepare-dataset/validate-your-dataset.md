@@ -1,7 +1,7 @@
 ---
 sidebar_position: 10
 title: Standalone Validator
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Step%207%20-%20Preview%20dataset&description=Prepare%20Dataset
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%207%20-%20Preview%20dataset&description=Prepare%20Dataset&org=fairdataihub
 ---
 
 This Free Form Curation feature allows you to validate one of your organized datasets stored locally or on Pennsieve. This can save you time by allowing you to avoid stepping

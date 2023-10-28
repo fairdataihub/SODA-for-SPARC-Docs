@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Building the application
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Building%20the%20application&description=For%20Developers
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Building%20the%20application&description=For%20Developers&org=fairdataihub
 ---
 
 ```shell title="For Windows"

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 9
 title: Download templates
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Download%20Templates&description=Prepare%20Metadata
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Download%20Templates&description=Prepare%20Metadata&org=fairdataihub
 ---
 
 ## Background
