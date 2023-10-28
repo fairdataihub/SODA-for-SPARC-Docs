@@ -3,16 +3,15 @@ sidebar_position: 11
 pagination_prev: null
 pagination_next: null
 title: Changelog
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelog&description=All%20notable%20changes%20to%20SODA%20for%20SPARC
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Changelog&description=All%20notable%20changes%20to%20SODA%20for%20SPARC
 ---
 
 All notable changes to SODA for SPARC will be documented in this file.
 
-
-
 ## v.10.0.2
 
 ## Bug fixes:
+
 - Fixed an issue causing Guided Mode dataset imports to reject when proper criteria are met.
 - Fixed an issue causing the Pennsieve Agent to not start up properly
 - Fixed an issue on Mac and Linux where importing a dataset with manifest files present would cause the import to fail.
@@ -47,7 +46,6 @@ All notable changes to SODA for SPARC will be documented in this file.
   - The transition to the generate step in the Organize Datasets feature is slowed when working with large datasets.
   - Uploading large amounts of very small files ( <= 1kb ) will sometimes cause the upload to pause or crash. It is best to restart the upload when this happens.
 - When working with large datasets and trying to auto generate manifest files to edit. It can take some time and with no status indicator on the progress. (To be added)
-
 
 ## v.9.4.0
 

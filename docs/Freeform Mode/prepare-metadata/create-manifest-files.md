@@ -1,7 +1,7 @@
 ---
 sidebar_position: 8
 title: Create Manifest files
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Create%20Manifest%20Files&description=Prepare%20Metadata
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Create%20Manifest%20Files&description=Prepare%20Metadata&org=fairdataihub
 ---
 
 ## Background

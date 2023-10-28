@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Overview
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Overview&description=Free%20Form%20Curation
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Overview&description=Free%20Form%20Curation&org=fairdataihub
 ---
 
 ### About

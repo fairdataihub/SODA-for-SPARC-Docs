@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 title: Issues regarding hidden files or folders
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Issues%20regarding%20hidden%20files%20or%20folders&description=Common%20errors%20and%20their%20solutions
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Issues%20regarding%20hidden%20files%20or%20folders&description=Common%20errors%20and%20their%20solutions&org=fairdataihub
 ---
 
 ## Background

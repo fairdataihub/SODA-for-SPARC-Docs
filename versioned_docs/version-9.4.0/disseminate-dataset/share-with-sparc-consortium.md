@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Share with SPARC Consortium
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Share%20with%20SPARC%20Consortium&description=Disseminate%20Dataset
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Share%20with%20SPARC%20Consortium&description=Disseminate%20Dataset
 ---
 
 Once your dataset is approved by the Curation Team, it is ready to be shared with the SPARC Consortium as embargoed dataset. Sharing will give `viewer` permissions to any SPARC investigator who has signed the SPARC Non-disclosure form and will allow them to see your data. They will then be able to view and download your dataset from Pennsieve.

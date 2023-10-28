@@ -1,7 +1,7 @@
 ---
 sidebar_position: 7
 title: Step 6 - Generate dataset
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Step%206%20-%20Generate%20dataset&description=Prepare%20Dataset
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%206%20-%20Generate%20dataset&description=Prepare%20Dataset
 ---
 
 The dataset will be generated based on the information provided during the previous steps. It could be generated **locally on your computer** or **directly on Pennsieve**.

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 7
 title: How to get a Pennsieve account and access to the SPARC Consortium organization
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=How%20to%20get%20a%20Pennsieve%20account%20and%20access%20to%20the%20SPARC%20Consortium%20organization&description=%27How%20to%27%20SPARC%20series
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=How%20to%20get%20a%20Pennsieve%20account%20and%20access%20to%20the%20SPARC%20Consortium%20organization&description=%27How%20to%27%20SPARC%20series
 ---
 
 ## Background

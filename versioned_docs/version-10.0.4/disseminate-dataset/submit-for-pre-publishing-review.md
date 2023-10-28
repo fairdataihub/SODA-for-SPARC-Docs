@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Submit for pre publishing review
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Submit%20for%20pre%20publishing%20review&description=Disseminate%20Dataset
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Submit%20for%20pre%20publishing%20review&description=Disseminate%20Dataset
 ---
 
 ## Background

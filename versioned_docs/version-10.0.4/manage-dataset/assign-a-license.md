@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 title: Assign a license
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Assign%20a%20license&description=Manage%20Dataset
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Assign%20a%20license&description=Manage%20Dataset
 ---
 
 ## Background

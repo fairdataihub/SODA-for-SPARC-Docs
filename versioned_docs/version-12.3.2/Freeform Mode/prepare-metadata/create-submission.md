@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Create submission.xlsx
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Create%20submission.xlsx&description=Prepare%20Metadata
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Create%20submission.xlsx&description=Prepare%20Metadata
 ---
 
 ## Background

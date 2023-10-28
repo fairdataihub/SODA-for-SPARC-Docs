@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Step-by-step guide for curating and sharing data
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Step-by-step%20guide%20to%20organize%20and%20submit%20SPARC%20datasets%20with%20SODA%20for%20SPARC&description=Getting%20Started
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step-by-step%20guide%20to%20organize%20and%20submit%20SPARC%20datasets%20with%20SODA%20for%20SPARC&description=Getting%20Started
 ---
 
 ### A. Initial inquiry

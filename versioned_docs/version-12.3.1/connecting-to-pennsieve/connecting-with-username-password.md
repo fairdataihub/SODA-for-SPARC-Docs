@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Connecting with a username/password
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Connecting%20with%20a%20username%2Fpassword&description=How%20to%20connect%20Pennsieve%20to%20SODA%20with%20Pennsieve%20credentials
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Connecting%20with%20a%20username%2Fpassword&description=How%20to%20connect%20Pennsieve%20to%20SODA%20with%20Pennsieve%20credentials
 ---
 
 ## Background

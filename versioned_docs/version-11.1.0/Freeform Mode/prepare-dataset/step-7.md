@@ -1,7 +1,7 @@
 ---
 sidebar_position: 8
 title: Step 7 - Validate dataset
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Step%206%20-%20Generate%20dataset&description=Prepare%20Dataset
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%206%20-%20Generate%20dataset&description=Prepare%20Dataset
 ---
 
 Now that the dataset is prepared validate it to ensure it follows the SPARC Dataset Structure before uploading it to Pennsieve.
