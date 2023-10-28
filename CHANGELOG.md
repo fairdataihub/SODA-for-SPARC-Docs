@@ -1,3 +1,9 @@
+## [26.2.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.2.1...v26.2.2) (2023-10-28)
+
+### Bug Fixes
+
+- 🐛 update og images ([#469](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/469)) ([89c1e76](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/89c1e76b92ff2db568f883ea8c4698d7598529c9))
+
 ## [26.2.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.2.0...v26.2.1) (2023-10-19)
 
 ### Bug Fixes
