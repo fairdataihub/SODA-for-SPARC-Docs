@@ -148,6 +148,9 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      image:
+        // eslint-disable-next-line max-len
+        'https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=SODA%20for%20SPARC&org=fairdataihub&description=Easily%20make%20bioelectronic%2C%20neurophysiology%2C%20and%20other%20similar%20research%20data%20and%20computational%20models%20FAIR%20following%20the%20NIH%20SPARC%20guidelines',
       metadata: [
         {
           name: 'keywords',
