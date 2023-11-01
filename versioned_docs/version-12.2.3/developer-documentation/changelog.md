@@ -213,7 +213,7 @@ All notable changes to SODA for SPARC will be documented in this file.
 
 - Freeform Mode:
   - The transition to the generate step in the Organize Datasets feature is slowed when working with large datasets.
-  - Uploading large amounts of very small files ( <= 1kb ) will sometimes cause the upload to pause or crash. It is best to restart the upload when this happens.
+  - Uploading large amounts of very small files ( {'<='} 1kb ) will sometimes cause the upload to pause or crash. It is best to restart the upload when this happens.
 - When working with large datasets and trying to auto generate manifest files to edit. It can take some time and with no status indicator on the progress. (To be added)
 
 ## v.9.4.0

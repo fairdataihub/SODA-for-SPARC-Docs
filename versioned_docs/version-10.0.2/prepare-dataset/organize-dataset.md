@@ -12,13 +12,13 @@ All SPARC datasets must follow the top level SPARC folder structure imposed by t
 
 ## How to
 
-- [Step 1: Getting started](./step-1.md)
-- [Step 2: Specify high-level folders](./step-2.md)
-- [Step 3: Structure dataset files](./step-3.md)
-- [Step 4: Specify high-level metadata files](./step-4.md)
-- [Step 5: Request manifest files](./step-5.md)
-- [Step 6: Generate dataset](./step-6.md)
-- [Step 7: Preview dataset](./step-7.md)
+- [Step 1: Getting started](./step-1)
+- [Step 2: Specify high-level folders](./step-2)
+- [Step 3: Structure dataset files](./step-3)
+- [Step 4: Specify high-level metadata files](./step-4)
+- [Step 5: Request manifest files](./step-5)
+- [Step 6: Generate dataset](./step-6)
+- [Step 7: Preview dataset](./step-7)
 
 :::info
 You can save your progress using the Save progress button available in the lower right corner starting from Step 3.

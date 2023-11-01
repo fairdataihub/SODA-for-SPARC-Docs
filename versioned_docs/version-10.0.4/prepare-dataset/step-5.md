@@ -4,7 +4,7 @@ title: Step 5 - Request manifest files
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%205%20-%20Request%20manifest%20files&description=Prepare%20Dataset
 ---
 
-Manifest files are mandatory for all datasets. To learn more about this metadata file we refer to our corresponding "[How to](../how-to/how-to-structure-the-manifest-metadata-file.md)" page.
+Manifest files are mandatory for all datasets. To learn more about this metadata file we refer to our corresponding "[How to](../how-to/how-to-structure-the-manifest-metadata-file)" page.
 
 To generate and include manifest files automatically, simply toggle the option to `Yes`. Then, when you generate the dataset (Step 6), a **manifest.xlsx** file will be added to each high-level SPARC folder with the `filename`, `timestamp`, and `file type` fields automatically populated in the correct format while the `description` and `Additional Metadata` fields can be added by the user by selecting on a high-level folder to make manifest edits. Upon making edits, hitting the save and exit button will create manifest.xlsx files to be added upon dataset upload/creation.
 :::caution
