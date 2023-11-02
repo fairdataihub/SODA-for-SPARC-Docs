@@ -1,3 +1,10 @@
+## [26.2.4](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.2.3...v26.2.4) (2023-11-02)
+
+### Bug Fixes
+
+- **deps:** update dependency @mui/material to v5.14.15 ([#472](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/472)) ([e953bfb](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/e953bfba6d8076eb688925268746260ba9938a04))
+- **deps:** update dependency axios to v1.6.0 ([#474](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/474)) ([c490f52](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/c490f526174ab458b17777229117976f278d8911))
+
 ## [26.2.3](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.2.2...v26.2.3) (2023-10-29)
 
 ### Bug Fixes
