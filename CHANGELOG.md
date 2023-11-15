@@ -1,3 +1,9 @@
+## [26.2.8](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.2.7...v26.2.8) (2023-11-15)
+
+### Bug Fixes
+
+- **deps:** update dependency prism-react-renderer to v2.2.0 ([#490](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/490)) ([680f60c](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/680f60c93ab05a37c30209ab079aba0d3b6ad00d))
+
 ## [26.2.7](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.2.6...v26.2.7) (2023-11-12)
 
 ### Bug Fixes
