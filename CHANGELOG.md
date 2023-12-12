@@ -1,3 +1,9 @@
+## [26.3.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.3.1...v26.3.2) (2023-12-12)
+
+### Bug Fixes
+
+- **deps:** update dependency @mui/material to v5.14.20 ([#508](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/508)) ([365d0d0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/365d0d05920eb59c520b97cd3caf1c314f77c998))
+
 ## [26.3.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.3.0...v26.3.1) (2023-12-07)
 
 ### Bug Fixes
