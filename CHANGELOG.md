@@ -1,3 +1,9 @@
+# [26.5.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.4.0...v26.5.0) (2023-12-21)
+
+### Features
+
+- ✨ Create 12.4.2 docs ([c1e51c2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/c1e51c24e66aada488241e7a353f546d74df5ad4))
+
 # [26.4.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.3.4...v26.4.0) (2023-12-19)
 
 ### Features
