@@ -1,3 +1,11 @@
+## [26.5.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.5.0...v26.5.1) (2024-01-02)
+
+### Bug Fixes
+
+- **deps:** update dependency @mui/material to v5.15.2 ([#520](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/520)) ([2d157e6](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/2d157e692e05d95b618a89b6b674f3211a6d60d7))
+- **deps:** update dependency prism-react-renderer to v2.3.1 ([#518](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/518)) ([7121999](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/7121999535464c72abcd15ff8a81d4b0a0d76455))
+- **deps:** update dependency react-player to v2.14.1 ([#515](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/515)) ([40a1698](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/40a1698fd55d143f89bb4a856f927c668ff9f71e))
+
 # [26.5.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.4.0...v26.5.0) (2023-12-21)
 
 ### Features
