@@ -22,3 +22,5 @@ yarn-error.log*
 .env
 notionTest.js
 .yarn
+.yarnrc.yml
+yarn.lock

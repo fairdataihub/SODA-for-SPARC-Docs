@@ -1,7 +1,7 @@
 ---
 sidebar_position: 8
 title: How to get access to the SPARC Airtable spreadsheet
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=How%20to%20get%20access%20to%20the%20SPARC%20Airtable%20spreadsheet&description=%27How%20to%27%20SPARC%20series
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=How%20to%20get%20access%20to%20the%20SPARC%20Airtable%20spreadsheet&description=%27How%20to%27%20SPARC%20series
 ---
 
 ## Background

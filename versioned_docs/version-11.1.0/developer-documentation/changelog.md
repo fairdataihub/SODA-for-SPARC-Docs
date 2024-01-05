@@ -2,10 +2,22 @@
 sidebar_position: 11
 pagination_next: null
 title: Changelog
-image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Changelog&description=All%20notable%20changes%20to%20SODA%20for%20SPARC
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Changelog&description=All%20notable%20changes%20to%20SODA%20for%20SPARC
 ---
 
 All notable changes to SODA for SPARC will be documented in this file.
+
+## v.11.1.0
+
+## Bug fixes:
+
+- Fixed an issue allowing pre-release Pennsieve agents to be required for users
+- GM: Removed the ability to add forbidden characters to dataset names
+
+## Feature Additions:
+
+- Simplified the home page by narrowing down the flow to two buttons: End to End and Free Form curation
+- Simplified the share with curation team flow
 
 ## v.11.0.0 - 2023-03-29
 
