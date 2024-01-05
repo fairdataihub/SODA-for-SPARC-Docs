@@ -7,6 +7,40 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v.12.5.0 
+
+## Feature Additions:
+
+- SODA will help resolve certain issues with starting the Pennsieve Agent that some users experience.
+- SODA will show high level folders in Guided Mode and Free Form mode file structure review. These folders are expandable to show the rest of the dataset structure.
+- SODA tracks the size and amount of metadadta files created in Guided Mode more granularly.
+
+
+## v.12.4.2
+
+## Bug fixes:
+
+- Fixed Pennsieve login bug for accounts with Emails containing periods.
+
+
+## v.12.4.1
+
+## Feature Additions:
+
+- Added a method to bypass Pennsieve agent updates when a platform specific release is not able to be found.
+
+## v.12.4.0
+
+## Feature Additions:
+
+- Added a new feature to Guided Mode that allows you to import subjects, pools, and samples from an external spreadsheet.
+
+## v.12.3.3
+
+## Bug fixes:
+
+- If multiple Pennsieve Agents are installed on a user's system the most current Pennsieve Agent is started.
+
 ## v.12.3.2
 
 ## Bug fixes:
