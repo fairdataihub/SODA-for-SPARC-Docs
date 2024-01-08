@@ -1,3 +1,10 @@
+## [26.5.2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.5.1...v26.5.2) (2024-01-08)
+
+### Bug Fixes
+
+- **deps:** update dependency @emotion/react to v11.11.3 ([#523](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/523)) ([fa1b203](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/fa1b2031ca9c7b22d0e01975da8b850fdb31cdf9))
+- **deps:** update dependency axios to v1.6.4 ([#524](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/524)) ([bd2fba5](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/bd2fba54ed7176f8f0cb5c33527043fcfb7a93a9))
+
 ## [26.5.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.5.0...v26.5.1) (2024-01-02)
 
 ### Bug Fixes
