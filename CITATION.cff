@@ -25,7 +25,7 @@ authors:
     family-names: Clark
     given-names: Jacob
 cff-version: 1.2.0
-date-released: '2024-01-09'
+date-released: '2024-01-14'
 identifiers:
   - description: DOI for this software's record on Zenodo
     type: doi
@@ -46,4 +46,4 @@ repository-code: https://github.com/fairdataihub/SODA-for-SPARC-Docs
 title: SODA for SPARC docs
 type: software
 url: https://fairdataihub.org/
-version: 26.5.4
+version: 26.5.5
