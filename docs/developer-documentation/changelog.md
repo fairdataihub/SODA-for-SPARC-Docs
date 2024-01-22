@@ -7,7 +7,14 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
-## v.12.5.0 
+## v.13.0.0
+
+## Feature Additions:
+
+- SODA added the ability for users to generate a local copy of their datasets for review to Guided Mode. This should assist users in ensuring their dataset is organized per their criteria before commiting to uploading their dataset to Pennsieve.
+- SODA has been converted to ESM and is using Electron-Vite for bundling.
+
+## v.12.5.0
 
 ## Feature Additions:
 
@@ -15,13 +22,11 @@ All notable changes to SODA for SPARC will be documented in this file.
 - SODA will show high level folders in Guided Mode and Free Form mode file structure review. These folders are expandable to show the rest of the dataset structure.
 - SODA tracks the size and amount of metadadta files created in Guided Mode more granularly.
 
-
 ## v.12.4.2
 
 ## Bug fixes:
 
 - Fixed Pennsieve login bug for accounts with Emails containing periods.
-
 
 ## v.12.4.1
 
