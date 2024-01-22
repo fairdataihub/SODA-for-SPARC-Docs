@@ -60,7 +60,7 @@ npm install -g win-node-env
 You can now launch the application with the following command for all Operating Systems.
 
 ```bash
-npm start
+npm run dev
 ```
 
 ## Installing packages
@@ -87,7 +87,7 @@ yarn add <package-name>
 The minimum required programming language and compiler versions are provided below. Please be aware that this is subject to change.
 
 - Python: 3.9
-- Nodejs: ^10.13.0
+- Nodejs: ^18.0.0
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

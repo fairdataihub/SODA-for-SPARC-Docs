@@ -6,10 +6,10 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Buil
 
 ```shell title="For Windows"
 conda activate env-electron-python
-npm run python-onefile-build
+npm run python-onefile-build-win
 
 # To build only
-npm run build-win
+npm run build
 
 # To build and publish
 npm run deploy-win
@@ -17,10 +17,10 @@ npm run deploy-win
 
 ```shell title="For macOS"
 conda activate env-electron-python
-npm run python-onefile-build
+npm run python-onefile-build-unix
 
 # To build only
-npm run build-mac
+npm run build
 
 # To build and publish
 npm run deploy-mac
@@ -28,10 +28,10 @@ npm run deploy-mac
 
 ```shell title="For Linux"
 conda activate env-electron-python
-npm run python-onefile-build
+npm run python-onefile-build-unix
 
 # To build only
-npm run build-linux
+npm run build
 
 # To build and publish
 npm run deploy-linux
@@ -44,19 +44,19 @@ You can use the predefined build script to create a release for the app.
 - Windows:
 
 ```bash
-npm run build-win
+npm run deploy-win
 ```
 
 - MAC:
 
 ```bash
-npm run build-mac
+npm run deploy-mac
 ```
 
 - Linux:
 
 ```bash
-npm run build-linux
+npm run deploy-linux
 ```
 
 If there are any errors, please check your build settings in the package.json. For more information regarding the build process and all the possible configuration options please refer to [electron-builder](https://www.electron.build/configuration/configuration) documentation.
