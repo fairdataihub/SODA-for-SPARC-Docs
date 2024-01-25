@@ -20,23 +20,34 @@ with the minimum required metadata by the SPARC dataset structure.
 ### Testing this feature
 
 1. [Download a sample dataset to test the manifest file generation ](../../static/test-dataset.zip)
+2. Navigate to the manifest file generation feature of SODA. To get there from the home page of SODA, click the "Free Form Curation" button, select the Prepare Metadata button at the top of the page, and then
+   click the "Create manifest.xlsx" button.
+3. Generate manifest files for the test dataset downloaded in step 1. For assistance in manifest file creation, [View the docs for generating manifest files](../Freeform%20Mode/prepare-metadata/create-manifest-files.md)
 
-## Generate manifest files locally
+## Example 2: Generating submission metadata
 
-1. Navigate to a task or feature that requires authentication. When using End to End Curation, you will have the ability to change workspaces on the 'Pennsieve log in' tab.
-2. Look for the pencil icon located next to your current workspace.
-3. Click the pencil icon, and a dropdown menu will appear.
-4. From the dropdown, choose the workspace you wish to switch to.
-5. Finally, click the "Confirm" button to make the switch.
+The submission metadata file is an excel file that contains information about the dataset you are setting and the milestones related to the submission.
+
+### Testing this feature
+
+1. Navigate to the submission metadata file generation feature of SODA. To get there from the home page of SODA, click the "Free Form Curation" button, select the Prepare Metadata button at the top of the page, and then
+   click the "Create submission.xlsx" button.
+2. Indicate that you would like to start a new submission.xlsx file
+3. Select any Funding Consortium from the dropdown.
+4. Enter an Award number, for example, A123456
+5. Enter milestone(s), for example "milestone1" and "milestone2"
+6. Choose a completion date (any date is OK)
+7. Click the Generate button to generate the metadata file locally to your computer.
 
 ## Download SPARC metadata templates
 
-1. Close out of SODA if it is currently running.
-2. Sign in to your [Pennsieve account](https://app.pennsieve.io/).
-3. In the bottom left corner of the Pennsieve interface, hover over your account details, and select 'Switch to Private Workspace.'
-4. Choose the workspace you would like to use in SODA when you open it back up.
-5. **Important:** Follow the instructions [here](../common-errors/deleting-pennsieve-config-files) to delete your Pennsieve config files.
-6. After deleting your Pennsieve config files, open SODA, and it will automatically switch to your new workspace.
+SODA provides a feature that allows the latest version of the metadata files required by the SPARC dataset structure to be downloaded individually onto your machine to be filled out manually.
+
+### Testing this feature
+
+1. Navigate to the Download Templates feature of SODA. To get there from the home page of SODA, click the "Free Form Curation" button, select the Prepare Metadata button at the top of the page, and then
+   click the "Download templates" button.
+2. Select the metadata file that you would like to download to your computer, and then select the location to save it to.
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
