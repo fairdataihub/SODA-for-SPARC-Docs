@@ -1,14 +1,13 @@
 ---
 sidebar_position: 10
-title: How to use SODA without a Pennsieve account
-image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=How%20to%20Use%2FSwitch%20Workspaces&description=%27How%20to%27%20SPARC%20series&org=fairdataihub
+title: How to test SODA without a Pennsieve account
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=How%20to%20test%20SODA%20without%20a%20Pennsieve%20account&org=fairdataihub&description=
 ---
 
 ## Background
 
-SODA provides a limited set of features available for users that do not have a access to the Pennsieve platform (a cloud-based scientific data management platform).
-The services that SODA provides without having access to the Pennsieve platform generally revolve around creating metadata files required by the SPARC dataset structure locally.
-Some examples of SODA's capabilities that do not require a Pennsieve account can be found below.
+While most of SODA's features require access to the Pennsieve platform (a cloud-based scientific data management platform), several key features let you
+directly manage your data and its metadata locally. Here are some examples of features of SODA that can be used without access to the Pennsieve platform.
 
 ## Example 1: Generating manifest files locally
 
@@ -18,9 +17,9 @@ with the minimum required metadata by the SPARC dataset structure.
 ### Testing this feature
 
 1. [Download a sample dataset to test the manifest file generation with](../../static/test-dataset.zip)
-2. Navigate to the manifest file generation feature of SODA. To get there from the home page of SODA, click the "Free Form Curation" button, select the Prepare Metadata tab at the top of the page, and then
+2. Navigate to the Manifest file generation feature of SODA. To get there from the home page of SODA, click the "Free Form Curation" button, select the Prepare Metadata tab at the top of the page, and then
    click the "Create manifest.xlsx" button.
-3. Generate manifest files for the test dataset downloaded in step 1. For assistance in manifest file creation, [View the docs for generating manifest files](../Freeform%20Mode/prepare-metadata/create-manifest-files.md)
+3. Generate manifest files for the test dataset downloaded in step 1. For assistance with manifest file creation, [View the docs for generating manifest files](../Freeform%20Mode/prepare-metadata/create-manifest-files.md)
 
 ## Example 2: Generating submission metadata
 
