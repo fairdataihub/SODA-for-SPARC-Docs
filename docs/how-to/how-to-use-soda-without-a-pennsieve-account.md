@@ -22,7 +22,7 @@ with the minimum required metadata by the SPARC dataset structure.
    click the "Create manifest.xlsx" button.
 3. Generate manifest files for the test dataset downloaded in step 1. For assistance in manifest file creation, [View the docs for generating manifest files](../Freeform%20Mode/prepare-metadata/create-manifest-files.md)
 
-## Example 2: fGenerating submission metadata
+## Example 2: Generating submission metadata
 
 The submission metadata file is an excel file that contains information about the dataset you are submitting and the milestones related to the submission.
 
