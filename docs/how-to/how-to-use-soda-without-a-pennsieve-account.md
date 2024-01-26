@@ -6,13 +6,11 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=How%
 
 ## Background
 
-While most of SODA's features require access to the Pennsieve platform (a cloud-based scientific data management platform), several key features let you
-directly manage your data and its metadata locally. Here are some examples of features of SODA that can be used without access to the Pennsieve platform.
+Here are some examples of features of SODA that can be tested without access to the Pennsieve platform.
 
 ## Example 1: Generating manifest files locally
 
-The SPARC dataset structure requires manifest files to be placed in each high level folder of a dataset. SODA provides a feature that automatically generates manifest files for a dataset
-with the minimum required metadata by the SPARC dataset structure.
+The SPARC dataset structure requires manifest files to be placed in each high level folder of a dataset. SODA provides a feature that automatically generates manifest files for a dataset with the minimum required metadata by the SPARC dataset structure (SDS).
 
 ### Testing this feature
 
@@ -23,7 +21,7 @@ with the minimum required metadata by the SPARC dataset structure.
 
 ## Example 2: Generating submission metadata
 
-The submission metadata file is an excel file that contains information about the dataset you are submitting and the milestones related to the submission.
+The submission metadata file is an excel file required in the SDS that contains information about the dataset you are submitting and the milestones related to the submission.
 
 ### Testing this feature
 
@@ -38,7 +36,7 @@ The submission metadata file is an excel file that contains information about th
 
 ## Example 3: Download SPARC metadata templates
 
-SODA provides a feature that allows the latest version of the metadata files required by the SPARC dataset structure to be downloaded individually onto your machine to be filled out manually.
+SODA provides a feature that allows users to download the latest version of the metadata files required in the SDS so they can be reviewed and filled out manually outside of SODA if desired.
 
 ### Testing this feature
 
