@@ -14,7 +14,7 @@ The SPARC dataset structure requires manifest files to be placed in each high le
 
 ### Testing this feature
 
-1. [Download a sample dataset to test the manifest file generation with](../../static/test-dataset.zip)
+1. [Download a sample dataset to test the manifest file generation with](../../static/zips/test-dataset.zip)
 2. Navigate to the Manifest file generation feature of SODA. To get there from the home page of SODA, click the "Free Form Curation" button, select the Prepare Metadata tab at the top of the page, and then
    click the "Create manifest.xlsx" button.
 3. Generate manifest files for the test dataset downloaded in step 1. For assistance with manifest file creation, [View the docs for generating manifest files](../Freeform%20Mode/prepare-metadata/create-manifest-files.md)
