@@ -1,3 +1,19 @@
+# [26.6.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.5.7...v26.6.0) (2024-01-30)
+
+### Bug Fixes
+
+- 🐛 Added test-dataset zip to a zip folder ([30b3f72](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/30b3f72f4326e735fb577ff4c0a78ab380b7da10))
+- 🐛 Changed zip download syntax ([5d5624a](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/5d5624a746ddcfdef26fe4b1dae84fa558d39dc0))
+- 🐛 remove old broken 13.1.0 docs ([6e8caa0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/6e8caa0599d3407f85f440401e7103e798b5401d))
+- 🐛 typo fix ([3e10dbb](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/3e10dbb5ae65f33fe3a6bd952d132a5b533b4382))
+
+### Features
+
+- ✨ Create v13.1.0 docs ([f735e9d](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/f735e9dbbb770e605c2940fe80c04892bb873b04))
+- ✨ doc release for 13.1.0 ([2d3b268](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/2d3b2684a1f11c3afd971ca130f972680f4fc0a0))
+- ✨ Finished SODA testing docs ([07ddffb](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/07ddffbbac75aa78378606a40794bcf8c1dfa6d0))
+- ✨ view api docs page and changelog ([af487ca](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/af487ca84204d7488adcb8bb9037946a954f7c07))
+
 ## [26.5.7](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.5.6...v26.5.7) (2024-01-30)
 
 ### Bug Fixes
