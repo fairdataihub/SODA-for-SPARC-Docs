@@ -1,3 +1,9 @@
+## [26.6.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.6.0...v26.6.1) (2024-01-31)
+
+### Bug Fixes
+
+- 🐛 Update URL for local testing how-to ([dcd76f7](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/dcd76f753f05ae0ab04c8123a2096b03a1854b60))
+
 # [26.6.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.5.7...v26.6.0) (2024-01-30)
 
 ### Bug Fixes
