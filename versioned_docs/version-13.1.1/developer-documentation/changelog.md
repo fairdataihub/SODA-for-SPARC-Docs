@@ -7,13 +7,6 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
-## v.13.1.1
-
-## Bug fixes:
-
-- Fixed issue preventing users from importing their datasets if they have access to a large amount
-  of datasets on Pennsieve.
-
 ## v.13.1.0
 
 ## Feature Additions:
