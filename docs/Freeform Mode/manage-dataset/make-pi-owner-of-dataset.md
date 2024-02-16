@@ -12,7 +12,7 @@ When you create a dataset, you have `owner` permissions on the dataset. There ca
 
 ## Prerequisite
 
-The PI of your SPARC award must have a Pennsieve account and have access to the SPARC Consortium organization on Pennsieve (see the Prerequisite section [here](../../how-to/how-to-get-a-pennsieve-account) for details).
+The PI of your SPARC award must have a Pennsieve account and have access to the Pennsieve workspace where you need to upload your data (e.g., SPARC, RE-JOIN, etc). See the Prerequisite section [here](../../how-to/how-to-get-a-pennsieve-account) for details.
 
 ## How to
 
