@@ -7,39 +7,6 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
-## v.13.1.2
-
-## Bug fixes:
-
-- Fixed issue that caused an error message to appear when a user tried to connect their Pennsieve API Key and Secret to SODA during the startup flow.
-- Fixed an issue preventing SODA from importing large datasets from Pennsieve due to the cached API token becoming stale before the import was complete.
-
-## v.13.1.1
-
-## Bug fixes:
-
-- Fixed issue preventing users from importing their datasets if they have access to a large amount
-  of datasets on Pennsieve.
-
-## v.13.1.0
-
-## Feature Additions:
-
-- Users can generate datasets on their computer/local device in Guided Mode without having to sign in with a Pennsieve account.
-- Pennsieve API Key names are more unique to resolve myriad of issues that come from having multiple users on one computer and from having one user with acccounts across multiple computers.
-- Switching workspaces resets FFM UI to default state.
-
-## Bug fixes:
-
-- Fixed issue preventing users from generating metadata files locally without a Pennsieve account in Free Form Mode.
-
-## v.13.0.0
-
-## Feature Additions:
-
-- SODA added the ability for users to generate a local copy of their datasets for review to Guided Mode. This should assist users in ensuring their dataset is organized per their criteria before commiting to uploading their dataset to Pennsieve.
-- SODA has been converted to ESM and is using Electron-Vite for bundling.
-
 ## v.12.5.0
 
 ## Feature Additions:
