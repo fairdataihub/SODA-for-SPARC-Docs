@@ -7,6 +7,13 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v.13.1.2
+
+## Bug fixes:
+
+- Fixed issue that caused an error message to appear when a user tried to connect their Pennsieve API Key and Secret to SODA during the startup flow.
+- Fixed an issue preventing SODA from importing large datasets from Pennsieve due to the cached API token becoming stale before the import was complete.
+
 ## v.13.1.1
 
 ## Bug fixes:
