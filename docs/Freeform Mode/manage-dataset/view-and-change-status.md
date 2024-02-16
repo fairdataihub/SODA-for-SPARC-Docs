@@ -22,7 +22,7 @@ Typically, SPARC investigators should only have to change dataset status to one 
 
 - `2. Work in Progress (Investigator)`: This status indicates that you are working on your dataset
 - `3. Ready for Curation (Investigator)`: Use this status to inform the SPARC Dataset Curation Team that your dataset is ready to be reviewed. You dataset will be added to the curation queue.
-- `11. Complete, Under Embargo (Investigator)`: Use this status to share your dataset with the SPARC Consortium. This will give viewer permissions to the SPARC Embargoed Data Sharing Group and will therefore allow any SPARC investigator who has signed the SPARC Non-disclosure form to see your data.
+- `11. Complete, Under Embargo (Investigator)`: Use this status to share your dataset with the Pennsieve workspace where you need to upload your data ( e.g., SPARC, RE-JOIN, etc). This will give viewer permissions to the SPARC Embargoed Data Sharing Group and will therefore allow any SPARC investigator who has signed the SPARC Non-disclosure form to see your data.
 - `12. Published (Investigator)`: Use this status to once you have published your dataset. One year after the initial upload of your dataset, you must publish your dataset to Pennsieve Discover, which populates the SPARC Portal. To do this, open the dataset of interest on the Pennsieve webpage, click on the Settings tab on the left, and select Publish Dataset.
 
 import PageFeedback from '@site/src/components/PageFeedback';
