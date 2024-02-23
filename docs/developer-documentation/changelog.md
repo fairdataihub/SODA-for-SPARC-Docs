@@ -7,6 +7,18 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v13.1.3
+
+## Feature Additions:
+
+- Announcements have been redesigned to convey updates and fixes clearly.
+- Added the ability to generate a copy of a dataset's manifest files locally within the organize datasets feature.
+
+## Bug fixes:
+
+- Fixed an issue in the `Organize datasets` feature when creating a new Pennsieve dataset that prevented SODA from finding the dataset in some cases.
+- Banner image selection popup has been patched to overlay above entire app.
+
 ## v.13.1.2
 
 ## Bug fixes:
