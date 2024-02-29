@@ -13,13 +13,11 @@ All notable changes to SODA for SPARC will be documented in this file.
 
 - Announcements have been redesigned to convey updates and fixes clearly.
 - Added the ability to generate a copy of a dataset's manifest files locally within the organize datasets feature.
-- Updated the UI for GM/FFM subject metadata Species, Strain, and RRID selection, and changed the API endpoint to use SciCrunch's public API to search for RRIDs.
 
 ## Bug fixes:
 
 - Fixed an issue in the `Organize datasets` feature when creating a new Pennsieve dataset that prevented SODA from finding the dataset in some cases.
 - Banner image selection popup has been patched to overlay above entire app.
-- TLS/SSL Certificates have been updated to be current on build time.
 
 ## v.13.1.2
 
