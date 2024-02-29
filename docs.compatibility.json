@@ -562,5 +562,9 @@
   {
     "docsVersion": "26.7.1",
     "appVersion": "13.1.2"
+  },
+  {
+    "docsVersion": "26.7.2",
+    "appVersion": "13.1.3"
   }
 ]
