@@ -46,7 +46,7 @@
     "react-cookie": "5.0.0",
     "react-dom": "18.2.0",
     "react-lottie": "1.2.4",
-    "react-player": "2.14.1",
+    "react-player": "2.15.0",
     "url-loader": "4.1.1",
     "uuid": "9.0.1"
   },
