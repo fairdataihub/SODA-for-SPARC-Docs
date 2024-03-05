@@ -1,3 +1,9 @@
+## [26.7.4](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.7.3...v26.7.4) (2024-03-05)
+
+### Bug Fixes
+
+- **deps:** update dependency react-player to v2.15.1 ([#570](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/570)) ([a541685](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/a54168509081912374885a934ce925b519d8f7c8))
+
 ## [26.7.3](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v26.7.2...v26.7.3) (2024-03-05)
 
 ### Bug Fixes
