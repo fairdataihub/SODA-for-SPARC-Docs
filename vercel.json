@@ -2,16 +2,16 @@
   "rewrites": [{ "source": "/api/(.*)", "destination": "/api" }],
   "redirects": [
     {
-      "source": "/docs/Freeform Mode/prepare-dataset/organize-dataset", "destination": "/docs/upload-dataset/organize-dataset", "permanent": true
+      "source": "/docs/Freeform%20Mode/prepare-dataset/organize-dataset", "destination": "/docs/upload-dataset/organize-dataset", "permanent": true
     },
     {
-      "source": "/docs/Freeform Mode/prepare-metadata/create-manifest-files", "destination": "/docs/advanced-mode/create-manifest-files", "permanent": true
+      "source": "/docs/Freeform%20Mode/prepare-metadata/create-manifest-files", "destination": "/docs/advanced-mode/create-manifest-files", "permanent": true
     },
     {
-      "source": "/docs/Freeform Mode/manage-dataset/upload-a-banner-image", "destination": "/docs/advanced-mode/upload-a-banner-image", "permanent": true
+      "source": "/docs/Freeform%20Mode/manage-dataset/upload-a-banner-image", "destination": "/docs/advanced-mode/upload-a-banner-image", "permanent": true
     },
     {
-      "source": "/docs/Freeform Mode/prepare-dataset/validate-your-dataset", "destination": "/docs/advanced-mode/validate-your-dataset", "permanent": true
+      "source": "/docs/Freeform%20Mode/prepare-dataset/validate-your-dataset", "destination": "/docs/advanced-mode/validate-your-dataset", "permanent": true
     }
   ]
 }
