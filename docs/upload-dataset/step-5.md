@@ -12,6 +12,10 @@ to each high-level SPARC folder with the `filename`, `timestamp`, and `file type
 `Additional Metadata` fields can be added by the user by selecting on a high-level folder to make manifest edits. Upon making edits, hitting the save and exit button
 will create manifest.xlsx files to be added upon dataset generation.
 
+:::info
+If merging into an existing dataset manifest files will not be created. To update manifest files in an existing dataset, you can use the [Create Manifest files](../advanced-mode/create-manifest-files.md) feature.
+:::
+
 :::caution
 Any existing manifest files at the target location for generating the dataset will be replaced.
 :::
