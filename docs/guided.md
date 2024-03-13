@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: End to End Curation
+title: Prepare Dataset Step-by-Step
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=What%20is%20SODA%20for%20SPARC%3F&description=SODA%20(Software%20to%20Organize%20Data%20Automatically)%20for%20SPARC%20is%20a%20cross-platform%20desktop%20software%20that%20allows%20SPARC-funded%20researchers%20to%20easily%20comply%20with%20the%20FAIR%20SPARC%20Data%20curation%20and%20sharing%20guidelines&org=fairdataihub
 ---
 
@@ -10,7 +10,7 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=What
 
 ### Using the End to End Curation mode
 
-Click on the `Curate and Share` option of the sidebar and then click on `End to End Curation`.
+Click on the `Curate and Share` option of the sidebar and then click on `Prepare Dataset Step-by-Step`.
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Guided/endtoend.png?raw=true)
 
@@ -23,7 +23,7 @@ On the first page there are three options available:
 We have designed the next steps such that you should be able to go through them without needing any documentation. Through successive interfaces, SODA will ask you to specify data files to be included in your dataset, request information about your dataset, and invite you to link your Pennsive account. SODA will then use all of that information to generate directly on Pennsieve a dataset that is compliant with the SPARC data curation and sharing guidelines. Once generated, you will be able to review the dataset and share it with the SPARC Curation Team for their review.
 
 :::info
-SODA will never modify your local data files through the End to End Curation mode. Any changes (file renaming, adding metadata files, etc.) will be reflected on the dataset that is generated on Pennsieve.
+SODA will never modify your local data files. Any changes (file renaming, adding metadata files, etc.) will be reflected on the dataset that is generated on Pennsieve.
 :::
 
 <PageFeedback />

@@ -14,8 +14,6 @@ Select between the following 4 options to get started with your dataset organiza
 4. **Continue working on an existing Pennsieve dataset**: Click this option if you have an existing dataset on Pennsieve that you want to continue working on.
    Existing high-level SPARC folders and metadata files will be automatically extracted and loaded into SODA so you can continue working on them.
 
-<!-- ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/getting-started.PNG?raw=true) -->
-
 import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

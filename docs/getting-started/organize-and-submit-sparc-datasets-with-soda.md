@@ -22,9 +22,9 @@ These steps only need to be completed once.
 
 ### C. Curate and share data with SODA
 
-We suggest to use the `End to End Curation` mode of SODA as it is the easiest approach for submitting your dataset. This mode is designed to guide users step-by-step through all the requirements for preparing and sharing datasets with the SPARC Curation Team according to the SPARC data curation and guidelines. The user interfaces are designed to include all the necessary information such that no documentation or prior knowledge of the SPARC data curation and sharing guidelines should be needed. Follow the associated documentation [here](../guided).
+We suggest to use the `Prepare Dataset Step-by-Step` feature of SODA as it is the easiest approach for submitting your dataset. This mode is designed to guide users step-by-step through all the requirements for preparing and sharing datasets with the SPARC Curation Team according to the SPARC data curation and guidelines. The user interfaces are designed to include all the necessary information such that no documentation or prior knowledge of the SPARC data curation and sharing guidelines should be needed. Follow the associated documentation [here](../guided).
 
-If you are making only few changes to an existing dataset (for example based on feedback from the SPARC Curation Team), you can use the `Free Form Curation` mode. This mode provides various feature for creating/editing individual compoenents of a dataset. Follow the associated documentation [here](../Freeform%20Mode/overview).
+If you are making only uploading data to an existing dataset, you can use the `Upload Dataset` mode. Follow the associated documentation [here](../upload-dataset/organize-dataset).
 
 ### Need help?
 

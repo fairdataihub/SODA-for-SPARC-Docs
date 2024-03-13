@@ -1,11 +1,11 @@
 ---
-sidebar_position: 10
+sidebar_position: 3
 title: Standalone Validator
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%207%20-%20Preview%20dataset&description=Prepare%20Dataset&org=fairdataihub
 ---
 
-This Free Form Curation feature allows you to validate one of your organized datasets stored locally or on Pennsieve. This can save you time by allowing you to avoid stepping
-through `Organize dataset` in `Free Form Curation` or `End to End Curation` UIs when validating your dataset is your only goal.
+This feature allows you to validate one of your organized datasets stored locally or on Pennsieve. This can save you time by allowing you to avoid stepping
+through `Organize dataset` in `Upload Dataset` or `Prepare Dataset Step-by-Step` UIs when validating your dataset is your only goal.
 
 ## Background
 
@@ -13,6 +13,8 @@ All SPARC datasets must conform to the SPARC Dataset Structure format described 
 It is recommended that, when possible, you resolve any validation errors before submitting your dataset to the SPARC Curation Team for review.
 
 ## How to
+
+To access this interface click on the `Advanced Features` at the bottom of the homepage, then click on the `Validate dataset` card.
 
 - First choose which validation workflow you will perform:
   - Pennsieve validation: For validating a dataset stored on Pennsieve.
@@ -33,10 +35,6 @@ It is recommended that, when possible, you resolve any validation errors before 
     - Path: The `Path` column will contain the path to the file, folder, or field that was validated.
     - Message: The `Message` column will contain the message informing you what was determined to be invalid about the file, folder, or field specified in the `Path` column.
   - To fix your errors, simply alter your dataset to correct the given error messages then re-run validation for confirmation.
-
-## Next Steps
-
-Now that your dataset is validated you can submit it to the SPARC Curation Team for review. To do so, follow the instructions [here](../disseminate-dataset/submit-for-pre-publishing-review.md).
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

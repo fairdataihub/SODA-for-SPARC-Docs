@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Organize dataset
+title: Overview
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Organize%20dataset&description=Prepare%20Dataset&org=fairdataihub
 ---
 
@@ -15,14 +15,14 @@ on your computer or directly on Pennsieve (to avoid duplicating files locally).
 
 ## How to
 
-- [Step 1: Getting started](./step-1.md)
-- [Step 2: Specify high-level folders](./step-2.md)
-- [Step 3: Structure dataset files](./step-3.md)
-- [Step 4: Specify high-level metadata files](./step-4.md)
-- [Step 5: Request manifest files](./step-5.md)
-- [Step 6: Generate dataset](./step-6.md)
-- [Step 7: Validate dataset](./step-7.md)
-- [Step 8: Preview dataset](./step-8.md)
+- [Step 1: Getting started](./step-1)
+- [Step 2: Specify high-level folders](./step-2)
+- [Step 3: Structure dataset files](./step-3)
+- [Step 4: Specify high-level metadata files](./step-4)
+- [Step 5: Request manifest files](./step-5)
+- [Step 6: Generate dataset](./step-6)
+- [Step 7: Validate dataset](./step-7)
+- [Step 8: Preview dataset](./step-8)
 
 :::info
 You can save your progress using the Save progress button available in the lower right corner starting from Step 3.
