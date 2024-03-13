@@ -16,7 +16,7 @@ Only .PNG, .JPEG, and .TIFF images are allowed to be used as a banner.
 
 To access this interface click on the `Advanced Features` at the bottom of the homepage, then click on the `Upload a banner image` card.
 
-1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](../../connecting-to-pennsieve/connecting-with-username-password). Any existing banner image for your Pennsieve dataset will be automatically imported in the interface.
+1. Select/confirm your Pennsieve account and dataset. If you have not connected your Pennsieve account with SODA yet, [use the instructions available here](../connecting-to-pennsieve/connecting-with-username-password). Any existing banner image for your Pennsieve dataset will be automatically imported in the interface.
 2. Select/confirm your Workspace. Learn more about workspaces [here](../how-to/how-to-use-workspaces).
 3. Click on `Edit banner image`
 4. Click on `Import image` in the new pop-up window.

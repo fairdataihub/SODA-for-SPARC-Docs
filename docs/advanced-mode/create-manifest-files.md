@@ -7,7 +7,7 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Crea
 ## Background
 
 Manifest files are mandatory for all datasets. To learn more about this metadata file please refer to our corresponding "
-[How to](../../how-to/how-to-structure-the-manifest-metadata-file)" page.
+[How to](../how-to/how-to-structure-the-manifest-metadata-file)" page.
 
 This section will allow you to generate manifest files for your pre-existing datasets stored locally and on Pennsieve.
 
