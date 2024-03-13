@@ -8,11 +8,11 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=What
 
 `End to End Curation` is the easiest mode in SODA for preparing and submitting your dataset to the SPARC Curation Team for review before it is published on the SPARC Data Portal. This mode is designed to guide users step-by-step through all the requirements for preparing and sharing datasets with the SPARC Curation Team according to the SPARC guidelines. Automation is implemented whenever possible to minimize users' time and effort in the process. The user interfaces are designed to include all the necessary information such that no documentation or prior knowledge of the SPARC data curation and sharing guidelines should be needed.
 
-### Using the End to End Curation mode
+### Using the Prepare Dataset Step-by-Step feature
 
 Click on the `Curate and Share` option of the sidebar and then click on `Prepare Dataset Step-by-Step`.
 
-![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Guided/endtoend.png?raw=true)
+![](https://github.com/fairdataihub/SODA-for-SPARC/blob/staging/docs/documentation/Guided/prepare-dataset.png?raw=true)
 
 On the first page there are three options available:
 

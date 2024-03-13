@@ -7,6 +7,12 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v14.0.0
+
+## Feature Additions:
+
+- The SODA user interface has been updated to be more intuitive for new and existing users.
+
 ## v13.1.3
 
 ## Feature Additions:
