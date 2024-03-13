@@ -19,7 +19,7 @@ If you select to generate your dataset locally, it will be generated at the desi
 If you select to generate your dataset directly on Pennsieve, it will be generated on the Pennsieve dataset with the specified structure. No modifications will be made to the original local files/folders specified during the previous step. Follow the steps below to generate the dataset onto Pennsieve:
 
 1. Select your Pennsieve account from the drop-down list.
-2. Select/confirm your Workspace. Learn more about workspaces [here](../../how-to/how-to-use-workspaces.md).
+2. Select/confirm your Workspace. Learn more about workspaces [here](../how-to/how-to-use-workspaces.md).
 3. Select the option to generate on a new Pennsieve dataset or to use an existing one.
    - If you select to generate on a new Pennsieve dataset, specify a name for it.
    - If you select to generate on an existing Pennsieve dataset, select one from the drop-down list, and tell SODA how to handle any existing files/folders specified in your dataset that may already exist on the selected Pennsieve dataset.
