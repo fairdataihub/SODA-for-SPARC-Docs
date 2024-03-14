@@ -22,7 +22,6 @@ on your computer or directly on Pennsieve (to avoid duplicating files locally).
 - [Step 5: Request manifest files](./step-5)
 - [Step 6: Generate dataset](./step-6)
 - [Step 7: Validate dataset](./step-7)
-- [Step 8: Preview dataset](./step-8)
 
 :::info
 You can save your progress using the Save progress button available in the lower right corner starting from Step 3.
