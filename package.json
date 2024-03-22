@@ -71,7 +71,7 @@
     "husky": "8.0.3",
     "lint-staged": "15.2.2",
     "megasanjay-devmoji": "^1.2.1",
-    "postcss": "8.4.36",
+    "postcss": "8.4.37",
     "prettier": "3.2.5",
     "prettier-plugin-tailwindcss": "0.5.12",
     "pretty-quick": "4.0.0",
