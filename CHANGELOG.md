@@ -1,3 +1,9 @@
+## [27.0.4](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.0.3...v27.0.4) (2024-03-23)
+
+### Bug Fixes
+
+- **deps:** update dependency express to v4.19.0 ([#584](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/584)) ([900db31](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/900db31c8e394c28a4220147b8708f15d3c98e78))
+
 ## [27.0.3](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.0.2...v27.0.3) (2024-03-22)
 
 ### Bug Fixes
