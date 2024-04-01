@@ -7,6 +7,18 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## v14.1.0
+
+## Feature Additions:
+
+- SODA disallows '.,\' in dataset titles.
+- SODA tracks int_ids as well as dataset ids so that we can track a dataset once it has been published to SPARC.Science.
+
+## Bug fixes:
+
+- SODA returns more informative error messages from the Pennsieve API when an error occurs in the curation pipeline.
+- SODA shows and hides the Return and Exit buttons that appear when a dataset upload fails in the 'Upload Dataset' feature.
+
 ## v14.0.0
 
 ## Feature Additions:
