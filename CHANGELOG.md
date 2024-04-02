@@ -1,3 +1,9 @@
+## [27.0.7](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.0.6...v27.0.7) (2024-04-02)
+
+### Bug Fixes
+
+- **deps:** update dependency @emotion/styled to v11.11.5 ([#592](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/592)) ([ff4fff8](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/ff4fff849b14d1c52d2279fe25f17795827f952a))
+
 ## [27.0.6](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.0.5...v27.0.6) (2024-03-28)
 
 ### Bug Fixes
