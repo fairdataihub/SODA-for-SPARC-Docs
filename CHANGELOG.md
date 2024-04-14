@@ -1,3 +1,10 @@
+## [27.0.9](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.0.8...v27.0.9) (2024-04-14)
+
+### Bug Fixes
+
+- **deps:** update dependency @notionhq/client to v2.2.15 ([#596](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/596)) ([1587069](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/158706996286f7e271bbf8d00dfa72cfc8d57d33))
+- **deps:** update dependency react-player to v2.16.0 ([#595](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/595)) ([e8c2181](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/e8c21816c086b40810f19951e5d11c9e3c33f79e))
+
 ## [27.0.8](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.0.7...v27.0.8) (2024-04-08)
 
 ### Bug Fixes
