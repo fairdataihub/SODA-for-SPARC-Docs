@@ -1,3 +1,11 @@
+## [27.0.10](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.0.9...v27.0.10) (2024-05-08)
+
+### Bug Fixes
+
+- **deps:** update dependency @mui/material to v5.15.16 ([#601](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/601)) ([4b6cd50](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/4b6cd50e89622c0ef087c82261a69ef9a173e0f3))
+- **deps:** update dependency clsx to v2.1.1 ([#598](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/598)) ([934672d](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/934672d7b087609e25080947dc73fb6b19a5013c))
+- **deps:** update react monorepo to v18.3.1 ([#599](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/599)) ([0b654d2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/0b654d272ee7764ebbe059326cb1c7ee2f9f4ee1))
+
 ## [27.0.9](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.0.8...v27.0.9) (2024-04-14)
 
 ### Bug Fixes
