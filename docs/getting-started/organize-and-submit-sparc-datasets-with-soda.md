@@ -24,7 +24,7 @@ These steps only need to be completed once.
 
 We suggest to use the `Prepare Dataset Step-by-Step` feature of SODA as it is the easiest approach for submitting your dataset. This mode is designed to guide users step-by-step through all the requirements for preparing and sharing datasets with the SPARC Curation Team according to the SPARC data curation and guidelines. The user interfaces are designed to include all the necessary information such that no documentation or prior knowledge of the SPARC data curation and sharing guidelines should be needed. Follow the associated documentation [here](../guided).
 
-If you are only uploading data to an existing dataset, you can use the `Upload Dataset` feature. Follow the associated documentation [here](../upload-dataset/organize-dataset).
+If your dataset is already following the SPARC guidelines, you can use the `Upload Dataset` feature. Follow the associated documentation [here](../upload-dataset/organize-dataset).
 
 ### Need help?
 

@@ -1,28 +1,30 @@
 ---
-sidebar_position: 5
-title: Step 4 - Specify high level metadata files
-image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%204%20-%20Specify%20high%20level%20metadata%20files&description=Prepare%20Dataset&org=fairdataihub
+sidebar_position: 6
+title: Step 5 - Confirm details before upload
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%205%20-%20Request%20manifest%20files&description=Prepare%20Dataset&org=fairdataihub
 ---
 
-Click on the applicable panel to include the high-level metadata files of your choice. For example, to include a submission file in your dataset, simply click on
-the `submission` panel and you will be taken to a separate page to either import or drag & drop your file into SODA. Click `Confirm` to finish the importing process.
-To remove a metadata file you previously imported, click on the corresponding panel and click `Remove`.
+Manifest files are mandatory for all datasets. To learn more about this metadata file we refer to our corresponding
+"[How to](../how-to/how-to-structure-the-manifest-metadata-file.md)" page.
+
+For uploading to an existing dataset, SODA will not generate manifests to prevent conflicts. You can generate manifest files afte the uplaod is complete by navigating to the home page, selecting "Advanced Features", and the selecting
+the "Create manifest files" option.
+For uploads going to a new Pennsieve dataset, simply toggle the option to `Yes`. Then a **manifest.xlsx** file will be added
+to each high-level SPARC folder with the `filename`, `timestamp`, and `file type` fields automatically populated in the correct format while the `description` and
+`Additional Metadata` fields can be added by the user by selecting on a high-level folder to make manifest edits. Upon making edits, hitting the save and exit button
+will create manifest.xlsx files to be added upon dataset generation.
 
 :::info
-submission, dataset_description, subjects, and README.txt files are mandatory for all datasets. The samples file is mandatory if applicable. The other files are optional.
+If merging into an existing dataset manifest files will not be created. To update manifest files in an existing dataset, you can use the [Create Manifest files](../advanced-mode/create-manifest-files.md) feature.
 :::
 
-![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Organize-dataset/organize-step4-metadata-files.gif?raw=true)
-
-## Code-related metadata files
-
-If you specify the high level folder, Code in `Step 2: Specify high-level folders`, you will be able to import the code-related metadata files: `code_description`,
-`inputs_metadata`, and `outputs_metadata`.
-
-:::info
-If you start with an existing local or Pennsieve dataset that has existing SPARC metadata files, these files will be automatically extracted and loaded here.
-Replace these existing files by uploading new ones or simply remove them from this step if required.
-:::
+<video
+   controls
+   autoPlay
+   loop
+   width="100%"
+   src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/soda-for-sparc-manifests.mp4"
+/>
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
