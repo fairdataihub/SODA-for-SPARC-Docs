@@ -10,6 +10,8 @@ Select an already organized dataset to upload to Pennsieve. You can start by dra
 SODA will alert you of any problematic files or folders and recommend solutions.
 :::
 
+![](https://github.com/fairdataihub/SODA-for-SPARC/blob/staging/docs/documentation/upload-dataset/upload-dataset-step-1.png?raw=true)
+
 import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />
