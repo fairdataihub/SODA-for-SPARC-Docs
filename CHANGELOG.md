@@ -1,3 +1,11 @@
+# [27.1.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.0.13...v27.1.0) (2024-05-24)
+
+### Features
+
+- ✨ Create v15.0.0 docs ([a5cf707](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/a5cf7070d1292929a91769152802cfe58a92e53b))
+- ✨ upload dataset documentation rehaul ([429a172](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/429a1721ee1159cc36f0ea9b7d5cf3b63b4054b6))
+- verify dataset upload page ([b4a826b](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/b4a826b57c48bce6940ccaa178aa8f7ebd9ff26b))
+
 ## [27.0.13](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.0.12...v27.0.13) (2024-05-24)
 
 ### Bug Fixes
