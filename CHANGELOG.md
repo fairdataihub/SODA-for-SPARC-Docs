@@ -1,3 +1,9 @@
+## [27.0.13](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.0.12...v27.0.13) (2024-05-24)
+
+### Bug Fixes
+
+- **deps:** update dependency axios to v1.7.1 ([#605](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/605)) ([13a2515](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/13a25156cc1a6b8fca0470a91e55561b3be26c0c))
+
 ## [27.0.12](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.0.11...v27.0.12) (2024-05-20)
 
 ### Bug Fixes
