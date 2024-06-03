@@ -1,3 +1,13 @@
+# [27.2.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.1.1...v27.2.0) (2024-06-03)
+
+### Bug Fixes
+
+- **deps:** update dependency @iconify/react to v5 ([#613](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/613)) ([1d0e6f6](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/1d0e6f6ac4c4b1b759558faa0b2f93512beec45f))
+
+### Features
+
+- version docs 15.0.1 ([#610](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/610)) ([62923c5](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/62923c591b1233bde9bf5dfa394563139e1b519a))
+
 ## [27.1.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.1.0...v27.1.1) (2024-05-25)
 
 ### Bug Fixes
