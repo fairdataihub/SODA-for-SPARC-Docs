@@ -7,11 +7,18 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## 15.0.2
+
+## Bug fixes:
+
+- Fixed an issue where uploads fail for fresh Pennsieve Agent installs.
+- Fixed an issue where the manifest generation in `Advanced Features` fails.
+
 ## v15.0.1
 
 ## Bug fixes:
 
-- Fixed an issue wherre uploads fail for fresh Pennsieve Agent installs.
+- Fixed an issue where uploads fail for fresh Pennsieve Agent installs.
 - Fixed an issue where react components were not reinitializing and old values were not reset in the UI.
 
 ## v14.1.0
