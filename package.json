@@ -30,7 +30,7 @@
     "@emotion/react": "11.11.4",
     "@emotion/styled": "11.11.5",
     "@iconify/react": "5.0.1",
-    "@mdx-js/react": "1.6.22",
+    "@mdx-js/react": "3.0.1",
     "@mui/material": "5.15.20",
     "@notionhq/client": "2.2.15",
     "@svgr/webpack": "8.1.0",
