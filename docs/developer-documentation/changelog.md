@@ -7,6 +7,21 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## 15.1.0
+
+## Feature additions:
+
+- Removed all Pennsieve Agent/log in requirements from the start up processes and added checks within both curation modes to assist users with Pennsieve account/agent requirements.
+- Added a new feature in the `Advanced Features` tab that allows users tp compare their local and Pennsieve datasets for differences in file structure.
+- Added a new feature in `Prepare Datasets Step-by-Step` that allows a user to verify the integrity of the files they uploaded to Pennsieve.
+
+## Bug fixes:
+
+- Fixed an issue that caused the UI to navigate to the homepage after generating a manifest file in the `Advanced Features` tab.
+- Fixed an issue that would cause the progress bar to hang during some dataset uploads.
+- Fixed an issue in `Advanced Features` that would cause validation of a Pennsieve dataset to fail.
+- Fixed an issue in `Advanced Features` that would cause some valid SDS datasets to fail to be imported in the local manifest file generation feature.
+
 ## 15.0.2
 
 ## Bug fixes:
