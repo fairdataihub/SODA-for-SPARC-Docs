@@ -1,3 +1,10 @@
+## [27.2.5](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.2.4...v27.2.5) (2024-07-22)
+
+### Bug Fixes
+
+- **deps:** update dependency @mui/material to v5.16.4 ([#638](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/638)) ([4d21acd](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/4d21acde8f8ce01561cb649af599a0f0b0e60860))
+- **deps:** update emotion monorepo to v11.12.0 ([#639](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/639)) ([b1ac7b4](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/b1ac7b447e1eced2c09cb64700225cdecbc3e2a8))
+
 ## [27.2.4](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.2.3...v27.2.4) (2024-07-15)
 
 ### Bug Fixes
