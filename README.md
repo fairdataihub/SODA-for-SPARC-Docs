@@ -11,7 +11,7 @@
   <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/fairdataihub/SODA-for-SPARC-Docs.svg?style=flat-square" alt="contributors" />
   </a>
-  <a href="">
+  <a href=" ">
     <img src="https://img.shields.io/github/last-commit/fairdataihub/SODA-for-SPARC-Docs?style=flat-square" alt="last update" />
   </a>
   <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/stargazers">
