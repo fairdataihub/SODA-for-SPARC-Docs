@@ -9,7 +9,7 @@ Choose the destination where you would like to structure your dataset files. You
 ## New Dataset
 
 If you choose to upload to a new Pennsieve dataset, you will be prompted to enter the name of the new dataset. Upon clicking the "Confirm" button, SODA will verify if the dataset name is available.
-![](https://github.com/fairdataihub/SODA-for-SPARC/blob/staging/docs/documentation/upload-dataset/upload-dataset-step-3-new.png?raw=true)
+![](../../static/img/UploadData3.png)
 
 ## Existing Dataset
 
