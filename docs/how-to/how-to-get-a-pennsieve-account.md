@@ -14,7 +14,7 @@ To get a Pennsieve account and access to the Pennsieve workspace you would like 
 
 Once you have signed up for a Pennsieve account, you should see your workspace listed in your list of available workspaces (see image below).
 
-![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Connect-to-BF/consortium-bf-account.PNG?raw=true)
+![](../../static/img/Pensieve.png)
 
 :::info
 If you have any issues, reach out to the Pennsieve team at support@pennsieve.io.
