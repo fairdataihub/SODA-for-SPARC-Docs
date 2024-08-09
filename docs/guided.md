@@ -12,7 +12,7 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=What
 
 Click on the `Curate and Share` option of the sidebar and then click on `Prepare Dataset Step-by-Step`.
 
-![](https://github.com/fairdataihub/SODA-for-SPARC/blob/staging/docs/documentation/Guided/prepare-dataset.png?raw=true)
+![](../static/img/HomePage.png)
 
 On the first page there are three options available:
 
