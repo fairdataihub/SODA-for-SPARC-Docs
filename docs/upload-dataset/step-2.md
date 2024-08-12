@@ -6,7 +6,7 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step
 
 Confirm the account and workspace you want to use for your dataset. If you have multiple Pennsieve accounts, you can select the account you want to use for the dataset. You can also select the workspace where you want to generate the dataset.
 
-![](https://github.com/fairdataihub/SODA-for-SPARC/blob/staging/docs/documentation/upload-dataset/upload-dataset-step-2.png?raw=true)
+![](../../static/img/UploadData2.png)
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
