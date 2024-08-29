@@ -1,3 +1,9 @@
+## [27.2.11](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.2.10...v27.2.11) (2024-08-29)
+
+### Bug Fixes
+
+- 🐛 versioned docs not pathing to imgs ([293348a](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/293348ac33b382482fa87429be7b94274173855e))
+
 ## [27.2.10](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.2.9...v27.2.10) (2024-08-13)
 
 ### Bug Fixes
