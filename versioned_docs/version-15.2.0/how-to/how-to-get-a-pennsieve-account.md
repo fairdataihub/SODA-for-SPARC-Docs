@@ -14,7 +14,7 @@ To get a Pennsieve account and access to the Pennsieve workspace you would like 
 
 Once you have signed up for a Pennsieve account, you should see your workspace listed in your list of available workspaces (see image below).
 
-![](../../static/img/Pensieve.png)
+![](/img/Pensieve.png)
 
 :::info
 If you have any issues, reach out to the Pennsieve team at support@pennsieve.io.
