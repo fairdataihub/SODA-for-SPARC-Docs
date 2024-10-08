@@ -15,7 +15,7 @@ side bar, will ease the process of managing your Pennsieve account.
 To access the Accounts page, click on the `Accounts` tab on the sidebar. Once accessed, you will be presented with a page that
 looks like the one below:
 
-![](../../static/img/manage_accounts.png)
+![](/img/manage_accounts.png)
 
 You can use the `Account Options` table to manage your Pennsieve account in the following ways:
 
