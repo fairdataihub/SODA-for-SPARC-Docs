@@ -7,6 +7,16 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## 15.2.1
+
+## Feature additions:
+
+- Removed the ability to import empty folders and files into SODA.
+
+## Bug fixes:
+
+- Fixed an issue preventing users with pre-2.0 Pennsieve agent versions from being able to update.
+
 ## 15.2.0
 
 ## Feature additions:
