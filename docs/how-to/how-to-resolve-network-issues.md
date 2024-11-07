@@ -24,3 +24,5 @@ Here is what the SODA team suggests for resolving the situation with your IT/IS/
 2. Click the 'Gather Logs' button and select a directory where you would like SODA to generate its error logs.
 3. Contact your network administrator and provide them with the logs.
 4. If the network administrator is unable to resolve the issue, please contact the SODA team for further assistance by sending the logs to help@fairdataihub.org`;
+
+# TODO: ADD A NOTE ON WHERE IN THE LOGS TO LOOK
