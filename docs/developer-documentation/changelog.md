@@ -7,6 +7,13 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## 15.3.0
+
+## Feature additions:
+
+- Determine if SODA cannot reach Pennsieve.
+- Add support for resuming datasets that have files that have been moved from their original location.
+
 ## 15.2.1
 
 ## Feature additions:
