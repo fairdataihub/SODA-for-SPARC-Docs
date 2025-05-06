@@ -8,7 +8,7 @@ const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SODA for SPARC',
+  title: 'Make Your SPARC Data FAIR',
   // eslint-disable-next-line max-len
   tagline:
     // eslint-disable-next-line max-len
