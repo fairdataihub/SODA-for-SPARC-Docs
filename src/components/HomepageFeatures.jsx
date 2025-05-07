@@ -105,18 +105,18 @@ export default function HomepageFeatures() {
                 className="col col--4"
                 style={{ borderRight: '1px solid #d1d5db', paddingRight: '1rem' }}
               >
-                <h2 style={{ color: '#059669', fontSize: '1.6rem' }}>35TB+</h2>
+                <h2 style={{ color: '#059669', fontSize: '1.7rem' }}>35TB+</h2>
                 <p style={{ fontWeight: '500', fontSize: '1.1rem' }}>Data curated and shared</p>
               </div>
               <div
                 className="col col--4"
                 style={{ borderRight: '1px solid #d1d5db', paddingRight: '1rem' }}
               >
-                <h2 style={{ color: '#059669', fontSize: '1.6rem' }}>431k+</h2>
+                <h2 style={{ color: '#059669', fontSize: '1.7rem' }}>431k+</h2>
                 <p style={{ fontWeight: '500', fontSize: '1.1rem' }}>Files curated and shared</p>
               </div>
               <div className="col col--4">
-                <h2 style={{ color: '#059669', fontSize: '1.6rem' }}>XX Datasets</h2>
+                <h2 style={{ color: '#059669', fontSize: '1.7rem' }}>XX Datasets</h2>
                 <p style={{ fontWeight: '500', fontSize: '1.1rem' }}>Published to Sparc.Science</p>
               </div>
             </div>
@@ -134,18 +134,18 @@ export default function HomepageFeatures() {
                 className="col col--4"
                 style={{ borderRight: '1px solid #d1d5db', paddingRight: '1rem' }}
               >
-                <h2 style={{ color: '#059669', fontSize: '1.6rem' }}>35TB+</h2>
+                <h2 style={{ color: '#059669', fontSize: '1.7rem' }}>35TB+</h2>
                 <p style={{ fontWeight: '500', fontSize: '1.1rem' }}>Data curated and shared</p>
               </div>
               <div
                 className="col col--4"
                 style={{ borderRight: '1px solid #d1d5db', paddingRight: '1rem' }}
               >
-                <h2 style={{ color: '#059669', fontSize: '1.6rem' }}>431k+</h2>
+                <h2 style={{ color: '#059669', fontSize: '1.7rem' }}>431k+</h2>
                 <p style={{ fontWeight: '500', fontSize: '1.1rem' }}>Files curated and shared</p>
               </div>
               <div className="col col--4">
-                <h2 style={{ color: '#059669', fontSize: '1.6rem' }}>XX Datasets</h2>
+                <h2 style={{ color: '#059669', fontSize: '1.7rem' }}>XX Datasets</h2>
                 <p style={{ fontWeight: '500', fontSize: '1.1rem' }}>Published to Sparc.Science</p>
               </div>
             </div>
