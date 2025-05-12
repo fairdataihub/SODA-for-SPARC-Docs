@@ -8,11 +8,10 @@ const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Make Your SPARC Data FAIR',
+  title: 'Documentation for SODA',
   // eslint-disable-next-line max-len
-  tagline:
-    // eslint-disable-next-line max-len
-    'Easily make bioelectronic, neurophysiology, and other similar research data and computational models FAIR following the NIH SPARC guidelines',
+  tagline: 'Software to Organize Data Automatically',
+  // eslint-disable-next-line max-len
   url: 'https://docs.sodaforsparc.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',

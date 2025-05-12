@@ -13,26 +13,56 @@ function HomepageHeader() {
     <header
       className={clsx('hero hero--primary', styles.heroBanner)}
       style={{
-        backgroundColor: '#13716d', // Set hero background to black
+        backgroundColor: 'white', // Set hero background to black
         borderRadius: '16px', // Rounded corners
         boxShadow: '0 8px 16px rgba(0, 0, 0, 0.1)', // Subtle shadow
         padding: '4rem 2rem', // Increase padding for more height
-        color: 'white', // Ensure text is readable
+        color: 'black', // Ensure text is readable
         display: 'flex', // Use flexbox for layout
         alignItems: 'center', // Vertically center content
         justifyContent: 'center', // Space between text and image
-        height: '50vh', // Set height to 80% of the viewport
+        height: '65vh', // Set height to 80% of the viewport
+        flexDirection: 'column',
       }}
     >
-      <div style={{ flex: '1', textAlign: 'left', maxWidth: '50%' }}>
+      {/* Logo */}
+      <div
+        style={{
+          flex: '0 0 auto', // Prevent the logo from growing or shrinking
+          marginRight: '2rem', // Space between logo and text
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+          maxWidth: '30%', // Limit the width of the logo container
+        }}
+      >
+        <img
+          src="/img/logo.svg"
+          alt="My Site Logo"
+          style={{
+            maxWidth: '130px', // Limit the image width
+            height: 'auto', // Maintain aspect ratio
+            flexShrink: '0', // Prevent the image from shrinking
+            marginBottom: '2rem', // Space below the image
+          }}
+        />
+      </div>
+      <div
+        style={{
+          flex: '1',
+          textAlign: 'left',
+          maxWidth: '70%',
+        }}
+      >
         <h1
           className="hero__title"
           style={{
             fontFamily: 'Inter, sans-serif', // Modern font
             fontWeight: '700', // Bold text
-            fontSize: '3rem', // Larger heading
+            fontSize: '2.25rem', // Larger heading
             marginBottom: '1rem',
             textAlign: 'center',
+            color: 'black',
           }}
         >
           {siteConfig.title}
@@ -42,9 +72,11 @@ function HomepageHeader() {
           style={{
             fontFamily: 'Inter, sans-serif',
             fontSize: '1.3rem',
-            lineHeight: '1.6',
-            marginBottom: '2rem',
+            lineHeight: '1.5',
+            marginBottom: '1.5rem',
             textWrap: 'wrap', // Allow text to wrap
+            color: 'black',
+            textAlign: 'center', // Center text
           }}
         >
           {siteConfig.tagline}
@@ -61,29 +93,10 @@ function HomepageHeader() {
           {/* First Button */}
           <Link
             className="button button--secondary button--lg"
-            to="/docs/getting-started/download-soda"
-            style={{
-              backgroundColor: '#13716d', // Green background
-              color: 'white', // White text
-              border: '2px solid white', // Green border
-              borderRadius: '8px',
-              padding: '0.75rem 1.5rem',
-              fontWeight: '500',
-              textDecoration: 'none',
-              transition: 'all 0.3s ease', // Smooth hover effect
-            }}
-          >
-            Download SODA for SPARC
-          </Link>
-          {/* Second Button */}
-          <Link
-            className="button button--secondary button--lg"
             to="/docs/getting-started/organize-and-submit-sparc-datasets-with-soda"
             style={{
-              backgroundColor: 'white', // White background
-              color: '#04634a', // Green text
-              border: '2px solid #04634a', // Green border
-              borderRadius: '8px',
+              backgroundColor: '#13716d', // Green background
+              color: 'white',
               padding: '0.75rem 1.5rem',
               fontWeight: '500',
               textDecoration: 'none',
@@ -91,6 +104,25 @@ function HomepageHeader() {
             }}
           >
             View the documentation
+          </Link>
+
+          {/* Second Button */}
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/getting-started/download-soda"
+            style={{
+              backgroundColor: '#333333',
+              color: 'white', // White text
+              border: '2px solid white', // Green border
+              borderRadius: '8px',
+              padding: '0.75rem 1.5rem',
+              fontWeight: '500',
+              textDecoration: 'none',
+              transition: 'all 0.3s ease', // Smooth hover effect
+              width: '260px', // Fixed width
+            }}
+          >
+            Download SODA
           </Link>
         </div>
       </div>
@@ -102,7 +134,13 @@ export default function Home() {
   return (
     <Layout title="" description="Documentation for the SODA for SPARC application">
       <HomepageHeader />
-      <main>
+      <main
+        style={{
+          backgroundImage: 'linear-gradient(135deg, #e6f4ea, #edf7fa)',
+          boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
+          padding: '2rem 0',
+        }}
+      >
         <HomepageFeatures />
       </main>
     </Layout>

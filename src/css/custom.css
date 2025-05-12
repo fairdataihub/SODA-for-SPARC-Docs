@@ -156,3 +156,25 @@ code {
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+.border {
+  border-right: 1px solid #d1d5db;
+  padding-right: 1rem;
+}
+
+.border:last-child {
+  border-right: none;
+}
+
+@media (max-width: 768px) {
+  .border {
+    border-right: none;
+    border-bottom: 1px solid #d1d5db;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .border:last-child {
+    border-bottom: none;
+  }
+}

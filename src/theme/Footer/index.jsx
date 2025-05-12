@@ -25,7 +25,7 @@ export function ExternalLinkSVG() {
 export default function FooterWrapper() {
   return (
     <div>
-      <footer className="bg-[color:var(--footer-background-color)]">
+      <footer style={{ backgroundColor: 'white' }}>
         <div className="container relative mx-auto flex w-full max-w-screen-xl flex-col pt-10 ">
           <div className="flex flex-col justify-between pb-3 pr-3 md:flex-row">
             <div className="mb-5 flex w-full flex-col md:mb-0 md:w-4/12">
@@ -154,17 +154,17 @@ export default function FooterWrapper() {
                 <h3 className="footer-header">Docs</h3>
                 <ul className="m-0 list-outside list-none p-0">
                   <li className="pb-2 text-base">
-                    <div className="h-max w-max scale-100  transition-all hover:scale-105">
+                    <div className="h-max w-max scale-200  transition-all hover:scale-105">
                       <Link href="/docs/developer-documentation/changelog">Changelog</Link>
                     </div>
                   </li>
                   <li className="pb-2 text-base ">
-                    <div className="h-max w-max scale-100  transition-all hover:scale-105">
+                    <div className="h-max w-max scale-200  transition-all hover:scale-105">
                       <Link href="/docs/intro">What is SODA for SPARC?</Link>
                     </div>
                   </li>
                   <li className="pb-2 text-base ">
-                    <div className="h-max w-max scale-100  transition-all hover:scale-105">
+                    <div className="h-max w-max scale-200  transition-all hover:scale-105">
                       <Link href="/versions">Versions</Link>
                     </div>
                   </li>
@@ -174,7 +174,7 @@ export default function FooterWrapper() {
                 <h3 className="footer-header">Company</h3>
                 <ul className="m-0 list-outside list-none p-0">
                   <li className="pb-2 text-base ">
-                    <div className="h-max w-max scale-100  transition-all hover:scale-105">
+                    <div className="h-max w-max scale-200  transition-all hover:scale-105">
                       <Link href="https://fairdataihub.org/team">
                         {' '}
                         About <ExternalLinkSVG />{' '}
@@ -182,7 +182,7 @@ export default function FooterWrapper() {
                     </div>
                   </li>
                   <li className="pb-2 text-base ">
-                    <div className="h-max w-max scale-100  transition-all hover:scale-105">
+                    <div className="h-max w-max scale-200  transition-all hover:scale-105">
                       <Link href="https://fairdataihub.org/contact-us">
                         {' '}
                         Contact Us <ExternalLinkSVG />
@@ -195,17 +195,17 @@ export default function FooterWrapper() {
                 <h3 className="footer-header">Legal</h3>
                 <ul className="m-0 list-outside list-none p-0">
                   <li className="pb-2 text-base ">
-                    <div className="h-max w-max scale-100  transition-all hover:scale-105">
+                    <div className="h-max w-max scale-200  transition-all hover:scale-105">
                       <Link href="/docs/legal/privacypolicy">Privacy Policy</Link>
                     </div>
                   </li>
                   <li className="pb-2 text-base ">
-                    <div className="h-max w-max scale-100  transition-all hover:scale-105">
+                    <div className="h-max w-max scale-200  transition-all hover:scale-105">
                       <Link href="/docs/legal/termsofuse">Terms of Use</Link>
                     </div>
                   </li>
                   <li className="pb-2 text-base ">
-                    <div className="h-max w-max scale-100  transition-all hover:scale-105">
+                    <div className="h-max w-max scale-200  transition-all hover:scale-105">
                       <Link href="/docs/legal/cookiepolicy">Cookie Policy</Link>
                     </div>
                   </li>
