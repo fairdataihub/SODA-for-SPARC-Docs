@@ -29,7 +29,7 @@ export default function HomepageFeatures() {
                 textAlign: 'center',
               }}
             >
-              Enabling users to curate FAIR data that is ready for sharing and AI consumption
+              Streamlining FAIR data sharing
             </h1>
           </div>
           <div
@@ -49,11 +49,10 @@ export default function HomepageFeatures() {
                 marginLeft: '1.25rem',
               }}
             >
-              Leverage intuitive interfaces and automation to efficiently curate your data and
-              metadata. Seamlessly prepare bioelectronic, neurophysiology, and other research data
-              and computational models to meet FAIR standards, following NIH SPARC guidelines. Since
-              2021, SODA has been installed on over 1,300 computers, empowering researchers
-              worldwide.
+              SODA is a cross-platform desktop software that helps researchers prepare and share
+              FAIR peripheral nervous system (PNS) related data and models using the SPARC Data
+              Structure (SDS) and the SPARC Portal. Since 2021, SODA has been installed on over
+              1,300 computers, empowering researchers worldwide.
             </p>
           </div>
         </div>
@@ -92,7 +91,7 @@ export default function HomepageFeatures() {
               </div>
               <div className="col col--4 border">
                 <h2 style={{ color: '#059669', fontSize: '1.7rem', marginBottom: '.2rem' }}>
-                  136 Datasets
+                  234 Datasets
                 </h2>
                 <p style={{ fontWeight: '500', fontSize: '1.1rem' }}>Published to Sparc.Science</p>
               </div>
