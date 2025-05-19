@@ -690,5 +690,9 @@
   {
     "docsVersion": "27.2.11",
     "appVersion": "15.2.0"
+  },
+  {
+    "docsVersion": "27.3.0",
+    "appVersion": "15.2.2"
   }
 ]
