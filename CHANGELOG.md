@@ -1,3 +1,9 @@
+# [27.3.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.2.11...v27.3.0) (2025-05-19)
+
+### Features
+
+- ✨ updated ui and usage number tracking added ([f6d16b9](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/f6d16b95c214aa7a4cbd2170f222aae40cc4e2d2))
+
 ## [27.2.11](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.2.10...v27.2.11) (2024-08-29)
 
 ### Bug Fixes
