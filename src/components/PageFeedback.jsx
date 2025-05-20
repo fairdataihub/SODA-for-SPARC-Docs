@@ -68,8 +68,8 @@ function AskFeedback({ setShowSuccess, setReaction, setShowTextFeedback }) {
   };
 
   return (
-    <div className="mt-4 flex w-full flex-col items-center justify-center sm:flex-row">
-      <h3 className="mb-5 w-max pr-5 sm:mb-0"> Was this page helpful? </h3>
+    <div className="flex flex-col items-center justify-center w-full mt-4 sm:flex-row">
+      <h3 className="pr-5 mb-5 w-max sm:mb-0"> Was this page helpful? </h3>
 
       <div className="flex items-center justify-center space-x-4">
         <button
@@ -123,7 +123,7 @@ function ShowSuccessMessage({ hideSubText }) {
       <div className="flex flex-col items-center justify-center">
         <h3 className="mb-0 w-max"> Thank you for your feedback! </h3>
         {!hideSubText && (
-          <h4 className="mb-3 pt-1">Would you like to leave any additional comments?</h4>
+          <h4 className="pt-1 mb-3">Would you like to leave any additional comments?</h4>
         )}
       </div>
       {hideSubText && (
@@ -139,7 +139,7 @@ function ShowSuccessMessage({ hideSubText }) {
   );
 }
 
-function PageFeedback() {
+export default function PageFeedback() {
   const [showSuccess, setShowSuccess] = React.useState(false);
   const [showTextFeedback, setShowTextFeedback] = React.useState(false);
   const [reaction, setReaction] = React.useState('');
@@ -192,7 +192,7 @@ function PageFeedback() {
   };
 
   return (
-    <div className="relative mt-4 w-full">
+    <div className="relative w-full mt-4">
       <hr className="feedback-divider" />
 
       {showSuccess ? (
@@ -206,7 +206,7 @@ function PageFeedback() {
       )}
 
       {showTextFeedback && (
-        <div className="flex justify-center space-x-2 pt-1">
+        <div className="flex justify-center pt-1 space-x-2">
           <textarea
             className="w-[350px] rounded-md px-3 py-2 font-inter"
             placeholder="Any additional comments?"
@@ -224,5 +224,3 @@ function PageFeedback() {
     </div>
   );
 }
-
-export default PageFeedback;

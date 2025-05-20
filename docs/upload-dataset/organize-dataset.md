@@ -4,6 +4,8 @@ title: Overview
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Organize%20dataset&description=Prepare%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 All SPARC datasets must follow the top level SPARC folder structure imposed by the
@@ -20,7 +22,5 @@ shown in the figure below. If your data organization doesn't follow this structu
 - [Step 4: Request manifest files](./step-4)
 - [Step 5: Confirm upload details](./step-5)
 - [Step 6: Validate uploaded dataset](./step-6)
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

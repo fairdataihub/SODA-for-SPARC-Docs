@@ -4,6 +4,8 @@ title: API Version Mismatch
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=API%20Version%20Mismatch&description=Common%20errors%20and%20their%20solutions&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Issue Background
 
 Upon downloading/auto-updating the old server was never replaced by the most up to date server.
@@ -21,7 +23,5 @@ it is running in the background. If this happens you can use the following termi
 
 1. Check for the server by running this command in the terminal: `lsof -i:4242`
    - If there is a result ( not an empty console ) then end the 'app' service by running this command in the terminal: `kill -9 <pid>`
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />
