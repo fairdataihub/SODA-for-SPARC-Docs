@@ -4,6 +4,8 @@ title: Privacy Policy
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Privacy%20Policy&description=Privacy%20policy%20for%20data%20collected%20about%20the%20SODA%20for%20SPARC%20application&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it. If you have any questions or concerns about this privacy notice or our practices with regards to your personal information, please contact us at [bPatel@fairdataihub.org](mailto:bpatel@fairdataihub.org) or https://fairdataihub.org/contact-us.
 
 #### Last revised date
@@ -246,7 +248,5 @@ All the information that is tracked within SODA is anonymized with privacy in mi
 - When you change that status of your dataset:
   - Success/Errors with the change in status
   - The name and/or ID of the dataset
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

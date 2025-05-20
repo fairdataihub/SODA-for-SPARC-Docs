@@ -4,6 +4,8 @@ title: Compare Local and Pennsieve Dataset
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%207%20-%20Preview%20dataset&description=Prepare%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 This feature allows you to compare a dataset stored on Pennsieve with a dataset stored locally.
 
 ## Background
@@ -37,7 +39,5 @@ For results in the `Files that are local and not in your Pennsieve dataset` you 
 :::note
 You can only upload SDS compliant files and folders using SODA. If you want to upload non-SDS compliant files and folders you will need to do so manually.
 :::
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

@@ -4,6 +4,8 @@ title: Create a new dataset
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Create%20a%20new%20dataset&description=Manage%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 You can create a new dataset on Pennsieve through this feature of SODA. The name of the dataset will be displayed as the title of the dataset when the dataset becomes public. It is thus advised to make sure that your dataset title is different than your other dataset titles and that it is relatively informative.
@@ -16,7 +18,5 @@ To access this interface click on the `Curate and Share` side bar option, then c
 2. Select/confirm your Workspace. Learn more about workspaces [here](../../how-to/how-to-use-workspaces.md).
 3. Enter the desired name for the dataset.
 4. Click `Create dataset`.
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

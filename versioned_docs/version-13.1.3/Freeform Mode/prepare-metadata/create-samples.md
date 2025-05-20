@@ -4,6 +4,8 @@ title: Create samples.xlsx
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Create%20samples.xlsx&description=Prepare%20Metadata&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 Under this feature, SODA lets you quickly and accurately prepare the samples metadata file which is recommended for SPARC datasets. SODA provides a convenient interface,
@@ -93,7 +95,5 @@ it directly to Pennsieve. If your dataset is not organized yet, you can save thi
 If you have a properly structured SPARC primary folder to import, you can click on `I want to import subject ID(s) from my primary folder` specified under the button
 `Add a sample` to import it to the table of subjects. SODA will extract the subject and sample ID(s) (if available) onto the table of samples for your edits.
 :::
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

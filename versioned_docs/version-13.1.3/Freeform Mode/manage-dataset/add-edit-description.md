@@ -4,6 +4,8 @@ title: Add edit description
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Add%2Fedit%20description&description=Manage%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 All SPARC datasets must have the following metadata on Pennsieve: subtitle, description, banner image, license, and tags. This interface allows you to easily add a description to your Pennsieve dataset. This description will be highly visible on the [SPARC data portal](https://sparc.science/) once your dataset is published.
@@ -31,7 +33,5 @@ If an existing description if found for your Pennsieve dataset, it will be shown
 - SODA will never stop you from creating a description that does not conform to SPARC guidelines.
 
 :::
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

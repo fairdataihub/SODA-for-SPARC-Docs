@@ -4,6 +4,8 @@ title: Share with Curation Team
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Share%20with%20the%20Curation%20Team&description=Disseminate%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 One year after the dataset completion date (as per the Data Deliverables document), or right after publishing results from the dataset, whichever comes first, you must publish
@@ -39,7 +41,5 @@ dataset public; or to researchers who have intellectual property concerns.
 - When submitting your dataset, you may select an embargo date or choose to make your dataset available to the
   public immediately after publication. As per SPARC guidelines, you may
   select an embargo date up to one year in advance.
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

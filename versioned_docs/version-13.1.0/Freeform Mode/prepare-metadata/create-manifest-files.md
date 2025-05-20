@@ -4,6 +4,8 @@ title: Create Manifest files
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Create%20Manifest%20Files&description=Prepare%20Metadata&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 Manifest files are mandatory for all datasets. To learn more about this metadata file please refer to our corresponding "
@@ -56,7 +58,5 @@ click on the `Create manifest.xlsx` card.
 :::tip
 When you are in the manifest file's editing interface, click on the arrow symbol next to a folder to expand it.  
 :::
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

@@ -4,6 +4,8 @@ title: Step 5 - Request manifest files
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%205%20-%20Request%20manifest%20files&description=Prepare%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 Manifest files are mandatory for all datasets. To learn more about this metadata file we refer to our corresponding
 "[How to](../how-to/how-to-structure-the-manifest-metadata-file.md)" page.
 
@@ -27,7 +29,5 @@ Any existing manifest files at the target location for generating the dataset wi
    width="100%"
    src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/soda-for-sparc-manifests.mp4"
 />
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

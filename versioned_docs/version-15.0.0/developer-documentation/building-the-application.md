@@ -4,6 +4,8 @@ title: Building the application
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Building%20the%20application&description=For%20Developers&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ```shell title="For Windows"
 conda activate env-electron-python
 npm run python-onefile-build-win
@@ -60,7 +62,5 @@ npm run deploy-linux
 ```
 
 If there are any errors, please check your build settings in the package.json. For more information regarding the build process and all the possible configuration options please refer to [electron-builder](https://www.electron.build/configuration/configuration) documentation.
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

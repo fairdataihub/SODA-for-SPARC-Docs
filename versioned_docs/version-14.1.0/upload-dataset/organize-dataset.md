@@ -4,6 +4,8 @@ title: Overview
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Organize%20dataset&description=Prepare%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 All SPARC datasets must follow the top level SPARC folder structure imposed by the
@@ -26,7 +28,5 @@ on your computer or directly on Pennsieve (to avoid duplicating files locally).
 :::info
 You can save your progress using the Save progress button available in the lower right corner starting from Step 3.
 :::
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

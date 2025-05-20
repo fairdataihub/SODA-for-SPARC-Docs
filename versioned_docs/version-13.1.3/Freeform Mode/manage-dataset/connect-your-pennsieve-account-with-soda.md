@@ -4,6 +4,8 @@ title: Connect your Pennsieve account with SODA
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Connect%20your%20Pennsieve%20account%20with%20SODA&description=Manage%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 SPARC uses the [Pennsieve](https://app.pennsieve.net/) platform to store data and metadata files as well as append additional metadata. All SPARC researchers must thus share their data on Pennsieve. When using SODA for the first time, you will have to connect your Pennsieve account with SODA to use Pennsieve related functionalities implemented in SODA.
@@ -19,8 +21,6 @@ You will need a Pennsieve account with access to the Pennsieve workspace where y
 3. Fill in your Pennsieve **Email Address** and **Password** and click `Connect to Pennsieve`
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Connect-to-BF/connect-to-PS-SODA.png?raw=true)
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 :::note
 

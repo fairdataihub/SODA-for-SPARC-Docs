@@ -4,6 +4,8 @@ title: Add remove dataset to collection
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Add%2fedit%20Dataset%20Collection&description=Manage%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 A collection allows you to associate and consolidate multiple datasets into a single grouping. By doing so, you can catalog your datasets in a myriad of ways, including by scientific theme, by publication, and more. Ultimately, this can allow for better organization of your datasets and provides the ability to streamline collaboration by providing a link to a collection instead of multiple, distinct datasets.
@@ -24,7 +26,5 @@ To access this interface click on the `Curate and Share` side bar option, then c
    - To create a new collection name type any collection name that you feel captures the nature of your dataset as a collection name. Once you have entered the text for a single collection name, press `Enter` or click off the textbox to add it.
    - Delete a collection by clicking the `x` to the right of a given collection name.
 4. Click on the `Update collections` button.
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

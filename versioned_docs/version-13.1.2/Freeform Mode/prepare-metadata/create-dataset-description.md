@@ -4,6 +4,8 @@ title: Create dataset_description.xlsx
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Create%20dataset_description.xlsx&description=Prepare%20Metadata&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 Under this feature, SODA lets you quickly and accurately prepare the dataset_description metadata file which is mandatory for all SPARC datasets. SODA provides a convenient
@@ -101,7 +103,5 @@ After you complete all steps, click on `Generate` to generate your dataset descr
 In the contributors' table, you can drag and drop rows to organize contributors in the order that they should appear in the dataset_description file. You can also remove one
 with the delete button.
 :::
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

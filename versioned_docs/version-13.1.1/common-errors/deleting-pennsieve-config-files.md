@@ -4,6 +4,8 @@ title: Deleting your Pennsieve account config
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Deleting%20Pennsieve%20config%20files&description=&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Issue Background
 
 There is a known issue where the Pennsieve Agent fails to start due to more than one profile using the same name. To alleviate this issue, please view the steps below.
@@ -26,7 +28,5 @@ There is a known issue where the Pennsieve Agent fails to start due to more than
 2. Navigate to the Home directory
 3. Open the .pennsieve folder (If you can't find it, press 'ctrl+h' to display hidden files)
 4. Delete all the files and folders inside the ".pennsieve" folder.
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

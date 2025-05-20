@@ -5,6 +5,8 @@ title: Cookie Policy
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Cookie%20Policy&description=Information%20about%20SODA%20for%20SPARC%27s%20documentation%20platform%20cookie%20policy&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## What Are Cookies?
 
 A cookie is a file that is downloaded to a device (computer or mobile phone) when accessing certain web pages. Cookies allow a web page, among other things, to store and retrieve information about the browsing habits of a user or a computer and, depending on the information they contain and the way they use their equipment, they can be used to recognize to user.
@@ -28,7 +30,5 @@ Please feel free to contact us if you have any questions or complaints about Fai
 **Contact form**: https://fairdataihub.org/contact-us
 
 **Email**: info@fairdataihub.org
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

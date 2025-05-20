@@ -4,6 +4,8 @@ title: Upload a banner image
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Upload%20a%20banner%20image&description=Manage%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 All SPARC datasets must have the following metadata on Pennsieve: subtitle, description, banner image, license, and tags. This interface allows you to easily add a banner image to your Pennsieve dataset. This image will be associated with the dataset and used as a thumbnail once the dataset is published on the [SPARC data portal](https://sparc.science/).
@@ -29,7 +31,5 @@ To access this interface click on the `Advanced Features` at the bottom of the h
    :::
 
 7. Click on `Save changes`. The newly added banner image will be displayed in the interface.
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

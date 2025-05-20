@@ -4,6 +4,8 @@ title: How to test SODA without a Pennsieve account
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=How%20to%20test%20SODA%20without%20a%20Pennsieve%20account&org=fairdataihub&description=
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 Here are some examples of features of SODA that can be tested without access to the Pennsieve platform.
@@ -43,7 +45,5 @@ SODA provides a feature that allows users to download the latest version of the 
 1. Navigate to the Download Templates feature of SODA. To get there from the home page of SODA, click the "Free Form Curation" button, select the Prepare Metadata tab at the top of the page, and then
    click the "Download templates" button.
 2. Select the metadata file that you would like to download to your computer, and then select the location to save it to.
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

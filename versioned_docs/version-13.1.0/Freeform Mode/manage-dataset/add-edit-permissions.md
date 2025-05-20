@@ -4,6 +4,8 @@ title: Add edit permissions
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Add%2Fedit%20permissions&description=Manage%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 There are four roles available for a dataset: owner, manager, editor, and viewer. Each of them provides different permissions for making changes to a dataset. These permissions are summarized in the table below. You can find out more about permissions on the associated [Pennsieve help page](https://docs.pennsieve.io/docs/dataset-permissions).
@@ -52,7 +54,5 @@ Follow these steps to give permissions to an entire Pennsieve team:
 2. Select the **team** from the dropdown list.
 3. Select a **role** from the dropdown list.
 4. Click on `Add permission for team`.
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

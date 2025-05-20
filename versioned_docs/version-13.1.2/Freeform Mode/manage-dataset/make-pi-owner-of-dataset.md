@@ -4,6 +4,8 @@ title: Make PI owner of dataset
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Make%20PI%20owner%20of%20dataset&description=Manage%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 There are four permission privileges available for a dataset on Pennsieve: owner, manager, editor, and viewer. Each of them provides different permissions for making changes to a dataset. These permissions are summarized in the table avaialble [here](../manage-dataset/add-edit-permissions).
@@ -26,7 +28,5 @@ To access this interface click on the `Curate and Share` side bar option, then c
 :::note
 You will automatically be assigned `manager` permissions to the dataset if you were the owner of the dataset.
 :::
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

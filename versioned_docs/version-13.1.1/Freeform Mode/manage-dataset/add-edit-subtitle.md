@@ -4,6 +4,8 @@ title: Add edit subtitle
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Add%2Fedit%20subtitle&description=Manage%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 All SPARC datasets must have the following metadata on Pennsieve: subtitle, description, banner image, license, and tags. This interface allows you to easily add a subtitle to your Pennsieve dataset. This subtitle will become the short description visible immediately under the title of your dataset once it is published on the [SPARC data portal](https://sparc.science/).
@@ -21,7 +23,5 @@ the `Add/edit subtitle` card.
 :::info
 If an existing subtitle is found for your Pennsieve dataset, it will be shown in the interface and you will be presented with an `Edit description` button to click.
 :::
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

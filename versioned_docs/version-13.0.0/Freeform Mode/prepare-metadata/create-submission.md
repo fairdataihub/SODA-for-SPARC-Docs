@@ -4,6 +4,8 @@ title: Create submission.xlsx
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Create%20submission.xlsx&description=Prepare%20Metadata&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 Under this feature, SODA lets you rapidly prepare the submission metadata file that is mandatory for all SPARC datasets. This feature is designed to avoid commonly found errors when preparing this file. The expected structure of this file, generated automatically by SODA, is explained in our corresponding "[How to](../../how-to/how-to-structure-the-submission-metadata-file)" page if you would like to learn about it.
@@ -25,7 +27,5 @@ the `Create submission.xlsx` card.
 
 4. Enter the completion date associated with this milestone or select one from the dropdown if a Data Deliverable document is imported. Enter `N/A` if this dataset isn't associated with any milestone initially planned in the Data Deliverables document.
 5. Review and click on `Generate` to generate your submission file. You have the options to generate and save it on your computer or generate and upload it directly to Pennsieve. If you have not organized your dataset yet, you can save this file on your computer then import it in SODA when prompted in the [Organize dataset](../prepare-dataset/organize-dataset) feature.
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

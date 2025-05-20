@@ -4,6 +4,8 @@ title: Upload a local dataset to Pennsieve
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Upload%20a%20local%20dataset%20to%20Pennsieve&description=Manage%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 With this feature, you can upload a data from your computer on to a Pennsieve dataset (with folder structure preserved). If the dataset is not structured according to the SPARC Data Structure, SODA will not be able to upload it. You can find out more about the SPARC Data Structure [here](https://docs.sparc.science/docs/overview-of-sparc-dataset-format#organization-of-a).
@@ -26,7 +28,5 @@ When uploading your local dataset to Pennsieve SODA will now allow you to perfor
    width="100%"
    src="https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Upload-local-ds/upload-a-local-dataset-navbar-progress.mkv?raw=true"
 /> -->
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

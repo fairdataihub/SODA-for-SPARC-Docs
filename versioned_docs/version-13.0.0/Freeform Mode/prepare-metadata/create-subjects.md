@@ -4,6 +4,8 @@ title: Create subjects.xlsx
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Create%20subjects.xlsx&description=Prepare%20Metadata&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 Under this feature, SODA lets you quickly and accurately prepare the subjects metadata file, which is mandatory for all SPARC datasets where subjects are involved in the study. SODA provides a convenient interface, which is more intuitive than the Excel spreadsheet template. It also makes use of information from your dataset on Pennsieve, NCBI Taxonomy and Scicrunch to help you populate some of the fields easily. The expected structure of this file, generated automatically by SODA, is explained in our corresponding "[How to](../../how-to/how-to-structure-the-subjects-metadata-file.md)" page if you would like to learn about it.
@@ -93,7 +95,5 @@ After you complete all steps, click on `Generate` to generate your subjects file
 :::tip
 If you have a properly structured SPARC primary folder to import, you can click on `I want to import subject ID(s) from my primary folder` specified under the button `Add a subject` to import it to the table of subjects. SODA will extract the subject ID(s) (if available) onto the table of subjects for your edits.
 :::
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

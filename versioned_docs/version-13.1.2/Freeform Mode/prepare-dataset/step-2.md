@@ -4,6 +4,8 @@ title: Step 2 - Specify high level folders
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%202%20-%20Specify%20high%20level%20folders&description=Prepare%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 Select the high-level folder(s) to be included in your dataset. If you started with an existing dataset (local or Pennsieve), any high-level folder included in that dataset
 will be automatically selected at this step.
 
@@ -17,7 +19,5 @@ Refer to the [description provided in the figure](./organize-dataset#background)
 A high-level folder can only be included from Step 2 and removed from Step 3. You can always come back to this step to include more folders; however, in order to delete a
 high level folder from your dataset, you have to delete it at Step 3 by right-clicking on the folder and click Delete.
 :::
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

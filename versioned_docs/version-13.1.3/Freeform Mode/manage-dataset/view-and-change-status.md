@@ -4,6 +4,8 @@ title: View and change status
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=View%20and%20change%20status&description=Manage%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 The status of a dataset is used to allow easy communication between SPARC investigators and the SPARC Dataset Curation Team regarding the progress of a dataset through the curation process. There are 12 status options that each SPARC Dataset will go through one by one during the submission and curation process. Each status indicates which team is responsible for the step. The dataset status changes required from the investigators are done automatically in SODA when they execute the associated actions so investigators should not have to use this features in most cases.
@@ -24,7 +26,5 @@ Typically, SPARC investigators should only have to change dataset status to one 
 - `3. Ready for Curation (Investigator)`: Use this status to inform the SPARC Dataset Curation Team that your dataset is ready to be reviewed. You dataset will be added to the curation queue.
 - `11. Complete, Under Embargo (Investigator)`: Use this status to share your dataset with the Pennsieve workspace where you need to upload your data ( e.g., SPARC, RE-JOIN, etc). This will give viewer permissions to the SPARC Embargoed Data Sharing Group and will therefore allow any SPARC investigator who has signed the SPARC Non-disclosure form to see your data.
 - `12. Published (Investigator)`: Use this status to once you have published your dataset. One year after the initial upload of your dataset, you must publish your dataset to Pennsieve Discover, which populates the SPARC Portal. To do this, open the dataset of interest on the Pennsieve webpage, click on the Settings tab on the left, and select Publish Dataset.
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

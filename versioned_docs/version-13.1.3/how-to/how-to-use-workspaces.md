@@ -4,6 +4,8 @@ title: How to Use/Switch Workspaces
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=How%20to%20Use%2FSwitch%20Workspaces&description=%27How%20to%27%20SPARC%20series&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 Workspaces are a way to organize datasets and Pennsieve users into groups. A workspace is only accessible through invitation from the workspace Owner or Administrator. Once part of a workspace you can access datasets based on your access rights. Your access rights are determined by your Workspace Role. For more information on Workspace Roles and workpsace management see the official Pennsieve documentation [here](https://docs.pennsieve.io/docs/workspace-management#multiple-workspaces).
@@ -29,7 +31,5 @@ If you have access to only one workspace then that workspace is your default wor
 4. Choose the workspace you would like to use in SODA when you open it back up.
 5. **Important:** Follow the instructions [here](../common-errors/deleting-pennsieve-config-files) to delete your Pennsieve config files.
 6. After deleting your Pennsieve config files, open SODA, and it will automatically switch to your new workspace.
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

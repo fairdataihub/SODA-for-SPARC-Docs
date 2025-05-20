@@ -4,6 +4,8 @@ title: Step 5 - Confirm details before upload
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%205%20-%20Request%20manifest%20files&description=Prepare%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 Details of the dataset you are about to upload will be displayed. You can review the following:
 
 - **Dataset Name**: The name of the dataset you are about to upload.
@@ -15,7 +17,5 @@ Details of the dataset you are about to upload will be displayed. You can review
 If you need to make any changes, you can click on the "Back" button to go back to the previous steps and make the necessary changes. If everything looks good, you can click on the "Generate" button to start the upload process.
 
 ![](/img/UploadData5.png)
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

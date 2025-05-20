@@ -5,6 +5,8 @@ title: Terms of Use
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Terms%20of%20Use&description=&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ### Version 1.0
 
 Effective Date: December 01, 2021
@@ -185,7 +187,5 @@ Please feel free to contact us if you have any questions or complaints about Fai
 **Contact form**: https://fairdataihub.org/contact-us
 
 **Email**: info@fairdataihub.org
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

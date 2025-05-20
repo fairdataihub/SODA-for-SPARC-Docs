@@ -4,6 +4,8 @@ title: Step 3 - Structure dataset files
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%203%20-%20Structure%20dataset%20files&description=Prepare%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 Virtually structure your dataset using this interface as if you were organizing it on your computer but without actually modifying any local files. All your requested actions (files to be included, folders to be created, metadata information to be added, etc.) will be registered by SODA and only implemented when the dataset is generated during Step 6.
 
 - Go inside a folder by double-clicking on it.
@@ -55,7 +57,5 @@ imported and only the new unique items will.
    width="100%"
    src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/Duplicate-Item.mp4"
 />
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

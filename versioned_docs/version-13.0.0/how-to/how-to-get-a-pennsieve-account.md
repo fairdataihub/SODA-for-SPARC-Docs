@@ -4,6 +4,8 @@ title: How to get a Pennsieve account and access to the SPARC Consortium organiz
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=How%20to%20get%20a%20Pennsieve%20account%20and%20access%20to%20the%20SPARC%20Consortium%20organization&description=%27How%20to%27%20SPARC%20series&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 All SPARC datasets must be submitted through the [Pennsieve Data Platform](https://app.pennsieve.io/) under the "SPARC Consortium" organization. We explain here how you can get a Pennsieve account and access to the SPARC Consortium organizaton. This is required before you can start adding metadata or uploading your data to Pennsieve through SODA.
@@ -19,7 +21,5 @@ Once you have signed up for a Pennsieve account, you should see "SPARC Consortiu
 :::info
 If you have any issues, reach out to the Pennsieve team at support@pennsieve.io.
 :::
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

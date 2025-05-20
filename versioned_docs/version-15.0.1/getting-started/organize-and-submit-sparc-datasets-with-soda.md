@@ -4,6 +4,8 @@ title: Step-by-step guide for curating and sharing data
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step-by-step%20guide%20to%20organize%20and%20submit%20SPARC%20datasets%20with%20SODA%20for%20SPARC&description=Getting%20Started&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ### A. Initial inquiry
 
 :::info
@@ -29,7 +31,5 @@ If your dataset is already following the SPARC guidelines, you can use the `Uplo
 ### Need help?
 
 Feel free to reach out to us if you need help or want to share feedback at help@fairdataihub.org. Make sure to check the "Common errors and their solutions" section in this document, your solution might be there!
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

@@ -4,6 +4,8 @@ title: Step 7 - Validate dataset
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%206%20-%20Generate%20dataset&description=Prepare%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 Now that the dataset is prepared validate it to ensure it follows the SPARC Dataset Structure before uploading it to Pennsieve.
 
 ### Running Validation
@@ -21,7 +23,5 @@ Now that the dataset is prepared validate it to ensure it follows the SPARC Data
   - `Message` - The message informing you what was determined to be invalid about the file, folder, or field specified in the `Path` column.
 - To fix your errors, simply alter your dataset to correct the given error messages then re-run validation for confirmation.
 - It is recommended that, if possible, you fix most errors before uploading your dataset to Pennsieve.
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

@@ -5,6 +5,8 @@ title: Changelog
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Changelog&description=All%20notable%20changes%20to%20SODA%20for%20SPARC&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 All notable changes to SODA for SPARC will be documented in this file.
 
 ## v15.0.1
@@ -1030,7 +1032,5 @@ All notable changes to SODA for SPARC will be documented in this file.
 - Updated Airtable SPARC's table name to reflect the change initiated by SPARC. Prior to the fix, SODA could not connect to the SPARC award data sheet, thus raising an error when users utilize the Prepare metadata feature.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

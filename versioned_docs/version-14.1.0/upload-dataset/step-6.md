@@ -4,6 +4,8 @@ title: Step 6 - Generate dataset
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%206%20-%20Generate%20dataset&description=Prepare%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 The dataset will be generated based on the information provided during the previous steps. It could be generated **locally on your computer** or **directly on Pennsieve**.
 
 ### Generate your dataset locally
@@ -28,7 +30,5 @@ If you select to generate your dataset directly on Pennsieve, it will be generat
 :::note
 When uploading datasets with large amounts of files, a dataset upload may take longer than expected. This is regardless of the total storage size of your dataset. In the event of an unsuccessful dataset upload you will receive an error notification. You can trust that as long as there is no error notification SODA is uploading your dataset.
 :::
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

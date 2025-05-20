@@ -4,6 +4,8 @@ title: Connecting with ORCiD/API key
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Connecting%20with%20ORCiD%2FAPI%20key&description=How%20to%20connect%20Pennsieve%20to%20SODA%20with%20an%20API%20key&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 :::caution
 Using your API key to sign in is only recommended if you sign in to Pennsieve with an ORCiD account.
 If you have a Pennsieve username and password, please view how to use them to sign in [here](./connecting-with-username-password).
@@ -47,7 +49,5 @@ to delete your Pennsieve config files and relieve the issue.
 - Neither the SODA Team nor anyone else besides you will have access to your API key and secret. The API key and secred will be stored locally on your computer only.
 
 :::
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

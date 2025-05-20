@@ -4,6 +4,8 @@ title: Create CHANGES.txt
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Create%20CHANGES.txt&description=Prepare%20Metadata&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 Under this feature, SODA lets you rapidly prepare the CHANGES metadata file, which is required if you are preparing a new version of an already published dataset.
@@ -25,7 +27,5 @@ click on the `CHANGES.txt` card.
    [Organize dataset](../prepare-dataset/organize-dataset) feature.
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Prepare-metadata/Readme-Changes/changes.PNG?raw=true)
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

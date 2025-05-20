@@ -4,6 +4,8 @@ title: Standalone Validator
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%207%20-%20Preview%20dataset&description=Prepare%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 This Free Form Curation feature allows you to validate one of your organized datasets stored locally or on Pennsieve. This can save you time by allowing you to avoid stepping
 through `Organize dataset` in `Free Form Curation` or `End to End Curation` UIs when validating your dataset is your only goal.
 
@@ -37,7 +39,5 @@ It is recommended that, when possible, you resolve any validation errors before 
 ## Next Steps
 
 Now that your dataset is validated you can submit it to the SPARC Curation Team for review. To do so, follow the instructions [here](../disseminate-dataset/submit-for-pre-publishing-review.md).
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />

@@ -4,6 +4,8 @@ title: Add edit tags
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Add%2Fedit%20tags&description=Manage%20Dataset&org=fairdataihub
 ---
 
+import PageFeedback from '@site/src/components/PageFeedback';
+
 ## Background
 
 All SPARC datasets must have the following metadata on Pennsieve: subtitle, description, banner image, license, and tags. This interface allows you to easily add, edit, and remove dataset tags. Tags are essentially keywords, and will make your dataset more easily searchable once published on the [SPARC data portal](https://sparc.science/).
@@ -22,7 +24,5 @@ To access this interface click on the `Curate and Share` side bar option, then c
 4. Click on the `Add Tags` button.
 
    - If you already had tags you will be presented with an `Edit Tags` button to click on instead.
-
-import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />
