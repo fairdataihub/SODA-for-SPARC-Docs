@@ -80,10 +80,10 @@
     "tailwindcss": "3.4.9"
   },
   "engines": {
-    "node": ">=20.0.0 "
+    "node": ">=18.0.0 "
   },
   "volta": {
-    "node": "20.18.1",
+    "node": "18.18.1",
     "yarn": "1.22.22"
   },
   "browserslist": {
