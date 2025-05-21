@@ -82,6 +82,10 @@
   "engines": {
     "node": ">=18.0.0 "
   },
+  "volta": {
+    "node": "18.18.1",
+    "yarn": "1.22.22"
+  },
   "browserslist": {
     "production": [
       ">0.5%",
