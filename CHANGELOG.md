@@ -1,3 +1,10 @@
+## [27.3.1](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.3.0...v27.3.1) (2025-05-21)
+
+### Bug Fixes
+
+- 🐛 disable page feedback ([388620e](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/388620eeea2f0b4c376c3e916dcf73dd2e37d824))
+- 🐛 update node to v20 ([8d939d2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/8d939d2005841303b458bedb2f80ef0af8cdbc6b))
+
 # [27.3.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.2.11...v27.3.0) (2025-05-19)
 
 ### Features
