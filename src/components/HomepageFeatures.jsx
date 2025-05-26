@@ -2,7 +2,7 @@
 /* eslint-disable react/jsx-props-no-spreading */
 import React from 'react';
 import styles from './HomepageFeatures.module.css';
-import stats from '../../static/data/usage-stats.json';
+import stats from '../../static/data/aggregated_data.json';
 
 export default function HomepageFeatures() {
   return (
@@ -88,7 +88,7 @@ export default function HomepageFeatures() {
               <div className="col col--4 border">
                 <h2 style={{ color: '#059669', fontSize: '1.7rem', marginBottom: '.2rem' }}>
                   {stats['Number of files processed'] < 1_000_000
-                    ? `${Math.floor(stats['Number of files processed'] / 1000)  }K`
+                    ? `${Math.floor(stats['Number of files processed'] / 1000)}K`
                     : stats['Number of files processed']}{' '}
                   Files
                 </h2>
