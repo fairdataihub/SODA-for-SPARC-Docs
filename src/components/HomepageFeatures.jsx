@@ -2,6 +2,7 @@
 /* eslint-disable react/jsx-props-no-spreading */
 import React from 'react';
 import styles from './HomepageFeatures.module.css';
+import stats from '../../static/data/aggregated_data.json';
 
 export default function HomepageFeatures() {
   return (
@@ -51,8 +52,9 @@ export default function HomepageFeatures() {
             >
               SODA is a cross-platform desktop software that helps researchers prepare and share
               FAIR peripheral nervous system (PNS) related data and models using the SPARC Data
-              Structure (SDS) and the SPARC Portal. Since 2021, SODA has been installed on over
-              1,300 computers, empowering researchers worldwide.
+              Structure (SDS) and the SPARC Portal. Since 2021, SODA has been installed on over{' '}
+              {Math.round(stats['Number of total users'] / 100) * 100} computers, empowering
+              researchers worldwide.
             </p>
           </div>
         </div>
@@ -79,19 +81,22 @@ export default function HomepageFeatures() {
             <div className="row">
               <div className="col col--4 border">
                 <h2 style={{ color: '#059669', fontSize: '1.7rem', marginBottom: '.2rem' }}>
-                  35TB+ Data
+                  {(stats['Amount (GB) of data files processed'] / 1000).toFixed(0)} TB+ Data
                 </h2>
                 <p style={{ fontWeight: '500', fontSize: '1.1rem' }}>Curated and shared</p>
               </div>
               <div className="col col--4 border">
                 <h2 style={{ color: '#059669', fontSize: '1.7rem', marginBottom: '.2rem' }}>
-                  431k+ Files
+                  {stats['Number of files processed'] < 1_000_000
+                    ? `${Math.floor(stats['Number of files processed'] / 1000)}K`
+                    : stats['Number of files processed']}{' '}
+                  Files
                 </h2>
                 <p style={{ fontWeight: '500', fontSize: '1.1rem' }}>Curated and shared</p>
               </div>
               <div className="col col--4 border">
                 <h2 style={{ color: '#059669', fontSize: '1.7rem', marginBottom: '.2rem' }}>
-                  234 Datasets
+                  {stats['Number of published datasets touched']} Datasets
                 </h2>
                 <p style={{ fontWeight: '500', fontSize: '1.1rem' }}>Published to Sparc.Science</p>
               </div>
