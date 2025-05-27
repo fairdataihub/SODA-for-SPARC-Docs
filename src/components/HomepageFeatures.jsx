@@ -81,7 +81,7 @@ export default function HomepageFeatures() {
             <div className="row">
               <div className="col col--4 border">
                 <h2 style={{ color: '#059669', fontSize: '1.7rem', marginBottom: '.2rem' }}>
-                  {(stats['Amount (GB) of data files processed'] / 1024).toFixed(1)} TB
+                  {(stats['Amount (GB) of data files processed'] / 1000).toFixed(0)} TB+ Data
                 </h2>
                 <p style={{ fontWeight: '500', fontSize: '1.1rem' }}>Curated and shared</p>
               </div>
