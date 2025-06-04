@@ -9,8 +9,7 @@ through `Organize dataset` in `Upload Dataset` or `Prepare Dataset Step-by-Step`
 
 ## Background
 
-All SPARC datasets must conform to the SPARC Dataset Structure format described [here](https://docs.sparc.science/docs/overview-of-sparc-dataset-format).
-It is recommended that, when possible, you resolve any validation errors before submitting your dataset to the SPARC Curation Team for review.
+All datasets must conform to the SPARC Dataset Structure (SDS) format described [here](https://docs.sparc.science/docs/overview-of-sparc-dataset-format). Whether you are submitting your dataset to the SPARC Curation Team for review or uploading to a generalist repository (e.g., Zenodo) it is recommended that, when possible, you resolve any validation errors.
 
 ## How to
 
