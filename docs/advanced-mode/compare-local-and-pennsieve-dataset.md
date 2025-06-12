@@ -8,8 +8,7 @@ This feature allows you to compare a dataset stored on Pennsieve with a dataset 
 
 ## Background
 
-After uploading a dataset some users want to look at the individual files and folders on their local dataset to make sure each one is on Pennsieve. This feature allows you to
-automatically compare the files and folders in your local dataset with the files in your Pennsieve dataset.
+After uploading a dataset some users want to look at the individual files and folders on their local dataset to make sure each one is on Pennsieve. This feature allows you to automatically compare the files and folders in your local dataset with the files in a Pennsieve dataset.
 
 ## How to
 

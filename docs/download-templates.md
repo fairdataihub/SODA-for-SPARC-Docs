@@ -6,7 +6,7 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Down
 
 ## Background
 
-The Curation Team has release templates for all the metadata files required in SPARC datasets. These templates are available in SPARC Dataset Structure which may be [downloaded as a zip file](https://github.com/SciCrunch/sparc-curation/releases/tag/dataset-template-2.1.0). They are used by SODA when generating the metadata files. You can also download them conveniently in this SODA feature in case you wish to fill them out manually.
+The Curation Team has release templates for all the metadata files required in Sparc Dataset Structure (SDS) conforming datasets. These templates are available in the SDS and may be [downloaded as a zip file](https://github.com/SciCrunch/sparc-curation/releases/tag/dataset-template-2.1.0). They are used by SODA when generating the metadata files. You can also download them conveniently in this SODA feature in case you wish to fill them out manually.
 
 ## How to
 

@@ -4,8 +4,7 @@ title: What is SODA for SPARC?
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=What%20is%20SODA%20for%20SPARC%3F&description=SODA%20(Software%20to%20Organize%20Data%20Automatically)%20for%20SPARC%20is%20a%20cross-platform%20desktop%20software%20that%20allows%20SPARC-funded%20researchers%20to%20easily%20comply%20with%20the%20FAIR%20SPARC%20Data%20curation%20and%20sharing%20guidelines&org=fairdataihub
 ---
 
-SODA (Software to Organize Data Automatically) for SPARC is a cross-platform desktop software that allows biomedical researchers to easily prepare and share their bioelectronic,
-neurophysiology, and other similar data and computational models in-line with the new NIH Data Sharing Policy. Initially developed to support the sharing of data funded by the NIH SPARC Program, SODA can now be used to share any data on the [SPARC Data Portal](https://sparc.science/) since the Portal has become an open repository starting January 2023.
+SODA (Software to Organize Data Automatically) is a cross-platform desktop software that helps researchers prepare and share FAIR peripheral nervous system (PNS) related data and models using the SPARC Data Structure (SDS) and the SPARC Portal. Initially developed to support the sharing of data funded by the NIH SPARC Program, SODA can now be used to share any data on the [SPARC Data Portal](https://sparc.science/) since the Portal has become an open repository starting January 2023.
 
 To understand better what SODA is, we present below first what the new NIH Data Sharing Policy consists of and what the NIH SPARC program does before explaining the challenges of data curation and sharing and how SODA can help.
 

@@ -6,7 +6,12 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Uplo
 
 ## Background
 
-All SPARC datasets must have the following metadata on Pennsieve: subtitle, description, banner image, license, and tags. This interface allows you to easily add a banner image to your Pennsieve dataset. This image will be associated with the dataset and used as a thumbnail once the dataset is published on the [SPARC data portal](https://sparc.science/).
+:::info
+
+If you are not going to share your dataset to the SPARC Portal you do not need a banner image.
+:::
+
+All datasets that will be shared to the SPARC Portal must have the following metadata on Pennsieve: subtitle, description, banner image, license, and tags. This interface allows you to easily add a banner image to your Pennsieve dataset. This image will be associated with the dataset and used as a thumbnail once the dataset is published on the [SPARC data portal](https://sparc.science/).
 
 :::caution
 Only .PNG, .JPEG, and .TIFF images are allowed to be used as a banner.
