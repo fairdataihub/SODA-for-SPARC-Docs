@@ -5,33 +5,30 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Buil
 ---
 
 ```shell title="For Windows"
-conda activate env-electron-python
-npm run python-onefile-build-win
-
 # To build only
-npm run build
+conda activate env-electron-python
+npm run python-folder-build-win
+
 
 # To build and publish
 npm run deploy-win
 ```
 
 ```shell title="For macOS"
-conda activate env-electron-python
-npm run python-onefile-build-unix
-
 # To build only
-npm run build
+conda activate env-electron-python
+npm run python-folder-build-unix
+
 
 # To build and publish
 npm run deploy-mac
 ```
 
 ```shell title="For Linux"
-conda activate env-electron-python
-npm run python-onefile-build-unix
-
 # To build only
-npm run build
+conda activate env-electron-python
+npm run python-folder-build-unix
+
 
 # To build and publish
 npm run deploy-linux

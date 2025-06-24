@@ -38,7 +38,7 @@
 </p>
    
 <h4>
-    <a href="https://docs.sodaforsparc.io/docs/intro">What is SODA for SPARC?</a>
+    <a href="https://docs.sodaforsparc.io/docs/intro">What is SODA?</a>
   <span> · </span>
     <a href="https://docs.sodaforsparc.io/">Documentation</a>
   <span> · </span>
@@ -54,22 +54,23 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 
-- [About the Documentation](#star2-about-the-documentation)
-  - [Tech Stack](#space_invader-tech-stack)
-  - [Color Reference](#art-color-reference)
-  - [Environment Variables](#key-environment-variables)
-- [Getting Started](#toolbox-getting-started)
-  - [Prerequisites](#bangbang-prerequisites)
-  - [Run Locally](#running-run-locally)
-  - [Versioning](#stopwatch-versioning)
-  - [Build locally](#building_construction-build-locally)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [Contributing](#wave-contributing)
-  - [Code of Conduct](#scroll-code-of-conduct)
-- [FAQ](#grey_question-faq)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
+- [:notebook_with_decorative_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
+  - [:star2: About the Documentation](#star2-about-the-documentation)
+    - [:space_invader: Tech Stack](#space_invader-tech-stack)
+    - [:art: Color Reference](#art-color-reference)
+    - [:key: Environment Variables](#key-environment-variables)
+  - [:toolbox: Getting Started](#toolbox-getting-started)
+    - [:bangbang: Prerequisites](#bangbang-prerequisites)
+    - [:running: Run Locally](#running-run-locally)
+    - [:stopwatch: Versioning](#stopwatch-versioning)
+    - [:building_construction: Build locally](#building_construction-build-locally)
+    - [:triangular_flag_on_post: Deployment](#triangular_flag_on_post-deployment)
+  - [:wave: Contributing](#wave-contributing)
+    - [:scroll: Code of Conduct](#scroll-code-of-conduct)
+  - [:grey_question: FAQ](#grey_question-faq)
+  - [:warning: License](#warning-license)
+  - [:handshake: Contact](#handshake-contact)
+  - [:gem: Acknowledgements](#gem-acknowledgements)
 
 ## :star2: About the Documentation
 

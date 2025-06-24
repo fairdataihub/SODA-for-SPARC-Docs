@@ -7,6 +7,40 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## 15.3.2
+
+## Feature additions:
+
+- Added Mac release to 15.3.1
+
+## 15.3.1
+
+## Feature additions:
+
+- Pennsieve Agent updates are now optional in some cases.
+
+## 15.3.0
+
+## Feature additions:
+
+- Pennsieve guest users can use the Prepare Datset Step-by-Step to edit their Pennsieve datasets.
+- SODA's server starts faster on Mac computers.
+- SODA will notify users if it is determined that a network setting may be preventing communication to the Pennsieve platform.
+- The Prepare Dataset Step-by-Step feature allows users to resume curating a dataset even when that dataset saved files that have since been deleted from the computer.
+
+## Bug fixes:
+
+- Fixed an uncommon issue where subjects and samples were not being saved in the Prepare Dataset Step-by-Step progress file if the user did not move to the next page before exiting.
+- SODA will notify users if it is determined that a network setting may be preventing communication to the Pennsieve platform.
+- The Prepare Dataset Step-by-Step feature allows users to resume curating a dataset even when that dataset saved files that have since been deleted from the computer.
+
+## 15.2.3
+
+## Bug fixes:
+
+- Restricted forbidden characters in Guided Mode datasets to avoid JSON save file issues.
+- Moved guidedSaveProgress to trigger after every successful page exit for broader save coverage.
+
 ## 15.2.1
 
 ## Feature additions:

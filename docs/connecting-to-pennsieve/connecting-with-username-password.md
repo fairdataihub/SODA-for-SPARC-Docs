@@ -6,7 +6,13 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Conn
 
 ## Background
 
-SPARC uses the [Pennsieve](https://app.pennsieve.net/) platform to store data and metadata files as well as append additional metadata. All SPARC researchers must thus share their data on Pennsieve. When using SODA for the first time, you will have to connect your Pennsieve account with SODA to use Pennsieve related functionalities implemented in SODA.
+SPARC uses the [Pennsieve](https://app.pennsieve.net/) platform to store data and metadata files as well as append additional metadata. All SPARC researchers must thus share their data on Pennsieve. The Pennsieve Agent is a tool developed by the Pennsieve team to help researchers programmatically upload their datasets to the platform. However, some researchers find this tool intimidating. SODA helps by
+hiding the Pennsieve Agent's complexities behind a user-friendly interface that allows researchers to upload their datasets with ease.
+
+:::info
+If you are not a SPARC or RE-JOIN funded researcher and want to upload your dataset to a generalist repository (e.g., Zenodo) instead of Pennsieve you can disregard this page and skip to the instructions for
+generating a SPARC Data Structure (SDS) compliant dataset on your computer [here](../guided).
+:::
 
 ## Prerequisite
 
