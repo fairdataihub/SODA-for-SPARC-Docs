@@ -160,7 +160,7 @@ export default function FooterWrapper() {
                   </li>
                   <li className="pb-2 text-base ">
                     <div className="h-max w-max scale-200  transition-all hover:scale-105">
-                      <Link href="/docs/intro">What is SODA for SPARC?</Link>
+                      <Link href="/docs/intro">What is SODA?</Link>
                     </div>
                   </li>
                   <li className="pb-2 text-base ">

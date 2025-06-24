@@ -6,7 +6,7 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Orga
 
 ## Background
 
-::: info
+:::info
 At the moment the upload dataset feature is for users who want to upload their dataset to Pennsieve. If you want to
 conform your dataset with the Sparc Dataset Structure (SDS) without uploading to Pennsieve, please use the Prepare Dataset Step-by-Step feature.
 :::

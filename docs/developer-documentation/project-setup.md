@@ -46,15 +46,6 @@ conda activate env-electron-python
 npm install
 ```
 
-:::caution
-For Windows, you also need the `win-node-env` package. This should automatically have been installed as an optional dependency from the `package.json` but if it doesn't you can use the following command to add it to your project:
-
-```
-npm install -g win-node-env
-```
-
-:::
-
 ## Running the application
 
 You can now launch the application with the following command for all Operating Systems.
