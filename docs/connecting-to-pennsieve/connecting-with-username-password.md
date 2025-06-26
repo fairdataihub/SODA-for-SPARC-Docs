@@ -6,8 +6,8 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Conn
 
 ## Background
 
-SPARC uses the [Pennsieve](https://app.pennsieve.net/) platform to store data and metadata files as well as append additional metadata. All SPARC researchers must thus share their data on Pennsieve. The Pennsieve Agent is a tool developed by the Pennsieve team to help researchers programmatically upload their datasets to the platform. However, some researchers find this tool intimidating. SODA helps by
-hiding the Pennsieve Agent's complexities behind a user-friendly interface that allows researchers to upload their datasets with ease.
+SPARC uses the [Pennsieve](https://app.pennsieve.net/) platform to store data and metadata files as well as append additional metadata. All SPARC researchers must thus share their data on Pennsieve.
+In order to access the Pennsieve platform in SODA you will need to connect your Pennsieve account with SODA. This page will guide you through the process of connecting your Pennsieve account with SODA using your Pennsieve username and password.
 
 :::info
 If you are not a SPARC or RE-JOIN funded researcher and want to upload your dataset to a generalist repository (e.g., Zenodo) instead of Pennsieve you can disregard this page and skip to the instructions for
@@ -23,14 +23,18 @@ You will need a Pennsieve account with access to the Pennsieve workspace where y
 To connect your Pennsieve account using a username and password, follow these steps:
 
 1. Open SODA.
-2. If SODA is not connected to Pennsieve, you will be prompted to provide your Pennsieve **Email Address** and **Password** when the application opens. Enter your credentials and then click `Connect to Pennsieve`.
+2. Click the **Manage Accounts** page in the sidebar.
+3. Click the `Connect Your Pennsieve Account` button in the `Account Options` table.
+4. Enter your Pennsieve username and password in the pop-up window that appears.
+5. Click `Connect to Pennsieve`.
 
-![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Manage-datasets/Connect-to-BF/connect-to-PS-SODA.png?raw=true)
+![](https://github.com/fairdataihub/SODA-for-SPARC/blob/staging/docs/documentation/Manage-datasets/Connect-to-BF/connect-to-PS-SODA.png?raw=true)
 
 :::note
 
 - During subsequent uses, SODA will automatically connect to the Pennsieve account you were connected to the last time.
-- Neither the SODA Team nor anyone else besides you will have access to your Pennsieve account. The generated login information required for future sessions on your Pennsieve account will be stored locally on your computer only.
+- The SODA team does not have access to your Pennsieve credentials.
+- If you want to connect to a different Pennsieve account, you can disconnect your current account in the `Account Options` table and then repeat the steps above with new credentials.
 
 :::
 
