@@ -6,23 +6,42 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=What
 
 ### About
 
-`Prepare Dataset Step-by-Step` is designed to guide users step-by-step through preparing a dataset in accordance with the Sparc Dataset Structure (SDS) without the need for documentation or prior knowledge. Once you have finished the process you can share your SDS compliant dataset with the SPARC Curation Team for review before it is published on the SPARC Data Portal.
+`Prepare Dataset Step-by-Step` is designed to guide users step-by-step through preparing a dataset in accordance with the Sparc Dataset Structure (SDS) without the need for documentation or prior knowledge. After preparing your dataset you will be guided through sharing it on the SPARC Portal or a generalist repository like Zenodo.
 
-### Using the Prepare Dataset Step-by-Step feature
+### Navigating to the Prepare Dataset Step-by-Step feature
 
-Click on the `Curate and Share` option of the sidebar and then click on `Prepare Dataset Step-by-Step`.
+On the landing page find the `Prepare Dataset Step-by-Step` card and click it.
 
 ![](/img/HomePage.png)
 
-On the first page there are three options available:
+## Using the Prepare Dataset Step-by-Step feature
 
-- `Prepare and submit a new dataset`: Select this option if you are starting to curate and share a new dataset that has not been previously started in SODA or Pennsieve.
-- `Continue a dataset saved in SODA`: Select this option if you want to continue working on a dataset previously started and saved in SODA. You will be able to continue where you left off last time.
+On the first page you have the option to `Prepare and optionally share a new dataset` or `Continue a dataset saved in SODA`. Read below to learn more about each option.
 
-We have designed the next steps such that you should be able to go through them without needing any documentation. Through successive interfaces, SODA will ask you to specify data files to be included in your dataset, request information about your dataset, and invite you to link your Pennsive account if you wish to share your dataset on the SPARC Portal. SODA will then use all of that information to do one of the following a). Generate directly on Pennsieve a dataset that is compliant with the SPARC data curation and sharing guidelines. Once generated, you will be able to review the dataset and share it with the SPARC Curation Team for their review. or b). Generate directly on your local computer so that you may manually share the SDS compliant dataset to a generalist repository (e.g., Zenodo).
+![](/img/guided-options-page.png)
+
+### Prepare and optionally share a new dataset
+
+Select this option if you want to begin preparing a dataset for sharing. At the end of the preparation process, you will be able to share it on the SPARC Portal or a generalist repository like Zenodo if you should choose.
+While preparing your dataset, SODA will guide you through three main steps:
+
+1. **Dataset Structure**: The SDS requires all dataset files to be organized into specific folders and be accompanied by a manifest file that describes their contents. SODA will help you create a compliant structure and manifest file.
+2. **Dataset Metadata**: You will be asked to provide metadata for your dataset in order to make it compliant with the Sparc Dataset Structure (SDS). This metadata will include key information that describes your data such as information about the subjects, the data collection process, and more.
+3. **Generate Dataset**: You will be assisted in generating your SDS compliant dataset so that you can share it to a repository of your choosing. If you are a SPARC-funded researcher you will want to share it on Pennsieve. If you are interested in creating a compliant dataset but not necessarily in sharing it on the SPARC Portal, you can choose to generate the dataset on your local computer and share it on a generalist repository like Zenodo.
+
+:::info
+If you are a SPARC-funded researcher it is mandatory that you share the dataset on the SPARC Portal.
+:::
+
+While preparing your dataset, you can save your progress at any time. This will allow you to continue working on your dataset later without losing any of the work you have done so far.
+To do this, simply click the `Save & Exit` button that appears at the bottom right of the page while preparing your dataset.
 
 :::info
 SODA will never modify your local data files. Any changes (file renaming, adding metadata files, etc.) will be reflected on the dataset that is generated on Pennsieve.
 :::
+
+### Continue a dataset saved in SODA
+
+Select this option if you want to continue working on a dataset previously started and saved in SODA. You will see a list of datasets that you have saved in SODA. Click on the dataset you want to continue working on, and SODA will take you to step where you left off.
 
 <PageFeedback />
