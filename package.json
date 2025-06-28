@@ -73,7 +73,7 @@
     "megasanjay-devmoji": "^1.2.1",
     "postcss": "8.4.41",
     "prettier": "3.3.3",
-    "prettier-plugin-tailwindcss": "0.6.6",
+    "prettier-plugin-tailwindcss": "0.6.13",
     "pretty-quick": "4.0.0",
     "run-script-os": "^1.1.6",
     "semantic-release": "22.0.12",
