@@ -34,7 +34,7 @@
     "@mui/material": "5.16.7",
     "@notionhq/client": "2.2.15",
     "@svgr/webpack": "8.1.0",
-    "axios": "1.7.3",
+    "axios": "1.10.0",
     "clsx": "2.1.1",
     "docusaurus-plugin-umami": "^2.0.0",
     "docusaurus-theme-frontmatter": "^1.3.0",
