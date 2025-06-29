@@ -11,25 +11,21 @@ Choose the destination where you would like to structure your dataset files. You
 If you choose to upload to a new Pennsieve dataset, you will be prompted to enter the name of the new dataset. Upon clicking the "Confirm" button, SODA will verify if the dataset name is available.
 ![](/img/UploadData3.png)
 
-## Existing Dataset
+## Coming Soon: Existing Dataset
 
-If you choose to upload to an existing Pennsieve dataset, SODA will alert you of manifest files not being created and recommend creating manifest files within the "Advanced Features" section.
+SODA will allow you to select an existing Pennsieve dataset to upload your files to. This feature is currently under development and will be available in a future release.
 
-### Duplicate Files/Folders
+You will be able to select how you wish to handle overlapping files and folders when uploading to an existing dataset. Options will include:
 
-When uploading to an existing dataset, SODA will ask how you want to handle duplicate files/folders that may already be on your Pennsieve dataset. You have the options to:
+Files
 
-- Skip
-- Replace
-- Merge (Folders only)
+- **Skip**: Skip files and folders that already exist in the dataset.
+- **Replace**: Overwrite existing files and folders with the new ones.
 
-`Skip` will not upload the duplicate files/folders and only import the new unique items.
+Folders
 
-`Replace` will upload the duplicate files/folders and replace the contents of the duplicate folders. This is useful if you have existing data on Pennsieve that you would like to replace with the new data you are uploading.
-
-`Merge` will upload the duplicate folders and merge the contents of the duplicate folders. This is useful if you have existing data on Pennsieve that you would like to merge with the new data you are uploading.
-
-![](https://github.com/fairdataihub/SODA-for-SPARC/blob/staging/docs/documentation/upload-dataset/upload-dataset-step-3-existing.png?raw=true)
+- **Skip**: Skip folders that already exist in the dataset.
+- **Merge**: Merge the contents of the new folder with the existing one. Overlapping files will be handled according to the file options selected above.
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

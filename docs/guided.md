@@ -8,6 +8,10 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=What
 
 `Prepare Dataset Step-by-Step` is designed to guide users step-by-step through preparing a dataset in accordance with the Sparc Dataset Structure (SDS) without the need for documentation or prior knowledge. After preparing your dataset you will be guided through sharing it on the SPARC Portal or a generalist repository like Zenodo.
 
+:::info
+If you are a SPARC-funded researcher it is mandatory that you share the dataset on the SPARC Portal.
+:::
+
 ### Navigating to the Prepare Dataset Step-by-Step feature
 
 On the landing page find the `Prepare Dataset Step-by-Step` card and click it.
@@ -28,10 +32,6 @@ While preparing your dataset, SODA will guide you through three main steps:
 1. **Dataset Structure**: The SDS requires all dataset files to be organized into specific folders and be accompanied by a manifest file that describes their contents. SODA will help you create a compliant structure and manifest file.
 2. **Dataset Metadata**: You will be asked to provide metadata for your dataset in order to make it compliant with the Sparc Dataset Structure (SDS). This metadata will include key information that describes your data such as information about the subjects, the data collection process, and more.
 3. **Generate Dataset**: You will be assisted in generating your SDS compliant dataset so that you can share it to a repository of your choosing. If you are a SPARC-funded researcher you will want to share it on Pennsieve. If you are interested in creating a compliant dataset but not necessarily in sharing it on the SPARC Portal, you can choose to generate the dataset on your local computer and share it on a generalist repository like Zenodo.
-
-:::info
-If you are a SPARC-funded researcher it is mandatory that you share the dataset on the SPARC Portal.
-:::
 
 While preparing your dataset, you can save your progress at any time. This will allow you to continue working on your dataset later without losing any of the work you have done so far.
 To do this, simply click the `Save & Exit` button that appears at the bottom right of the page while preparing your dataset.

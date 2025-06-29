@@ -11,6 +11,12 @@ to each high-level SPARC folder with the `filename`, `timestamp`, and `file type
 `Additional Metadata` fields can be added by the user by selecting on a high-level folder to make manifest edits. Upon making edits, hitting the save and exit button
 will create manifest.xlsx files to be added upon dataset generation.
 
+:::info
+At the moment, SODA will not automatically fill out the `entity` column in the manifest file. You will need to fill this out manually. If you have
+a large number of files, you can generate the manfiest file locally to update the Entity column. If you do this, please click the `Use Locally Generated Manifest` button so that SODA uploads the manifest
+file you edited locally to Pennsieve.
+:::
+
 <video
    controls
    autoPlay
