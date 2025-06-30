@@ -42,6 +42,6 @@ SODA will never modify your local data files. Any changes (file renaming, adding
 
 ### Continue a dataset saved in SODA
 
-Select this option if you want to continue working on a dataset previously started and saved in SODA. You will see a list of datasets that you have saved in SODA. Click on the dataset you want to continue working on, and SODA will take you to step where you left off.
+Select this option if you want to continue working on a dataset previously started and saved in SODA. You will see a list of datasets that you have saved in SODA. Click on the dataset you want to continue working on, and SODA will take you to the step where you left off.
 
 <PageFeedback />
