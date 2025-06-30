@@ -8,31 +8,16 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=How%
 
 Here are some examples of features of SODA that can be tested without access to the Pennsieve platform.
 
-## Example 1: Generating manifest files locally
+## Example 1: Using Prepare Dataset Step-by-Step
 
-The SPARC dataset structure requires manifest files to be placed in each high level folder of a dataset. SODA provides a feature that automatically generates manifest files for a dataset with the minimum required metadata by the SPARC dataset structure (SDS).
-
-### Testing local manifest generation
-
-1. [Download a sample dataset to test the manifest file generation with](https://raw.githubusercontent.com/fairdataihub/SODA-for-SPARC/staging/docs/test-dataset.zip)
-2. Navigate to the Manifest file generation feature of SODA. To get there from the home page of SODA, click the "Free Form Curation" button, select the Prepare Metadata tab at the top of the page, and then
-   click the "Create manifest.xlsx" button.
-3. Generate manifest files for the test dataset downloaded in step 1. For assistance with manifest file creation, [View the docs for generating manifest files](../advanced-mode/create-manifest-files.md)
-
-### Testing submission metadata generation
-
-The submission metadata file is an excel file required in the SDS that contains information about the dataset you are submitting and the milestones related to the submission.
+SODA has been designed to help users who are not SPARC researchers to prepare a Sparc Dataset Structure (SDS) compliant dataset. This feature can be used to prepare a dataset for sharing on the SPARC Portal or a generalist repository like Zenodo.
 
 ### Testing this feature
 
-1. Navigate to the submission metadata file generation feature of SODA. To get there from the home page of SODA, click the "Free Form Curation" button, select the Prepare Metadata tab at the top of the page, and then
-   click the "Create submission.xlsx" button.
-2. Indicate that you would like to start a new submission.xlsx file.
-3. Select any Funding Consortium from the dropdown.
-4. Enter an Award number, for example, A123456.
-5. Enter milestone(s), for example "milestone1" and "milestone2".
-6. Choose a completion date (any date is OK).
-7. Click the Generate button to generate the metadata file locally to your computer.
+1. Navigate to the Prepare Dataset Step-by-Step feature of SODA. To get there from the home page of SODA, click the "Prepare Dataset Step-by-Step" button.
+2. Select the "Prepare and optionally share a new dataset" option.
+3. Follow the steps to prepare a dataset. You can save your progress at any time by clicking the "Save & Exit" button at the bottom right of the page.
+4. Once you have prepared your dataset, you can choose to generate it locally on your computer. You should have a SDS compliant dataset (or one that is very close in structure and metadata) on your computer.
 
 ## Example 3: Download SPARC metadata templates
 
