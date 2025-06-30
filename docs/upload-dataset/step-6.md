@@ -6,7 +6,7 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step
 
 # Feature Coming Soon: Verify Dataset Upload
 
-Upon completing the dataset upload process, you will be have the option to verify that all of your dataset files have been processed by Pennsieve and are viewable without any issues (corrupt files, failed processing, etc).
+Upon completing the dataset upload process, you will have the option to verify that all of your dataset files have been processed by Pennsieve and are viewable without any issues (corrupt files, failed processing, etc).
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
