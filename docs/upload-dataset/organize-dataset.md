@@ -12,7 +12,7 @@ conform your dataset with the Sparc Dataset Structure (SDS) without uploading to
 :::
 
 All datasets SODA helps curate must follow the top level SPARC folder structure imposed by the
-[SPARC Dataset Structure](https://docs.google.com/presentation/d/1EQPn1FmANpPsFt3CguU-JOQVMMlJsNXluQAK_gb2qVg/edit#slide=id.p1). This top level folder structure is shown in the figure below. If your data organization doesn't follow this structure inherently, you can use the `Prepare Dataset Step-by-Step` to structure your dataset according to the SDS guidelines.
+[SPARC Dataset Structure](https://docs.google.com/presentation/d/1EQPn1FmANpPsFt3CguU-JOQVMMlJsNXluQAK_gb2qVg/edit#slide=id.p1). This top level folder structure is shown in the figure below. Additionally, every dataset must have a manifest file that describes their contents. If your data organization doesn't follow this structure inherently, or lacks a manifest file, you can use the `Prepare Dataset Step-by-Step` to structure your dataset according to the SDS guidelines.
 
 ![](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/docs/documentation/Prepare-dataset/Specify-files/SPARC-dataset-structure.PNG?raw=true)
 

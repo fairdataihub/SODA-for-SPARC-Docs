@@ -7,6 +7,14 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## 16.0.0
+
+## Feature additions:
+
+- SODA supports the SDS3 the Prepare Dataset Step-by-Step feature.
+- SODA supports uploading SDS3 compliant datasets in the Upload Dataset feature.
+- SODA automatically retries a failed upload to Pennsieve up to 3 times before asking the user for manual intervention.
+
 ## 15.3.2
 
 ## Feature additions:
