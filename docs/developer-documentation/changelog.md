@@ -7,6 +7,12 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## 15.4.0
+
+## Feature additions:
+
+- Update text for 15.4.0 noting that this is a special release designed to only handle existing 'Prepare dataset step-by-step' datasets in progress that are using the SDS 2.0 standards
+
 ## 15.3.2
 
 ## Feature additions:
