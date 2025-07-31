@@ -6,6 +6,10 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=What
 
 ### About
 
+:::info
+This release of SODA only allows the continuation of datasets in progress that were started before the release of SDS3 support for SODA in the `Prepare Dataset Step-by-Step` mode.
+:::
+
 `Prepare Dataset Step-by-Step` is designed to guide users step-by-step through preparing a dataset in accordance with the Sparc Dataset Structure (SDS) without the need for documentation or prior knowledge. Once you have finished the process you can share your SDS compliant dataset with the SPARC Curation Team for review before it is published on the SPARC Data Portal.
 
 ### Using the Prepare Dataset Step-by-Step feature
@@ -14,9 +18,8 @@ Click on the `Curate and Share` option of the sidebar and then click on `Prepare
 
 ![](/img/HomePage.png)
 
-On the first page there are three options available:
+- `Prepare and submit a new dataset`: Disabled fo this version of SODA. Please download the latest version of SODA to create a new dataset per the latest SDS standards.
 
-- `Prepare and submit a new dataset`: Select this option if you are starting to curate and share a new dataset that has not been previously started in SODA or Pennsieve.
 - `Continue a dataset saved in SODA`: Select this option if you want to continue working on a dataset previously started and saved in SODA. You will be able to continue where you left off last time.
 
 We have designed the next steps such that you should be able to go through them without needing any documentation. Through successive interfaces, SODA will ask you to specify data files to be included in your dataset, request information about your dataset, and invite you to link your Pennsive account if you wish to share your dataset on the SPARC Portal. SODA will then use all of that information to do one of the following a). Generate directly on Pennsieve a dataset that is compliant with the SPARC data curation and sharing guidelines. Once generated, you will be able to review the dataset and share it with the SPARC Curation Team for their review. or b). Generate directly on your local computer so that you may manually share the SDS compliant dataset to a generalist repository (e.g., Zenodo).
