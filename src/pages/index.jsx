@@ -16,12 +16,12 @@ function HomepageHeader() {
         backgroundColor: 'white', // Set hero background to black
         borderRadius: '16px', // Rounded corners
         boxShadow: '0 8px 16px rgba(0, 0, 0, 0.1)', // Subtle shadow
-        padding: '4rem 2rem', // Increase padding for more height
+        padding: '3rem 2rem 2rem 2rem', // Adjusted padding: top, right, bottom, left
         color: 'black', // Ensure text is readable
         display: 'flex', // Use flexbox for layout
         alignItems: 'center', // Vertically center content
         justifyContent: 'center', // Space between text and image
-        height: '65vh', // Set height to 80% of the viewport
+        minHeight: '70vh', // Use minHeight instead of fixed height
         flexDirection: 'column',
       }}
     >
@@ -51,7 +51,8 @@ function HomepageHeader() {
         style={{
           flex: '1',
           textAlign: 'left',
-          maxWidth: '70%',
+          maxWidth: '90%', // Increased from 70% for better mobile support
+          width: '100%',
         }}
       >
         <h1
@@ -59,7 +60,7 @@ function HomepageHeader() {
           style={{
             fontFamily: 'Inter, sans-serif', // Modern font
             fontWeight: '700', // Bold text
-            fontSize: '2.25rem', // Larger heading
+            fontSize: 'clamp(1.75rem, 4vw, 2.25rem)', // Responsive font size
             marginBottom: '1rem',
             textAlign: 'center',
             color: 'black',
@@ -71,12 +72,13 @@ function HomepageHeader() {
           className="hero__subtitle"
           style={{
             fontFamily: 'Inter, sans-serif',
-            fontSize: '1.3rem',
+            fontSize: 'clamp(1rem, 3vw, 1.3rem)', // Responsive font size
             lineHeight: '1.5',
             marginBottom: '1.5rem',
             textWrap: 'wrap', // Allow text to wrap
             color: 'black',
             textAlign: 'center', // Center text
+            padding: '0 1rem', // Add horizontal padding for mobile
           }}
         >
           {siteConfig.tagline}
@@ -86,8 +88,9 @@ function HomepageHeader() {
           style={{
             display: 'flex',
             gap: '1rem',
-            justifyContent: 'center', // Align buttons to the left
+            justifyContent: 'center',
             alignItems: 'center',
+            flexWrap: 'wrap', // Allow buttons to wrap on small screens
           }}
         >
           {/* First Button */}
@@ -124,6 +127,42 @@ function HomepageHeader() {
           >
             Download SODA
           </Link>
+        </div>
+
+        {/* Special Note Section */}
+        <div
+          style={{
+            marginTop: '2rem',
+            padding: '1rem 1.5rem',
+            backgroundColor: '#d1ecf1',
+            border: '1px solid #bee5eb',
+            borderRadius: '8px',
+            textAlign: 'center',
+            maxWidth: '600px',
+            margin: '2rem auto 0 auto',
+          }}
+        >
+          <p
+            style={{
+              color: '#0c5460',
+              fontSize: '0.9rem',
+              margin: '0',
+              lineHeight: '1.4',
+            }}
+          >
+            <strong>Note:</strong> This version of SODA is a special release intended to handle a
+            limited amount of tasks for SDS2 datasets only. For the latest features, please download
+            the latest version at{' '}
+            <a
+              href="https://docs.sodaforsparc.io"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: '#0c5460', textDecoration: 'underline' }}
+            >
+              docs.sodaforsparc.io
+            </a>
+            .
+          </p>
         </div>
       </div>
     </header>
