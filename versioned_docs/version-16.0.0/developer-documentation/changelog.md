@@ -15,12 +15,6 @@ All notable changes to SODA for SPARC will be documented in this file.
 - SODA supports uploading SDS3 compliant datasets in the Upload Dataset feature.
 - SODA automatically retries a failed upload to Pennsieve up to 3 times before asking the user for manual intervention.
 
-## 15.4.0
-
-## Feature additions:
-
-- Update text for 15.4.0 noting that this is a special release designed to only handle existing 'Prepare dataset step-by-step' datasets in progress that are using the SDS 2.0 standards
-
 ## 15.3.2
 
 ## Feature additions:
