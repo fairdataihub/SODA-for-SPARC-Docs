@@ -79,13 +79,13 @@ export default function HomepageFeatures() {
             <h1 style={{ fontSize: '1.8rem', marginBottom: '1rem' }}>SODA&apos;s Impact</h1>
 
             <div className="row">
-              <div className="col col--3 border">
+              <div className="border col col--3">
                 <h2 style={{ color: '#059669', fontSize: '1.7rem', marginBottom: '.2rem' }}>
                   {(stats['Amount (GB) of data files processed'] / 1000).toFixed(0)} TB+ Data
                 </h2>
                 <p style={{ fontWeight: '500', fontSize: '1.1rem' }}>Curated and shared</p>
               </div>
-              <div className="col col--3 border">
+              <div className="border col col--3">
                 <h2 style={{ color: '#059669', fontSize: '1.7rem', marginBottom: '.2rem' }}>
                   {stats['Number of files processed'] < 1_000_000
                     ? `${Math.floor(stats['Number of files processed'] / 1000)}K`
@@ -94,7 +94,7 @@ export default function HomepageFeatures() {
                 </h2>
                 <p style={{ fontWeight: '500', fontSize: '1.1rem' }}>Curated and shared</p>
               </div>
-              <div className="col col--3 border">
+              <div className="border col col--3">
                 <h2 style={{ color: '#059669', fontSize: '1.7rem', marginBottom: '.2rem' }}>
                   {stats['Number of published datasets touched']} Datasets
                 </h2>
@@ -102,7 +102,7 @@ export default function HomepageFeatures() {
                   Published to the Sparc Portal
                 </p>
               </div>
-              <div className="col col--3 border">
+              <div className="border col col--3">
                 <h2 style={{ color: '#059669', fontSize: '1.7rem', marginBottom: '.2rem' }}>
                   {stats['Number of asset downloads']} Downloads
                 </h2>
