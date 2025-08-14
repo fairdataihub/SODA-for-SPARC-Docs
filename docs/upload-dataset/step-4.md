@@ -6,10 +6,7 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step
 
 Manifest files are mandatory for all datasets.
 
-For uploads going to a new Pennsieve dataset, simply toggle the option to `Yes`. Then a **manifest.xlsx** file will be added
-to each high-level SPARC folder with the `filename`, `timestamp`, and `file type` fields automatically populated in the correct format while the `description` and
-`Additional Metadata` fields can be added by the user by selecting on a high-level folder to make manifest edits. Upon making edits, hitting the save and exit button
-will create manifest.xlsx files to be added upon dataset generation.
+For uploads going to a new Pennsieve dataset, simply toggle the option to `Yes`. Then a **manifest.xlsx** file will be added at the root of your dataset with the `filename`, `timestamp`, and `file type` fields automatically populated in the correct format. The additional fields in the manifest file can be edited by clicking the 'Preview/Edit Manifest file' button, making the desired changes in the manifest file editor, and then clicking 'Save and Exit'.
 
 :::info
 At the moment, SODA will not automatically fill out the `entity` column in the manifest file. You will need to fill this out manually. If you have
@@ -22,7 +19,7 @@ file you edited locally to Pennsieve.
    autoPlay
    loop
    width="100%"
-   src="https://github.com/fairdataihub/SODA-for-SPARC/raw/main/docs/documentation/Videos/soda-for-sparc-manifests.mp4"
+   src="https://github.com/fairdataihub/SODA-for-SPARC/raw/sds3/docs/documentation/Videos/soda-for-sparc-manifests.mp4"
 />
 
 import PageFeedback from '@site/src/components/PageFeedback';
