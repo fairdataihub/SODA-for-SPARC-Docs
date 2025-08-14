@@ -7,6 +7,18 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## 16.1.0
+
+## Feature Additions:
+
+- Updated Prepare Dataset Step-by-Step to streamline updating empty Pennsieve datasets, useful for guest contributors.
+- Updated Upload Dataset to streamline updates for existing Pennsieve datasets. Empty datasets will have metadata files created automatically, and non-empty datasets will not.
+- The Prepare Dataset Step-by-Step feature now includes a dedicated page for license selection, enabling users to choose a license for both the dataset_description metadata file and Pennsieve in one place.
+
+## Bug Fixes:
+
+-The Prepare Dataset Step-by-Step feature now generates a README.md instead of README.txt
+
 ## 16.0.0
 
 ## Feature additions:
