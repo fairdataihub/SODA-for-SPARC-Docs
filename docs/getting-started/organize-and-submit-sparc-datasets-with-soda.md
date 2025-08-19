@@ -13,14 +13,16 @@ SODA helps you do two primary things:
 
 ### Creating an SDS compliant dataset using SODA
 
-We suggest using the `Prepare Dataset Step-by-Step` feature of SODA for creating your SDS compliant dataset. This mode guides users step-by-step through all the requirements for preparing a dataset according to the SDS and is designed so that no documentation or prior knowledge is required. Follow more information check [here](../guided).
+We suggest using the `Prepare Dataset Step-by-Step` feature of SODA for creating your SDS compliant dataset. This mode guides users step-by-step through all the requirements for preparing a dataset according to the SDS and is designed so that no documentation or prior knowledge is required. This mode will also guide you through sharing your dataset with the repository of your choice. For more information check our documentation on getting started with `Prepare Dataset Step-by-Step` [here](../guided).
 
 ### Sharing your SDS Compliant dataset using SODA
 
-There are two main ways to share your SDS compliant dataset using SODA:
+SODA supports sharing your SDS compliant dataset to the following places:
 
-1. Share with the SPARC Data Portal
-2. Share with a generalist repository
+1. SPARC Data Portal
+2. A generalist repository
+
+Both options are available to you at the final steps of the `Prepare Dataset Step-by-Step` feature and you will find instructions for each option there. However, to share your dataset to the SPARC Data Portal there are some preliminary steps you need to complete detailed below.
 
 ### Sharing on the SPARC Data Portal
 
@@ -35,10 +37,6 @@ These steps only need to be completed once.
 - All SPARC datasets must be uploaded on the Pennsieve data management platform. Get access to Pennsieve as well as the required Pennsieve workspace by filling out [this form](https://www.wrike.com/frontend/requestforms/index.html?token=eyJhY2NvdW50SWQiOjMyMDM1ODgsInRhc2tGb3JtSWQiOjUwMzQzN30JNDgwNTg4NjU3MjA3Nwk0MTg5ZTY0ODEyZGYxNTU1ZDJkYmU5MzIxNWZiNTQyZWUwZTMzY2U4NDQ5ODI0ZWI0YzZiMWZhNjVhYzgyOTRm). If you are sharing a dataset funded by the NIH RE-JOIN program, request access to the RE-JOIN workspace, otherwise request access to the SPARC workspace.
 - Download and install the [Pennsieve agent](https://docs.pennsieve.io/docs/uploading-files-programmatically#1-installing-the-pennsieve-agent) required to upload files on Pennsieve through SODA.
 - <a href="../getting-started/download-soda" target="\_blank"> Download and install SODA </a>
-
-### Sharing on a generalist repository
-
-To share your SDS-compliant dataset on a repository other than Pennsieve, select Generate dataset locally at the end of the Prepare Dataset Step-by-Step workflow. SODA will create a local copy of your SDS-compliant dataset, which you can upload to any repository of your choice. For more information on this step refer to the documentation [here](../guided).
 
 ### Need help?
 
