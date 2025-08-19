@@ -26,7 +26,7 @@ Both options are available to you at the final steps of the `Prepare Dataset Ste
 
 ### Sharing on the SPARC Data Portal
 
-If the dataset you want to share is funded through an award from the [NIH SPARC program](https://commonfund.nih.gov/sparc) or the [NIH RE-JOIN program](https://heal.nih.gov/research/preclinical-translational/restoring-joint-health-function-reduce-pain) move on to the Prelimiary steps section.
+If the dataset you want to share is funded through an award from the [NIH SPARC program](https://commonfund.nih.gov/sparc) or the [NIH RE-JOIN program](https://heal.nih.gov/research/preclinical-translational/restoring-joint-health-function-reduce-pain) move on to the Preliminary steps section.
 
 If you want to share a dataset that is not funded through an award from the NIH SPARC program or the NIH RE-JOIN program to Pennsieve and the SPARC Data Portal, start with reaching out via email to the SPARC Curation Team (curation@sparc.science). Include some information about the data you want to share and the SPARC Curation Team will follow up with you regarding the suitability of your data for the SPARC data portal. If the data is deemed suitable for the SPARC Data Portal, you will be invited to proceed to the next steps.
 
