@@ -94,7 +94,7 @@ function HomepageHeader() {
           {/* First Button */}
           <Link
             className="button button--secondary button--lg"
-            to="/docs/getting-started/organize-and-submit-sparc-datasets-with-soda"
+            to="/docs/intro"
             style={{
               backgroundColor: '#13716d', // Green background
               color: 'white',
