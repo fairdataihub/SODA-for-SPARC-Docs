@@ -38,7 +38,7 @@ These steps only need to be completed once.
 
 ### Sharing on a generalist repository
 
-If you want to share your SDS compliant dataset on a generalist repository you can do so by generating your compliant dataset to a location on your computer. From there it can be manually uploaded to a repository of your choice. For more information on this step refer to the documentation [here](../guided)
+To share your SDS-compliant dataset on a repository other than Pennsieve, select Generate dataset locally at the end of the Prepare Dataset Step-by-Step workflow. SODA will create a local copy of your SDS-compliant dataset, which you can upload to any repository of your choice. For more information on this step refer to the documentation [here](../guided).
 
 ### Need help?
 
