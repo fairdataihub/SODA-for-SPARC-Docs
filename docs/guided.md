@@ -31,13 +31,13 @@ While preparing your dataset, SODA will guide you through three main steps:
 
 1. **Dataset Structure**: The SDS requires all dataset files to be organized into specific folders and be accompanied by a manifest file that describes their contents. SODA will help you create a compliant structure and manifest file.
 2. **Dataset Metadata**: You will be asked to provide metadata for your dataset in order to make it compliant with the Sparc Dataset Structure (SDS). This metadata will include key information that describes your data such as information about the subjects, the data collection process, and more.
-3. **Generate Dataset**: You will be assisted in generating your SDS compliant dataset so that you can share it to a repository of your choosing. If you are a SPARC-funded researcher you will want to share it on Pennsieve. If you are interested in creating a compliant dataset but not necessarily in sharing it on the SPARC Portal, you can choose to generate the dataset on your local computer and share it on a generalist repository like Zenodo.
+3. **Generate Dataset**: You will be assisted in generating and optionally sharing your SDS compliant dataset to a repository of your choosing. If you are a SPARC-funded researcher you will want to share it on Pennsieve. If you are interested in creating a compliant dataset but not necessarily in sharing it on the SPARC Portal, you can choose to generate the dataset on your local computer and share it on a generalist repository like Zenodo.
 
 While preparing your dataset, you can save your progress at any time. This will allow you to continue working on your dataset later without losing any of the work you have done so far.
 To do this, simply click the `Save & Exit` button that appears at the bottom right of the page while preparing your dataset.
 
 :::info
-SODA will never modify your local data files. Any changes (file renaming, adding metadata files, etc.) will be reflected on the dataset that is generated on Pennsieve.
+SODA will never modify your local data files. Any changes (file renaming, adding metadata files, etc.) will only be reflected on the dataset that is generated on Pennsieve.
 :::
 
 ### Continue a dataset saved in SODA
