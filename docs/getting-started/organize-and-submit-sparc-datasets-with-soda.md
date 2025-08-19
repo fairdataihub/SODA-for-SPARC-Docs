@@ -22,7 +22,7 @@ SODA supports sharing your SDS compliant dataset to the following places:
 1. SPARC Data Portal
 2. A generalist repository
 
-Both options are available to you at the final steps of the `Prepare Dataset Step-by-Step` feature and you will find instructions for each option there. However, to share your dataset to the SPARC Data Portal there are some preliminary steps you need to complete detailed below.
+Both options are available to you at the final steps of the `Prepare Dataset Step-by-Step` feature and you will find instructions for each option [here](../guided). However, to share your dataset to the SPARC Data Portal there are some preliminary steps you need to complete detailed below.
 
 ### Sharing on the SPARC Data Portal
 
