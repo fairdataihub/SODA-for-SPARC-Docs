@@ -1,10 +1,8 @@
 ---
-sidebar_position: 1
-title: Step-by-step guide for curating and sharing data
+sidebar_position: 2
+title: Overview
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step-by-step%20guide%20to%20organize%20and%20submit%20SPARC%20datasets%20with%20SODA%20for%20SPARC&description=Getting%20Started&org=fairdataihub
 ---
-
-## Overview
 
 SODA helps you do two primary things:
 
@@ -13,7 +11,7 @@ SODA helps you do two primary things:
 
 ### Creating an SDS compliant dataset using SODA
 
-We suggest using the `Prepare Dataset Step-by-Step` feature of SODA for creating your SDS compliant dataset. This mode guides users step-by-step through all the requirements for preparing a dataset according to the SDS and is designed so that no documentation or prior knowledge is required. Follow more information check [here](../guided).
+We suggest using the `Prepare Dataset Step-by-Step` feature of SODA for creating your SDS compliant dataset. This mode guides users step-by-step through all the requirements for preparing a dataset according to the SDS and is designed so that no documentation or prior knowledge is required. Follow more information check [here](../soda-features/guided).
 
 ### Sharing your SDS Compliant dataset using SODA
 
@@ -38,7 +36,7 @@ These steps only need to be completed once.
 
 ### Sharing on a generalist repository
 
-If you want to share your SDS compliant dataset on a generalist repository you can do so by generating your compliant dataset to a location on your computer. From there it can be manually uploaded to a repository of your choice. For more information on this step refer to the documentation [here](../guided)
+If you want to share your SDS compliant dataset on a generalist repository you can do so by generating your compliant dataset to a location on your computer. From there it can be manually uploaded to a repository of your choice. For more information on this step refer to the documentation [here](../soda-features/guided)
 
 ### Need help?
 
