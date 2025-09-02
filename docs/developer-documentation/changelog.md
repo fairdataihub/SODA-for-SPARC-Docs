@@ -7,7 +7,14 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
-## V16.1.2
+## 16.2.0
+
+## Feature Additions:
+
+- The `Prepare Dataset Step-by-Step` feature handles larger datasets more efficiently.
+- The `Prepare Dataset Step-by-Step` page for adding a contributor has been improved by more flexible orcid addition.
+
+## 16.1.2
 
 ## Bug Fixes:
 
