@@ -13,6 +13,14 @@ All notable changes to SODA for SPARC will be documented in this file.
 
 - The `Prepare Dataset Step-by-Step` feature handles larger datasets more efficiently.
 - The `Prepare Dataset Step-by-Step` page for adding a contributor has been improved by more flexible orcid addition.
+-
+
+## Bug fixes:
+
+- The dataset_description.xlsx file had an inaccurate count for subjects and samples.
+- The participants field of the performances.xslx did not crack every entity a perf is associated with.
+- The subject and samples are not showing their relationship in the Dataset Structure tab properly.
+- The `Prepare Dataset Step-by-Step` feature would pull down non-empty datasets. To support SDS3 properly this has been disabled.
 
 ## 16.1.2
 
