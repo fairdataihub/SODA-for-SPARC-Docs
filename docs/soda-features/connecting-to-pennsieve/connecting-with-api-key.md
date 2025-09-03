@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 title: Connecting with ORCiD/API key
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Connecting%20with%20ORCiD%2FAPI%20key&description=How%20to%20connect%20Pennsieve%20to%20SODA%20with%20an%20API%20key&org=fairdataihub
 ---
