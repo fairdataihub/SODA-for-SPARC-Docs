@@ -13,7 +13,6 @@ All notable changes to SODA for SPARC will be documented in this file.
 
 - The `Prepare Dataset Step-by-Step` feature handles larger datasets more efficiently.
 - The `Prepare Dataset Step-by-Step` page for adding a contributor has been improved by more flexible orcid addition.
--
 
 ## Bug fixes:
 
