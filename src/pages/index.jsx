@@ -94,7 +94,7 @@ function HomepageHeader() {
           {/* First Button */}
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro"
+            to="/docs/getting-started/intro"
             style={{
               backgroundColor: '#13716d', // Green background
               color: 'white',

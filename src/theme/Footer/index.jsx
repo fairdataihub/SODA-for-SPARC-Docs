@@ -155,12 +155,14 @@ export default function FooterWrapper() {
                 <ul className="m-0 list-outside list-none p-0">
                   <li className="pb-2 text-base">
                     <div className="h-max w-max scale-200  transition-all hover:scale-105">
-                      <Link href="/docs/developer-documentation/changelog">Changelog</Link>
+                      <Link href="/docs/miscellaneous/developer-documentation/changelog">
+                        Changelog
+                      </Link>
                     </div>
                   </li>
                   <li className="pb-2 text-base ">
                     <div className="h-max w-max scale-200  transition-all hover:scale-105">
-                      <Link href="/docs/intro">What is SODA?</Link>
+                      <Link href="/docs/getting-started/intro">What is SODA?</Link>
                     </div>
                   </li>
                   <li className="pb-2 text-base ">
@@ -196,17 +198,17 @@ export default function FooterWrapper() {
                 <ul className="m-0 list-outside list-none p-0">
                   <li className="pb-2 text-base ">
                     <div className="h-max w-max scale-200  transition-all hover:scale-105">
-                      <Link href="/docs/legal/privacypolicy">Privacy Policy</Link>
+                      <Link href="/docs/miscellaneous/legal/privacypolicy">Privacy Policy</Link>
                     </div>
                   </li>
                   <li className="pb-2 text-base ">
                     <div className="h-max w-max scale-200  transition-all hover:scale-105">
-                      <Link href="/docs/legal/termsofuse">Terms of Use</Link>
+                      <Link href="/docs/miscellaneous/legal/termsofuse">Terms of Use</Link>
                     </div>
                   </li>
                   <li className="pb-2 text-base ">
                     <div className="h-max w-max scale-200  transition-all hover:scale-105">
-                      <Link href="/docs/legal/cookiepolicy">Cookie Policy</Link>
+                      <Link href="/docs/miscellaneous/legal/cookiepolicy">Cookie Policy</Link>
                     </div>
                   </li>
                 </ul>
