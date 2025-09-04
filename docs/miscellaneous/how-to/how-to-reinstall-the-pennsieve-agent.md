@@ -62,5 +62,5 @@ sudo dpkg -P pennsieve
 
 ## Next Steps
 
-Next reinstall the Pennsieve Agent as described in [How to install the Pennsieve Agent](../getting-started//organize-and-submit-sparc-datasets-with-soda.md).
+Next reinstall the Pennsieve Agent as described in [How to install the Pennsieve Agent](../../getting-started/organize-and-submit-sparc-datasets-with-soda.md).
 You should now be able to continue your dataset curation.

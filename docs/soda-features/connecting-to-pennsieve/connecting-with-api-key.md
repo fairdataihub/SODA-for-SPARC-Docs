@@ -21,7 +21,7 @@ generating a SPARC Data Structure (SDS) compliant dataset on your computer [here
 
 ## Prerequisite
 
-You will need a Pennsieve account with access to the Pennsieve workspace where you need to upload your data (e.g., SPARC, RE-JOIN, etc.) before connecting your Pennsieve account with SODA. If you do not have a Pennsieve account and/or access to the right Pennsieve workspace, follow the instructions available [here](../how-to/how-to-get-a-pennsieve-account).
+You will need a Pennsieve account with access to the Pennsieve workspace where you need to upload your data (e.g., SPARC, RE-JOIN, etc.) before connecting your Pennsieve account with SODA. If you do not have a Pennsieve account and/or access to the right Pennsieve workspace, follow the instructions available [here](../../miscellaneous/how-to/how-to-get-a-pennsieve-account).
 
 ## Connecting with an API key
 

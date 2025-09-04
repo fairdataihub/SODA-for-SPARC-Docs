@@ -129,7 +129,7 @@ export default function Version() {
                   <th>{currentVersion.label}</th>
 
                   <td>
-                    <Link to={`${currentVersion.path}/intro`}>Documentation</Link>
+                    <Link to={`${currentVersion.path}/getting-started/intro`}>Documentation</Link>
                   </td>
                 </tr>
               </tbody>
