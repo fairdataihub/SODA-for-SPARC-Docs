@@ -33,7 +33,7 @@ account details section.
 3. In the bottom left corner of the Pennsieve interface, hover over your account details, and select 'Switch to Private Workspace.'
 4. Choose the workspace you would like to use in SODA when you open it back up.
 5. **Important:** Follow the instructions [here](../common-errors/deleting-pennsieve-config-files) to delete your Pennsieve config files.
-6. After deleting your Pennsieve config files, open SODA and sign in again with your ORCiD or API Key using instructions [here](../connecting-to-pennsieve/connecting-with-api-key.md). SODA will now use the workspace you selected in Pennsieve.
+6. After deleting your Pennsieve config files, open SODA and sign in again with your ORCiD or API Key using instructions [here](../../soda-features/connecting-to-pennsieve/connecting-with-api-key.md). SODA will now use the workspace you selected in Pennsieve.
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
