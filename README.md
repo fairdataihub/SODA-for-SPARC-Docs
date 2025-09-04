@@ -38,7 +38,7 @@
 </p>
    
 <h4>
-    <a href="https://docs.sodaforsparc.io/docs/intro">What is SODA?</a>
+    <a href="https://docs.sodaforsparc.io/docs/getting-started/intro">What is SODA?</a>
   <span> · </span>
     <a href="https://docs.sodaforsparc.io/">Documentation</a>
   <span> · </span>
