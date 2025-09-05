@@ -7,6 +7,12 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## 16.2.1
+
+## Bug fixes:
+
+- The Download Templates button in the homepage was using out of date SDS templates. This has been updated to use the SDS3.0 templates.
+
 ## 16.2.0
 
 ## Feature Additions:
