@@ -28,4 +28,10 @@ Pennsieve datasets are associated with workspaces. If you have access to multipl
 1. From the homepage click the `Prepare Dataset Step by Step` button.
 2. Click the `Prepare and optionally share a new dataset` button.
 3. Enter a dataset name and description. NOTE: In the guest workflow you will be prompted to provide a Dataset Name. This name will not be used on Pennsieve but will be used for the progress file if you 'Save & Exit'.
-4.
+4. Navigate through the steps until you reach the 'Generate Dataset' step.
+5. After connecting your pennsieve account you will be prompted to choose how you would like to handle your dataset upload. Select 'Update existing dataset' and choose the dataset that was shared with you from the dropdown menu.
+6. Follow the remaining steps and upload your dataset to Pennsieve.
+
+:::info
+If the dataset you want to upload to does not appear in the dropdown menu, please contact the contributor or associate who created the dataset for you. They may need to share the dataset with you again or check your permissions. You should be at least an 'Editor' of the dataset to upload files to it.
+:::
