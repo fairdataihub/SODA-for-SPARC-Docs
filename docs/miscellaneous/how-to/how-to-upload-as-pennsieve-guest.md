@@ -13,25 +13,36 @@ This page shows you how to upload a dataset as a Pennsieve guest using SODA.
 
 ## Steps to Upload to a dataset shared with you using the Prepare Dataset Step by Step feature
 
-1. From the homepage click the `Upload Dataset` button.
-2. Import your dataset into SODA.
-3. Connect your account to Pennsieve if you have not already done so. Confirm that you are connected to the correct workspace. Instructions on how to switch workspaces can be found [here](./how-to-use-workspaces.md).
-4. Select 'Update existing dataset' and choose the dataset that was shared with you from the dropdown menu.
-5. Follow the remaining steps and upload your dataset to Pennsieve.
+1. From the homepage click the `Prepare Dataset Step by Step` button.
+2. Click the `Prepare and optionally share a new dataset` button.
+3. Enter a dataset name and description. NOTE: This dataset name will not be used for the dataset name on Pennsieve but will be used for the progress file. The progress file allows you to click the 'Save & Exit' button and resume curating your dataset later.
+4. Navigate through the steps until you reach the 'Generate Dataset' section and find yourself on the 'Options' page.
+5. Select 'Generate dataset on Pennsieve'
+6. You will be prompted to connect your Pennsieve account with SODA.
+7. On the 'Pennsieve Dataset' page select 'Upload to an existing empty dataset on Pennsieve' and choose the dataset that was shared with you from the dropdown menu.
+   Note: If you do not see any datasets please see the section below.
+8. Follow the remaining steps and upload your dataset to Pennsieve.
 
-:::info
-Pennsieve datasets are associated with workspaces. If you have access to multiple workspaces you may want to switch to the appropriate workspace before proceeding. Instructions on how to switch workspaces can be found [here](./how-to-use-workspaces.md).
-:::
+### I do not see the dataset I want to upload to in the dropdown menu
+
+If the dataset you want to upload to does not appear in the dropdown menu, please try the following:
+
+- Check with the researcher who shared the dataset with you to confirm you have been given 'Editor' or 'Manager' permissions.
+- Check that you are in the correct workspace. For example, if the dataset was created in the 'SPARC' workspace you should see in SODA on the 'Pennsieve Log in' page that
+  you are in the 'SPARC' workspsace.
 
 ## Steps to Upload to a dataset shared with you using the Upload Dataset feature
 
-1. From the homepage click the `Prepare Dataset Step by Step` button.
-2. Click the `Prepare and optionally share a new dataset` button.
-3. Enter a dataset name and description. NOTE: In the guest workflow you will be prompted to provide a Dataset Name. This name will not be used on Pennsieve but will be used for the progress file if you 'Save & Exit'.
-4. Navigate through the steps until you reach the 'Generate Dataset' step.
-5. After connecting your pennsieve account you will be prompted to choose how you would like to handle your dataset upload. Select 'Update existing dataset' and choose the dataset that was shared with you from the dropdown menu.
-6. Follow the remaining steps and upload your dataset to Pennsieve.
+1. From the homepage click the `Upload Dataset` button.
+2. Import your dataset into SODA.
+3. Connect your account to Pennsieve if you have not already done so.
+4. Select 'Update existing dataset' and choose the dataset that was shared with you from the dropdown menu.
+5. Follow the remaining steps and upload your dataset to Pennsieve.
 
-:::info
-If the dataset you want to upload to does not appear in the dropdown menu, please contact the contributor or associate who created the dataset for you. They may need to share the dataset with you again or check your permissions. You should be at least an 'Editor' of the dataset to upload files to it.
-:::
+### I do not see the dataset I want to upload to in the dropdown menu
+
+If the dataset you want to upload to does not appear in the dropdown menu, please try the following:
+
+- Check with the researcher who shared the dataset with you to confirm you have been given 'Editor' or 'Manager' permissions.
+- Check that you are in the correct workspace. For example, if the dataset was created in the 'SPARC' workspace you should see in SODA on Step 2 that
+  you are in the 'SPARC' workspsace.
