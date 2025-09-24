@@ -1,3 +1,9 @@
+# [27.14.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.13.0...v27.14.0) (2025-09-24)
+
+### Features
+
+- change names of page titles ([#707](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/707)) ([7ebf1d5](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/7ebf1d59f6f225c62e8e285e6eeac57b65bd86c5))
+
 # [27.13.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.12.0...v27.13.0) (2025-09-24)
 
 ### Features
