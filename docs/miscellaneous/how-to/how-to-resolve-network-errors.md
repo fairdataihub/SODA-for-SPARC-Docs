@@ -2,6 +2,7 @@
 sidebar_position: 11
 title: How to Resolve Network Errors
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=How%20to%20Resolve%20Network%20Errors&description=%27How%20to%27%20SPARC%20series&org=fairdataihub
+
 ---
 
 ## Background

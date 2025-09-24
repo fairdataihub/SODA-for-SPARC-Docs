@@ -1,3 +1,9 @@
+# [27.13.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.12.0...v27.13.0) (2025-09-24)
+
+### Features
+
+- Guest contributor flow ([#706](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/706)) ([aceb796](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/aceb796df06dfef7b80b0bbb11683eeea6d9a7dd))
+
 # [27.12.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.11.0...v27.12.0) (2025-09-08)
 
 ### Features
