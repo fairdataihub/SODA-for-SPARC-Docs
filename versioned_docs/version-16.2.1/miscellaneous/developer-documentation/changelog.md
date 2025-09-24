@@ -7,22 +7,11 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
-## 16.3.0
+## 16.2.1
 
-- The `Prepare Dataset Step-by-Step` feature is now easier to use for users that are Pennsieve workspace guests - more common user error messages + links to docs + updates to the UI.
-- Every error message now has an addendum that helps users reach out to the SODA team for assistance.
-- The `Upload Dataset` page now always merges existing folders when updating a dataset. The option to choose how to handle existing folders has been removed.
+## Bug fixes:
 
-## Bug fixes
-
-- The `Prepare Dataset Step-by-Step` Pennsieve Log In page now responds to API Key and Secret sign-ins without needing a Save and Exit action.
-- The `Prepare Dataset Step-by-Step` feature now handles the modalities page case where a user says they have modalities but selects none of the options.
-
-## v16.2.1
-
-## Bug Fixes:
-
-- The SDS templates downloadable from the homepage were out of date. They have been made current with SDS3.
+- The Download Templates button in the homepage was using out of date SDS templates. This has been updated to use the SDS3.0 templates.
 
 ## 16.2.0
 
