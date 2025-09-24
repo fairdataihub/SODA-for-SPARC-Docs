@@ -18,7 +18,7 @@ All notable changes to SODA for SPARC will be documented in this file.
 - The `Prepare Dataset Step-by-Step` Pennsieve Log In page now responds to API Key and Secret sign-ins without needing a Save and Exit action.
 - The `Prepare Dataset Step-by-Step` feature now handles the modalities page case where a user says they have modalities but selects none of the options.
 
-## v16.2.1
+## v16.2.1 - 2025-09-05
 
 ## Bug Fixes:
 
