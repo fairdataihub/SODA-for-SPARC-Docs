@@ -1,6 +1,7 @@
 ---
 sidebar_position: 11
-title: How to Upload a Dataset as a Pennsieve Guest
+title: How to Resolve Network Errors
+
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=How%20to%20Upload%20a%20Dataset%20as%20a%20Pennsieve%20Guest&description=%27How%20to%27%20SPARC%20series&org=fairdataihub
 ---
 
