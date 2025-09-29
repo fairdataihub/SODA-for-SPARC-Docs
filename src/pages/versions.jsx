@@ -84,7 +84,7 @@ export default function Version() {
                   </Link>
 
                   <Link
-                    to={`${latestVersion.path}/intro`}
+                    to={`${latestVersion.path}/getting-started/intro`}
                     className="flex items-center text-slate-700"
                   >
                     <Icon icon="icon-park-outline:doc-detail" />
@@ -129,7 +129,7 @@ export default function Version() {
                   <th>{currentVersion.label}</th>
 
                   <td>
-                    <Link to={`${currentVersion.path}/intro`}>Documentation</Link>
+                    <Link to={`${currentVersion.path}/getting-started/intro`}>Documentation</Link>
                   </td>
                 </tr>
               </tbody>

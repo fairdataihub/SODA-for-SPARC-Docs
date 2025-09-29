@@ -702,5 +702,45 @@
   {
     "docsVersion": "27.4.0",
     "appVersion": "15.2.2"
+  },
+  {
+    "docsVersion": "27.5.0",
+    "appVersion": "15.2.2"
+  },
+  {
+    "docsVersion": "27.6.0",
+    "appVersion": "15.2.2"
+  },
+  {
+    "docsVersion": "27.7.0",
+    "appVersion": "16.0.0"
+  },
+  {
+    "docsVersion": "27.8.0",
+    "appVersion": "16.1.1"
+  },
+  {
+    "docsVersion": "27.9.0",
+    "appVersion": "16.1.2"
+  },
+  {
+    "docsVersion": "27.10.0",
+    "appVersion": "16.1.2"
+  },
+  {
+    "docsVersion": "27.11.0",
+    "appVersion": "16.2.0"
+  },
+  {
+    "docsVersion": "27.12.0",
+    "appVersion": "16.2.1"
+  },
+  {
+    "docsVersion": "27.13.0",
+    "appVersion": "16.3.0"
+  },
+  {
+    "docsVersion": "27.14.0",
+    "appVersion": "16.3.0"
   }
 ]

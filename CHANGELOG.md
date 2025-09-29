@@ -1,3 +1,64 @@
+# [27.14.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.13.0...v27.14.0) (2025-09-24)
+
+### Features
+
+- change names of page titles ([#707](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/707)) ([7ebf1d5](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/7ebf1d59f6f225c62e8e285e6eeac57b65bd86c5))
+
+# [27.13.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.12.0...v27.13.0) (2025-09-24)
+
+### Features
+
+- Guest contributor flow ([#706](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/706)) ([aceb796](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/aceb796df06dfef7b80b0bbb11683eeea6d9a7dd))
+
+# [27.12.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.11.0...v27.12.0) (2025-09-08)
+
+### Features
+
+- 16.2.1 ([#705](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/705)) ([820f445](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/820f44567a1b816d8e87b0fd2f9850472eea4298))
+
+# [27.11.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.10.0...v27.11.0) (2025-09-04)
+
+### Features
+
+- release 16.2.0 docs with versioning ([#704](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/704)) ([91ebf67](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/91ebf675b08131c739852a97a44047bbc66a9089))
+
+# [27.10.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.9.0...v27.10.0) (2025-09-04)
+
+### Features
+
+- 16.2.0 ([#703](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/703)) ([8ad4129](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/8ad4129aea66fbc835c09cb679c11cec6bf3ca31))
+
+# [27.9.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.8.0...v27.9.0) (2025-09-02)
+
+### Features
+
+- ✨ update docs for 16.1.2 ([#701](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/701)) ([d9771c2](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/d9771c27a58c8c01b1936733f40d8a4d54349df8))
+
+# [27.8.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.7.0...v27.8.0) (2025-08-22)
+
+### Features
+
+- ✨ Create 16.1.1 docs ([60bd465](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/60bd46539920149b3c9ec3bbc19960010caf8507))
+
+# [27.7.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.6.0...v27.7.0) (2025-08-05)
+
+### Features
+
+- ✨ Create 16.0.0 docs ([a610de5](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/a610de503a24fdd26d3023aef14aef0d3ef1002d))
+- ✨ updated guided mode docs ([579e95f](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/579e95fd83d0517c072225a16d35464e66b772b7))
+
+# [27.6.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.5.0...v27.6.0) (2025-06-24)
+
+### Features
+
+- ✨ download page updated and general text updates ([#689](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/689)) ([180a936](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/180a9363b32df9b04f0eadfdc93b32a50b0db163))
+
+# [27.5.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.4.0...v27.5.0) (2025-06-09)
+
+### Features
+
+- add download numbers ([#685](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/685)) ([9ff50d9](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/9ff50d9544b741f21da4a593459ed86cebb5fd7f))
+
 # [27.4.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.3.1...v27.4.0) (2025-05-27)
 
 ### Features

@@ -16,12 +16,12 @@ function HomepageHeader() {
         backgroundColor: 'white', // Set hero background to black
         borderRadius: '16px', // Rounded corners
         boxShadow: '0 8px 16px rgba(0, 0, 0, 0.1)', // Subtle shadow
-        padding: '4rem 2rem', // Increase padding for more height
+        padding: '4rem 2rem', // Adjusted padding: top, right, bottom, left
         color: 'black', // Ensure text is readable
         display: 'flex', // Use flexbox for layout
         alignItems: 'center', // Vertically center content
         justifyContent: 'center', // Space between text and image
-        height: '65vh', // Set height to 80% of the viewport
+        height: '65vh', // Set height to 65% of the viewport
         flexDirection: 'column',
       }}
     >
@@ -71,12 +71,13 @@ function HomepageHeader() {
           className="hero__subtitle"
           style={{
             fontFamily: 'Inter, sans-serif',
-            fontSize: '1.3rem',
+            fontSize: 'clamp(1rem, 3vw, 1.3rem)', // Responsive font size
             lineHeight: '1.5',
             marginBottom: '1.5rem',
             textWrap: 'wrap', // Allow text to wrap
             color: 'black',
             textAlign: 'center', // Center text
+            padding: '0 1rem', // Add horizontal padding for mobile
           }}
         >
           {siteConfig.tagline}
@@ -86,14 +87,14 @@ function HomepageHeader() {
           style={{
             display: 'flex',
             gap: '1rem',
-            justifyContent: 'center', // Align buttons to the left
+            justifyContent: 'center',
             alignItems: 'center',
           }}
         >
           {/* First Button */}
           <Link
             className="button button--secondary button--lg"
-            to="/docs/getting-started/organize-and-submit-sparc-datasets-with-soda"
+            to="/docs/getting-started/intro"
             style={{
               backgroundColor: '#13716d', // Green background
               color: 'white',
