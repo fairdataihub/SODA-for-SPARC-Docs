@@ -7,6 +7,12 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## 16.3.1
+
+## Bug fixes:
+
+- The `Prepare Dataset Step-by-Step` mode now properly logs the int id for the update existing Pennsieve dataset workflow.
+
 ## 16.3.0
 
 - The `Prepare Dataset Step-by-Step` feature is now easier to use for users that are Pennsieve workspace guests - more common user error messages + links to docs + updates to the UI.
