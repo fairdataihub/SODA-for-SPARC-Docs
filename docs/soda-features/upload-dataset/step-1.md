@@ -10,7 +10,7 @@ Select an already organized dataset to upload to Pennsieve. You can start by dra
 SODA will alert you of any problematic files or folders and recommend solutions.
 :::
 
-![](/img/UploadData.png)
+![](/img/UploadDataMantine.png)
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

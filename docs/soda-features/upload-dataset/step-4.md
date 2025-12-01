@@ -14,13 +14,7 @@ a large number of files, you can generate the manfiest file locally to update th
 file you edited locally to Pennsieve.
 :::
 
-<video
-   controls
-   autoPlay
-   loop
-   width="100%"
-   src="https://github.com/fairdataihub/SODA-for-SPARC/raw/sds3/docs/documentation/Videos/soda-for-sparc-manifests.mp4"
-/>
+![](/img/UploadData5Mantine.png)
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

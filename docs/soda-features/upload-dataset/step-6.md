@@ -10,7 +10,7 @@ Upon completing the dataset upload process, you will have the option to verify t
 
 To do so, press the 'Verify dataset upload' button. SODA will check the status of your uploaded files and provide feedback on any issues found. Once SODA confirms all files have been processed by Pennsieve properly, you will see a success message.
 
-![](/img/verify-files.png)
+![](/img/UploadData7Mantine.png)
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

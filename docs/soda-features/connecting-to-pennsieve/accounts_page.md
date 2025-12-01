@@ -18,7 +18,7 @@ manage their Pennsieve account information from the `Prepare Dataset Step-by-Ste
 To access the Manage Accounts page, click on the `Manage Accounts` tab on the sidebar. Once accessed, you will be presented with a page that
 looks like the one below:
 
-![](/img/manage_accounts.png)
+![](/img/manage-accounts-mantine.png)
 
 You can use the `Account Options` table to manage your Pennsieve account in the following ways:
 

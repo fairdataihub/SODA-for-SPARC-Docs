@@ -28,7 +28,7 @@ To connect your Pennsieve account using a username and password, follow these st
 4. Enter your Pennsieve username and password in the pop-up window that appears.
 5. Click `Connect to Pennsieve`.
 
-![](https://github.com/fairdataihub/SODA-for-SPARC/blob/staging/docs/documentation/Manage-datasets/Connect-to-BF/connect-to-PS-SODA.png?raw=true)
+![](/img/manage-accounts-mantine-connecting.png)
 
 :::note
 
