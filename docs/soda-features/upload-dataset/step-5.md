@@ -14,7 +14,7 @@ Details of the dataset you are about to upload will be displayed. You can review
 
 If you need to make any changes, you can click on the "Back" button to go back to the previous steps and make the necessary changes. If everything looks good, you can click on the "Generate" button to start the upload process.
 
-![](/img/UploadData5.png)
+![](/img/UploadData6Mantine.png)
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

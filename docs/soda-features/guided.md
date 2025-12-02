@@ -16,13 +16,13 @@ If you are a SPARC-funded researcher it is mandatory that you share the dataset 
 
 On the landing page find the `Prepare Dataset Step-by-Step` card and click it.
 
-![](/img/HomePage.png)
+![](/img/HomePageMantine.png)
 
 ## Using the Prepare Dataset Step-by-Step feature
 
 On the first page you have the option to `Prepare and optionally share a new dataset` or `Continue a dataset saved in SODA`. Read below to learn more about each option.
 
-![](/img/guided-options-page.png)
+![](/img/guided-options-page-mantine.png)
 
 ### Prepare and optionally share a new dataset
 

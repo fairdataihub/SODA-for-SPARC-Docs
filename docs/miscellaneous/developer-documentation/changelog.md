@@ -7,6 +7,37 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## 16.5.0 - 2025-12-02
+
+## Feature Additions:
+
+- SODA's Prepare Dataset Step-by-Step UI has been updated to use Mantine components. This provides a more extensible theming system for future UI updates. It also provides a more modern and consistent look and feel.
+- SODA's Upload Dataset UI has been updated to use some Mantine components. It has also been updated to use mantine's color theming system. It is aesthetically consistent with the rest of SODA's UI and is easier to change for future UI updates.
+- The dataset description metadata file in Prepare Dataset Step-by-Step has had its schema updated to match Pysoda 0.1.66. Funding is treated as an array, standards information is an array of objects to allow for multiple standards.
+- The manifest timestamp in Upload Dataset and Prepare Dataset Step-by-Step has a simplified iso 8601 format. The timezone offset has been removed. A comma is used to separate fractional seconds instead of a period to match the SDS3 specification.
+
+## 16.4.0 - 2025-10-27
+
+## Feature Additions:
+
+- Added SDS3 computational dataset workflow
+- Loosened naming restrictions for the dataset name field and implemented random IDs for guided mode progress file storage.
+
+## Bug fixes:
+
+- Fixed an issue where renamed files were not updated in the manifest file
+- Fixed Pennsieve Banner Images and Dataset Descriptions not uploading to Pennsieve due to the wrong keys being plugged into the upload function.
+- Fixed an issue that would cause SODA to access a null event target value when signing via api key and secret on the Manage Accounts page.
+- Fixed an issue where the Guided Mode manifest editor has an extra column.
+- Fixed an issue where the dataset_description.xlsx files outputted from SODA did not have a responsive Value header.
+- Fixed an issue where the resources metadata page was not requiring an RRID.
+
+## 16.3.2 - 2025-10-03
+
+## Bug fixes:
+
+- Dataset Metadata Entity section now properly scrolls.
+
 ## 16.3.1
 
 ## Bug fixes:
