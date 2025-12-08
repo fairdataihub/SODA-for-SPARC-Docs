@@ -89,7 +89,7 @@ h6,
 
 .theme-doc-markdown img,
 .theme-doc-markdown video {
-  @apply my-5 shadow-lg shadow-teal-800/50;
+  @apply my-5 shadow-lg shadow-blue-300/50;
 }
 
 .theme-doc-markdown .feedback-divider {
@@ -116,7 +116,7 @@ h6,
 }
 
 .table-of-contents__link--active {
-  color: var(--plum-color) !important;
+  color: var(--ifm-color-primary-darkest) !important;
 }
 
 .theme-last-updated {
