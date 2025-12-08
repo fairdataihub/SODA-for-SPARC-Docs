@@ -137,7 +137,7 @@ export default function Home() {
       <HomepageHeader />
       <main
         style={{
-          backgroundImage: 'linear-gradient(135deg, #e6f4ea, #edf7fa)',
+          backgroundImage: 'linear-gradient(135deg, #dffbff, #caf2ff)',
           boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
           padding: '2rem 0',
         }}
