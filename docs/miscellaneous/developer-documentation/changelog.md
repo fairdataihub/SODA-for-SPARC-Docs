@@ -7,6 +7,18 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## 17.0.0 - 2026-04-15
+
+## Feature Additions:
+
+- SODA supports 3.0.2 of the SDS specification in both Prepare Dataset Step-by-Step and Upload Dataset features.
+- The dataset description file version will include a SODA version and the version number of SODA.
+- General tightening of allowable fields. For example, DOIs must match a DOI prefix.
+
+## Bug fixes:
+
+- Fixed an issue where certain datasets would fail to upload in the Update Existing dataset features of SODA.
+
 ## 16.5.0 - 2025-12-02
 
 ## Feature Additions:
