@@ -37,7 +37,7 @@ function HomepageHeader() {
         }}
       >
         <img
-          src="/img/logo.svg"
+          src="/img/logo.png"
           alt="My Site Logo"
           style={{
             maxWidth: '130px', // Limit the image width
@@ -96,7 +96,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/getting-started/intro"
             style={{
-              backgroundColor: '#13716d', // Green background
+              backgroundColor: '#00A1E4 ', // Green background
               color: 'white',
               padding: '0.75rem 1.5rem',
               fontWeight: '500',
@@ -137,7 +137,7 @@ export default function Home() {
       <HomepageHeader />
       <main
         style={{
-          backgroundImage: 'linear-gradient(135deg, #e6f4ea, #edf7fa)',
+          backgroundImage: 'linear-gradient(135deg, #dffbff, #caf2ff)',
           boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
           padding: '2rem 0',
         }}

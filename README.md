@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="static/img/logo.svg" alt="logo" width="200" height="auto" />
+  <img src="static/img/logo.png" alt="logo" width="200" height="auto" />
   <h1>SODA for SPARC Documentation</h1>
   
   <p>
@@ -93,12 +93,12 @@
 
 ### :art: Color Reference
 
-| Color           | Hex                                                              |
-| --------------- | ---------------------------------------------------------------- |
-| Primary Color   | ![#13716D](https://via.placeholder.com/10/13716D?text=+) #13716D |
-| Secondary Color | ![#BA0D49](https://via.placeholder.com/10/BA0D49?text=+) #BA0D49 |
-| Accent Color    | ![#6B7280](https://via.placeholder.com/10/6B7280?text=+) #6B7280 |
-| Text Color      | ![#1C1E21](https://via.placeholder.com/10/1C1E21?text=+) #1C1E21 |
+| Color           | Hex                                                                |
+| --------------- | ------------------------------------------------------------------ |
+| Primary Color   | ![#00A1E4 ](https://via.placeholder.com/10/00A1E4 ?text=+) #00A1E4 |
+| Secondary Color | ![#BA0D49](https://via.placeholder.com/10/BA0D49?text=+) #BA0D49   |
+| Accent Color    | ![#6B7280](https://via.placeholder.com/10/6B7280?text=+) #6B7280   |
+| Text Color      | ![#1C1E21](https://via.placeholder.com/10/1C1E21?text=+) #1C1E21   |
 
 ### :key: Environment Variables
 

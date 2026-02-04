@@ -1,3 +1,33 @@
+# [27.29.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.28.0...v27.29.0) (2025-12-29)
+
+### Features
+
+- update aggregated_data.json from analytics pipeline ([8965c2e](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/8965c2ee4dc81506d5702baaec4c2114ad9cb1e3))
+
+# [27.28.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.27.0...v27.28.0) (2025-12-23)
+
+### Features
+
+- update aggregated_data.json from analytics pipeline ([77f1fd5](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/77f1fd5cb78983c84848998dfa88260c063e97ba))
+
+# [27.27.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.26.0...v27.27.0) (2025-12-23)
+
+### Features
+
+- update aggregated_data.json from analytics pipeline ([8bdbf7e](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/8bdbf7e6887dc4493f3b728b98127e6d0fa3fb4f))
+
+# [27.26.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.25.0...v27.26.0) (2025-12-23)
+
+### Features
+
+- update aggregated_data.json from analytics pipeline ([dd32ab4](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/dd32ab4f892f69ecac58a33c9384bd4113bbe573))
+
+# [27.25.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.24.0...v27.25.0) (2025-12-02)
+
+### Features
+
+- ✨ clear older versions from docs ([#712](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/712)) ([642d905](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/642d905ada86031c530d250ef3af4ee16a342fe7))
+
 # [27.24.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.23.0...v27.24.0) (2025-12-02)
 
 ### Features

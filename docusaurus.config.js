@@ -61,7 +61,7 @@ const config = {
         title: 'SODA for SPARC',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         hideOnScroll: true,
         items: [
@@ -139,7 +139,7 @@ const config = {
         id: 'announcement-bar',
         // eslint-disable-next-line max-len
         content: `⭐️ <strong> If you like SODA for SPARC, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/fairdataihub/SODA-for-SPARC">Github</a> and follow us on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/fairdataihub">Twitter</a>. </strong>`,
-        backgroundColor: '#ecfdf5',
+        backgroundColor: '#dffbff',
         textColor: '#0f172a',
         isCloseable: true,
       },

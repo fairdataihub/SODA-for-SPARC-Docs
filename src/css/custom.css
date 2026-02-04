@@ -12,23 +12,23 @@ html {
 /* You can override the default Infima variables here. */
 /* Pick the relevant colors here: https://docusaurus.io/docs/styling-layout#styling-your-site-with-infima */
 :root {
-  --ifm-color-primary-lightest: #19938e;
-  --ifm-color-primary-lighter: #16827d;
-  --ifm-color-primary-light: #157c78;
-  --ifm-color-primary: #13716d;
-  --ifm-color-primary-dark: #116662;
-  --ifm-color-primary-darker: #10605d;
-  --ifm-color-primary-darkest: #0d4f4c;
-  --ifm-link-color: #059669;
+  --ifm-color-primary-lightest: #dffbff;
+  --ifm-color-primary-lighter: #99e2ff;
+  --ifm-color-primary-light: #64d2ff;
+  --ifm-color-primary: #00a1e4;
+  --ifm-color-primary-dark: #008fcd;
+  --ifm-color-primary-darker: #007cb6;
+  --ifm-color-primary-darkest: #006ba0;
+  --ifm-link-color: #00a1e4;
   --ifm-menu-color: #6b7280;
   --ifm-toc-link-color: #94a3b8;
-  --ifm-menu-color-background-active: #ecfdf5;
-  --ifm-code-background: #f0fdfa;
+  --ifm-menu-color-background-active: #dffbff;
+  --ifm-code-background: #f0feff;
 
   --plum-color: #ba0d49;
 
   --hr-color: #e5e7eb;
-  --feedback-yes-color: #13716d;
+  --feedback-yes-color: #00a1e4;
   --feedback-no-color: var(--plum-color);
 
   --footer-background-color: #fafafa;
@@ -41,13 +41,13 @@ plum very light: #f8cdbe7,
 
 /* dark theme variables */
 html[data-theme='dark'] {
-  --ifm-color-primary-lightest: #f784b4;
-  --ifm-color-primary-lighter: #f45b9b;
-  --ifm-color-primary-light: #f34d93;
-  --ifm-color-primary: #dd2572;
-  --ifm-color-primary-dark: #ef1771;
-  --ifm-color-primary-darker: #e8106a;
-  --ifm-color-primary-darkest: #bf0d57;
+  --ifm-color-primary-lightest: #dffbff;
+  --ifm-color-primary-lighter: #99e2ff;
+  --ifm-color-primary-light: #64d2ff;
+  --ifm-color-primary: #3cc4fe;
+  --ifm-color-primary-dark: #23bcfe;
+  --ifm-color-primary-darker: #00b5ff;
+  --ifm-color-primary-darkest: #00a1e4;
 
   --ifm-heading-color: #fff;
 
@@ -89,7 +89,7 @@ h6,
 
 .theme-doc-markdown img,
 .theme-doc-markdown video {
-  @apply my-5 shadow-lg shadow-teal-800/50;
+  @apply my-5 shadow-lg shadow-blue-300/50;
 }
 
 .theme-doc-markdown .feedback-divider {
@@ -116,7 +116,7 @@ h6,
 }
 
 .table-of-contents__link--active {
-  color: var(--plum-color) !important;
+  color: var(--ifm-color-primary-darkest) !important;
 }
 
 .theme-last-updated {
