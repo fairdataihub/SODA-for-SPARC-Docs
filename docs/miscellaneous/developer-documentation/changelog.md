@@ -7,13 +7,18 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
-## 17.0.0 - 2026-04-15
+## 17.0.0 - 2026-02-05
 
 ## Feature Additions:
 
 - SODA supports 3.0.2 of the SDS specification in both Prepare Dataset Step-by-Step and Upload Dataset features.
 - The dataset description file version will include a SODA version and the version number of SODA.
 - General tightening of allowable fields. For example, DOIs must match a DOI prefix.
+- Added the ability to specify sites as belonging to both subjects and samples instead of just samples.
+- Added the ability to specify samples as being derived from both subjects or samples.
+- Added sweet alerts for metadata entities that are missing required metadata fields.
+- Added a derived samples file -> entity association page.
+- Updated contributors metadata sweet alerts to allow users to assign multiple roles.
 
 ## Bug fixes:
 
