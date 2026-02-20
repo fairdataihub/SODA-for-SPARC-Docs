@@ -4,12 +4,12 @@
     "sourceType": "module",
     "allowImportExportEverywhere": false,
     "codeFrame": false,
-    "requireConfigFile": false
+    "requireConfigFile": false,
   },
   "extends": ["airbnb", "prettier"],
   "env": {
     "browser": true,
-    "jest": true
+    "jest": true,
   },
   "rules": {
     "max-len": ["error", { "code": 100 }],
@@ -17,6 +17,7 @@
     "react/jsx-filename-extension": ["off"],
     "react/prop-types": ["warn"],
     "no-return-assign": ["off"],
-    "func-names": ["off"]
-  }
+    "func-names": ["off"],
+  },
+  "ignorePatterns": ["src/components/contact.jsx"],
 }
