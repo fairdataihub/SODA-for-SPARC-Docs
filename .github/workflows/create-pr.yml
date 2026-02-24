@@ -1,0 +1,15 @@
+name: Create PR on Repository Dispatch
+on:
+  repository_dispatch:
+
+jobs:
+  read-dispatch-event:
+    runs-on: ubuntu-latest
+    name: A job to read a repository dispatch event and create a PR
+    steps:
+      - name: Read the repository dispatch event
+        id: read_event
+        run: |
+          echo "Received repository dispatch event with payload: ${{ toJson(github.event) }}"
+          echo "Version: ${{ github.event.client_payload.version }}"
+          echo "changelog ${{ github.event.client_payload.changelog }}"
