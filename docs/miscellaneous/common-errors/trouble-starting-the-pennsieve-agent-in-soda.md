@@ -31,9 +31,9 @@ Follow these steps to diagnose and resolve issues starting the Pennsieve Agent:
 
    - **If you see:**
      - `Running Agent NOT as daemon` or a message saying the Agent has started:  
-       SODA is not detecting the running Agent. [Send your log files to the SODA team](https://docs.sodaforsparc.io/docs/next/common-errors/sending-log-files-to-soda-team) for further help.
+       SODA is not detecting the running Agent. [Send your log files to the SODA team](./sending-log-files-to-soda-team) for further help.
      - `command not found: pennsieve` but you believe the Agent is installed:  
-       SODA cannot find the Pennsieve Agent. [Send your log files to the SODA team](https://docs.sodaforsparc.io/docs/next/common-errors/sending-log-files-to-soda-team) for assistance.
+       SODA cannot find the Pennsieve Agent. [Send your log files to the SODA team](./sending-log-files-to-soda-team) for assistance.
      - **Any other error message:**  
        Continue to the next step for troubleshooting based on the error you see.
 
@@ -80,7 +80,7 @@ UNIQUE constraint failed: user_settings.id
 ```
 
 This is a known issue you may encounter when using the Pennsieve Agent. To resolve this issue you should remove the Agent database files
-and try again. To do this, follow the instructions on removing the database files available [here](/remove-agent-database-files).
+and try again. To do this, follow the instructions on removing the database files available [here](../how-to/how-to-remove-pennsieve-agent-db-files).
 
 ### NotAuthorizedException: Incorrect username or password
 
@@ -91,7 +91,7 @@ NotAuthorizedException: Incorrect username or password.
 ```
 
 This is a known issue you may encounter when using the Pennsieve Agent. To resolve this issue you should remove the Agent database files
-and try again. To do this, follow the instructions on removing the database files available [here](/remove-agent-database-files).
+and try again. To do this, follow the instructions on removing the database files available [here](../how-to/how-to-remove-pennsieve-agent-db-files).
 
 ### UserSettings
 
@@ -102,12 +102,12 @@ UserSettings
 ```
 
 This is a known issue you may encounter when using the Pennsieve Agent. To resolve this issue you should remove the Agent database files
-and try again. To do this, follow the instructions on removing the database files available [here](/remove-agent-database-files).
+and try again. To do this, follow the instructions on removing the database files available [here](../how-to/how-to-remove-pennsieve-agent-db-files).
 
 ## Still Having Issues?
 
 If following the troubleshooting steps did not resolve the issue, or you are unsure about what steps apply to you
-please [send your log files to the SODA team](https://docs.sodaforsparc.io/docs/next/common-errors/sending-log-files-to-soda-team).
+please [send your log files to the SODA team](./sending-log-files-to-soda-team).
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
