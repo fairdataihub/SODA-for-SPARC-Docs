@@ -50,14 +50,9 @@ bash: /c/Program Files (x86)/Pennsieve/pennsieve: Permission denied
 
 This can have one, or both, of the following causes:
 
-**1. Smart App Control Blocking the Pennsieve Agent**
+#### SmartScreen Defender Blocking the Pennsieve Agent
 
-If you are using Windows 11 this issue may be caused by Smart App Control. To determine if this is the case first
-check if Smart App Control is enabled on your computer by following the instructions [here](https://learn.microsoft.com/en-us/windows/apps/develop/smart-app-control/overview#how-can-i-tell-if-smart-app-control-running-in-evaluation-or-enforcement-mode). If Smart App Control is enabled the only way to resolve this issue is to disable Smart App Control. This is generally not recommended as Smart App Control provides important security protections for your computer. If you are using a computer provided by your employer or institution, you may want to reach out to your IT department to see if they can provide a solution that does not involve disabling Smart App Control. If you are using a personal computer and decide to disable Smart App Control, you can do so by following the instructions [here](https://learn.microsoft.com/en-us/windows/apps/develop/smart-app-control/overview#how-can-i-disable-smart-app-control).
-
-**2. SmartScreen Defender Blocking the Pennsieve Agent**
-
-If you are using Windows 10 or 11 this issue may be caused by SmartScreen Defender. To determine if this is the case check if you have any notifications from SmartScreen Defender about blocking the Pennsieve Agent. If you find that SmartScreen Defender is blocking the Pennsieve Agent, you can unblock it by following the instructions below:
+If you are using Windows 10 or 11 this issue may be caused by SmartScreen Defender. To determine if SmartScreen Defender is blocking the Pennsieve Agent, and unblock it, follow the instructions below:
 
 1. Open the File Explorer and navigate to the Pennsieve Agent installation folder (usually `C:\Program Files (x86)\Pennsieve`).
 2. Right-click on the `pennsieve.exe` file and select "Properties".
@@ -65,7 +60,25 @@ If you are using Windows 10 or 11 this issue may be caused by SmartScreen Defend
 4. If there is a message at the bottom of the window that says "This file came from another computer and might be blocked to help protect this computer", check the box that says "Unblock" and then click "Apply" and "OK".
 5. Try starting the Pennsieve Agent again from the terminal by running `pennsieve agent start` and see if the issue is resolved.
 
-**3. User Profile with Restricted Permissions**
+#### Smart App Control Blocking the Pennsieve Agent
+
+If you are using Windows 11, and unblocking the Pennsieve Agent as described above did not resolve the issue, it may be caused by Smart App Control. To check and resolve:
+
+- **Check if Smart App Control is enabled:**
+
+  - Follow the instructions [here](https://learn.microsoft.com/en-us/windows/apps/develop/smart-app-control/overview#how-can-i-tell-if-smart-app-control-running-in-evaluation-or-enforcement-mode).
+
+- **If Smart App Control is enabled, optionally disable it by doing the following:**
+  :::note
+  Disabling Smart App Control is generally not recommended, as it provides important security protections for your computer. If disabling it is not an option for you, please contact the SODA team by emailing us at help@fairdataihub.org for further assistance.
+  :::
+  - If you are using a computer provided by your employer or institution, contact your IT department to see if they can provide a solution that does not involve disabling Smart App Control.
+  - If you are using a personal computer and decide to disable Smart App Control, follow the instructions [here](https://learn.microsoft.com/en-us/windows/apps/develop/smart-app-control/overview#how-can-i-disable-smart-app-control).
+- **If Smart App Control is not enabled:**
+
+  - Follow the next troubleshooting steps below to determine the cause of the issue.
+
+#### User Profile with Restricted Permissions
 
 If you are using a user profile with restricted permissions on your computer, this may be causing the issue. If you are using a computer provided by
 your employer or institution, you may want to reach out to your IT department to see if this is the case and if they can provide a solution. If you
@@ -103,6 +116,26 @@ UserSettings
 
 This is a known issue you may encounter when using the Pennsieve Agent. To resolve this issue you should remove the Agent database files
 and try again. To do this, follow the instructions on removing the database files available [here](../how-to/how-to-remove-pennsieve-agent-db-files).
+
+### Bad CPU Type
+
+This applies to you if you see the following (or something similar) in the SODA UI:
+
+```bash
+Bad CPU type in executable
+```
+
+This issue can occur on Mac computers with Intel chips while running certain versions of the Pennsieve Agent. This cannot be resolved, but you can work around it by installing an older version of the Pennsieve Agent manually. Follow these steps:
+
+1. Download an older version of the Pennsieve Agent installer. You can find the versions of the installer available on the Pennsieve Github Repository [here](https://github.com/pennsieve/pennsieve-agent/releases).
+2. Manually install the Pennsieve Agent by following the instructions available [here](https://docs.pennsieve.io/docs/installation).
+3. After installation, open your terminal and try running the Agent:
+
+```bash
+pennsieve agent start
+```
+
+4. If it does not work, try a different (older) version of the installer and repeat the steps above until you find one that works on your system.
 
 ## Still Having Issues?
 
