@@ -4,9 +4,9 @@ title: Installing the Pennsieve agent
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Installing%20the%20Pennsieve%20agent&description=Common%20errors%20and%20their%20solutions&org=fairdataihub
 ---
 
-## Issue Background
+## Background
 
-Some users encounter roadblocks when trying to install the Pennsieve Agent. These often depend upon the OS and the permissions of the user profile on the computer. If you are having trouble installing the Pennsieve Agent, please follow the instructions below to troubleshoot the issue.
+Generally, installing the Pennsieve Agent is as simple as clicking the Pennsieve installer and following the prompts. However, some users encounter roadblocks when trying to install the Pennsieve Agent. These often depend upon the OS and the permissions of the user profile on the computer. If you are having trouble installing the Pennsieve Agent, please follow the instructions below to troubleshoot the issue.
 
 ## Windows
 
