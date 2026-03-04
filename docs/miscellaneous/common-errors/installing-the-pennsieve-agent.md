@@ -27,6 +27,13 @@ How to confirm and resolve if SmartScreen Defender is blocking the Pennsieve Age
 If you are using Windows 11, you will receive a toast notification stating that Smart App Control has blocked the Pennsieve Agent from running. In this case,
 it is worth trying the prior instructions to unblock. If that does not work the only solutions are to disable Smart App Control (not recommended) or to use a different computer that does not have Smart App Control enabled. To check if Smart App Control is enabled, and to disable it if you choose to do so, follow the instructions [here](https://learn.microsoft.com/en-us/windows/apps/develop/smart-app-control/overview#how-can-i-disable-smart-app-control).
 
+:::Note
+It is not recommended to disable Smart App Control, as it provides important security protections for your computer. If you are using an institution procided computer
+contact your IT department. If you are on a personal computer it is still not recommended but if it is up to your discretion.
+If disabling it is not an option for you, or you simply do not like the idea, please contact the SODA team by emailing us at
+help@fairdataihub.org.
+:::
+
 ### User profile with restricted permissions
 
 If you are using a user profile with restricted permissions on your computer, this may be causing the issue. If you are using a computer provided by your employer or institution, you may want to reach out to your IT department to see if this is the case and if they can provide a solution. If you are using a personal computer, you can check if your user profile has restricted permissions by following the instructions [here](https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/how-user-account-control-works#user-account-control-and-user-profiles). If you find that your user profile has restricted permissions, you can try creating a new user profile with administrative permissions and see if that resolves the issue.

@@ -7,6 +7,19 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## 17.1.0 - 2026-03-04
+
+## Feature Additions:
+
+- Updated the Agent Check Display component in Free Form Mode to have a max height and be scrollable so that users with smaller screens can see the entire content of the component.
+- Updated the Agent Check Display to treat a failed start of the Agent and a failure to find the Agent the same. This is because in both cases the user cannot use the Agent and the troubleshooting steps are the same. The check includes links on how to install and how to run the Agent if it is already installed but not running.
+- Allow users to import zip, tar, and tar.gz files into SODA. This is especially helpful for RE-JOIN datasets that need to compress their microscopy derivative files.
+- SODA guides Windows 11 users who are not able to start the Pennsieve Agent due to Smart App Control to a documentation page which helps them understand the problem and gives an overview of possible solutions.
+
+## Bug fixes:
+
+- Fixed an issue where SODA was populating the Data standard in the Standards information section of the dataset_description metadata file with 'SODA version' instead of just 'SODA'
+
 ## 17.0.0 - 2026-02-05
 
 ## Feature Additions:

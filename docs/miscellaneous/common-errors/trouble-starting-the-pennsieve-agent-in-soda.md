@@ -66,7 +66,8 @@ If you are using Windows 11, and unblocking the Pennsieve Agent as described abo
 
 - **Check if Smart App Control is enabled:**
 
-  - Follow the instructions [here](https://learn.microsoft.com/en-us/windows/apps/develop/smart-app-control/overview#how-can-i-tell-if-smart-app-control-running-in-evaluation-or-enforcement-mode).
+  - If you received a message that states "Smart App Control has blocked this app" then Smart App Control is enabled and blocking the Pennsieve Agent.
+  - If the above is uncertain, you can also follow the instructions to determine if Smart App Control is on and being enforced [here](https://learn.microsoft.com/en-us/windows/apps/develop/smart-app-control/overview#how-can-i-tell-if-smart-app-control-running-in-evaluation-or-enforcement-mode).
 
 - **If Smart App Control is enabled, optionally disable it by doing the following:**
   :::note
