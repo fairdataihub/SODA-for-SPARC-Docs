@@ -1,3 +1,9 @@
+# [27.41.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.40.0...v27.41.0) (2026-03-17)
+
+### Features
+
+- update aggregated_data.json from analytics pipeline ([8e69346](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/8e693468e1c84a82fcd00171fed2dde03df4ece5))
+
 # [27.40.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.39.0...v27.40.0) (2026-03-17)
 
 ### Features
