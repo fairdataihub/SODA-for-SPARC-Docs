@@ -1,10 +1,10 @@
 {
-    "Number of total users": 1438,
-    "Number of new users": 734,
-    "Number of times app launched": 7144,
-    "Amount (GB) of data files processed": 58661.39268456488,
-    "Number of files processed": 482631,
-    "Number of unique dataset touched": 427,
+    "Number of total users": 1434,
+    "Number of new users": 729,
+    "Number of times app launched": 7142,
+    "Amount (GB) of data files processed": 49970.82888726189,
+    "Number of files processed": 462395,
+    "Number of unique dataset touched": 419,
     "Unique datasets touched By SODA": [
         [
             "Innervation of human colon by colonic nerves",
@@ -37,8 +37,16 @@
         [
             "REVEAL - January 2026",
             3810
+        ],
+        [
+            "Electrophysiological and morphological features of myenteric neurons of the human colon",
+            2346
+        ],
+        [
+            "REVEAL - January 2026",
+            3810
         ]
     ],
     "Number of published datasets touched": 173,
-    "Number of asset downloads": 5601
+    "Number of asset downloads": 5602
 }
