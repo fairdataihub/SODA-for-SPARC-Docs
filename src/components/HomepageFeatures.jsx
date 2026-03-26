@@ -5,12 +5,25 @@ import styles from './HomepageFeatures.module.css';
 import stats from '../../static/data/aggregated_data.json';
 
 export default function HomepageFeatures() {
+  const sectionStyle = {
+    backgroundImage: 'var(--homepage-main-background-color)',
+    padding: '1rem 1rem',
+  };
+  const dataSectionStyle = {
+    backgroundImage: 'var(--homepage-data-background-color)',
+    position: 'relative', // Enable positioning for the child div
+    padding: '2rem 2rem',
+    textAlign: 'center',
+    width: '78%',
+    margin: '2rem auto',
+    borderRadius: '8px',
+    boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
+
+    height: 'auto',
+  };
   return (
     <>
-      <section
-        className={styles.features}
-        style={{ backgroundImage: 'linear-gradient(135deg, #dffbff, #caf2ff)' }}
-      >
+      <section className={styles.features} style={sectionStyle}>
         <div
           className="container"
           style={{
@@ -61,20 +74,10 @@ export default function HomepageFeatures() {
       </section>
       {/* New Statistics Section */}
 
-      <section>
-        <div
-          style={{
-            position: 'relative', // Enable positioning for the child div
-            padding: '2rem 2rem',
-            textAlign: 'center',
-            width: '78%',
-            margin: '2rem auto',
-            borderRadius: '8px',
-            boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
-            backgroundColor: 'white',
-            height: 'auto',
-          }}
-        >
+      <section
+        style={{ backgroundImage: 'var(--homepage-main-background-color)', padding: '1rem 1rem' }}
+      >
+        <div style={dataSectionStyle}>
           <div className="container">
             <h1 style={{ fontSize: '1.8rem', marginBottom: '1rem' }}>SODA&apos;s Impact</h1>
 

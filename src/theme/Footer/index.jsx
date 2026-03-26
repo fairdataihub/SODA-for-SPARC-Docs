@@ -25,7 +25,7 @@ export function ExternalLinkSVG() {
 export default function FooterWrapper() {
   return (
     <div>
-      <footer style={{ backgroundColor: 'white' }}>
+      <footer className="bg-[color:var(--footer-background-color)]">
         <div className="container relative mx-auto flex w-full max-w-screen-xl flex-col pt-10 ">
           <div className="flex flex-col justify-between pb-3 pr-3 md:flex-row">
             <div className="mb-5 flex w-full flex-col md:mb-0 md:w-4/12">

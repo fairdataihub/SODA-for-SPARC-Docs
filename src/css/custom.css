@@ -31,7 +31,12 @@ html {
   --feedback-yes-color: #00a1e4;
   --feedback-no-color: var(--plum-color);
 
+  --hero-background-color: linear-gradient(135deg, #fff, #f8fafc, #fff);
+  --homepage-main-background-color: linear-gradient(135deg, #dffbff, #caf2ff);
+  --homepage-features-background-color: linear-gradient(135deg, #dffbff, #caf2ff);
+  --homepage-data-background-color: linear-gradient(135deg, #ffffff, #ffffff);
   --footer-background-color: #fafafa;
+  --hero-text-color: 'black';
 }
 
 /* plum: #ba0d49,
@@ -58,8 +63,12 @@ html[data-theme='dark'] {
   --ifm-menu-color: #e2dfdf;
   --ifm-menu-color-active: #f0287c;
   --ifm-menu-color-background-active: #383838;
-
+  --hero-background-color: linear-gradient(135deg, rgb(35, 39, 47), rgb(26, 29, 35));
+  --homepage-main-background-color: linear-gradient(135deg, rgb(35, 39, 47), rgb(26, 29, 35));
+  --homepage-features-background-color: linear-gradient(135deg, #23272f, #1a1d23);
+  --homepage-data-background-color: linear-gradient(135deg, #2b2f36, #22252a);
   --ifm-code-background: #605c5c;
+  --hero-text-color: 'white';
 
   --plum-color: #e4467d;
 

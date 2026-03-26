@@ -9,22 +9,20 @@ import HomepageFeatures from '../components/HomepageFeatures';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
+  const headerStyle = {
+    backgroundImage: 'var(--hero-background-color)',
+    color: 'var(--hero-text-color)',
+    borderRadius: '16px', // Rounded corners
+    boxShadow: '0 8px 16px rgba(0, 0, 0, 0.1)', // Subtle shadow
+    padding: '4rem 2rem', // Adjusted padding: top, right, bottom, left
+    display: 'flex', // Use flexbox for layout
+    alignItems: 'center', // Vertically center content
+    justifyContent: 'center', // Space between text and image
+    height: '65vh', // Set height to 65% of the viewport
+    flexDirection: 'column',
+  };
   return (
-    <header
-      className={clsx('hero hero--primary', styles.heroBanner)}
-      style={{
-        backgroundColor: 'white', // Set hero background to black
-        borderRadius: '16px', // Rounded corners
-        boxShadow: '0 8px 16px rgba(0, 0, 0, 0.1)', // Subtle shadow
-        padding: '4rem 2rem', // Adjusted padding: top, right, bottom, left
-        color: 'black', // Ensure text is readable
-        display: 'flex', // Use flexbox for layout
-        alignItems: 'center', // Vertically center content
-        justifyContent: 'center', // Space between text and image
-        height: '65vh', // Set height to 65% of the viewport
-        flexDirection: 'column',
-      }}
-    >
+    <header className={clsx(styles.heroBanner)} style={headerStyle}>
       {/* Logo */}
       <div
         style={{
@@ -62,7 +60,6 @@ function HomepageHeader() {
             fontSize: '2.25rem', // Larger heading
             marginBottom: '1rem',
             textAlign: 'center',
-            color: 'black',
           }}
         >
           {siteConfig.title}
@@ -75,7 +72,6 @@ function HomepageHeader() {
             lineHeight: '1.5',
             marginBottom: '1.5rem',
             textWrap: 'wrap', // Allow text to wrap
-            color: 'black',
             textAlign: 'center', // Center text
             padding: '0 1rem', // Add horizontal padding for mobile
           }}
@@ -97,7 +93,6 @@ function HomepageHeader() {
             to="/docs/getting-started/intro"
             style={{
               backgroundColor: '#00A1E4 ', // Green background
-              color: 'white',
               padding: '0.75rem 1.5rem',
               fontWeight: '500',
               textDecoration: 'none',
@@ -137,7 +132,7 @@ export default function Home() {
       <HomepageHeader />
       <main
         style={{
-          backgroundImage: 'linear-gradient(135deg, #dffbff, #caf2ff)',
+          backgroundImage: 'var(--homepage-main-background-color)',
           boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
           padding: '2rem 0',
         }}
