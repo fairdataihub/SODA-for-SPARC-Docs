@@ -1,10 +1,10 @@
 {
-    "Number of total users": 1449,
-    "Number of new users": 740,
-    "Number of times app launched": 7163,
-    "Amount (GB) of data files processed": 50352.789111932885,
-    "Number of files processed": 462631,
-    "Number of unique dataset touched": 423,
+    "Number of total users": 1454,
+    "Number of new users": 745,
+    "Number of times app launched": 7166,
+    "Amount (GB) of data files processed": 50352.78911193689,
+    "Number of files processed": 462940,
+    "Number of unique dataset touched": 424,
     "Unique datasets touched By SODA": [
         [
             "Innervation of human colon by colonic nerves",
@@ -48,5 +48,5 @@
         ]
     ],
     "Number of published datasets touched": 173,
-    "Number of asset downloads": 5691
+    "Number of asset downloads": 5708
 }
