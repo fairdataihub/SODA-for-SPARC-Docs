@@ -14,7 +14,7 @@ This page shows you how to upload a dataset as a Pennsieve guest using SODA.
 ## Steps to Upload to a dataset shared with you using the Prepare Dataset Step by Step feature
 
 1. From the homepage click the `Prepare Dataset Step by Step` button.
-2. Click the `Prepare and optionally share a new dataset` button.
+2. Click the `Prepare and share a new dataset` button.
 3. Enter a dataset name and description. NOTE: This dataset name will not be used for the dataset name on Pennsieve but will be used for the progress file. The progress file allows you to click the 'Save & Exit' button and resume curating your dataset later.
 4. Navigate through the steps until you reach the 'Generate Dataset' section and find yourself on the 'Options' page.
 5. Select 'Generate dataset on Pennsieve'

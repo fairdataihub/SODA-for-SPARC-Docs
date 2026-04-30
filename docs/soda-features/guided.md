@@ -20,11 +20,11 @@ On the landing page find the `Prepare Dataset Step-by-Step` card and click it.
 
 ## Using the Prepare Dataset Step-by-Step feature
 
-On the first page you have the option to `Prepare and optionally share a new dataset` or `Continue a dataset saved in SODA`. Read below to learn more about each option.
+On the first page you have the option to `Prepare and share a new dataset` or `Continue an existing dataset in progress`. Read below to learn more about each option.
 
-![](/img/guided-options-page-mantine.png)
+![](/img/prepare-dataset-step-by-step-home-screen.png)
 
-### Prepare and optionally share a new dataset
+### Prepare and share a new dataset
 
 Select this option if you want to begin preparing a dataset for sharing. At the end of the preparation process, you will be able to share it on the SPARC Portal or a generalist repository like Zenodo if you should choose.
 While preparing your dataset, SODA will guide you through three main steps:
@@ -40,8 +40,8 @@ To do this, simply click the `Save & Exit` button that appears at the bottom rig
 SODA will never modify your local data files. Any changes (file renaming, adding metadata files, etc.) will only be reflected on the dataset that is generated on Pennsieve.
 :::
 
-### Continue a dataset saved in SODA
+### Continuing progress on a dataset
 
-Select this option if you want to continue working on a dataset previously started and saved in SODA. You will see a list of datasets that you have saved in SODA. Click on the dataset you want to continue working on, and SODA will take you to the step where you left off.
+Below the Prepare and Share a new dataset button, you will have access to any datasets in progress that you have already began working on. To resume curating a dataset, click the 'Resume Curation' button.
 
 <PageFeedback />

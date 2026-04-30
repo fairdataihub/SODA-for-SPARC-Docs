@@ -1,20 +1,21 @@
 ---
-sidebar_position: 6
-title: Step 4 - Request manifest files
-image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%205%20-%20Request%20manifest%20files&description=Prepare%20Dataset&org=fairdataihub
+sidebar_position: 4
+title: Step 4 - Dataset Structure and Manifest Preview
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%203%20-%20Structure%20dataset%20files&description=Prepare%20Dataset&org=fairdataihub
 ---
 
-Manifest files are mandatory for all datasets.
+Below is the folder structure SODA has prepared for your dataset. If the structure does not look right, you can go back and re-import the folder.
 
-For uploads going to a new Pennsieve dataset, simply toggle the option to `Yes`. Then a **manifest.xlsx** file will be added at the root of your dataset with the `filename`, `timestamp`, and `file type` fields automatically populated in the correct format. The additional fields in the manifest file can be edited by clicking the 'Preview/Edit Manifest file' button, making the desired changes in the manifest file editor, and then clicking 'Save and Exit'.
+![](/img/upload-dataset-dataset-structure-and-manifest-preview.png)
 
-:::info
-At the moment, SODA will not automatically fill out the `entity` column in the manifest file. You will need to fill this out manually. If you have
-a large number of files, you can generate the manfiest file locally to update the Entity column. If you do this, please click the `Use Locally Generated Manifest` button so that SODA uploads the manifest
-file you edited locally to Pennsieve.
-:::
+# Manifest file preview
 
-![](/img/UploadData5Mantine.png)
+SODA also generates a manifest file that describes the files in your dataset. You can open the manifest to add or edit metadata before uploading.
+
+- Click **Preview/Edit Manifest file** to review and make changes in the manifest editor.
+- When you finish editing, use **Save and Exit** in the editor to keep your changes.
+- If you want a copy for review, click **Create local copy** to download the manifest to your computer.
+
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

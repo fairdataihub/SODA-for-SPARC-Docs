@@ -15,7 +15,7 @@ SODA has been designed to help users who are not SPARC researchers to prepare a 
 ### Testing this feature
 
 1. Navigate to the Prepare Dataset Step-by-Step feature of SODA. To get there from the home page of SODA, click the "Prepare Dataset Step-by-Step" button.
-2. Select the "Prepare and optionally share a new dataset" option.
+2. Select the "Prepare and share a new dataset" option.
 3. Follow the steps to prepare a dataset. You can save your progress at any time by clicking the "Save & Exit" button at the bottom right of the page.
 4. Once you have prepared your dataset, you can choose to generate it locally on your computer. You should have a SDS compliant dataset (or one that is very close in structure and metadata) on your computer.
 
