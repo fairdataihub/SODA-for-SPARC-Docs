@@ -4,7 +4,7 @@ title: Step 1 - Confirm Pennsieve account/workspace
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%201%20-%20Getting%20started&description=Prepare%20Dataset&org=fairdataihub
 ---
 
-Sign in if you have not already signed in yet. Sign in to your Pennsieve account and choose the workspace where you want to upload your dataset.
+If you haven’t signed in yet, sign in to your Pennsieve account and choose the workspace where you want to upload your dataset.
 
 ![](/img/upload-dataset-pennsieve-logged-out.png)
 
