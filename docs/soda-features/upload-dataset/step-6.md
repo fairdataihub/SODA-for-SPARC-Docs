@@ -1,16 +1,24 @@
 ---
 sidebar_position: 7
-title: Step 6 - Verify dataset upload
-image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%206%20-%20Generate%20dataset&description=Prepare%20Dataset&org=fairdataihub
+title: Step 6 - Dataset Upload Status Page
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%205%20-%20Request%20manifest%20files&description=Prepare%20Dataset&org=fairdataihub
 ---
 
-# Verify Upload Dataset
+When you start uploading your dataset to Pennsieve, SODA displays the Upload Status page so you can monitor progress and any metadata upload results.
 
-Upon completing the dataset upload process, you will have the option to verify that all of your dataset files have been processed by Pennsieve and are viewable without any issues (corrupt files, failed processing, etc).
+## What you’ll see
 
-To do so, press the 'Verify dataset upload' button. SODA will check the status of your uploaded files and provide feedback on any issues found. Once SODA confirms all files have been processed by Pennsieve properly, you will see a success message.
+- **Pennsieve metadata upload statuses:** A table that shows the upload status for dataset-level metadata.
 
-![](/img/UploadData7Mantine.png)
+- **Dataset upload status:** A progress area showing a visual progress bar and the current action SODA is performing during the upload.
+
+![](/img/upload-dataset-upload-in-progress.png)
+
+Once your upload is complete, you will be notified that your dataset was successfully uploaded to Pennsieve.
+
+![](/img/upload-dataset-upload-complete.png)
+
+Optionally, click the "Verify Files" button to check that Pennsieve has processed all uploaded files and to surface any issues. For details on verifying uploaded files and next steps, see [Step 7 - Verify dataset upload](./step-7).
 
 import PageFeedback from '@site/src/components/PageFeedback';
 

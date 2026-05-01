@@ -1,20 +1,13 @@
 ---
 sidebar_position: 6
-title: Step 5 - Confirm details before upload
+title: Step 5 - Review and Generate
 image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%205%20-%20Request%20manifest%20files&description=Prepare%20Dataset&org=fairdataihub
 ---
 
-Details of the dataset you are about to upload will be displayed. You can review the following:
+You're now ready to upload your dataset! Review the final structure, and when you're ready, click **Generate dataset on Pennsieve** to begin uploading. 
 
-- **Dataset Name**: The name of the dataset you are about to upload.
-- **Selected account and workspace**: The Pennsieve account and workspace you have selected for the dataset.
-- **Destination dataset**: The destination dataset where you would like to upload your dataset files.
-- **Duplicate files/folders**: The option you have selected to handle duplicate files/folders if uploading to an existing dataset.
-- **Manifest files**: Whether or not manifest files will be created for the dataset.
+![](/img/upload-dataset-review-and-generate.png)
 
-If you need to make any changes, you can click on the "Back" button to go back to the previous steps and make the necessary changes. If everything looks good, you can click on the "Generate" button to start the upload process.
-
-![](/img/UploadData6Mantine.png)
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
