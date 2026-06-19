@@ -1,16 +1,42 @@
 ---
 sidebar_position: 3
 title: Step 2 - Select Pennsieve Dataset
-image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%202%20-%20Specify%20high%20level%20folders&description=Prepare%20Dataset&org=fairdataihub
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%202%20-%20Select%20Pennsieve%20Dataset&description=Upload%20Dataset&org=fairdataihub
 ---
 
-Choose where on Pennsieve you want SODA to put your dataset. You can either create a new dataset or add files to one you already have.
+On this step, you will select where on Pennsieve you would like SODA to generate your dataset. You can either [create a new dataset on Pennsieve](#create-a-new-dataset-on-pennsieve) or [add data to an existing dataset on Pennsieve](#add-data-to-an-existing-dataset-on-pennsieve).
 
-- **Create a new dataset on Pennsieve** — Select this option if you want SODA to create a brand new dataset for you. Enter a clear, descriptive Dataset Name so others can identify it easily.
-- **Add data to an existing dataset on Pennsieve** — Choose this if you already have a dataset on Pennsieve and want to upload additional files into it. Use the dropdown to pick the dataset.
+## Create a new dataset on Pennsieve
 
-![](/img/upload-dataset-pennsieve-dataset-select.png)
+**When to use this:**
 
+- You are uploading a dataset for the first time
+- You want to keep this data separate from any existing datasets
+- You are starting fresh with a new SDS-compliant dataset
+
+**What you'll do:**
+
+Enter a clear, descriptive name for your new dataset. This name will appear on the SPARC Data Portal and in your Pennsieve workspace.
+
+**Tips for naming:**
+
+- Use descriptive, specific names (e.g., "Vagal Sensory Neuron Dataset - Mouse 2024")
+- Avoid generic names like "Dataset 1"
+- Keep it under 100 characters
+- Use title case for clarity
+
+---
+
+## Add data to an existing dataset on Pennsieve
+
+**When to use this:**
+
+- You have an existing dataset on Pennsieve that you would like to add data to
+- Your dataset structure and manifest are already on Pennsieve
+
+**What you'll do:**
+
+Use the dropdown menu to select the dataset you would like to add data to from your existing Pennsieve datasets.
 
 import PageFeedback from '@site/src/components/PageFeedback';
 
