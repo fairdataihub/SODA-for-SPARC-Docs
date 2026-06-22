@@ -1,8 +1,10 @@
 ---
 sidebar_position: 4
 title: Step 3 - Dataset Selection
-image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%203%20-%20Structure%20dataset%20files&description=Prepare%20Dataset&org=fairdataihub
+image: https://kalai.fairdataihub.org/api/generate?title=Step%203%20-%20Dataset%20Selection&description=Structure%20your%20data%20locally%20to%20match%20your%20Pennsieve%20destination.&app=soda-for-sparc&org=fairdataihub
 ---
+
+On this step, you will select the folder containing your data to upload. How you structure your data locally inside the folder depends on whether you're creating a new dataset or adding to an existing one. Select the appropriate option below to see the instructions for your situation.
 
 **When uploading to a new dataset**, see ["Selecting data when uploading a new dataset"](#selecting-data-when-uploading-a-new-dataset) below.
 

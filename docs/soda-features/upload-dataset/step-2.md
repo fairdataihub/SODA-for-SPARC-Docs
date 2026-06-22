@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Step 2 - Select Pennsieve Dataset
-image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Step%202%20-%20Select%20Pennsieve%20Dataset&description=Upload%20Dataset&org=fairdataihub
+image: https://kalai.fairdataihub.org/api/generate?title=Step%202%20-%20Select%20Pennsieve%20Dataset&description=Create%20a%20new%20dataset%20or%20select%20an%20existing%20one%20on%20Pennsieve.&app=soda-for-sparc&org=fairdataihub
 ---
 
 On this step, you will select where on Pennsieve you would like SODA to generate your dataset. You can either [create a new dataset on Pennsieve](#create-a-new-dataset-on-pennsieve) or [add data to an existing dataset on Pennsieve](#add-data-to-an-existing-dataset-on-pennsieve).
