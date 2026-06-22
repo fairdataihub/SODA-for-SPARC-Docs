@@ -12,7 +12,6 @@ On this step, you will select where on Pennsieve you would like SODA to generate
 
 - You are uploading a dataset for the first time
 - You want to keep this data separate from any existing datasets
-- You are starting fresh with a new SDS-compliant dataset
 
 **What you'll do:**
 
@@ -32,7 +31,6 @@ Enter a clear, descriptive name for your new dataset. This name will appear on t
 **When to use this:**
 
 - You have an existing dataset on Pennsieve that you would like to add data to
-- Your dataset structure and manifest are already on Pennsieve
 
 **What you'll do:**
 
