@@ -4,35 +4,27 @@ title: Step 3 - Dataset Selection
 image: https://kalai.fairdataihub.org/api/generate?title=Step%203%20-%20Dataset%20Selection&description=Structure%20your%20data%20locally%20to%20match%20your%20Pennsieve%20destination.&app=soda-for-sparc&org=fairdataihub
 ---
 
-On this step, you will select the folder containing your data to upload. How you structure your data locally inside the folder depends on whether you're creating a new dataset or adding to an existing one. Select the appropriate option below to see the instructions for your situation.
+On this step, you will select the folder containing your data to upload. How you structure your data locally inside the folder depends on whether you're uploading to a new dataset or an existing one.
 
-**When uploading to a new dataset**, see ["Selecting data when uploading a new dataset"](#selecting-data-when-uploading-a-new-dataset) below.
-
-**When uploading to an existing dataset**, see ["Selecting data when uploading to an existing dataset"](#selecting-data-when-uploading-to-an-existing-dataset) below.
-
-## Selecting data when uploading a new dataset
+## Uploading to a new Pennsieve Dataset
 
 Select (or drag and drop) the single folder that contains your entire dataset. Your dataset should already be organized inside this folder according to the SPARC Dataset Structure.
 
 ---
 
-## Selecting data when uploading to an existing dataset
-
-Choose the appropriate section below based on your situation:
-
-**When you have the complete dataset locally with modifications ready to upload**, see ["If you have the complete dataset locally with modifications ready to upload"](#if-you-have-the-complete-dataset-locally-with-modifications-ready-to-upload) below.
-
-**When you are a collaborator adding your own data to an existing dataset you do not have locally**, see ["If you are contributing data to a dataset you do not have locally"](#if-you-are-contributing-data-to-a-dataset-you-do-not-have-locally) below.
+## Uploading data to an existing Dataset on Pennsieve
 
 :::tip
-If you are able to download the full dataset from Pennsieve or can have it sent to you, this makes the updating an existing dataset process much easier. You can then add your data to it locally and follow the first workflow instead. No need to manually recreate folder structures.
+If you are able to download the full dataset from Pennsieve or can have it sent to you, this makes the updating an existing dataset process much easier. You can then add your data to it locally and follow the complete dataset locally workflow instead. No need to manually recreate folder structures.
 :::
 
 ### If you have the complete dataset locally with modifications ready to upload
 
 If you have a complete local copy of the dataset that exists on Pennsieve and have made modifications or additions to it locally, simply select (or drag and drop) the folder containing your updated dataset.
 
-**Important:** SODA will only upload new or updated files to Pennsieve. If you deleted files or folders locally, they will **not** be removed from Pennsieve. SODA is additive only. It adds or updates files but does not delete existing data on Pennsieve.
+:::note
+SODA will only upload new or updated files to Pennsieve. If you deleted files or folders locally, they will **not** be removed from Pennsieve. SODA is additive only. It adds or updates files but does not delete existing data on Pennsieve.
+:::
 
 **What to expect:**
 
@@ -42,7 +34,7 @@ If you have a complete local copy of the dataset that exists on Pennsieve and ha
 
 ---
 
-### If you are contributing data to a dataset you do not have locally
+### If you are contributing additional data to a dataset you do not have locally
 
 You will need to recreate the folder paths for the data you are adding so your files end up in the right place on Pennsieve. Since SODA does not display the dataset structure that exists on Pennsieve, you must manually match the nested folder paths for your files. For example, if you want to add files to `primary/sub-1/data/` on Pennsieve, your local folder structure must also be `primary/sub-1/data/` with your files inside—not just `sub-1/data/`. This ensures SODA uploads your files to the correct location.
 

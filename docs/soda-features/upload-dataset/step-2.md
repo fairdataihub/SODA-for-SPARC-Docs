@@ -10,7 +10,7 @@ On this step, you will select where on Pennsieve you would like SODA to generate
 
 **When to use this:**
 
-- You are uploading a dataset for the first time
+- You are uploading a dataset to Pennsieve for the first time
 - You want to keep this data separate from any existing datasets
 
 **What you'll do:**
