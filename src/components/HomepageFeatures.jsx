@@ -21,6 +21,7 @@ export default function HomepageFeatures() {
 
     height: 'auto',
   };
+
   return (
     <>
       <section className={styles.features} style={sectionStyle}>
@@ -79,7 +80,9 @@ export default function HomepageFeatures() {
       >
         <div style={dataSectionStyle}>
           <div className="container">
-            <h1 style={{ fontSize: '1.8rem', marginBottom: '1rem' }}>SODA&apos;s Impact</h1>
+            <h1 style={{ fontSize: '1.8rem', marginBottom: '1rem' }}>
+              SODA&apos;s Impact on PNS Datasets
+            </h1>
 
             <div className="row">
               <div className="border col col--3">
@@ -126,6 +129,61 @@ export default function HomepageFeatures() {
             }}
           >
             Since 2021
+          </div>
+        </div>
+      </section>
+
+      <section
+        style={{ backgroundImage: 'var(--homepage-main-background-color)', padding: '1rem 1rem' }}
+      >
+        <h2 style={{ fontSize: '1.8rem', marginBottom: '1rem', textAlign: 'center' }}>
+          SODA&apos;s Impact on Other Projects
+        </h2>
+        <div style={dataSectionStyle}>
+          <h3>NWB-GUIDE</h3>
+          <p style={{ textAlign: 'left' }}>
+            SODA&apos;s UI design and workflows formed the basis for NWB-Guide. The NWB-Guide is a
+            desktop app from the Neurodata Without Borders team that provides a no-code user
+            interface for converting neurophysiology data to NWB.
+          </p>
+          <p>
+            <a href="https://github.com/NeurodataWithoutBorders/nwb-guide">
+              Explore the GitHub repository &gt;{' '}
+            </a>
+          </p>
+
+          <div
+            style={{
+              display: 'flex',
+              flexDirection: 'row',
+              gap: '.3rem',
+              alignItems: 'center',
+              justifyContent: 'center',
+            }}
+          >
+            <img
+              // eslint-disable-next-line max-len
+              src="https://img.shields.io/github/stars/NeurodataWithoutBorders/nwb-guide.svg?style=flat-square"
+              alt="Github star count for nwb-guide"
+            />
+
+            <img
+              // eslint-disable-next-line max-len
+              src="https://img.shields.io/github/contributors/NeurodataWithoutBorders/nwb-guide.svg?style=flat-square"
+              alt="Github contributor count for nwb-guide"
+            />
+
+            <img
+              // eslint-disable-next-line max-len
+              src="https://img.shields.io/github/issues/NeurodataWithoutBorders/nwb-guide.svg?style=flat-square"
+              alt="Github issue count for nwb-guide"
+            />
+
+            <img
+              // eslint-disable-next-line max-len
+              src="https://img.shields.io/github/license/NeurodataWithoutBorders/nwb-guide.svg?style=flat-square"
+              alt="Github license for nwb-guide"
+            />
           </div>
         </div>
       </section>
