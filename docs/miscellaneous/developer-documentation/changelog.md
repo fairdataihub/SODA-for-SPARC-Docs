@@ -7,6 +7,18 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Chan
 
 All notable changes to SODA for SPARC will be documented in this file.
 
+## 18.1.0 - 2026-06-16
+
+## Feature Additions:
+
+- Prepare Dataset Step-by-Step has new visual aids that break down the SDS and SDS entities.
+- Prepare Dataset Step-by-Step has been optimized to reduce file explorer re-renders when opening pages and when its state changes, such as during entity selection or when expanding and collapsing folders.
+
+## Bug fixes:
+
+- PDSS Entity Addition Method cards have been made the same size.
+- UD verify files countdown timer is now a live timer.
+
 ## 17.1.0 - 2026-03-04
 
 ## Feature Additions:
