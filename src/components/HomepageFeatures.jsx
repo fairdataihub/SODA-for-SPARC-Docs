@@ -142,9 +142,9 @@ export default function HomepageFeatures() {
         <div style={dataSectionStyle}>
           <h3>NWB-GUIDE</h3>
           <p style={{ textAlign: 'left' }}>
-            SODA&apos;s UI design and workflows formed the basis for NWB-Guide. The NWB-Guide is a
-            desktop app from the Neurodata Without Borders team that provides a no-code user
-            interface for converting neurophysiology data to NWB.
+            SODA&apos;s code, UI, and workflows were reused to form the basis for NWB-Guide. The
+            NWB-Guide is a desktop app from the Neurodata Without Borders team that provides a
+            no-code user interface for converting neurophysiology data to NWB.
           </p>
           <p>
             <a href="https://github.com/NeurodataWithoutBorders/nwb-guide">
