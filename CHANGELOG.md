@@ -1,3 +1,13 @@
+# [27.53.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.52.0...v27.53.0) (2026-07-10)
+
+### Bug Fixes
+
+- 🐛 useEffect imported but never used ([9188ded](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/9188ded67b217594d34a984d396b153c59ff82bd))
+
+### Features
+
+- ✨ update marketing text ([4fce4e5](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/4fce4e5ec88ffb95bbbf21941b026ce9af392161))
+
 # [27.52.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.51.0...v27.52.0) (2026-05-08)
 
 ### Features
