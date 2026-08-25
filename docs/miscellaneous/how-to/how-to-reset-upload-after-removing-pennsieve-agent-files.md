@@ -1,7 +1,7 @@
 ---
 sidebar_position: 16
 title: How to restart an upload after removing Pennsieve Agent database files
-image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=How%20to%20Remove%20Pennsieve%20Agent%20Database%20Files&description=%27How%20to%27%20SPARC%20series&org=fairdataihub
+image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=How%20to%20Restart%20An%20Upload%20After%20Removing%20Pennsieve%20Agent%20Database%20Files&description=%27How%20to%27%20SPARC%20series&org=fairdataihub
 ---
 
 ## Background
