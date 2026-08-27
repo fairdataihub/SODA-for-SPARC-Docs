@@ -14,4 +14,5 @@ At this point in time SODA does not include the performance ids in the manfiest 
 
 ## Status
 
-Will resolve this issue when the location to add the performance ids in the manifest file has been finalized.
+This known issue is in the research phase. Once the SODA team determines how best to add performance ids to the manifest file
+a new version of SODA will release with this feature.
