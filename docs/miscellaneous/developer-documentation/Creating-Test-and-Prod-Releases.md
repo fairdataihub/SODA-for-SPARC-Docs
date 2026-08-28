@@ -66,8 +66,6 @@ For instructions on how to install and use SODA, please refer [here](https://doc
 
 5. Once the release has been published, download an old version of SODA and ensure that you are auto-updated to the newest release
 
-6. Instructions for codefair?... Not sure what to put here
-
 import PageFeedback from '@site/src/components/PageFeedback';
 
 <PageFeedback />
