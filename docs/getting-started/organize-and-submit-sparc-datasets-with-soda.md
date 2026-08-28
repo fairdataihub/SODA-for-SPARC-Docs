@@ -30,7 +30,7 @@ If you want to share a dataset that is not funded through an award from the NIH 
 
 These steps only need to be completed once.
 
-- All SPARC datasets must be uploaded on the Pennsieve data management platform. Get access to Pennsieve as well as the required Pennsieve workspace by filling out [this form](https://www.wrike.com/frontend/requestforms/index.html?token=eyJhY2NvdW50SWQiOjMyMDM1ODgsInRhc2tGb3JtSWQiOjUwMzQzN30JNDgwNTg4NjU3MjA3Nwk0MTg5ZTY0ODEyZGYxNTU1ZDJkYmU5MzIxNWZiNTQyZWUwZTMzY2U4NDQ5ODI0ZWI0YzZiMWZhNjVhYzgyOTRm). If you are sharing a dataset funded by the NIH RE-JOIN program, request access to the RE-JOIN workspace, otherwise request access to the SPARC workspace.
+- All SPARC datasets must be uploaded on the Pennsieve data management platform. Get access to Pennsieve as well as the required Pennsieve workspace by filling out [this form](https://www.wrike.com/frontend/requestforms/index.html?token=eyJhY2NvdW50SWQiOjMyMDM1ODgsInRhc2tGb3JtSWQiOjUwMzQzN30JNDgwNTg4NjU3MjA3Nwk0MTg5ZTY0ODEyZGYxNTU1ZDJkYmU5MzIxNWZiNTQyZWUwZTMzY2U4NDQ5ODI0ZWI0YzZiMWZhNjVhYzgyOTRm). If you encounter any issues with the account request form, contact the SPARC curation team for support at [curation@sparc.science](mailto:curation@sparc.science). If you are sharing a dataset funded by the NIH RE-JOIN program, request access to the RE-JOIN workspace, otherwise request access to the SPARC workspace.
 - Download and install the [Pennsieve agent](https://docs.pennsieve.io/docs/uploading-files-programmatically#1-installing-the-pennsieve-agent) required to upload files on Pennsieve through SODA.
 - <a href="../getting-started/download-soda" target="\_blank"> Download and install SODA </a>
 
