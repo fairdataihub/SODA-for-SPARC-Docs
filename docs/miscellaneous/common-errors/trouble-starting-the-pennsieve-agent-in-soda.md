@@ -6,12 +6,21 @@ image: https://kalai.fairdataihub.org/api/generate?app=soda-for-sparc&title=Trou
 
 ## Issue Background
 
-**The Pennsieve Agent failed to start** issue can happen in two scenarios:
+**The Pennsieve Agent failed to start** issue can happen in three scenarios:
 
 1. The agent is not installed on the computer.
 2. The Agent is installed but does not run.
+3. The Agent is installed and passes the Pennsieve Agent check, but then cannot start when an upload is started in `Prepare Dataset Step-by-Step` or `Upload SDS Compliant Dataset` features.
 
-If scenario 1 applies to you please see this page in the documentation for how to install the Pennsieve agent [here](https://docs.pennsieve.io/docs/installation). If you have the agent installed but it is not running, please follow the instructions below to troubleshoot the issue.
+If scenario 1 applies to you please see this page in the documentation for how to install the Pennsieve agent [here](https://docs.pennsieve.io/docs/installation).
+
+You will know issue three applies to you if you see the following error message in the SODA UI:
+
+![](/img/pre-flight-checks-failure.png)
+
+To resolve this issue please see the documentation for how to remove the Pennsieve Agent database files [here](../how-to/how-to-remove-pennsieve-agent-db-files). This should resolve your issue. If it does not, please [send your log files to the SODA team](./sending-log-files-to-soda-team) for further assistance.
+
+If you have the agent installed but it is not running, please follow the instructions below to troubleshoot the issue.
 
 ## Determining the Cause of the Issue
 

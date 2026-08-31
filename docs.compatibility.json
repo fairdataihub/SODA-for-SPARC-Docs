@@ -894,5 +894,13 @@
   {
     "docsVersion": "27.52.0",
     "appVersion": "18.0.1"
+  },
+  {
+    "docsVersion": "27.53.0",
+    "appVersion": "18.1.0"
+  },
+  {
+    "docsVersion": "27.54.0",
+    "appVersion": "18.2.0"
   }
 ]
