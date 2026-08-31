@@ -14,4 +14,4 @@ The SODA UI provides no way for the user to enter multiple consortiums. This wil
 
 ## Status
 
-Not likely to be addressed
+Address later upon request.

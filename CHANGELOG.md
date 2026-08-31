@@ -1,3 +1,20 @@
+# [27.55.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.54.0...v27.55.0) (2026-08-31)
+
+### Bug Fixes
+
+- 🐛 Add fallback instructions for pennsieve sign up ([1724617](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/1724617db054e087df0149d71868bff5e8cb39b3))
+
+### Features
+
+- ✨ Create 19.0.2 docs ([9db50ee](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/9db50ee5d9f618edc49ef5492b1b552339d9286d))
+- ✨ Create 19.0.2 docs ([0106545](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/01065459c5189d8fe3f4bb7116e0483f53f21411))
+
+# [27.54.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.53.0...v27.54.0) (2026-08-27)
+
+### Features
+
+- upcoming 19.0.0 issues ([#720](https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/720)) ([ccf0de9](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/ccf0de9cc1d802c2369564effe33f6b35f3b13bb))
+
 # [27.53.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.52.0...v27.53.0) (2026-07-10)
 
 ### Bug Fixes
