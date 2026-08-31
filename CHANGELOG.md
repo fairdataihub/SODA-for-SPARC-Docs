@@ -1,3 +1,9 @@
+# [27.56.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.55.0...v27.56.0) (2026-08-31)
+
+### Features
+
+- ✨ restarting upload after deleting db files ([620bd08](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/620bd088024d2d2a30c3d046be541c0ef97fea4d))
+
 # [27.55.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.54.0...v27.55.0) (2026-08-31)
 
 ### Bug Fixes
