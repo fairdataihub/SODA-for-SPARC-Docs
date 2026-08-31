@@ -6,6 +6,10 @@ image: https://kalai.fairdataihub.org/api/generate?title=Choosing%20the%20Right%
 
 Not sure which workflow to use? Read the criteria listed under each option below and select the one that applies to your dataset.
 
+:::info
+If you are a guest to a workspace, such as SPARC, RE-JOIN, or HEAL, please refer to our documentation on how to contribute your data to a Pennsieve dataset with SODA here: [How to upload data to Pennsieve as a Pennsieve Guest](../miscellaneous/how-to/how-to-upload-as-pennsieve-guest.md)
+:::
+
 ## Prepare a Dataset Step-by-Step
 
 **Use this if:**
