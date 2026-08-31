@@ -1,3 +1,9 @@
+# [27.58.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.57.0...v27.58.0) (2026-08-31)
+
+### Features
+
+- ✨ add link to guest uploads ([e68fe9b](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/e68fe9b5e8ab13ecc77da0c35dcb908e035927a3))
+
 # [27.57.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.56.0...v27.57.0) (2026-08-31)
 
 ### Features
