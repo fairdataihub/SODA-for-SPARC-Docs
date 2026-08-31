@@ -1,3 +1,9 @@
+# [27.57.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.56.0...v27.57.0) (2026-08-31)
+
+### Features
+
+- ✨ add known issues and agent how tos ([9dfb478](https://github.com/fairdataihub/SODA-for-SPARC-Docs/commit/9dfb478d87a6a7d1d42482802c3e1a6cf1a86561))
+
 # [27.56.0](https://github.com/fairdataihub/SODA-for-SPARC-Docs/compare/v27.55.0...v27.56.0) (2026-08-31)
 
 ### Features
