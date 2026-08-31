@@ -1,0 +1,41 @@
+---
+sidebar_position: 3
+title: Step 2 - Select Pennsieve Dataset
+image: https://kalai.fairdataihub.org/api/generate?title=Step%202%20-%20Select%20Pennsieve%20Dataset&description=Create%20a%20new%20dataset%20or%20select%20an%20existing%20one%20on%20Pennsieve.&app=soda-for-sparc&org=fairdataihub
+---
+
+On this step, you will select where on Pennsieve you would like SODA to generate your dataset. You can either [create a new dataset on Pennsieve](#create-a-new-dataset-on-pennsieve) or [add data to an existing dataset on Pennsieve](#add-data-to-an-existing-dataset-on-pennsieve).
+
+## Create a new dataset on Pennsieve
+
+**When to use this:**
+
+- You are uploading a dataset to Pennsieve for the first time
+- You want to keep this data separate from any existing datasets
+
+**What you'll do:**
+
+Enter a clear, descriptive name for your new dataset. This name will appear on the SPARC Data Portal and in your Pennsieve workspace.
+
+**Tips for naming:**
+
+- Use descriptive, specific names (e.g., "Vagal Sensory Neuron Dataset - Mouse 2024")
+- Avoid generic names like "Dataset 1"
+- Keep it under 100 characters
+- Use title case for clarity
+
+---
+
+## Add data to an existing dataset on Pennsieve
+
+**When to use this:**
+
+- You have an existing dataset on Pennsieve that you would like to add data to
+
+**What you'll do:**
+
+Use the dropdown menu to select the dataset you would like to add data to from your existing Pennsieve datasets.
+
+import PageFeedback from '@site/src/components/PageFeedback';
+
+<PageFeedback />
